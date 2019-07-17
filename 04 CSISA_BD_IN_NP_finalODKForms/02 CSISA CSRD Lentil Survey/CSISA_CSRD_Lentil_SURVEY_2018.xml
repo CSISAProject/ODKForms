@@ -1,0 +1,1419 @@
+<?xml version="1.0"?>
+<h:html xmlns="http://www.w3.org/2002/xforms" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:h="http://www.w3.org/1999/xhtml" xmlns:jr="http://openrosa.org/javarosa" xmlns:oc="http://openclinica.org/xforms" xmlns:orx="http://openrosa.org/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <h:head><!-- ODK Aggregate upload time: 2018-03-22T05:29:19.092+0000 on https://csisaodk.appspot.com -->
+    <h:title>CSISA CSRD Lentil SURVEY 2018</h:title>
+    <model>
+      <instance>
+        <CSISA_CSRD_Lentil_Survey220318 id="CSISACSRD_LentilSurvey2018" version="22032018">
+          <generated_note_name_3/>
+          <bg1>
+            <surveyDate/>
+            <surveyor/>
+            <country/>
+            <siteName/>
+            <visitID/>
+            <fieldID/>
+            <hhID/>
+          </bg1>
+          <bg2>
+            <fName/>
+            <fMobile/>
+            <hhHead/>
+            <headAge/>
+            <headEdu/>
+            <primaryOcc/>
+            <secondaryOcc/>
+          </bg2>
+          <HHDetail>
+            <familySize/>
+            <workingMen/>
+            <workingWomen/>
+            <elderlyMale/>
+            <elderlyFemale/>
+            <schoolMale/>
+            <schoolFemale/>
+          </HHDetail>
+          <lentilTraining/>
+          <trainingType/>
+          <agriCredit/>
+          <creditAccess/>
+          <perYearContact/>
+          <bg3>
+            <localUnit/>
+            <convUnit_1/>
+            <convUnit_2/>
+            <totalLand/>
+            <lentilArea/>
+            <fieldLargest/>
+            <lastYearYield/>
+            <currentLand/>
+            <currLargestField/>
+            <currYearYield/>
+            <lentilOwnership/>
+            <rented/>
+            <both/>
+          </bg3>
+          <bg4>
+            <soilType/>
+            <landType/>
+            <previousCrop/>
+            <afterCrop/>
+            <soilMoisture/>
+            <seedingMethod/>
+            <tillageMethod/>
+            <passNumber/>
+            <tillageCost/>
+            <ladderingNumber/>
+            <tillageDepth/>
+            <irrigatedLentil/>
+            <irrigationTimes/>
+          </bg4>
+          <bg5>
+            <ureaKG/>
+            <tspKG/>
+            <dapKG/>
+            <sspKG/>
+            <mopKG/>
+            <otherFert1/>
+            <otherFertAmt1/>
+            <otherFert2/>
+            <otherFertAmt2/>
+            <otherFert3/>
+            <otherFertAmt3/>
+            <otherFert4/>
+            <otherFertAmt4/>
+          </bg5>
+          <bg6>
+            <sowingDate/>
+            <seedRate/>
+            <seedSize/>
+            <seedSource/>
+            <seedAge/>
+            <seedTreatment/>
+            <productName/>
+            <otherProdName/>
+            <seedActiveIngredient/>
+          </bg6>
+          <bg7>
+            <diseaseProblem/>
+            <diseaseList/>
+            <diseaseYear/>
+            <diseaseCropStage/>
+            <diseaseHistoryYear/>
+            <lentilStemphylium/>
+            <useChemicals/>
+          </bg7>
+          <chemSprayTimes/>
+          <bg8_count/>
+          <bg8 jr:template="">
+            <chemicalName/>
+            <activeIngredient/>
+            <applicationRate/>
+            <sprayDate/>
+            <sprayTime/>
+          </bg8>
+          <chemicalName1/>
+          <activeIngredient1/>
+          <applicationRate1/>
+          <sprayDate1/>
+          <sprayTime1/>
+          <chemicalName2/>
+          <activeIngredient2/>
+          <applicationRate2/>
+          <sprayDate2/>
+          <sprayTime2/>
+          <chemicalName3/>
+          <activeIngredient3/>
+          <applicationRate3/>
+          <sprayDate3/>
+          <sprayTime3/>
+          <chemicalName4/>
+          <activeIngredient4/>
+          <applicationRate4/>
+          <sprayDate4/>
+          <sprayTime4/>
+          <bg9>
+            <weedDensity/>
+            <weedMgmt/>
+            <weedManual/>
+            <herbicideApp/>
+          </bg9>
+          <bg10>
+            <insectProblem/>
+            <insectType/>
+            <insecticideApp/>
+            <insecticideTimes/>
+          </bg10>
+          <bg11_count/>
+          <bg11 jr:template="">
+            <insectChem/>
+            <insectActiveIngredient/>
+            <insectAppRate/>
+            <insectSprayDate/>
+            <insectSprayTime/>
+          </bg11>
+          <insectChem1/>
+          <insectActiveIngredient1/>
+          <insectAppRate1/>
+          <insectSprayDate1/>
+          <insectSprayTime1/>
+          <insectChem2/>
+          <insectActiveIngredient2/>
+          <insectAppRate2/>
+          <insectSprayDate2/>
+          <insectSprayTime2/>
+          <insectChem3/>
+          <insectActiveIngredient3/>
+          <insectAppRate3/>
+          <insectSprayDate3/>
+          <insectSprayTime3/>
+          <insectChem4/>
+          <insectActiveIngredient4/>
+          <insectAppRate4/>
+          <insectSprayDate4/>
+          <insectSprayTime4/>
+          <bg12>
+            <harvestDate/>
+            <lentilVariety/>
+            <lentilYield/>
+          </bg12>
+          <meta>
+            <instanceID/>
+          </meta>
+        </CSISA_CSRD_Lentil_Survey220318>
+      </instance>
+      <bind nodeset="/CSISA_CSRD_Lentil_Survey220318/generated_note_name_3" readonly="true()" type="string"/>
+      <bind nodeset="/CSISA_CSRD_Lentil_Survey220318/bg1/surveyDate" required="true()" type="date"/>
+      <bind nodeset="/CSISA_CSRD_Lentil_Survey220318/bg1/surveyor" required="true()" type="string"/>
+      <bind nodeset="/CSISA_CSRD_Lentil_Survey220318/bg1/country" required="true()" type="select1"/>
+      <bind nodeset="/CSISA_CSRD_Lentil_Survey220318/bg1/siteName" required="true()" type="select1"/>
+      <bind nodeset="/CSISA_CSRD_Lentil_Survey220318/bg1/visitID" required="true()" type="select1"/>
+      <bind nodeset="/CSISA_CSRD_Lentil_Survey220318/bg1/fieldID" required="true()" type="select1"/>
+      <bind nodeset="/CSISA_CSRD_Lentil_Survey220318/bg1/hhID" required="true()" type="decimal"/>
+      <bind nodeset="/CSISA_CSRD_Lentil_Survey220318/bg2" required="true()"/>
+      <bind nodeset="/CSISA_CSRD_Lentil_Survey220318/bg2/fName" required="true()" type="string"/>
+      <bind constraint="string-length(.)=10" jr:constraintMsg="Please make sure it is ten digits !" nodeset="/CSISA_CSRD_Lentil_Survey220318/bg2/fMobile" type="string"/>
+      <bind nodeset="/CSISA_CSRD_Lentil_Survey220318/bg2/hhHead" required="true()" type="select1"/>
+      <bind constraint=".&lt;=90" jr:constraintMsg="are you sure the HH more than 90 years?" nodeset="/CSISA_CSRD_Lentil_Survey220318/bg2/headAge" required="true()" type="int"/>
+      <bind nodeset="/CSISA_CSRD_Lentil_Survey220318/bg2/headEdu" required="true()" type="int"/>
+      <bind nodeset="/CSISA_CSRD_Lentil_Survey220318/bg2/primaryOcc" required="true()" type="select1"/>
+      <bind nodeset="/CSISA_CSRD_Lentil_Survey220318/bg2/secondaryOcc" type="string"/>
+      <bind nodeset="/CSISA_CSRD_Lentil_Survey220318/HHDetail" required="true()"/>
+      <bind nodeset="/CSISA_CSRD_Lentil_Survey220318/HHDetail/familySize" required="true()" type="int"/>
+      <bind constraint=".&lt;= /CSISA_CSRD_Lentil_Survey220318/HHDetail/familySize " jr:constraintMsg="should be less than or equal to total family number" nodeset="/CSISA_CSRD_Lentil_Survey220318/HHDetail/workingMen" required="true()" type="int"/>
+      <bind constraint=".&lt;= /CSISA_CSRD_Lentil_Survey220318/HHDetail/familySize " jr:constraintMsg="should be less than or equal to total family number" nodeset="/CSISA_CSRD_Lentil_Survey220318/HHDetail/workingWomen" required="true()" type="int"/>
+      <bind constraint=".&lt;= /CSISA_CSRD_Lentil_Survey220318/HHDetail/familySize " jr:constraintMsg="should be less than or equal to total family number" nodeset="/CSISA_CSRD_Lentil_Survey220318/HHDetail/elderlyMale" required="true()" type="int"/>
+      <bind constraint=".&lt;= /CSISA_CSRD_Lentil_Survey220318/HHDetail/familySize " jr:constraintMsg="should be less than or equal to total family number" nodeset="/CSISA_CSRD_Lentil_Survey220318/HHDetail/elderlyFemale" required="true()" type="int"/>
+      <bind constraint=".&lt;= /CSISA_CSRD_Lentil_Survey220318/HHDetail/familySize " jr:constraintMsg="should be less than or equal to total family number" nodeset="/CSISA_CSRD_Lentil_Survey220318/HHDetail/schoolMale" required="true()" type="int"/>
+      <bind constraint=".&lt;= /CSISA_CSRD_Lentil_Survey220318/HHDetail/familySize " jr:constraintMsg="should be less than or equal to total family number" nodeset="/CSISA_CSRD_Lentil_Survey220318/HHDetail/schoolFemale" required="true()" type="int"/>
+      <bind nodeset="/CSISA_CSRD_Lentil_Survey220318/lentilTraining" required="true()" type="select1"/>
+      <bind nodeset="/CSISA_CSRD_Lentil_Survey220318/trainingType" relevant="selected ( /CSISA_CSRD_Lentil_Survey220318/lentilTraining ,'yes')" type="select1"/>
+      <bind nodeset="/CSISA_CSRD_Lentil_Survey220318/agriCredit" required="true()" type="select1"/>
+      <bind nodeset="/CSISA_CSRD_Lentil_Survey220318/creditAccess" relevant="selected ( /CSISA_CSRD_Lentil_Survey220318/agriCredit ,'yes')" type="select1"/>
+      <bind nodeset="/CSISA_CSRD_Lentil_Survey220318/perYearContact" required="true()" type="int"/>
+      <bind nodeset="/CSISA_CSRD_Lentil_Survey220318/bg3" required="true()"/>
+      <bind nodeset="/CSISA_CSRD_Lentil_Survey220318/bg3/localUnit" required="true()" type="select1"/>
+      <bind nodeset="/CSISA_CSRD_Lentil_Survey220318/bg3/convUnit_1" relevant="selected ( /CSISA_CSRD_Lentil_Survey220318/bg3/localUnit ,'decimal')" required="true()" type="decimal"/>
+      <bind nodeset="/CSISA_CSRD_Lentil_Survey220318/bg3/convUnit_2" relevant="selected ( /CSISA_CSRD_Lentil_Survey220318/bg3/localUnit ,'katha')" required="true()" type="decimal"/>
+      <bind nodeset="/CSISA_CSRD_Lentil_Survey220318/bg3/totalLand" required="true()" type="decimal"/>
+      <bind nodeset="/CSISA_CSRD_Lentil_Survey220318/bg3/lentilArea" required="true()" type="decimal"/>
+      <bind nodeset="/CSISA_CSRD_Lentil_Survey220318/bg3/fieldLargest" required="true()" type="decimal"/>
+      <bind nodeset="/CSISA_CSRD_Lentil_Survey220318/bg3/lastYearYield" required="true()" type="decimal"/>
+      <bind constraint=".&lt;= /CSISA_CSRD_Lentil_Survey220318/bg3/totalLand " jr:constraintMsg="should be less than or equal to total land holding" nodeset="/CSISA_CSRD_Lentil_Survey220318/bg3/currentLand" required="true()" type="decimal"/>
+      <bind constraint=".&lt;= /CSISA_CSRD_Lentil_Survey220318/bg3/totalLand " jr:constraintMsg="should be less than or equal to total land holding" nodeset="/CSISA_CSRD_Lentil_Survey220318/bg3/currLargestField" required="true()" type="decimal"/>
+      <bind nodeset="/CSISA_CSRD_Lentil_Survey220318/bg3/currYearYield" required="true()" type="decimal"/>
+      <bind nodeset="/CSISA_CSRD_Lentil_Survey220318/bg3/lentilOwnership" required="true()" type="select1"/>
+      <bind nodeset="/CSISA_CSRD_Lentil_Survey220318/bg3/rented" relevant="selected ( /CSISA_CSRD_Lentil_Survey220318/bg3/lentilOwnership ,'rented')" required="true()" type="string"/>
+      <bind nodeset="/CSISA_CSRD_Lentil_Survey220318/bg3/both" relevant="selected ( /CSISA_CSRD_Lentil_Survey220318/bg3/lentilOwnership ,'both')" required="true()" type="string"/>
+      <bind nodeset="/CSISA_CSRD_Lentil_Survey220318/bg4/soilType" required="true()" type="select1"/>
+      <bind nodeset="/CSISA_CSRD_Lentil_Survey220318/bg4/landType" required="true()" type="select1"/>
+      <bind nodeset="/CSISA_CSRD_Lentil_Survey220318/bg4/previousCrop" required="true()" type="select1"/>
+      <bind nodeset="/CSISA_CSRD_Lentil_Survey220318/bg4/afterCrop" required="true()" type="select1"/>
+      <bind nodeset="/CSISA_CSRD_Lentil_Survey220318/bg4/soilMoisture" required="true()" type="select1"/>
+      <bind nodeset="/CSISA_CSRD_Lentil_Survey220318/bg4/seedingMethod" required="true()" type="select1"/>
+      <bind nodeset="/CSISA_CSRD_Lentil_Survey220318/bg4/tillageMethod" required="true()" type="select1"/>
+      <bind nodeset="/CSISA_CSRD_Lentil_Survey220318/bg4/passNumber" required="true()" type="decimal"/>
+      <bind nodeset="/CSISA_CSRD_Lentil_Survey220318/bg4/tillageCost" required="true()" type="decimal"/>
+      <bind nodeset="/CSISA_CSRD_Lentil_Survey220318/bg4/ladderingNumber" required="true()" type="decimal"/>
+      <bind nodeset="/CSISA_CSRD_Lentil_Survey220318/bg4/tillageDepth" required="true()" type="decimal"/>
+      <bind nodeset="/CSISA_CSRD_Lentil_Survey220318/bg4/irrigatedLentil" required="true()" type="select1"/>
+      <bind nodeset="/CSISA_CSRD_Lentil_Survey220318/bg4/irrigationTimes" relevant="selected ( /CSISA_CSRD_Lentil_Survey220318/bg4/irrigatedLentil ,'yes')" required="true()" type="decimal"/>
+      <bind nodeset="/CSISA_CSRD_Lentil_Survey220318/bg5" required="true()"/>
+      <bind nodeset="/CSISA_CSRD_Lentil_Survey220318/bg5/ureaKG" required="true()" type="decimal"/>
+      <bind nodeset="/CSISA_CSRD_Lentil_Survey220318/bg5/tspKG" required="true()" type="decimal"/>
+      <bind nodeset="/CSISA_CSRD_Lentil_Survey220318/bg5/dapKG" required="true()" type="decimal"/>
+      <bind nodeset="/CSISA_CSRD_Lentil_Survey220318/bg5/sspKG" required="true()" type="decimal"/>
+      <bind nodeset="/CSISA_CSRD_Lentil_Survey220318/bg5/mopKG" required="true()" type="decimal"/>
+      <bind nodeset="/CSISA_CSRD_Lentil_Survey220318/bg5/otherFert1" required="true()" type="string"/>
+      <bind nodeset="/CSISA_CSRD_Lentil_Survey220318/bg5/otherFertAmt1" required="true()" type="decimal"/>
+      <bind nodeset="/CSISA_CSRD_Lentil_Survey220318/bg5/otherFert2" required="true()" type="string"/>
+      <bind nodeset="/CSISA_CSRD_Lentil_Survey220318/bg5/otherFertAmt2" required="true()" type="decimal"/>
+      <bind nodeset="/CSISA_CSRD_Lentil_Survey220318/bg5/otherFert3" required="true()" type="string"/>
+      <bind nodeset="/CSISA_CSRD_Lentil_Survey220318/bg5/otherFertAmt3" required="true()" type="decimal"/>
+      <bind nodeset="/CSISA_CSRD_Lentil_Survey220318/bg5/otherFert4" required="true()" type="string"/>
+      <bind nodeset="/CSISA_CSRD_Lentil_Survey220318/bg5/otherFertAmt4" required="true()" type="decimal"/>
+      <bind nodeset="/CSISA_CSRD_Lentil_Survey220318/bg6/sowingDate" required="true()" type="date"/>
+      <bind nodeset="/CSISA_CSRD_Lentil_Survey220318/bg6/seedRate" required="true()" type="decimal"/>
+      <bind nodeset="/CSISA_CSRD_Lentil_Survey220318/bg6/seedSize" required="true()" type="select1"/>
+      <bind nodeset="/CSISA_CSRD_Lentil_Survey220318/bg6/seedSource" required="true()" type="select1"/>
+      <bind nodeset="/CSISA_CSRD_Lentil_Survey220318/bg6/seedAge" required="true()" type="decimal"/>
+      <bind nodeset="/CSISA_CSRD_Lentil_Survey220318/bg6/seedTreatment" required="true()" type="select1"/>
+      <bind nodeset="/CSISA_CSRD_Lentil_Survey220318/bg6/productName" relevant="selected ( /CSISA_CSRD_Lentil_Survey220318/bg6/seedTreatment ,'yes')" type="select1"/>
+      <bind nodeset="/CSISA_CSRD_Lentil_Survey220318/bg6/otherProdName" relevant="selected ( /CSISA_CSRD_Lentil_Survey220318/bg6/productName ,'other')" required="true()" type="string"/>
+      <bind nodeset="/CSISA_CSRD_Lentil_Survey220318/bg6/seedActiveIngredient" relevant="selected ( /CSISA_CSRD_Lentil_Survey220318/bg6/seedTreatment ,'yes')" type="string"/>
+      <bind nodeset="/CSISA_CSRD_Lentil_Survey220318/bg7/diseaseProblem" required="true()" type="select1"/>
+      <bind nodeset="/CSISA_CSRD_Lentil_Survey220318/bg7/diseaseList" relevant="selected ( /CSISA_CSRD_Lentil_Survey220318/bg7/diseaseProblem ,'yes')" required="true()" type="select"/>
+      <bind nodeset="/CSISA_CSRD_Lentil_Survey220318/bg7/diseaseYear" required="true()" type="select1"/>
+      <bind nodeset="/CSISA_CSRD_Lentil_Survey220318/bg7/diseaseCropStage" relevant="selected ( /CSISA_CSRD_Lentil_Survey220318/bg7/diseaseYear ,'yes')" type="select"/>
+      <bind nodeset="/CSISA_CSRD_Lentil_Survey220318/bg7/diseaseHistoryYear" relevant="selected ( /CSISA_CSRD_Lentil_Survey220318/bg7/diseaseYear ,'yes')" type="decimal"/>
+      <bind nodeset="/CSISA_CSRD_Lentil_Survey220318/bg7/lentilStemphylium" required="true()" type="select1"/>
+      <bind nodeset="/CSISA_CSRD_Lentil_Survey220318/bg7/useChemicals" required="true()" type="select1"/>
+      <bind nodeset="/CSISA_CSRD_Lentil_Survey220318/chemSprayTimes" relevant="selected ( /CSISA_CSRD_Lentil_Survey220318/bg7/useChemicals ,'yes')" required="true()" type="select1"/>
+      <bind calculate="int( /CSISA_CSRD_Lentil_Survey220318/chemSprayTimes )" nodeset="/CSISA_CSRD_Lentil_Survey220318/bg8_count" readonly="true()" type="string"/>
+      <bind nodeset="/CSISA_CSRD_Lentil_Survey220318/bg8" relevant="selected ( /CSISA_CSRD_Lentil_Survey220318/bg7/useChemicals ,'yes')" required="true()"/>
+      <bind nodeset="/CSISA_CSRD_Lentil_Survey220318/bg8/chemicalName" type="string"/>
+      <bind nodeset="/CSISA_CSRD_Lentil_Survey220318/bg8/activeIngredient" type="string"/>
+      <bind nodeset="/CSISA_CSRD_Lentil_Survey220318/bg8/applicationRate" type="string"/>
+      <bind nodeset="/CSISA_CSRD_Lentil_Survey220318/bg8/sprayDate" type="date"/>
+      <bind nodeset="/CSISA_CSRD_Lentil_Survey220318/bg8/sprayTime" type="select1"/>
+      <bind calculate="indexed-repeat( /CSISA_CSRD_Lentil_Survey220318/bg8/chemicalName ,  /CSISA_CSRD_Lentil_Survey220318/bg8 , 1)" nodeset="/CSISA_CSRD_Lentil_Survey220318/chemicalName1" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_CSRD_Lentil_Survey220318/bg8/activeIngredient ,  /CSISA_CSRD_Lentil_Survey220318/bg8 , 1)" nodeset="/CSISA_CSRD_Lentil_Survey220318/activeIngredient1" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_CSRD_Lentil_Survey220318/bg8/applicationRate ,  /CSISA_CSRD_Lentil_Survey220318/bg8 , 1)" nodeset="/CSISA_CSRD_Lentil_Survey220318/applicationRate1" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_CSRD_Lentil_Survey220318/bg8/sprayDate ,  /CSISA_CSRD_Lentil_Survey220318/bg8 , 1)" nodeset="/CSISA_CSRD_Lentil_Survey220318/sprayDate1" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_CSRD_Lentil_Survey220318/bg8/sprayTime ,  /CSISA_CSRD_Lentil_Survey220318/bg8 , 1)" nodeset="/CSISA_CSRD_Lentil_Survey220318/sprayTime1" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_CSRD_Lentil_Survey220318/bg8/chemicalName ,  /CSISA_CSRD_Lentil_Survey220318/bg8 , 2)" nodeset="/CSISA_CSRD_Lentil_Survey220318/chemicalName2" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_CSRD_Lentil_Survey220318/bg8/activeIngredient ,  /CSISA_CSRD_Lentil_Survey220318/bg8 , 2)" nodeset="/CSISA_CSRD_Lentil_Survey220318/activeIngredient2" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_CSRD_Lentil_Survey220318/bg8/applicationRate ,  /CSISA_CSRD_Lentil_Survey220318/bg8 , 2)" nodeset="/CSISA_CSRD_Lentil_Survey220318/applicationRate2" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_CSRD_Lentil_Survey220318/bg8/sprayDate ,  /CSISA_CSRD_Lentil_Survey220318/bg8 , 2)" nodeset="/CSISA_CSRD_Lentil_Survey220318/sprayDate2" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_CSRD_Lentil_Survey220318/bg8/sprayTime ,  /CSISA_CSRD_Lentil_Survey220318/bg8 , 2)" nodeset="/CSISA_CSRD_Lentil_Survey220318/sprayTime2" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_CSRD_Lentil_Survey220318/bg8/chemicalName ,  /CSISA_CSRD_Lentil_Survey220318/bg8 , 3)" nodeset="/CSISA_CSRD_Lentil_Survey220318/chemicalName3" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_CSRD_Lentil_Survey220318/bg8/activeIngredient ,  /CSISA_CSRD_Lentil_Survey220318/bg8 , 3)" nodeset="/CSISA_CSRD_Lentil_Survey220318/activeIngredient3" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_CSRD_Lentil_Survey220318/bg8/applicationRate ,  /CSISA_CSRD_Lentil_Survey220318/bg8 , 3)" nodeset="/CSISA_CSRD_Lentil_Survey220318/applicationRate3" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_CSRD_Lentil_Survey220318/bg8/sprayDate ,  /CSISA_CSRD_Lentil_Survey220318/bg8 , 3)" nodeset="/CSISA_CSRD_Lentil_Survey220318/sprayDate3" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_CSRD_Lentil_Survey220318/bg8/sprayTime ,  /CSISA_CSRD_Lentil_Survey220318/bg8 , 3)" nodeset="/CSISA_CSRD_Lentil_Survey220318/sprayTime3" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_CSRD_Lentil_Survey220318/bg8/chemicalName ,  /CSISA_CSRD_Lentil_Survey220318/bg8 , 4)" nodeset="/CSISA_CSRD_Lentil_Survey220318/chemicalName4" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_CSRD_Lentil_Survey220318/bg8/activeIngredient ,  /CSISA_CSRD_Lentil_Survey220318/bg8 , 4)" nodeset="/CSISA_CSRD_Lentil_Survey220318/activeIngredient4" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_CSRD_Lentil_Survey220318/bg8/applicationRate ,  /CSISA_CSRD_Lentil_Survey220318/bg8 , 4)" nodeset="/CSISA_CSRD_Lentil_Survey220318/applicationRate4" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_CSRD_Lentil_Survey220318/bg8/sprayDate ,  /CSISA_CSRD_Lentil_Survey220318/bg8 , 4)" nodeset="/CSISA_CSRD_Lentil_Survey220318/sprayDate4" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_CSRD_Lentil_Survey220318/bg8/sprayTime ,  /CSISA_CSRD_Lentil_Survey220318/bg8 , 4)" nodeset="/CSISA_CSRD_Lentil_Survey220318/sprayTime4" type="string"/>
+      <bind nodeset="/CSISA_CSRD_Lentil_Survey220318/bg9" required="true()"/>
+      <bind nodeset="/CSISA_CSRD_Lentil_Survey220318/bg9/weedDensity" required="true()" type="select1"/>
+      <bind nodeset="/CSISA_CSRD_Lentil_Survey220318/bg9/weedMgmt" required="true()" type="select1"/>
+      <bind nodeset="/CSISA_CSRD_Lentil_Survey220318/bg9/weedManual" relevant="selected ( /CSISA_CSRD_Lentil_Survey220318/bg9/weedMgmt ,'manual') or selected ( /CSISA_CSRD_Lentil_Survey220318/bg9/weedMgmt ,'both')" required="true()" type="select1"/>
+      <bind nodeset="/CSISA_CSRD_Lentil_Survey220318/bg9/herbicideApp" relevant="selected ( /CSISA_CSRD_Lentil_Survey220318/bg9/weedMgmt ,'herbicide') or selected ( /CSISA_CSRD_Lentil_Survey220318/bg9/weedMgmt ,'both')" required="true()" type="select1"/>
+      <bind nodeset="/CSISA_CSRD_Lentil_Survey220318/bg10" required="true()"/>
+      <bind nodeset="/CSISA_CSRD_Lentil_Survey220318/bg10/insectProblem" required="true()" type="select1"/>
+      <bind nodeset="/CSISA_CSRD_Lentil_Survey220318/bg10/insectType" relevant="selected ( /CSISA_CSRD_Lentil_Survey220318/bg10/insectProblem ,'yes')" type="select1"/>
+      <bind nodeset="/CSISA_CSRD_Lentil_Survey220318/bg10/insecticideApp" relevant="selected ( /CSISA_CSRD_Lentil_Survey220318/bg10/insectProblem ,'yes')" type="select1"/>
+      <bind nodeset="/CSISA_CSRD_Lentil_Survey220318/bg10/insecticideTimes" relevant="selected ( /CSISA_CSRD_Lentil_Survey220318/bg10/insecticideApp ,'yes')" required="true()" type="select1"/>
+      <bind calculate="int( /CSISA_CSRD_Lentil_Survey220318/bg10/insecticideTimes )" nodeset="/CSISA_CSRD_Lentil_Survey220318/bg11_count" readonly="true()" type="string"/>
+      <bind nodeset="/CSISA_CSRD_Lentil_Survey220318/bg11" relevant="selected ( /CSISA_CSRD_Lentil_Survey220318/bg10/insecticideApp ,'yes')" required="true()"/>
+      <bind nodeset="/CSISA_CSRD_Lentil_Survey220318/bg11/insectChem" type="string"/>
+      <bind nodeset="/CSISA_CSRD_Lentil_Survey220318/bg11/insectActiveIngredient" type="string"/>
+      <bind nodeset="/CSISA_CSRD_Lentil_Survey220318/bg11/insectAppRate" type="string"/>
+      <bind nodeset="/CSISA_CSRD_Lentil_Survey220318/bg11/insectSprayDate" type="date"/>
+      <bind nodeset="/CSISA_CSRD_Lentil_Survey220318/bg11/insectSprayTime" type="select1"/>
+      <bind calculate="indexed-repeat( /CSISA_CSRD_Lentil_Survey220318/bg11/insectChem ,  /CSISA_CSRD_Lentil_Survey220318/bg11 , 1)" nodeset="/CSISA_CSRD_Lentil_Survey220318/insectChem1" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_CSRD_Lentil_Survey220318/bg11/insectActiveIngredient ,  /CSISA_CSRD_Lentil_Survey220318/bg11 , 1)" nodeset="/CSISA_CSRD_Lentil_Survey220318/insectActiveIngredient1" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_CSRD_Lentil_Survey220318/bg11/insectAppRate ,  /CSISA_CSRD_Lentil_Survey220318/bg11 , 1)" nodeset="/CSISA_CSRD_Lentil_Survey220318/insectAppRate1" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_CSRD_Lentil_Survey220318/bg11/insectSprayDate ,  /CSISA_CSRD_Lentil_Survey220318/bg11 , 1)" nodeset="/CSISA_CSRD_Lentil_Survey220318/insectSprayDate1" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_CSRD_Lentil_Survey220318/bg11/insectSprayTime ,  /CSISA_CSRD_Lentil_Survey220318/bg11 , 1)" nodeset="/CSISA_CSRD_Lentil_Survey220318/insectSprayTime1" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_CSRD_Lentil_Survey220318/bg11/insectChem ,  /CSISA_CSRD_Lentil_Survey220318/bg11 , 2)" nodeset="/CSISA_CSRD_Lentil_Survey220318/insectChem2" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_CSRD_Lentil_Survey220318/bg11/insectActiveIngredient ,  /CSISA_CSRD_Lentil_Survey220318/bg11 , 2)" nodeset="/CSISA_CSRD_Lentil_Survey220318/insectActiveIngredient2" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_CSRD_Lentil_Survey220318/bg11/insectAppRate ,  /CSISA_CSRD_Lentil_Survey220318/bg11 , 2)" nodeset="/CSISA_CSRD_Lentil_Survey220318/insectAppRate2" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_CSRD_Lentil_Survey220318/bg11/insectSprayDate ,  /CSISA_CSRD_Lentil_Survey220318/bg11 , 2)" nodeset="/CSISA_CSRD_Lentil_Survey220318/insectSprayDate2" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_CSRD_Lentil_Survey220318/bg11/insectSprayTime ,  /CSISA_CSRD_Lentil_Survey220318/bg11 , 2)" nodeset="/CSISA_CSRD_Lentil_Survey220318/insectSprayTime2" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_CSRD_Lentil_Survey220318/bg11/insectChem ,  /CSISA_CSRD_Lentil_Survey220318/bg11 , 3)" nodeset="/CSISA_CSRD_Lentil_Survey220318/insectChem3" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_CSRD_Lentil_Survey220318/bg11/insectActiveIngredient ,  /CSISA_CSRD_Lentil_Survey220318/bg11 , 3)" nodeset="/CSISA_CSRD_Lentil_Survey220318/insectActiveIngredient3" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_CSRD_Lentil_Survey220318/bg11/insectAppRate ,  /CSISA_CSRD_Lentil_Survey220318/bg11 , 3)" nodeset="/CSISA_CSRD_Lentil_Survey220318/insectAppRate3" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_CSRD_Lentil_Survey220318/bg11/insectSprayDate ,  /CSISA_CSRD_Lentil_Survey220318/bg11 , 3)" nodeset="/CSISA_CSRD_Lentil_Survey220318/insectSprayDate3" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_CSRD_Lentil_Survey220318/bg11/insectSprayTime ,  /CSISA_CSRD_Lentil_Survey220318/bg11 , 3)" nodeset="/CSISA_CSRD_Lentil_Survey220318/insectSprayTime3" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_CSRD_Lentil_Survey220318/bg11/insectChem ,  /CSISA_CSRD_Lentil_Survey220318/bg11 , 4)" nodeset="/CSISA_CSRD_Lentil_Survey220318/insectChem4" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_CSRD_Lentil_Survey220318/bg11/insectActiveIngredient ,  /CSISA_CSRD_Lentil_Survey220318/bg11 , 4)" nodeset="/CSISA_CSRD_Lentil_Survey220318/insectActiveIngredient4" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_CSRD_Lentil_Survey220318/bg11/insectAppRate ,  /CSISA_CSRD_Lentil_Survey220318/bg11 , 4)" nodeset="/CSISA_CSRD_Lentil_Survey220318/insectAppRate4" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_CSRD_Lentil_Survey220318/bg11/insectSprayDate ,  /CSISA_CSRD_Lentil_Survey220318/bg11 , 4)" nodeset="/CSISA_CSRD_Lentil_Survey220318/insectSprayDate4" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_CSRD_Lentil_Survey220318/bg11/insectSprayTime ,  /CSISA_CSRD_Lentil_Survey220318/bg11 , 4)" nodeset="/CSISA_CSRD_Lentil_Survey220318/insectSprayTime4" type="string"/>
+      <bind nodeset="/CSISA_CSRD_Lentil_Survey220318/bg12" required="true()"/>
+      <bind nodeset="/CSISA_CSRD_Lentil_Survey220318/bg12/harvestDate" required="true()" type="date"/>
+      <bind nodeset="/CSISA_CSRD_Lentil_Survey220318/bg12/lentilVariety" required="true()" type="string"/>
+      <bind nodeset="/CSISA_CSRD_Lentil_Survey220318/bg12/lentilYield" required="true()" type="decimal"/>
+      <bind calculate="concat('uuid:', uuid())" nodeset="/CSISA_CSRD_Lentil_Survey220318/meta/instanceID" readonly="true()" type="string"/>
+    </model>
+  </h:head>
+  <h:body>
+    <input ref="/CSISA_CSRD_Lentil_Survey220318/generated_note_name_3">
+      <label>Crop cut survey for Lentil</label>
+    </input>
+    <group appearance="field-list" ref="/CSISA_CSRD_Lentil_Survey220318/bg1">
+      <label>General information</label>
+      <input ref="/CSISA_CSRD_Lentil_Survey220318/bg1/surveyDate">
+        <label>Survey date</label>
+      </input>
+      <input ref="/CSISA_CSRD_Lentil_Survey220318/bg1/surveyor">
+        <label>Name of Surveyer</label>
+      </input>
+      <select1 ref="/CSISA_CSRD_Lentil_Survey220318/bg1/country">
+        <label>Name of country</label>
+        <item>
+          <label>Bangladesh</label>
+          <value>Bangladesh</value>
+        </item>
+        <item>
+          <label>India</label>
+          <value>India</value>
+        </item>
+        <item>
+          <label>Nepal</label>
+          <value>Nepal</value>
+        </item>
+      </select1>
+      <select1 ref="/CSISA_CSRD_Lentil_Survey220318/bg1/siteName">
+        <label>Name of site</label>
+        <item>
+          <label>Barh</label>
+          <value>Barh</value>
+        </item>
+        <item>
+          <label>Mokama</label>
+          <value>Mokama</value>
+        </item>
+        <item>
+          <label>Barhaiya</label>
+          <value>Barhaiya</value>
+        </item>
+        <item>
+          <label>Masaurhi</label>
+          <value>Masaurhi</value>
+        </item>
+        <item>
+          <label>Paliganj</label>
+          <value>Paliganj</value>
+        </item>
+        <item>
+          <label>Kanchanpur</label>
+          <value>Kanchanpur</value>
+        </item>
+        <item>
+          <label>Kailali</label>
+          <value>Kailali</value>
+        </item>
+        <item>
+          <label>Bardiya</label>
+          <value>Bardiya</value>
+        </item>
+        <item>
+          <label>Banke</label>
+          <value>Banke</value>
+        </item>
+        <item>
+          <label>Jessore</label>
+          <value>Jessore</value>
+        </item>
+        <item>
+          <label>Faridpur</label>
+          <value>Faridpur</value>
+        </item>
+      </select1>
+      <select1 ref="/CSISA_CSRD_Lentil_Survey220318/bg1/visitID">
+        <label>Visit ID</label>
+        <item>
+          <label>First Visit</label>
+          <value>Firstvisit</value>
+        </item>
+        <item>
+          <label>Second Visit</label>
+          <value>Secondvisit</value>
+        </item>
+        <item>
+          <label>Third visit</label>
+          <value>Thirdvisit</value>
+        </item>
+        <item>
+          <label>Crop cut</label>
+          <value>Cropcut</value>
+        </item>
+      </select1>
+      <select1 appearance="minimal" ref="/CSISA_CSRD_Lentil_Survey220318/bg1/fieldID">
+        <label>Field ID</label>
+        <item>
+          <label>1</label>
+          <value>1</value>
+        </item>
+        <item>
+          <label>2</label>
+          <value>2</value>
+        </item>
+        <item>
+          <label>3</label>
+          <value>3</value>
+        </item>
+        <item>
+          <label>4</label>
+          <value>4</value>
+        </item>
+        <item>
+          <label>5</label>
+          <value>5</value>
+        </item>
+        <item>
+          <label>6</label>
+          <value>6</value>
+        </item>
+        <item>
+          <label>7</label>
+          <value>7</value>
+        </item>
+        <item>
+          <label>8</label>
+          <value>8</value>
+        </item>
+        <item>
+          <label>9</label>
+          <value>9</value>
+        </item>
+        <item>
+          <label>10</label>
+          <value>10</value>
+        </item>
+        <item>
+          <label>11</label>
+          <value>11</value>
+        </item>
+        <item>
+          <label>12</label>
+          <value>12</value>
+        </item>
+        <item>
+          <label>13</label>
+          <value>13</value>
+        </item>
+        <item>
+          <label>14</label>
+          <value>14</value>
+        </item>
+        <item>
+          <label>15</label>
+          <value>15</value>
+        </item>
+        <item>
+          <label>16</label>
+          <value>16</value>
+        </item>
+        <item>
+          <label>17</label>
+          <value>17</value>
+        </item>
+        <item>
+          <label>18</label>
+          <value>18</value>
+        </item>
+        <item>
+          <label>19</label>
+          <value>19</value>
+        </item>
+        <item>
+          <label>20</label>
+          <value>20</value>
+        </item>
+        <item>
+          <label>21</label>
+          <value>21</value>
+        </item>
+        <item>
+          <label>22</label>
+          <value>22</value>
+        </item>
+        <item>
+          <label>23</label>
+          <value>23</value>
+        </item>
+        <item>
+          <label>24</label>
+          <value>24</value>
+        </item>
+        <item>
+          <label>25</label>
+          <value>25</value>
+        </item>
+        <item>
+          <label>26</label>
+          <value>26</value>
+        </item>
+        <item>
+          <label>27</label>
+          <value>27</value>
+        </item>
+        <item>
+          <label>28</label>
+          <value>28</value>
+        </item>
+        <item>
+          <label>29</label>
+          <value>29</value>
+        </item>
+        <item>
+          <label>30</label>
+          <value>30</value>
+        </item>
+        <item>
+          <label>31</label>
+          <value>31</value>
+        </item>
+        <item>
+          <label>32</label>
+          <value>32</value>
+        </item>
+        <item>
+          <label>33</label>
+          <value>33</value>
+        </item>
+        <item>
+          <label>34</label>
+          <value>34</value>
+        </item>
+        <item>
+          <label>35</label>
+          <value>35</value>
+        </item>
+        <item>
+          <label>36</label>
+          <value>36</value>
+        </item>
+        <item>
+          <label>37</label>
+          <value>37</value>
+        </item>
+        <item>
+          <label>38</label>
+          <value>38</value>
+        </item>
+        <item>
+          <label>39</label>
+          <value>39</value>
+        </item>
+        <item>
+          <label>40</label>
+          <value>40</value>
+        </item>
+      </select1>
+      <input ref="/CSISA_CSRD_Lentil_Survey220318/bg1/hhID">
+        <label>Household ID</label>
+      </input>
+    </group>
+    <group appearance="field-list" ref="/CSISA_CSRD_Lentil_Survey220318/bg2">
+      <label>Household (HH) information</label>
+      <input ref="/CSISA_CSRD_Lentil_Survey220318/bg2/fName">
+        <label>Farmer's name</label>
+      </input>
+      <input appearance="numbers" ref="/CSISA_CSRD_Lentil_Survey220318/bg2/fMobile">
+        <label>Mobile/ Contact number</label>
+      </input>
+      <select1 ref="/CSISA_CSRD_Lentil_Survey220318/bg2/hhHead">
+        <label>Head of the household</label>
+        <item>
+          <label>Male</label>
+          <value>male</value>
+        </item>
+        <item>
+          <label>Female</label>
+          <value>female</value>
+        </item>
+      </select1>
+      <input ref="/CSISA_CSRD_Lentil_Survey220318/bg2/headAge">
+        <label>Household Head age (Years)</label>
+      </input>
+      <input ref="/CSISA_CSRD_Lentil_Survey220318/bg2/headEdu">
+        <label>Household Head education (Years of schooling)</label>
+      </input>
+      <select1 ref="/CSISA_CSRD_Lentil_Survey220318/bg2/primaryOcc">
+        <label>Primary occupation</label>
+        <item>
+          <label>Agricultural farming</label>
+          <value>agriculturalfarming</value>
+        </item>
+        <item>
+          <label>Govt. Service</label>
+          <value>govtservice</value>
+        </item>
+        <item>
+          <label>Pvt. Service</label>
+          <value>pvtservice</value>
+        </item>
+        <item>
+          <label>Others</label>
+          <value>others</value>
+        </item>
+      </select1>
+      <input ref="/CSISA_CSRD_Lentil_Survey220318/bg2/secondaryOcc">
+        <label>Secondary occupation</label>
+      </input>
+    </group>
+    <group appearance="field-list" ref="/CSISA_CSRD_Lentil_Survey220318/HHDetail">
+      <input ref="/CSISA_CSRD_Lentil_Survey220318/HHDetail/familySize">
+        <label>Total Family size (Number)</label>
+      </input>
+      <input ref="/CSISA_CSRD_Lentil_Survey220318/HHDetail/workingMen">
+        <label>Number of working men</label>
+      </input>
+      <input ref="/CSISA_CSRD_Lentil_Survey220318/HHDetail/workingWomen">
+        <label>Number of working women</label>
+      </input>
+      <input ref="/CSISA_CSRD_Lentil_Survey220318/HHDetail/elderlyMale">
+        <label>Elderly male (Dependent)</label>
+      </input>
+      <input ref="/CSISA_CSRD_Lentil_Survey220318/HHDetail/elderlyFemale">
+        <label>Elderly female (Dependent)</label>
+      </input>
+      <input ref="/CSISA_CSRD_Lentil_Survey220318/HHDetail/schoolMale">
+        <label>School going male</label>
+      </input>
+      <input ref="/CSISA_CSRD_Lentil_Survey220318/HHDetail/schoolFemale">
+        <label>School going female</label>
+      </input>
+    </group>
+    <select1 ref="/CSISA_CSRD_Lentil_Survey220318/lentilTraining">
+      <label>Lentil related training in the past five years?</label>
+      <item>
+        <label>Yes</label>
+        <value>yes</value>
+      </item>
+      <item>
+        <label>No</label>
+        <value>no</value>
+      </item>
+    </select1>
+    <select1 ref="/CSISA_CSRD_Lentil_Survey220318/trainingType">
+      <label>If yes, what type of training?</label>
+      <item>
+        <label>Seed production</label>
+        <value>seedproduction</value>
+      </item>
+      <item>
+        <label>Crop management</label>
+        <value>cropmanagement</value>
+      </item>
+      <item>
+        <label>Diseases management</label>
+        <value>disesesmanagement</value>
+      </item>
+      <item>
+        <label>Others</label>
+        <value>others</value>
+      </item>
+    </select1>
+    <select1 ref="/CSISA_CSRD_Lentil_Survey220318/agriCredit">
+      <label>Agricultural credit access (for lentil production)</label>
+      <item>
+        <label>Yes</label>
+        <value>yes</value>
+      </item>
+      <item>
+        <label>No</label>
+        <value>no</value>
+      </item>
+    </select1>
+    <select1 ref="/CSISA_CSRD_Lentil_Survey220318/creditAccess">
+      <label>If yes, credit source</label>
+      <item>
+        <label>Bank</label>
+        <value>bank</value>
+      </item>
+      <item>
+        <label>Cooperative</label>
+        <value>cooperative</value>
+      </item>
+      <item>
+        <label>Micro finance</label>
+        <value>microfinance</value>
+      </item>
+      <item>
+        <label>Others</label>
+        <value>others</value>
+      </item>
+    </select1>
+    <input ref="/CSISA_CSRD_Lentil_Survey220318/perYearContact">
+      <label>Frequency of contact with extension services per year (number)</label>
+    </input>
+    <group ref="/CSISA_CSRD_Lentil_Survey220318/bg3">
+      <label>Land Holding Information</label>
+      <select1 ref="/CSISA_CSRD_Lentil_Survey220318/bg3/localUnit">
+        <label>Please mention local unit</label>
+        <item>
+          <label>Decimal</label>
+          <value>decimal</value>
+        </item>
+        <item>
+          <label>Katha</label>
+          <value>katha</value>
+        </item>
+      </select1>
+      <input ref="/CSISA_CSRD_Lentil_Survey220318/bg3/convUnit_1">
+        <label>Please enter conversion unit '1 Decimal=______m2'</label>
+      </input>
+      <input ref="/CSISA_CSRD_Lentil_Survey220318/bg3/convUnit_2">
+        <label>Please enter conversion unit '1 Katha=______m2'</label>
+      </input>
+      <input ref="/CSISA_CSRD_Lentil_Survey220318/bg3/totalLand">
+        <label>Total cultivated land holding</label>
+      </input>
+      <input ref="/CSISA_CSRD_Lentil_Survey220318/bg3/lentilArea">
+        <label>Cultivated land area under lentil last season</label>
+      </input>
+      <input ref="/CSISA_CSRD_Lentil_Survey220318/bg3/fieldLargest">
+        <label>Size of the largest lentil field last season</label>
+      </input>
+      <input ref="/CSISA_CSRD_Lentil_Survey220318/bg3/lastYearYield">
+        <label>Lentil yield from the largest field last season (kg/plot)</label>
+      </input>
+      <input ref="/CSISA_CSRD_Lentil_Survey220318/bg3/currentLand">
+        <label>Total Area under lentil cultivation this season</label>
+      </input>
+      <input ref="/CSISA_CSRD_Lentil_Survey220318/bg3/currLargestField">
+        <label>Size of the largest lentil field this year</label>
+      </input>
+      <input ref="/CSISA_CSRD_Lentil_Survey220318/bg3/currYearYield">
+        <label>Lentil yield from the largest field this season (kg/plot)</label>
+      </input>
+      <select1 ref="/CSISA_CSRD_Lentil_Survey220318/bg3/lentilOwnership">
+        <label>Ownership of the lentil area this season</label>
+        <item>
+          <label>Own</label>
+          <value>own</value>
+        </item>
+        <item>
+          <label>Rented</label>
+          <value>rented</value>
+        </item>
+        <item>
+          <label>Both</label>
+          <value>both</value>
+        </item>
+      </select1>
+      <input ref="/CSISA_CSRD_Lentil_Survey220318/bg3/rented">
+        <label>If rented, crop sharing type (specify)</label>
+      </input>
+      <input ref="/CSISA_CSRD_Lentil_Survey220318/bg3/both">
+        <label>If both, mention the sharing type (specify)</label>
+      </input>
+    </group>
+    <group ref="/CSISA_CSRD_Lentil_Survey220318/bg4">
+      <label>Information specific to survey plot</label>
+      <select1 ref="/CSISA_CSRD_Lentil_Survey220318/bg4/soilType">
+        <label>Soil type of the survey plot</label>
+        <item>
+          <label>Sandy</label>
+          <value>sandy</value>
+        </item>
+        <item>
+          <label>Loamy</label>
+          <value>loamy</value>
+        </item>
+        <item>
+          <label>Clay</label>
+          <value>clay</value>
+        </item>
+      </select1>
+      <select1 ref="/CSISA_CSRD_Lentil_Survey220318/bg4/landType">
+        <label>Land type of the lentil plot</label>
+        <item>
+          <label>High land</label>
+          <value>highland</value>
+        </item>
+        <item>
+          <label>Medium land</label>
+          <value>mediumland</value>
+        </item>
+        <item>
+          <label>Low land</label>
+          <value>lowland</value>
+        </item>
+      </select1>
+      <select1 ref="/CSISA_CSRD_Lentil_Survey220318/bg4/previousCrop">
+        <label>Crop before lentil (this year)</label>
+        <item>
+          <label>Rice</label>
+          <value>rice</value>
+        </item>
+        <item>
+          <label>Jute</label>
+          <value>jute</value>
+        </item>
+        <item>
+          <label>Others</label>
+          <value>Others</value>
+        </item>
+      </select1>
+      <select1 ref="/CSISA_CSRD_Lentil_Survey220318/bg4/afterCrop">
+        <label>Crop after lentil (this year)</label>
+        <item>
+          <label>Vegetables</label>
+          <value>vegetables</value>
+        </item>
+        <item>
+          <label>Rice</label>
+          <value>rice</value>
+        </item>
+        <item>
+          <label>Jute</label>
+          <value>jute</value>
+        </item>
+        <item>
+          <label>Maize</label>
+          <value>maize</value>
+        </item>
+        <item>
+          <label>Fallow-Aman</label>
+          <value>fallow-aman</value>
+        </item>
+        <item>
+          <label>Others</label>
+          <value>Others</value>
+        </item>
+      </select1>
+      <select1 ref="/CSISA_CSRD_Lentil_Survey220318/bg4/soilMoisture">
+        <label>Estimate of soil condition at sowing</label>
+        <item>
+          <label>Very wet</label>
+          <value>verywet</value>
+        </item>
+        <item>
+          <label>A little wet</label>
+          <value>alittlewet</value>
+        </item>
+        <item>
+          <label>Dry</label>
+          <value>dry</value>
+        </item>
+      </select1>
+      <select1 ref="/CSISA_CSRD_Lentil_Survey220318/bg4/seedingMethod">
+        <label>Seeding method for lentil this year</label>
+        <item>
+          <label>Broadcasting</label>
+          <value>broadcasting</value>
+        </item>
+        <item>
+          <label>Line sowing</label>
+          <value>linesowing</value>
+        </item>
+        <item>
+          <label>Relay</label>
+          <value>relay</value>
+        </item>
+      </select1>
+      <select1 ref="/CSISA_CSRD_Lentil_Survey220318/bg4/tillageMethod">
+        <label>Tillage method for lentil cultivation:</label>
+        <item>
+          <label>Zero tillage</label>
+          <value>zerotillage</value>
+        </item>
+        <item>
+          <label>PTOS</label>
+          <value>ptos</value>
+        </item>
+        <item>
+          <label>Strip tillage</label>
+          <value>Striptillage</value>
+        </item>
+        <item>
+          <label>Rotovator</label>
+          <value>rotovator</value>
+        </item>
+        <item>
+          <label>Full tillage</label>
+          <value>fulltillage</value>
+        </item>
+        <item>
+          <label>Others</label>
+          <value>others</value>
+        </item>
+      </select1>
+      <input ref="/CSISA_CSRD_Lentil_Survey220318/bg4/passNumber">
+        <label>Number of tillage passes (this year)</label>
+      </input>
+      <input ref="/CSISA_CSRD_Lentil_Survey220318/bg4/tillageCost">
+        <label>Tillage costs (Local currency /pass).</label>
+      </input>
+      <input ref="/CSISA_CSRD_Lentil_Survey220318/bg4/ladderingNumber">
+        <label>Number of laddering (if any)</label>
+      </input>
+      <input ref="/CSISA_CSRD_Lentil_Survey220318/bg4/tillageDepth">
+        <label>Tillage depth in cm (estimated)</label>
+      </input>
+      <select1 ref="/CSISA_CSRD_Lentil_Survey220318/bg4/irrigatedLentil">
+        <label>Was the lentil irrigated?</label>
+        <item>
+          <label>Yes</label>
+          <value>yes</value>
+        </item>
+        <item>
+          <label>No</label>
+          <value>no</value>
+        </item>
+      </select1>
+      <input ref="/CSISA_CSRD_Lentil_Survey220318/bg4/irrigationTimes">
+        <label>If yes, how many times?</label>
+      </input>
+    </group>
+    <group ref="/CSISA_CSRD_Lentil_Survey220318/bg5">
+      <label>Fertilizer application (This lentil season)</label>
+      <input ref="/CSISA_CSRD_Lentil_Survey220318/bg5/ureaKG">
+        <label>Urea (kg / on survey plot)</label>
+      </input>
+      <input ref="/CSISA_CSRD_Lentil_Survey220318/bg5/tspKG">
+        <label>TSP (kg / on survey plot)</label>
+      </input>
+      <input ref="/CSISA_CSRD_Lentil_Survey220318/bg5/dapKG">
+        <label>DAP (kg / on survey plot )</label>
+      </input>
+      <input ref="/CSISA_CSRD_Lentil_Survey220318/bg5/sspKG">
+        <label>SSP (kg / on survey plot )</label>
+      </input>
+      <input ref="/CSISA_CSRD_Lentil_Survey220318/bg5/mopKG">
+        <label>MOP (kg / on survey plot)</label>
+      </input>
+      <input ref="/CSISA_CSRD_Lentil_Survey220318/bg5/otherFert1">
+        <label>Name of the other fertilizer1</label>
+      </input>
+      <input ref="/CSISA_CSRD_Lentil_Survey220318/bg5/otherFertAmt1">
+        <label>Amount of the other fertilizer1 (kg / on survey plot)</label>
+      </input>
+      <input ref="/CSISA_CSRD_Lentil_Survey220318/bg5/otherFert2">
+        <label>Name of the other fertilizer2</label>
+      </input>
+      <input ref="/CSISA_CSRD_Lentil_Survey220318/bg5/otherFertAmt2">
+        <label>Amount of the other fertilizer2 (kg / on survey plot)</label>
+      </input>
+      <input ref="/CSISA_CSRD_Lentil_Survey220318/bg5/otherFert3">
+        <label>Name of the other fertilizer3</label>
+      </input>
+      <input ref="/CSISA_CSRD_Lentil_Survey220318/bg5/otherFertAmt3">
+        <label>Amount of the other fertilizer3 (kg / on survey plot)</label>
+      </input>
+      <input ref="/CSISA_CSRD_Lentil_Survey220318/bg5/otherFert4">
+        <label>Name of the other fertilizer4</label>
+      </input>
+      <input ref="/CSISA_CSRD_Lentil_Survey220318/bg5/otherFertAmt4">
+        <label>Amount of the other fertilizer4 (kg / on survey plot)</label>
+      </input>
+    </group>
+    <group ref="/CSISA_CSRD_Lentil_Survey220318/bg6">
+      <label>Seed</label>
+      <input ref="/CSISA_CSRD_Lentil_Survey220318/bg6/sowingDate">
+        <label>Sowing date</label>
+      </input>
+      <input ref="/CSISA_CSRD_Lentil_Survey220318/bg6/seedRate">
+        <label>Seed rate (kg /survey plot )</label>
+      </input>
+      <select1 ref="/CSISA_CSRD_Lentil_Survey220318/bg6/seedSize">
+        <label>Seed size</label>
+        <item>
+          <label>Small</label>
+          <value>small</value>
+        </item>
+        <item>
+          <label>Bold</label>
+          <value>bold</value>
+        </item>
+      </select1>
+      <select1 ref="/CSISA_CSRD_Lentil_Survey220318/bg6/seedSource">
+        <label>Seed source</label>
+        <item>
+          <label>Own</label>
+          <value>Own</value>
+        </item>
+        <item>
+          <label>from neighbor</label>
+          <value>fromneighbor</value>
+        </item>
+        <item>
+          <label>BADC</label>
+          <value>BADC</value>
+        </item>
+        <item>
+          <label>DAE</label>
+          <value>DAE</value>
+        </item>
+        <item>
+          <label>Dealer</label>
+          <value>Dealer</value>
+        </item>
+        <item>
+          <label>DADO</label>
+          <value>DADO</value>
+        </item>
+        <item>
+          <label>Seed company</label>
+          <value>Seedcompany</value>
+        </item>
+        <item>
+          <label>Agro-vet</label>
+          <value>Agrovet</value>
+        </item>
+        <item>
+          <label>NARC</label>
+          <value>NARC</value>
+        </item>
+        <item>
+          <label>other organization</label>
+          <value>otherorganization</value>
+        </item>
+      </select1>
+      <input ref="/CSISA_CSRD_Lentil_Survey220318/bg6/seedAge">
+        <label>If own, Generation (age) of seed since replacement</label>
+      </input>
+      <select1 ref="/CSISA_CSRD_Lentil_Survey220318/bg6/seedTreatment">
+        <label>Do you treat seed before sowing?</label>
+        <item>
+          <label>Yes</label>
+          <value>yes</value>
+        </item>
+        <item>
+          <label>No</label>
+          <value>no</value>
+        </item>
+      </select1>
+      <select1 ref="/CSISA_CSRD_Lentil_Survey220318/bg6/productName">
+        <label>If yes, mention the product name</label>
+        <item>
+          <label>Provax 200 WP</label>
+          <value>provax</value>
+        </item>
+        <item>
+          <label>Vitaflo 200 FF</label>
+          <value>vitaflo</value>
+        </item>
+        <item>
+          <label>Rovral 50 WP</label>
+          <value>rovral</value>
+        </item>
+        <item>
+          <label>Other</label>
+          <value>other</value>
+        </item>
+      </select1>
+      <input ref="/CSISA_CSRD_Lentil_Survey220318/bg6/otherProdName">
+        <label>Mention the other product name</label>
+      </input>
+      <input ref="/CSISA_CSRD_Lentil_Survey220318/bg6/seedActiveIngredient">
+        <label>Active ingredient</label>
+      </input>
+    </group>
+    <group ref="/CSISA_CSRD_Lentil_Survey220318/bg7">
+      <label>Disease information</label>
+      <select1 ref="/CSISA_CSRD_Lentil_Survey220318/bg7/diseaseProblem">
+        <label>Any diseases problem in lentil field?</label>
+        <item>
+          <label>Yes</label>
+          <value>yes</value>
+        </item>
+        <item>
+          <label>No</label>
+          <value>no</value>
+        </item>
+      </select1>
+      <select ref="/CSISA_CSRD_Lentil_Survey220318/bg7/diseaseList">
+        <label>If yes, tick the following</label>
+        <item>
+          <label>Root disease</label>
+          <value>rootdisease</value>
+        </item>
+        <item>
+          <label>Leaf disease</label>
+          <value>leafdisease</value>
+        </item>
+        <item>
+          <label>Stem disease</label>
+          <value>stemdisease</value>
+        </item>
+        <item>
+          <label>Stemphylium blight disease</label>
+          <value>stemphyliumblightdisease</value>
+        </item>
+        <item>
+          <label>Don't know the name</label>
+          <value>dontknow</value>
+        </item>
+      </select>
+      <select1 ref="/CSISA_CSRD_Lentil_Survey220318/bg7/diseaseYear">
+        <label>Do you get lentil diseases every year?</label>
+        <item>
+          <label>Yes</label>
+          <value>yes</value>
+        </item>
+        <item>
+          <label>No</label>
+          <value>no</value>
+        </item>
+      </select1>
+      <select ref="/CSISA_CSRD_Lentil_Survey220318/bg7/diseaseCropStage">
+        <label>If yes, at what crop stage do diseases occur?</label>
+        <item>
+          <label>Seedling</label>
+          <value>seedling</value>
+        </item>
+        <item>
+          <label>Vegetative</label>
+          <value>vegetative</value>
+        </item>
+        <item>
+          <label>Flowering</label>
+          <value>flowering</value>
+        </item>
+        <item>
+          <label>Pod-setting</label>
+          <value>podsetting</value>
+        </item>
+      </select>
+      <input ref="/CSISA_CSRD_Lentil_Survey220318/bg7/diseaseHistoryYear">
+        <label>If yes, how long (how many years) you are seeing lentil diseases in your field?</label>
+      </input>
+      <select1 ref="/CSISA_CSRD_Lentil_Survey220318/bg7/lentilStemphylium">
+        <label>Have you heard about Stemphylium disease in lentil?</label>
+        <item>
+          <label>Yes</label>
+          <value>yes</value>
+        </item>
+        <item>
+          <label>No</label>
+          <value>no</value>
+        </item>
+      </select1>
+      <select1 ref="/CSISA_CSRD_Lentil_Survey220318/bg7/useChemicals">
+        <label>Do you use chemicals to control lentil diseases?</label>
+        <item>
+          <label>Yes</label>
+          <value>yes</value>
+        </item>
+        <item>
+          <label>No</label>
+          <value>no</value>
+        </item>
+      </select1>
+    </group>
+    <select1 ref="/CSISA_CSRD_Lentil_Survey220318/chemSprayTimes">
+      <label>How many times did you spray chemicals?</label>
+      <item>
+        <label>1</label>
+        <value>1</value>
+      </item>
+      <item>
+        <label>2</label>
+        <value>2</value>
+      </item>
+      <item>
+        <label>3</label>
+        <value>3</value>
+      </item>
+      <item>
+        <label>4</label>
+        <value>4</value>
+      </item>
+    </select1>
+    <group ref="/CSISA_CSRD_Lentil_Survey220318/bg8">
+      <label>Chemical spray this year</label>
+      <repeat appearance="minimal" jr:count=" /CSISA_CSRD_Lentil_Survey220318/bg8_count " nodeset="/CSISA_CSRD_Lentil_Survey220318/bg8">
+        <input ref="/CSISA_CSRD_Lentil_Survey220318/bg8/chemicalName">
+          <label>Chemical name of the spray</label>
+        </input>
+        <input ref="/CSISA_CSRD_Lentil_Survey220318/bg8/activeIngredient">
+          <label>Active ingredient from label</label>
+        </input>
+        <input ref="/CSISA_CSRD_Lentil_Survey220318/bg8/applicationRate">
+          <label>Rate of application</label>
+        </input>
+        <input ref="/CSISA_CSRD_Lentil_Survey220318/bg8/sprayDate">
+          <label>Date of spray</label>
+        </input>
+        <select1 ref="/CSISA_CSRD_Lentil_Survey220318/bg8/sprayTime">
+          <label>Time of the day sprayed</label>
+          <item>
+            <label>Morning</label>
+            <value>morning</value>
+          </item>
+          <item>
+            <label>Noon</label>
+            <value>noon</value>
+          </item>
+          <item>
+            <label>Afternoon</label>
+            <value>afternoon</value>
+          </item>
+        </select1>
+      </repeat>
+    </group>
+    <group appearance="field-list" ref="/CSISA_CSRD_Lentil_Survey220318/bg9">
+      <label>Weed management</label>
+      <select1 ref="/CSISA_CSRD_Lentil_Survey220318/bg9/weedDensity">
+        <label>Weed density in plot</label>
+        <item>
+          <label>Low</label>
+          <value>low</value>
+        </item>
+        <item>
+          <label>Medium</label>
+          <value>medium</value>
+        </item>
+        <item>
+          <label>High</label>
+          <value>high</value>
+        </item>
+      </select1>
+      <select1 ref="/CSISA_CSRD_Lentil_Survey220318/bg9/weedMgmt">
+        <label>Weed management</label>
+        <item>
+          <label>Manual</label>
+          <value>manual</value>
+        </item>
+        <item>
+          <label>Herbicide</label>
+          <value>herbicide</value>
+        </item>
+        <item>
+          <label>both</label>
+          <value>both</value>
+        </item>
+        <item>
+          <label>None</label>
+          <value>none</value>
+        </item>
+      </select1>
+      <select1 ref="/CSISA_CSRD_Lentil_Survey220318/bg9/weedManual">
+        <label>If manual, how many times?</label>
+        <item>
+          <label>1</label>
+          <value>1</value>
+        </item>
+        <item>
+          <label>2</label>
+          <value>2</value>
+        </item>
+        <item>
+          <label>3</label>
+          <value>3</value>
+        </item>
+        <item>
+          <label>4</label>
+          <value>4</value>
+        </item>
+      </select1>
+      <select1 ref="/CSISA_CSRD_Lentil_Survey220318/bg9/herbicideApp">
+        <label>If herbicide applied, how many times?</label>
+        <item>
+          <label>1</label>
+          <value>1</value>
+        </item>
+        <item>
+          <label>2</label>
+          <value>2</value>
+        </item>
+        <item>
+          <label>3</label>
+          <value>3</value>
+        </item>
+        <item>
+          <label>4</label>
+          <value>4</value>
+        </item>
+      </select1>
+    </group>
+    <group appearance="field-list" ref="/CSISA_CSRD_Lentil_Survey220318/bg10">
+      <label>Insect information</label>
+      <select1 ref="/CSISA_CSRD_Lentil_Survey220318/bg10/insectProblem">
+        <label>Any insect problem in the plot?</label>
+        <item>
+          <label>Yes</label>
+          <value>yes</value>
+        </item>
+        <item>
+          <label>No</label>
+          <value>no</value>
+        </item>
+      </select1>
+      <select1 ref="/CSISA_CSRD_Lentil_Survey220318/bg10/insectType">
+        <label>If yes, type of insects</label>
+        <item>
+          <label>Borer</label>
+          <value>borer</value>
+        </item>
+        <item>
+          <label>Others</label>
+          <value>others</value>
+        </item>
+      </select1>
+      <select1 ref="/CSISA_CSRD_Lentil_Survey220318/bg10/insecticideApp">
+        <label>If yes, did you apply any insecticide?</label>
+        <item>
+          <label>Yes</label>
+          <value>yes</value>
+        </item>
+        <item>
+          <label>No</label>
+          <value>no</value>
+        </item>
+      </select1>
+      <select1 ref="/CSISA_CSRD_Lentil_Survey220318/bg10/insecticideTimes">
+        <label>How many times did you apply insecticide?</label>
+        <item>
+          <label>1</label>
+          <value>1</value>
+        </item>
+        <item>
+          <label>2</label>
+          <value>2</value>
+        </item>
+        <item>
+          <label>3</label>
+          <value>3</value>
+        </item>
+        <item>
+          <label>4</label>
+          <value>4</value>
+        </item>
+      </select1>
+    </group>
+    <group ref="/CSISA_CSRD_Lentil_Survey220318/bg11">
+      <label>Insecticide management</label>
+      <repeat appearance="minimal" jr:count=" /CSISA_CSRD_Lentil_Survey220318/bg11_count " nodeset="/CSISA_CSRD_Lentil_Survey220318/bg11">
+        <input ref="/CSISA_CSRD_Lentil_Survey220318/bg11/insectChem">
+          <label>Chemical name of the insecticide</label>
+        </input>
+        <input ref="/CSISA_CSRD_Lentil_Survey220318/bg11/insectActiveIngredient">
+          <label>Active ingredient from label</label>
+        </input>
+        <input ref="/CSISA_CSRD_Lentil_Survey220318/bg11/insectAppRate">
+          <label>Rate of application</label>
+        </input>
+        <input ref="/CSISA_CSRD_Lentil_Survey220318/bg11/insectSprayDate">
+          <label>Date of first spray</label>
+        </input>
+        <select1 ref="/CSISA_CSRD_Lentil_Survey220318/bg11/insectSprayTime">
+          <label>Time of the day sprayed</label>
+          <item>
+            <label>Morning</label>
+            <value>morning</value>
+          </item>
+          <item>
+            <label>Noon</label>
+            <value>noon</value>
+          </item>
+          <item>
+            <label>Afternoon</label>
+            <value>afternoon</value>
+          </item>
+        </select1>
+      </repeat>
+    </group>
+    <group ref="/CSISA_CSRD_Lentil_Survey220318/bg12">
+      <label>Harvest information</label>
+      <input ref="/CSISA_CSRD_Lentil_Survey220318/bg12/harvestDate">
+        <label>Lentil harvesting date</label>
+      </input>
+      <input ref="/CSISA_CSRD_Lentil_Survey220318/bg12/lentilVariety">
+        <label>Lentil variety</label>
+      </input>
+      <input ref="/CSISA_CSRD_Lentil_Survey220318/bg12/lentilYield">
+        <label>Lentil grain yield (Kg/survey plot)</label>
+      </input>
+    </group>
+  </h:body>
+</h:html>

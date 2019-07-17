@@ -1,0 +1,1475 @@
+<?xml version="1.0"?>
+<h:html xmlns="http://www.w3.org/2002/xforms" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:h="http://www.w3.org/1999/xhtml" xmlns:jr="http://openrosa.org/javarosa" xmlns:orx="http://openrosa.org/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <h:head><!-- ODK Aggregate upload time: 2018-01-13T15:49:47.149+0000 on https://csisaodk.appspot.com -->
+    <h:title>CSISA CSRD Lentil Stemphylium 2018</h:title>
+    <model>
+      <itext>
+        <translation default="true()" lang="English">
+          <text id="static_instance-quadrat-1">
+            <value>2</value>
+          </text>
+          <text id="static_instance-field_id-20">
+            <value>21</value>
+          </text>
+          <text id="static_instance-district-6">
+            <value>Faridpur</value>
+          </text>
+          <text id="static_instance-field_id-13">
+            <value>14</value>
+          </text>
+          <text id="static_instance-field_id-6">
+            <value>7</value>
+          </text>
+          <text id="static_instance-field_id-4">
+            <value>5</value>
+          </text>
+          <text id="static_instance-district-1">
+            <value>Lakhisarai</value>
+          </text>
+          <text id="static_instance-field_id-16">
+            <value>17</value>
+          </text>
+          <text id="static_instance-field_id-38">
+            <value>39</value>
+          </text>
+          <text id="static_instance-phenological_stage-6">
+            <value>Flowering stage (&gt;75%)</value>
+          </text>
+          <text id="static_instance-site_id-0">
+            <value>1</value>
+          </text>
+          <text id="static_instance-district-5">
+            <value>Banke</value>
+          </text>
+          <text id="static_instance-phenological_stage-0">
+            <value>Seedling stage</value>
+          </text>
+          <text id="static_instance-field_id-0">
+            <value>1</value>
+          </text>
+          <text id="static_instance-field_id-21">
+            <value>22</value>
+          </text>
+          <text id="static_instance-field_id-36">
+            <value>37</value>
+          </text>
+          <text id="static_instance-field_id-10">
+            <value>11</value>
+          </text>
+          <text id="static_instance-field_id-37">
+            <value>38</value>
+          </text>
+          <text id="static_instance-field_id-11">
+            <value>12</value>
+          </text>
+          <text id="static_instance-field_id-12">
+            <value>13</value>
+          </text>
+          <text id="static_instance-field_id-24">
+            <value>25</value>
+          </text>
+          <text id="static_instance-field_id-17">
+            <value>18</value>
+          </text>
+          <text id="static_instance-seeding_method-0">
+            <value>Line sown</value>
+          </text>
+          <text id="static_instance-country_name-0">
+            <value>Bangladesh</value>
+          </text>
+          <text id="static_instance-site_id-1">
+            <value>2</value>
+          </text>
+          <text id="static_instance-field_id-26">
+            <value>27</value>
+          </text>
+          <text id="static_instance-field_id-31">
+            <value>32</value>
+          </text>
+          <text id="static_instance-field_id-34">
+            <value>35</value>
+          </text>
+          <text id="static_instance-phenological_stage-7">
+            <value>Maturity</value>
+          </text>
+          <text id="static_instance-visit_id-1">
+            <value>Second visit</value>
+          </text>
+          <text id="static_instance-quadrat-3">
+            <value>4</value>
+          </text>
+          <text id="static_instance-field_id-25">
+            <value>26</value>
+          </text>
+          <text id="static_instance-quad-3">
+            <value>Q4</value>
+          </text>
+          <text id="static_instance-field_id-1">
+            <value>2</value>
+          </text>
+          <text id="static_instance-field_id-27">
+            <value>28</value>
+          </text>
+          <text id="static_instance-field_id-29">
+            <value>30</value>
+          </text>
+          <text id="static_instance-field_id-19">
+            <value>20</value>
+          </text>
+          <text id="static_instance-field_id-30">
+            <value>31</value>
+          </text>
+          <text id="static_instance-site_id-3">
+            <value>4</value>
+          </text>
+          <text id="static_instance-quad-0">
+            <value>Q1</value>
+          </text>
+          <text id="static_instance-quad-2">
+            <value>Q3</value>
+          </text>
+          <text id="static_instance-seed_type-0">
+            <value>Bold</value>
+          </text>
+          <text id="static_instance-phenological_stage-4">
+            <value>Flowering stage (26-50%)</value>
+          </text>
+          <text id="static_instance-field_id-23">
+            <value>24</value>
+          </text>
+          <text id="static_instance-field_id-2">
+            <value>3</value>
+          </text>
+          <text id="static_instance-field_id-3">
+            <value>4</value>
+          </text>
+          <text id="static_instance-field_id-35">
+            <value>36</value>
+          </text>
+          <text id="static_instance-field_id-9">
+            <value>10</value>
+          </text>
+          <text id="static_instance-phenological_stage-2">
+            <value>Late vegetative stage</value>
+          </text>
+          <text id="static_instance-site_id-4">
+            <value>5</value>
+          </text>
+          <text id="static_instance-quadrat-0">
+            <value>1</value>
+          </text>
+          <text id="static_instance-seed_type-1">
+            <value>Small</value>
+          </text>
+          <text id="static_instance-district-4">
+            <value>Bardiya</value>
+          </text>
+          <text id="static_instance-site_id-2">
+            <value>3</value>
+          </text>
+          <text id="static_instance-district-2">
+            <value>Kanchanpur</value>
+          </text>
+          <text id="static_instance-field_id-18">
+            <value>19</value>
+          </text>
+          <text id="static_instance-field_id-5">
+            <value>6</value>
+          </text>
+          <text id="static_instance-field_id-39">
+            <value>40</value>
+          </text>
+          <text id="static_instance-quad-1">
+            <value>Q2</value>
+          </text>
+          <text id="static_instance-district-7">
+            <value>Jessore</value>
+          </text>
+          <text id="static_instance-country_name-1">
+            <value>India</value>
+          </text>
+          <text id="static_instance-phenological_stage-1">
+            <value>Early vegetative stage</value>
+          </text>
+          <text id="static_instance-field_id-7">
+            <value>8</value>
+          </text>
+          <text id="static_instance-field_id-15">
+            <value>16</value>
+          </text>
+          <text id="static_instance-field_id-22">
+            <value>23</value>
+          </text>
+          <text id="static_instance-seeding_method-2">
+            <value>Relay (Para-seeding)</value>
+          </text>
+          <text id="static_instance-district-3">
+            <value>Kailali</value>
+          </text>
+          <text id="static_instance-field_id-8">
+            <value>9</value>
+          </text>
+          <text id="static_instance-visit_id-2">
+            <value>Third visit</value>
+          </text>
+          <text id="static_instance-field_id-32">
+            <value>33</value>
+          </text>
+          <text id="static_instance-field_id-33">
+            <value>34</value>
+          </text>
+          <text id="static_instance-quadrat-2">
+            <value>3</value>
+          </text>
+          <text id="static_instance-phenological_stage-5">
+            <value>Flowering stage (51-50%)</value>
+          </text>
+          <text id="static_instance-field_id-14">
+            <value>15</value>
+          </text>
+          <text id="static_instance-phenological_stage-3">
+            <value>Flowering stage (1-25%)</value>
+          </text>
+          <text id="static_instance-visit_id-0">
+            <value>First visit</value>
+          </text>
+          <text id="static_instance-seeding_method-1">
+            <value>Broadcast</value>
+          </text>
+          <text id="static_instance-district-0">
+            <value>Patna</value>
+          </text>
+          <text id="static_instance-field_id-28">
+            <value>29</value>
+          </text>
+          <text id="static_instance-country_name-2">
+            <value>Nepal</value>
+          </text>
+          <text id="static_instance-quadrat-4">
+            <value>5</value>
+          </text>
+          <text id="static_instance-quad-4">
+            <value>Q5</value>
+          </text>
+        </translation>
+      </itext>
+      <instance>
+        <CSISA_CSRD_2018_LentilStemphylium id="CSISACSRD_LentilStemphylium2018" version="11012018">
+          <deviceid/>
+          <start/>
+          <end/>
+          <uniqueID/>
+          <collectionDate/>
+          <generated_note_name_7/>
+          <surveyor/>
+          <gps/>
+          <country/>
+          <district/>
+          <village_name/>
+          <name_farmer/>
+          <dateOfVisit/>
+          <site_id/>
+          <field_id/>
+          <visit_id/>
+          <variety/>
+          <seedType/>
+          <sowingDate/>
+          <exp50FloweringDate/>
+          <expYield/>
+          <seedingMethod/>
+          <phenologicalStage/>
+          <generated_note_name_27/>
+          <ndvi_d1/>
+          <ndvi_d2/>
+          <n1/>
+          <totalQuadrat/>
+          <Scoring_count/>
+          <Scoring jr:template="">
+            <quadNumber/>
+            <qCode/>
+            <cG/>
+            <ndvi/>
+            <S1>
+              <noDis/>
+            </S1>
+            <S2>
+              <sb2/>
+              <sbr2/>
+              <sbo2/>
+              <root2/>
+              <other2/>
+            </S2>
+            <S3>
+              <sb3/>
+              <sbr3/>
+              <sbo3/>
+              <root3/>
+              <other3/>
+            </S3>
+            <S4>
+              <sb4/>
+              <sbr4/>
+              <sbo4/>
+              <root4/>
+              <other4/>
+            </S4>
+            <S5>
+              <sb5/>
+              <sbr5/>
+              <sbo5/>
+              <root5/>
+              <other5/>
+            </S5>
+          </Scoring>
+          <q1Code/>
+          <q1/>
+          <q1CropGround/>
+          <q1NDVI/>
+          <q1s1_NoDisease/>
+          <q1s2_SB/>
+          <q1s2_SBR/>
+          <q1s2_SBO/>
+          <q1s2_Root/>
+          <q1s2_Other/>
+          <q1s3_SB/>
+          <q1s3_SBR/>
+          <q1s3_SBO/>
+          <q1s3_Root/>
+          <q1s3_Other/>
+          <q1s4_SB/>
+          <q1s4_SBR/>
+          <q1s4_SBO/>
+          <q1s4_Root/>
+          <q1s4_Other/>
+          <q1s5_SB/>
+          <q1s5_SBR/>
+          <q1s5_SBO/>
+          <q1s5_Root/>
+          <q1s5_Other/>
+          <q2Code/>
+          <q2/>
+          <q2CropGround/>
+          <q2NDVI/>
+          <q2s1_NoDisease/>
+          <q2s2_SB/>
+          <q2s2_SBR/>
+          <q2s2_SBO/>
+          <q2s2_Root/>
+          <q2s2_Other/>
+          <q2s3_SB/>
+          <q2s3_SBR/>
+          <q2s3_SBO/>
+          <q2s3_Root/>
+          <q2s3_Other/>
+          <q2s4_SB/>
+          <q2s4_SBR/>
+          <q2s4_SBO/>
+          <q2s4_Root/>
+          <q2s4_Other/>
+          <q2s5_SB/>
+          <q2s5_SBR/>
+          <q2s5_SBO/>
+          <q2s5_Root/>
+          <q2s5_Other/>
+          <q3Code/>
+          <q3/>
+          <q3CropGround/>
+          <q3NDVI/>
+          <q3s1_NoDisease/>
+          <q3s2_SB/>
+          <q3s2_SBR/>
+          <q3s2_SBO/>
+          <q3s2_Root/>
+          <q3s2_Other/>
+          <q3s3_SB/>
+          <q3s3_SBR/>
+          <q3s3_SBO/>
+          <q3s3_Root/>
+          <q3s3_Other/>
+          <q3s4_SB/>
+          <q3s4_SBR/>
+          <q3s4_SBO/>
+          <q3s4_Root/>
+          <q3s4_Other/>
+          <q3s5_SB/>
+          <q3s5_SBR/>
+          <q3s5_SBO/>
+          <q3s5_Root/>
+          <q3s5_Other/>
+          <q4Code/>
+          <q4/>
+          <q4CropGround/>
+          <q4NDVI/>
+          <q4s1_NoDisease/>
+          <q4s2_SB/>
+          <q4s2_SBR/>
+          <q4s2_SBO/>
+          <q4s2_Root/>
+          <q4s2_Other/>
+          <q4s3_SB/>
+          <q4s3_SBR/>
+          <q4s3_SBO/>
+          <q4s3_Root/>
+          <q4s3_Other/>
+          <q4s4_SB/>
+          <q4s4_SBR/>
+          <q4s4_SBO/>
+          <q4s4_Root/>
+          <q4s4_Other/>
+          <q4s5_SB/>
+          <q4s5_SBR/>
+          <q4s5_SBO/>
+          <q4s5_Root/>
+          <q4s5_Other/>
+          <q5Code/>
+          <q5/>
+          <q5CropGround/>
+          <q5NDVI/>
+          <q5s1_NoDisease/>
+          <q5s2_SB/>
+          <q5s2_SBR/>
+          <q5s2_SBO/>
+          <q5s2_Root/>
+          <q5s2_Other/>
+          <q5s3_SB/>
+          <q5s3_SBR/>
+          <q5s3_SBO/>
+          <q5s3_Root/>
+          <q5s3_Other/>
+          <q5s4_SB/>
+          <q5s4_SBR/>
+          <q5s4_SBO/>
+          <q5s4_Root/>
+          <q5s4_Other/>
+          <q5s5_SB/>
+          <q5s5_SBR/>
+          <q5s5_SBO/>
+          <q5s5_Root/>
+          <q5s5_Other/>
+          <meta>
+            <instanceID/>
+          </meta>
+        </CSISA_CSRD_2018_LentilStemphylium>
+      </instance>
+      <instance id="country_name">
+        <root>
+          <item>
+            <itextId>static_instance-country_name-0</itextId>
+            <name>880</name>
+          </item>
+          <item>
+            <itextId>static_instance-country_name-1</itextId>
+            <name>91</name>
+          </item>
+          <item>
+            <itextId>static_instance-country_name-2</itextId>
+            <name>977</name>
+          </item>
+        </root>
+      </instance>
+      <instance id="quadrat">
+        <root>
+          <item>
+            <itextId>static_instance-quadrat-0</itextId>
+            <name>1</name>
+          </item>
+          <item>
+            <itextId>static_instance-quadrat-1</itextId>
+            <name>2</name>
+          </item>
+          <item>
+            <itextId>static_instance-quadrat-2</itextId>
+            <name>3</name>
+          </item>
+          <item>
+            <itextId>static_instance-quadrat-3</itextId>
+            <name>4</name>
+          </item>
+          <item>
+            <itextId>static_instance-quadrat-4</itextId>
+            <name>5</name>
+          </item>
+        </root>
+      </instance>
+      <instance id="phenological_stage">
+        <root>
+          <item>
+            <itextId>static_instance-phenological_stage-0</itextId>
+            <name>seedling</name>
+          </item>
+          <item>
+            <itextId>static_instance-phenological_stage-1</itextId>
+            <name>earlyVegetative</name>
+          </item>
+          <item>
+            <itextId>static_instance-phenological_stage-2</itextId>
+            <name>lateVegetative</name>
+          </item>
+          <item>
+            <itextId>static_instance-phenological_stage-3</itextId>
+            <name>FS1</name>
+          </item>
+          <item>
+            <itextId>static_instance-phenological_stage-4</itextId>
+            <name>FS2</name>
+          </item>
+          <item>
+            <itextId>static_instance-phenological_stage-5</itextId>
+            <name>FS3</name>
+          </item>
+          <item>
+            <itextId>static_instance-phenological_stage-6</itextId>
+            <name>FS4</name>
+          </item>
+          <item>
+            <itextId>static_instance-phenological_stage-7</itextId>
+            <name>maturity</name>
+          </item>
+        </root>
+      </instance>
+      <instance id="district">
+        <root>
+          <item>
+            <itextId>static_instance-district-0</itextId>
+            <name>Patna</name>
+            <country>91</country>
+          </item>
+          <item>
+            <itextId>static_instance-district-1</itextId>
+            <name>Lakhisarai</name>
+            <country>91</country>
+          </item>
+          <item>
+            <itextId>static_instance-district-2</itextId>
+            <name>Kanchanpur</name>
+            <country>977</country>
+          </item>
+          <item>
+            <itextId>static_instance-district-3</itextId>
+            <name>Kailali</name>
+            <country>977</country>
+          </item>
+          <item>
+            <itextId>static_instance-district-4</itextId>
+            <name>Bardiya</name>
+            <country>977</country>
+          </item>
+          <item>
+            <itextId>static_instance-district-5</itextId>
+            <name>Banke</name>
+            <country>977</country>
+          </item>
+          <item>
+            <itextId>static_instance-district-6</itextId>
+            <name>Faridpur</name>
+            <country>880</country>
+          </item>
+          <item>
+            <itextId>static_instance-district-7</itextId>
+            <name>Jessore</name>
+            <country>880</country>
+          </item>
+        </root>
+      </instance>
+      <instance id="seeding_method">
+        <root>
+          <item>
+            <itextId>static_instance-seeding_method-0</itextId>
+            <name>lineSown</name>
+          </item>
+          <item>
+            <itextId>static_instance-seeding_method-1</itextId>
+            <name>broadcast</name>
+          </item>
+          <item>
+            <itextId>static_instance-seeding_method-2</itextId>
+            <name>relay</name>
+          </item>
+        </root>
+      </instance>
+      <instance id="seed_type">
+        <root>
+          <item>
+            <itextId>static_instance-seed_type-0</itextId>
+            <name>bold</name>
+          </item>
+          <item>
+            <itextId>static_instance-seed_type-1</itextId>
+            <name>small</name>
+          </item>
+        </root>
+      </instance>
+      <instance id="quad">
+        <root>
+          <item>
+            <itextId>static_instance-quad-0</itextId>
+            <name>1</name>
+          </item>
+          <item>
+            <itextId>static_instance-quad-1</itextId>
+            <name>2</name>
+          </item>
+          <item>
+            <itextId>static_instance-quad-2</itextId>
+            <name>3</name>
+          </item>
+          <item>
+            <itextId>static_instance-quad-3</itextId>
+            <name>4</name>
+          </item>
+          <item>
+            <itextId>static_instance-quad-4</itextId>
+            <name>5</name>
+          </item>
+        </root>
+      </instance>
+      <instance id="site_id">
+        <root>
+          <item>
+            <itextId>static_instance-site_id-0</itextId>
+            <name>1</name>
+          </item>
+          <item>
+            <itextId>static_instance-site_id-1</itextId>
+            <name>2</name>
+          </item>
+          <item>
+            <itextId>static_instance-site_id-2</itextId>
+            <name>3</name>
+          </item>
+          <item>
+            <itextId>static_instance-site_id-3</itextId>
+            <name>4</name>
+          </item>
+          <item>
+            <itextId>static_instance-site_id-4</itextId>
+            <name>5</name>
+          </item>
+        </root>
+      </instance>
+      <instance id="visit_id">
+        <root>
+          <item>
+            <itextId>static_instance-visit_id-0</itextId>
+            <name>1</name>
+          </item>
+          <item>
+            <itextId>static_instance-visit_id-1</itextId>
+            <name>2</name>
+          </item>
+          <item>
+            <itextId>static_instance-visit_id-2</itextId>
+            <name>3</name>
+          </item>
+        </root>
+      </instance>
+      <instance id="field_id">
+        <root>
+          <item>
+            <itextId>static_instance-field_id-0</itextId>
+            <name>1</name>
+          </item>
+          <item>
+            <itextId>static_instance-field_id-1</itextId>
+            <name>2</name>
+          </item>
+          <item>
+            <itextId>static_instance-field_id-2</itextId>
+            <name>3</name>
+          </item>
+          <item>
+            <itextId>static_instance-field_id-3</itextId>
+            <name>4</name>
+          </item>
+          <item>
+            <itextId>static_instance-field_id-4</itextId>
+            <name>5</name>
+          </item>
+          <item>
+            <itextId>static_instance-field_id-5</itextId>
+            <name>6</name>
+          </item>
+          <item>
+            <itextId>static_instance-field_id-6</itextId>
+            <name>7</name>
+          </item>
+          <item>
+            <itextId>static_instance-field_id-7</itextId>
+            <name>8</name>
+          </item>
+          <item>
+            <itextId>static_instance-field_id-8</itextId>
+            <name>9</name>
+          </item>
+          <item>
+            <itextId>static_instance-field_id-9</itextId>
+            <name>10</name>
+          </item>
+          <item>
+            <itextId>static_instance-field_id-10</itextId>
+            <name>11</name>
+          </item>
+          <item>
+            <itextId>static_instance-field_id-11</itextId>
+            <name>12</name>
+          </item>
+          <item>
+            <itextId>static_instance-field_id-12</itextId>
+            <name>13</name>
+          </item>
+          <item>
+            <itextId>static_instance-field_id-13</itextId>
+            <name>14</name>
+          </item>
+          <item>
+            <itextId>static_instance-field_id-14</itextId>
+            <name>15</name>
+          </item>
+          <item>
+            <itextId>static_instance-field_id-15</itextId>
+            <name>16</name>
+          </item>
+          <item>
+            <itextId>static_instance-field_id-16</itextId>
+            <name>17</name>
+          </item>
+          <item>
+            <itextId>static_instance-field_id-17</itextId>
+            <name>18</name>
+          </item>
+          <item>
+            <itextId>static_instance-field_id-18</itextId>
+            <name>19</name>
+          </item>
+          <item>
+            <itextId>static_instance-field_id-19</itextId>
+            <name>20</name>
+          </item>
+          <item>
+            <itextId>static_instance-field_id-20</itextId>
+            <name>21</name>
+          </item>
+          <item>
+            <itextId>static_instance-field_id-21</itextId>
+            <name>22</name>
+          </item>
+          <item>
+            <itextId>static_instance-field_id-22</itextId>
+            <name>23</name>
+          </item>
+          <item>
+            <itextId>static_instance-field_id-23</itextId>
+            <name>24</name>
+          </item>
+          <item>
+            <itextId>static_instance-field_id-24</itextId>
+            <name>25</name>
+          </item>
+          <item>
+            <itextId>static_instance-field_id-25</itextId>
+            <name>26</name>
+          </item>
+          <item>
+            <itextId>static_instance-field_id-26</itextId>
+            <name>27</name>
+          </item>
+          <item>
+            <itextId>static_instance-field_id-27</itextId>
+            <name>28</name>
+          </item>
+          <item>
+            <itextId>static_instance-field_id-28</itextId>
+            <name>29</name>
+          </item>
+          <item>
+            <itextId>static_instance-field_id-29</itextId>
+            <name>30</name>
+          </item>
+          <item>
+            <itextId>static_instance-field_id-30</itextId>
+            <name>31</name>
+          </item>
+          <item>
+            <itextId>static_instance-field_id-31</itextId>
+            <name>32</name>
+          </item>
+          <item>
+            <itextId>static_instance-field_id-32</itextId>
+            <name>33</name>
+          </item>
+          <item>
+            <itextId>static_instance-field_id-33</itextId>
+            <name>34</name>
+          </item>
+          <item>
+            <itextId>static_instance-field_id-34</itextId>
+            <name>35</name>
+          </item>
+          <item>
+            <itextId>static_instance-field_id-35</itextId>
+            <name>36</name>
+          </item>
+          <item>
+            <itextId>static_instance-field_id-36</itextId>
+            <name>37</name>
+          </item>
+          <item>
+            <itextId>static_instance-field_id-37</itextId>
+            <name>38</name>
+          </item>
+          <item>
+            <itextId>static_instance-field_id-38</itextId>
+            <name>39</name>
+          </item>
+          <item>
+            <itextId>static_instance-field_id-39</itextId>
+            <name>40</name>
+          </item>
+        </root>
+      </instance>
+      <bind jr:preload="property" jr:preloadParams="deviceid" nodeset="/CSISA_CSRD_2018_LentilStemphylium/deviceid" type="string"/>
+      <bind jr:preload="timestamp" jr:preloadParams="start" nodeset="/CSISA_CSRD_2018_LentilStemphylium/start" type="dateTime"/>
+      <bind jr:preload="timestamp" jr:preloadParams="end" nodeset="/CSISA_CSRD_2018_LentilStemphylium/end" type="dateTime"/>
+      <bind calculate="string(format-date-time(now(),'%Y%m%d%H%M%S3'))" nodeset="/CSISA_CSRD_2018_LentilStemphylium/uniqueID" type="string"/>
+      <bind jr:preload="date" jr:preloadParams="today" nodeset="/CSISA_CSRD_2018_LentilStemphylium/collectionDate" type="date"/>
+      <bind nodeset="/CSISA_CSRD_2018_LentilStemphylium/generated_note_name_7" readonly="true()" type="string"/>
+      <bind nodeset="/CSISA_CSRD_2018_LentilStemphylium/surveyor" required="true()" type="string"/>
+      <bind nodeset="/CSISA_CSRD_2018_LentilStemphylium/gps" required="true()" type="geopoint"/>
+      <bind nodeset="/CSISA_CSRD_2018_LentilStemphylium/country" required="true()" type="select1"/>
+      <bind nodeset="/CSISA_CSRD_2018_LentilStemphylium/district" required="true()" type="select1"/>
+      <bind nodeset="/CSISA_CSRD_2018_LentilStemphylium/village_name" required="true()" type="string"/>
+      <bind nodeset="/CSISA_CSRD_2018_LentilStemphylium/name_farmer" type="string"/>
+      <bind nodeset="/CSISA_CSRD_2018_LentilStemphylium/dateOfVisit" required="true()" type="date"/>
+      <bind nodeset="/CSISA_CSRD_2018_LentilStemphylium/site_id" required="true()" type="select1"/>
+      <bind nodeset="/CSISA_CSRD_2018_LentilStemphylium/field_id" required="true()" type="select1"/>
+      <bind nodeset="/CSISA_CSRD_2018_LentilStemphylium/visit_id" required="true()" type="select1"/>
+      <bind nodeset="/CSISA_CSRD_2018_LentilStemphylium/variety" required="true()" type="string"/>
+      <bind nodeset="/CSISA_CSRD_2018_LentilStemphylium/seedType" required="true()" type="select1"/>
+      <bind nodeset="/CSISA_CSRD_2018_LentilStemphylium/sowingDate" required="true()" type="date"/>
+      <bind nodeset="/CSISA_CSRD_2018_LentilStemphylium/exp50FloweringDate" required="true()" type="date"/>
+      <bind nodeset="/CSISA_CSRD_2018_LentilStemphylium/expYield" required="true()" type="decimal"/>
+      <bind nodeset="/CSISA_CSRD_2018_LentilStemphylium/seedingMethod" required="true()" type="select1"/>
+      <bind nodeset="/CSISA_CSRD_2018_LentilStemphylium/phenologicalStage" required="true()" type="select1"/>
+      <bind nodeset="/CSISA_CSRD_2018_LentilStemphylium/generated_note_name_27" readonly="true()" type="string"/>
+      <bind nodeset="/CSISA_CSRD_2018_LentilStemphylium/ndvi_d1" required="true()" type="decimal"/>
+      <bind nodeset="/CSISA_CSRD_2018_LentilStemphylium/ndvi_d2" required="true()" type="decimal"/>
+      <bind nodeset="/CSISA_CSRD_2018_LentilStemphylium/n1" readonly="true()" type="string"/>
+      <bind nodeset="/CSISA_CSRD_2018_LentilStemphylium/totalQuadrat" required="true()" type="select1"/>
+      <bind calculate="int( /CSISA_CSRD_2018_LentilStemphylium/totalQuadrat )" nodeset="/CSISA_CSRD_2018_LentilStemphylium/Scoring_count" readonly="true()" type="string"/>
+      <bind nodeset="/CSISA_CSRD_2018_LentilStemphylium/Scoring/quadNumber" required="true()" type="select1"/>
+      <bind calculate="concat( /CSISA_CSRD_2018_LentilStemphylium/country , /CSISA_CSRD_2018_LentilStemphylium/site_id , /CSISA_CSRD_2018_LentilStemphylium/field_id , /CSISA_CSRD_2018_LentilStemphylium/visit_id , /CSISA_CSRD_2018_LentilStemphylium/Scoring/quadNumber )" nodeset="/CSISA_CSRD_2018_LentilStemphylium/Scoring/qCode" type="string"/>
+      <bind nodeset="/CSISA_CSRD_2018_LentilStemphylium/Scoring/cG" required="true()" type="int"/>
+      <bind nodeset="/CSISA_CSRD_2018_LentilStemphylium/Scoring/ndvi" required="true()" type="decimal"/>
+      <bind nodeset="/CSISA_CSRD_2018_LentilStemphylium/Scoring/S1/noDis" required="true()" type="int"/>
+      <bind nodeset="/CSISA_CSRD_2018_LentilStemphylium/Scoring/S2" required="true()"/>
+      <bind nodeset="/CSISA_CSRD_2018_LentilStemphylium/Scoring/S2/sb2" required="true()" type="int"/>
+      <bind nodeset="/CSISA_CSRD_2018_LentilStemphylium/Scoring/S2/sbr2" required="true()" type="int"/>
+      <bind nodeset="/CSISA_CSRD_2018_LentilStemphylium/Scoring/S2/sbo2" required="true()" type="int"/>
+      <bind nodeset="/CSISA_CSRD_2018_LentilStemphylium/Scoring/S2/root2" required="true()" type="int"/>
+      <bind nodeset="/CSISA_CSRD_2018_LentilStemphylium/Scoring/S2/other2" required="true()" type="int"/>
+      <bind nodeset="/CSISA_CSRD_2018_LentilStemphylium/Scoring/S3" required="true()"/>
+      <bind nodeset="/CSISA_CSRD_2018_LentilStemphylium/Scoring/S3/sb3" required="true()" type="int"/>
+      <bind nodeset="/CSISA_CSRD_2018_LentilStemphylium/Scoring/S3/sbr3" required="true()" type="int"/>
+      <bind nodeset="/CSISA_CSRD_2018_LentilStemphylium/Scoring/S3/sbo3" required="true()" type="int"/>
+      <bind nodeset="/CSISA_CSRD_2018_LentilStemphylium/Scoring/S3/root3" required="true()" type="int"/>
+      <bind nodeset="/CSISA_CSRD_2018_LentilStemphylium/Scoring/S3/other3" required="true()" type="int"/>
+      <bind nodeset="/CSISA_CSRD_2018_LentilStemphylium/Scoring/S4" required="true()"/>
+      <bind nodeset="/CSISA_CSRD_2018_LentilStemphylium/Scoring/S4/sb4" required="true()" type="int"/>
+      <bind nodeset="/CSISA_CSRD_2018_LentilStemphylium/Scoring/S4/sbr4" required="true()" type="int"/>
+      <bind nodeset="/CSISA_CSRD_2018_LentilStemphylium/Scoring/S4/sbo4" required="true()" type="int"/>
+      <bind nodeset="/CSISA_CSRD_2018_LentilStemphylium/Scoring/S4/root4" required="true()" type="int"/>
+      <bind nodeset="/CSISA_CSRD_2018_LentilStemphylium/Scoring/S4/other4" required="true()" type="int"/>
+      <bind nodeset="/CSISA_CSRD_2018_LentilStemphylium/Scoring/S5" required="true()"/>
+      <bind nodeset="/CSISA_CSRD_2018_LentilStemphylium/Scoring/S5/sb5" required="true()" type="int"/>
+      <bind nodeset="/CSISA_CSRD_2018_LentilStemphylium/Scoring/S5/sbr5" required="true()" type="int"/>
+      <bind nodeset="/CSISA_CSRD_2018_LentilStemphylium/Scoring/S5/sbo5" required="true()" type="int"/>
+      <bind nodeset="/CSISA_CSRD_2018_LentilStemphylium/Scoring/S5/root5" required="true()" type="int"/>
+      <bind nodeset="/CSISA_CSRD_2018_LentilStemphylium/Scoring/S5/other5" required="true()" type="int"/>
+      <bind calculate="indexed-repeat( /CSISA_CSRD_2018_LentilStemphylium/Scoring/qCode ,  /CSISA_CSRD_2018_LentilStemphylium/Scoring , 1)" nodeset="/CSISA_CSRD_2018_LentilStemphylium/q1Code" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_CSRD_2018_LentilStemphylium/Scoring/quadNumber ,  /CSISA_CSRD_2018_LentilStemphylium/Scoring , 1)" nodeset="/CSISA_CSRD_2018_LentilStemphylium/q1" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_CSRD_2018_LentilStemphylium/Scoring/cG ,  /CSISA_CSRD_2018_LentilStemphylium/Scoring , 1)" nodeset="/CSISA_CSRD_2018_LentilStemphylium/q1CropGround" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_CSRD_2018_LentilStemphylium/Scoring/ndvi ,  /CSISA_CSRD_2018_LentilStemphylium/Scoring , 1)" nodeset="/CSISA_CSRD_2018_LentilStemphylium/q1NDVI" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_CSRD_2018_LentilStemphylium/Scoring/S1/noDis ,  /CSISA_CSRD_2018_LentilStemphylium/Scoring , 1)" nodeset="/CSISA_CSRD_2018_LentilStemphylium/q1s1_NoDisease" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_CSRD_2018_LentilStemphylium/Scoring/S2/sb2 ,  /CSISA_CSRD_2018_LentilStemphylium/Scoring , 1)" nodeset="/CSISA_CSRD_2018_LentilStemphylium/q1s2_SB" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_CSRD_2018_LentilStemphylium/Scoring/S2/sbr2 ,  /CSISA_CSRD_2018_LentilStemphylium/Scoring , 1)" nodeset="/CSISA_CSRD_2018_LentilStemphylium/q1s2_SBR" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_CSRD_2018_LentilStemphylium/Scoring/S2/sbo2 ,  /CSISA_CSRD_2018_LentilStemphylium/Scoring , 1)" nodeset="/CSISA_CSRD_2018_LentilStemphylium/q1s2_SBO" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_CSRD_2018_LentilStemphylium/Scoring/S2/root2 ,  /CSISA_CSRD_2018_LentilStemphylium/Scoring , 1)" nodeset="/CSISA_CSRD_2018_LentilStemphylium/q1s2_Root" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_CSRD_2018_LentilStemphylium/Scoring/S2/other2 ,  /CSISA_CSRD_2018_LentilStemphylium/Scoring , 1)" nodeset="/CSISA_CSRD_2018_LentilStemphylium/q1s2_Other" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_CSRD_2018_LentilStemphylium/Scoring/S3/sb3 ,  /CSISA_CSRD_2018_LentilStemphylium/Scoring , 1)" nodeset="/CSISA_CSRD_2018_LentilStemphylium/q1s3_SB" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_CSRD_2018_LentilStemphylium/Scoring/S3/sbr3 ,  /CSISA_CSRD_2018_LentilStemphylium/Scoring , 1)" nodeset="/CSISA_CSRD_2018_LentilStemphylium/q1s3_SBR" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_CSRD_2018_LentilStemphylium/Scoring/S3/sbo3 ,  /CSISA_CSRD_2018_LentilStemphylium/Scoring , 1)" nodeset="/CSISA_CSRD_2018_LentilStemphylium/q1s3_SBO" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_CSRD_2018_LentilStemphylium/Scoring/S3/root3 ,  /CSISA_CSRD_2018_LentilStemphylium/Scoring , 1)" nodeset="/CSISA_CSRD_2018_LentilStemphylium/q1s3_Root" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_CSRD_2018_LentilStemphylium/Scoring/S3/other3 ,  /CSISA_CSRD_2018_LentilStemphylium/Scoring , 1)" nodeset="/CSISA_CSRD_2018_LentilStemphylium/q1s3_Other" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_CSRD_2018_LentilStemphylium/Scoring/S4/sb4 ,  /CSISA_CSRD_2018_LentilStemphylium/Scoring , 1)" nodeset="/CSISA_CSRD_2018_LentilStemphylium/q1s4_SB" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_CSRD_2018_LentilStemphylium/Scoring/S4/sbr4 ,  /CSISA_CSRD_2018_LentilStemphylium/Scoring , 1)" nodeset="/CSISA_CSRD_2018_LentilStemphylium/q1s4_SBR" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_CSRD_2018_LentilStemphylium/Scoring/S4/sbo4 ,  /CSISA_CSRD_2018_LentilStemphylium/Scoring , 1)" nodeset="/CSISA_CSRD_2018_LentilStemphylium/q1s4_SBO" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_CSRD_2018_LentilStemphylium/Scoring/S4/root4 ,  /CSISA_CSRD_2018_LentilStemphylium/Scoring , 1)" nodeset="/CSISA_CSRD_2018_LentilStemphylium/q1s4_Root" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_CSRD_2018_LentilStemphylium/Scoring/S4/other4 ,  /CSISA_CSRD_2018_LentilStemphylium/Scoring , 1)" nodeset="/CSISA_CSRD_2018_LentilStemphylium/q1s4_Other" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_CSRD_2018_LentilStemphylium/Scoring/S5/sb5 ,  /CSISA_CSRD_2018_LentilStemphylium/Scoring , 1)" nodeset="/CSISA_CSRD_2018_LentilStemphylium/q1s5_SB" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_CSRD_2018_LentilStemphylium/Scoring/S5/sbr5 ,  /CSISA_CSRD_2018_LentilStemphylium/Scoring , 1)" nodeset="/CSISA_CSRD_2018_LentilStemphylium/q1s5_SBR" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_CSRD_2018_LentilStemphylium/Scoring/S5/sbo5 ,  /CSISA_CSRD_2018_LentilStemphylium/Scoring , 1)" nodeset="/CSISA_CSRD_2018_LentilStemphylium/q1s5_SBO" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_CSRD_2018_LentilStemphylium/Scoring/S5/root5 ,  /CSISA_CSRD_2018_LentilStemphylium/Scoring , 1)" nodeset="/CSISA_CSRD_2018_LentilStemphylium/q1s5_Root" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_CSRD_2018_LentilStemphylium/Scoring/S5/other5 ,  /CSISA_CSRD_2018_LentilStemphylium/Scoring , 1)" nodeset="/CSISA_CSRD_2018_LentilStemphylium/q1s5_Other" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_CSRD_2018_LentilStemphylium/Scoring/qCode ,  /CSISA_CSRD_2018_LentilStemphylium/Scoring , 2)" nodeset="/CSISA_CSRD_2018_LentilStemphylium/q2Code" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_CSRD_2018_LentilStemphylium/Scoring/quadNumber ,  /CSISA_CSRD_2018_LentilStemphylium/Scoring , 2)" nodeset="/CSISA_CSRD_2018_LentilStemphylium/q2" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_CSRD_2018_LentilStemphylium/Scoring/cG ,  /CSISA_CSRD_2018_LentilStemphylium/Scoring , 2)" nodeset="/CSISA_CSRD_2018_LentilStemphylium/q2CropGround" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_CSRD_2018_LentilStemphylium/Scoring/ndvi ,  /CSISA_CSRD_2018_LentilStemphylium/Scoring , 2)" nodeset="/CSISA_CSRD_2018_LentilStemphylium/q2NDVI" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_CSRD_2018_LentilStemphylium/Scoring/S1/noDis ,  /CSISA_CSRD_2018_LentilStemphylium/Scoring , 2)" nodeset="/CSISA_CSRD_2018_LentilStemphylium/q2s1_NoDisease" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_CSRD_2018_LentilStemphylium/Scoring/S2/sb2 ,  /CSISA_CSRD_2018_LentilStemphylium/Scoring , 2)" nodeset="/CSISA_CSRD_2018_LentilStemphylium/q2s2_SB" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_CSRD_2018_LentilStemphylium/Scoring/S2/sbr2 ,  /CSISA_CSRD_2018_LentilStemphylium/Scoring , 2)" nodeset="/CSISA_CSRD_2018_LentilStemphylium/q2s2_SBR" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_CSRD_2018_LentilStemphylium/Scoring/S2/sbo2 ,  /CSISA_CSRD_2018_LentilStemphylium/Scoring , 2)" nodeset="/CSISA_CSRD_2018_LentilStemphylium/q2s2_SBO" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_CSRD_2018_LentilStemphylium/Scoring/S2/root2 ,  /CSISA_CSRD_2018_LentilStemphylium/Scoring , 2)" nodeset="/CSISA_CSRD_2018_LentilStemphylium/q2s2_Root" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_CSRD_2018_LentilStemphylium/Scoring/S2/other2 ,  /CSISA_CSRD_2018_LentilStemphylium/Scoring , 2)" nodeset="/CSISA_CSRD_2018_LentilStemphylium/q2s2_Other" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_CSRD_2018_LentilStemphylium/Scoring/S3/sb3 ,  /CSISA_CSRD_2018_LentilStemphylium/Scoring , 2)" nodeset="/CSISA_CSRD_2018_LentilStemphylium/q2s3_SB" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_CSRD_2018_LentilStemphylium/Scoring/S3/sbr3 ,  /CSISA_CSRD_2018_LentilStemphylium/Scoring , 2)" nodeset="/CSISA_CSRD_2018_LentilStemphylium/q2s3_SBR" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_CSRD_2018_LentilStemphylium/Scoring/S3/sbo3 ,  /CSISA_CSRD_2018_LentilStemphylium/Scoring , 2)" nodeset="/CSISA_CSRD_2018_LentilStemphylium/q2s3_SBO" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_CSRD_2018_LentilStemphylium/Scoring/S3/root3 ,  /CSISA_CSRD_2018_LentilStemphylium/Scoring , 2)" nodeset="/CSISA_CSRD_2018_LentilStemphylium/q2s3_Root" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_CSRD_2018_LentilStemphylium/Scoring/S3/other3 ,  /CSISA_CSRD_2018_LentilStemphylium/Scoring , 2)" nodeset="/CSISA_CSRD_2018_LentilStemphylium/q2s3_Other" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_CSRD_2018_LentilStemphylium/Scoring/S4/sb4 ,  /CSISA_CSRD_2018_LentilStemphylium/Scoring , 2)" nodeset="/CSISA_CSRD_2018_LentilStemphylium/q2s4_SB" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_CSRD_2018_LentilStemphylium/Scoring/S4/sbr4 ,  /CSISA_CSRD_2018_LentilStemphylium/Scoring , 2)" nodeset="/CSISA_CSRD_2018_LentilStemphylium/q2s4_SBR" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_CSRD_2018_LentilStemphylium/Scoring/S4/sbo4 ,  /CSISA_CSRD_2018_LentilStemphylium/Scoring , 2)" nodeset="/CSISA_CSRD_2018_LentilStemphylium/q2s4_SBO" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_CSRD_2018_LentilStemphylium/Scoring/S4/root4 ,  /CSISA_CSRD_2018_LentilStemphylium/Scoring , 2)" nodeset="/CSISA_CSRD_2018_LentilStemphylium/q2s4_Root" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_CSRD_2018_LentilStemphylium/Scoring/S4/other4 ,  /CSISA_CSRD_2018_LentilStemphylium/Scoring , 2)" nodeset="/CSISA_CSRD_2018_LentilStemphylium/q2s4_Other" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_CSRD_2018_LentilStemphylium/Scoring/S5/sb5 ,  /CSISA_CSRD_2018_LentilStemphylium/Scoring , 2)" nodeset="/CSISA_CSRD_2018_LentilStemphylium/q2s5_SB" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_CSRD_2018_LentilStemphylium/Scoring/S5/sbr5 ,  /CSISA_CSRD_2018_LentilStemphylium/Scoring , 2)" nodeset="/CSISA_CSRD_2018_LentilStemphylium/q2s5_SBR" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_CSRD_2018_LentilStemphylium/Scoring/S5/sbo5 ,  /CSISA_CSRD_2018_LentilStemphylium/Scoring , 2)" nodeset="/CSISA_CSRD_2018_LentilStemphylium/q2s5_SBO" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_CSRD_2018_LentilStemphylium/Scoring/S5/root5 ,  /CSISA_CSRD_2018_LentilStemphylium/Scoring , 2)" nodeset="/CSISA_CSRD_2018_LentilStemphylium/q2s5_Root" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_CSRD_2018_LentilStemphylium/Scoring/S5/other5 ,  /CSISA_CSRD_2018_LentilStemphylium/Scoring , 2)" nodeset="/CSISA_CSRD_2018_LentilStemphylium/q2s5_Other" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_CSRD_2018_LentilStemphylium/Scoring/qCode ,  /CSISA_CSRD_2018_LentilStemphylium/Scoring , 3)" nodeset="/CSISA_CSRD_2018_LentilStemphylium/q3Code" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_CSRD_2018_LentilStemphylium/Scoring/quadNumber ,  /CSISA_CSRD_2018_LentilStemphylium/Scoring , 3)" nodeset="/CSISA_CSRD_2018_LentilStemphylium/q3" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_CSRD_2018_LentilStemphylium/Scoring/cG ,  /CSISA_CSRD_2018_LentilStemphylium/Scoring , 3)" nodeset="/CSISA_CSRD_2018_LentilStemphylium/q3CropGround" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_CSRD_2018_LentilStemphylium/Scoring/ndvi ,  /CSISA_CSRD_2018_LentilStemphylium/Scoring , 3)" nodeset="/CSISA_CSRD_2018_LentilStemphylium/q3NDVI" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_CSRD_2018_LentilStemphylium/Scoring/S1/noDis ,  /CSISA_CSRD_2018_LentilStemphylium/Scoring , 3)" nodeset="/CSISA_CSRD_2018_LentilStemphylium/q3s1_NoDisease" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_CSRD_2018_LentilStemphylium/Scoring/S2/sb2 ,  /CSISA_CSRD_2018_LentilStemphylium/Scoring , 3)" nodeset="/CSISA_CSRD_2018_LentilStemphylium/q3s2_SB" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_CSRD_2018_LentilStemphylium/Scoring/S2/sbr2 ,  /CSISA_CSRD_2018_LentilStemphylium/Scoring , 3)" nodeset="/CSISA_CSRD_2018_LentilStemphylium/q3s2_SBR" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_CSRD_2018_LentilStemphylium/Scoring/S2/sbo2 ,  /CSISA_CSRD_2018_LentilStemphylium/Scoring , 3)" nodeset="/CSISA_CSRD_2018_LentilStemphylium/q3s2_SBO" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_CSRD_2018_LentilStemphylium/Scoring/S2/root2 ,  /CSISA_CSRD_2018_LentilStemphylium/Scoring , 3)" nodeset="/CSISA_CSRD_2018_LentilStemphylium/q3s2_Root" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_CSRD_2018_LentilStemphylium/Scoring/S2/other2 ,  /CSISA_CSRD_2018_LentilStemphylium/Scoring , 3)" nodeset="/CSISA_CSRD_2018_LentilStemphylium/q3s2_Other" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_CSRD_2018_LentilStemphylium/Scoring/S3/sb3 ,  /CSISA_CSRD_2018_LentilStemphylium/Scoring , 3)" nodeset="/CSISA_CSRD_2018_LentilStemphylium/q3s3_SB" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_CSRD_2018_LentilStemphylium/Scoring/S3/sbr3 ,  /CSISA_CSRD_2018_LentilStemphylium/Scoring , 3)" nodeset="/CSISA_CSRD_2018_LentilStemphylium/q3s3_SBR" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_CSRD_2018_LentilStemphylium/Scoring/S3/sbo3 ,  /CSISA_CSRD_2018_LentilStemphylium/Scoring , 3)" nodeset="/CSISA_CSRD_2018_LentilStemphylium/q3s3_SBO" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_CSRD_2018_LentilStemphylium/Scoring/S3/root3 ,  /CSISA_CSRD_2018_LentilStemphylium/Scoring , 3)" nodeset="/CSISA_CSRD_2018_LentilStemphylium/q3s3_Root" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_CSRD_2018_LentilStemphylium/Scoring/S3/other3 ,  /CSISA_CSRD_2018_LentilStemphylium/Scoring , 3)" nodeset="/CSISA_CSRD_2018_LentilStemphylium/q3s3_Other" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_CSRD_2018_LentilStemphylium/Scoring/S4/sb4 ,  /CSISA_CSRD_2018_LentilStemphylium/Scoring , 3)" nodeset="/CSISA_CSRD_2018_LentilStemphylium/q3s4_SB" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_CSRD_2018_LentilStemphylium/Scoring/S4/sbr4 ,  /CSISA_CSRD_2018_LentilStemphylium/Scoring , 3)" nodeset="/CSISA_CSRD_2018_LentilStemphylium/q3s4_SBR" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_CSRD_2018_LentilStemphylium/Scoring/S4/sbo4 ,  /CSISA_CSRD_2018_LentilStemphylium/Scoring , 3)" nodeset="/CSISA_CSRD_2018_LentilStemphylium/q3s4_SBO" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_CSRD_2018_LentilStemphylium/Scoring/S4/root4 ,  /CSISA_CSRD_2018_LentilStemphylium/Scoring , 3)" nodeset="/CSISA_CSRD_2018_LentilStemphylium/q3s4_Root" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_CSRD_2018_LentilStemphylium/Scoring/S4/other4 ,  /CSISA_CSRD_2018_LentilStemphylium/Scoring , 3)" nodeset="/CSISA_CSRD_2018_LentilStemphylium/q3s4_Other" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_CSRD_2018_LentilStemphylium/Scoring/S5/sb5 ,  /CSISA_CSRD_2018_LentilStemphylium/Scoring , 3)" nodeset="/CSISA_CSRD_2018_LentilStemphylium/q3s5_SB" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_CSRD_2018_LentilStemphylium/Scoring/S5/sbr5 ,  /CSISA_CSRD_2018_LentilStemphylium/Scoring , 3)" nodeset="/CSISA_CSRD_2018_LentilStemphylium/q3s5_SBR" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_CSRD_2018_LentilStemphylium/Scoring/S5/sbo5 ,  /CSISA_CSRD_2018_LentilStemphylium/Scoring , 3)" nodeset="/CSISA_CSRD_2018_LentilStemphylium/q3s5_SBO" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_CSRD_2018_LentilStemphylium/Scoring/S5/root5 ,  /CSISA_CSRD_2018_LentilStemphylium/Scoring , 3)" nodeset="/CSISA_CSRD_2018_LentilStemphylium/q3s5_Root" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_CSRD_2018_LentilStemphylium/Scoring/S5/other5 ,  /CSISA_CSRD_2018_LentilStemphylium/Scoring , 3)" nodeset="/CSISA_CSRD_2018_LentilStemphylium/q3s5_Other" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_CSRD_2018_LentilStemphylium/Scoring/qCode ,  /CSISA_CSRD_2018_LentilStemphylium/Scoring , 4)" nodeset="/CSISA_CSRD_2018_LentilStemphylium/q4Code" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_CSRD_2018_LentilStemphylium/Scoring/quadNumber ,  /CSISA_CSRD_2018_LentilStemphylium/Scoring , 4)" nodeset="/CSISA_CSRD_2018_LentilStemphylium/q4" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_CSRD_2018_LentilStemphylium/Scoring/cG ,  /CSISA_CSRD_2018_LentilStemphylium/Scoring , 4)" nodeset="/CSISA_CSRD_2018_LentilStemphylium/q4CropGround" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_CSRD_2018_LentilStemphylium/Scoring/ndvi ,  /CSISA_CSRD_2018_LentilStemphylium/Scoring , 4)" nodeset="/CSISA_CSRD_2018_LentilStemphylium/q4NDVI" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_CSRD_2018_LentilStemphylium/Scoring/S1/noDis ,  /CSISA_CSRD_2018_LentilStemphylium/Scoring , 4)" nodeset="/CSISA_CSRD_2018_LentilStemphylium/q4s1_NoDisease" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_CSRD_2018_LentilStemphylium/Scoring/S2/sb2 ,  /CSISA_CSRD_2018_LentilStemphylium/Scoring , 4)" nodeset="/CSISA_CSRD_2018_LentilStemphylium/q4s2_SB" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_CSRD_2018_LentilStemphylium/Scoring/S2/sbr2 ,  /CSISA_CSRD_2018_LentilStemphylium/Scoring , 4)" nodeset="/CSISA_CSRD_2018_LentilStemphylium/q4s2_SBR" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_CSRD_2018_LentilStemphylium/Scoring/S2/sbo2 ,  /CSISA_CSRD_2018_LentilStemphylium/Scoring , 4)" nodeset="/CSISA_CSRD_2018_LentilStemphylium/q4s2_SBO" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_CSRD_2018_LentilStemphylium/Scoring/S2/root2 ,  /CSISA_CSRD_2018_LentilStemphylium/Scoring , 4)" nodeset="/CSISA_CSRD_2018_LentilStemphylium/q4s2_Root" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_CSRD_2018_LentilStemphylium/Scoring/S2/other2 ,  /CSISA_CSRD_2018_LentilStemphylium/Scoring , 4)" nodeset="/CSISA_CSRD_2018_LentilStemphylium/q4s2_Other" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_CSRD_2018_LentilStemphylium/Scoring/S3/sb3 ,  /CSISA_CSRD_2018_LentilStemphylium/Scoring , 4)" nodeset="/CSISA_CSRD_2018_LentilStemphylium/q4s3_SB" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_CSRD_2018_LentilStemphylium/Scoring/S3/sbr3 ,  /CSISA_CSRD_2018_LentilStemphylium/Scoring , 4)" nodeset="/CSISA_CSRD_2018_LentilStemphylium/q4s3_SBR" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_CSRD_2018_LentilStemphylium/Scoring/S3/sbo3 ,  /CSISA_CSRD_2018_LentilStemphylium/Scoring , 4)" nodeset="/CSISA_CSRD_2018_LentilStemphylium/q4s3_SBO" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_CSRD_2018_LentilStemphylium/Scoring/S3/root3 ,  /CSISA_CSRD_2018_LentilStemphylium/Scoring , 4)" nodeset="/CSISA_CSRD_2018_LentilStemphylium/q4s3_Root" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_CSRD_2018_LentilStemphylium/Scoring/S3/other3 ,  /CSISA_CSRD_2018_LentilStemphylium/Scoring , 4)" nodeset="/CSISA_CSRD_2018_LentilStemphylium/q4s3_Other" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_CSRD_2018_LentilStemphylium/Scoring/S4/sb4 ,  /CSISA_CSRD_2018_LentilStemphylium/Scoring , 4)" nodeset="/CSISA_CSRD_2018_LentilStemphylium/q4s4_SB" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_CSRD_2018_LentilStemphylium/Scoring/S4/sbr4 ,  /CSISA_CSRD_2018_LentilStemphylium/Scoring , 4)" nodeset="/CSISA_CSRD_2018_LentilStemphylium/q4s4_SBR" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_CSRD_2018_LentilStemphylium/Scoring/S4/sbo4 ,  /CSISA_CSRD_2018_LentilStemphylium/Scoring , 4)" nodeset="/CSISA_CSRD_2018_LentilStemphylium/q4s4_SBO" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_CSRD_2018_LentilStemphylium/Scoring/S4/root4 ,  /CSISA_CSRD_2018_LentilStemphylium/Scoring , 4)" nodeset="/CSISA_CSRD_2018_LentilStemphylium/q4s4_Root" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_CSRD_2018_LentilStemphylium/Scoring/S4/other4 ,  /CSISA_CSRD_2018_LentilStemphylium/Scoring , 4)" nodeset="/CSISA_CSRD_2018_LentilStemphylium/q4s4_Other" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_CSRD_2018_LentilStemphylium/Scoring/S5/sb5 ,  /CSISA_CSRD_2018_LentilStemphylium/Scoring , 4)" nodeset="/CSISA_CSRD_2018_LentilStemphylium/q4s5_SB" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_CSRD_2018_LentilStemphylium/Scoring/S5/sbr5 ,  /CSISA_CSRD_2018_LentilStemphylium/Scoring , 4)" nodeset="/CSISA_CSRD_2018_LentilStemphylium/q4s5_SBR" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_CSRD_2018_LentilStemphylium/Scoring/S5/sbo5 ,  /CSISA_CSRD_2018_LentilStemphylium/Scoring , 4)" nodeset="/CSISA_CSRD_2018_LentilStemphylium/q4s5_SBO" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_CSRD_2018_LentilStemphylium/Scoring/S5/root5 ,  /CSISA_CSRD_2018_LentilStemphylium/Scoring , 4)" nodeset="/CSISA_CSRD_2018_LentilStemphylium/q4s5_Root" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_CSRD_2018_LentilStemphylium/Scoring/S5/other5 ,  /CSISA_CSRD_2018_LentilStemphylium/Scoring , 4)" nodeset="/CSISA_CSRD_2018_LentilStemphylium/q4s5_Other" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_CSRD_2018_LentilStemphylium/Scoring/qCode ,  /CSISA_CSRD_2018_LentilStemphylium/Scoring , 5)" nodeset="/CSISA_CSRD_2018_LentilStemphylium/q5Code" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_CSRD_2018_LentilStemphylium/Scoring/quadNumber ,  /CSISA_CSRD_2018_LentilStemphylium/Scoring , 5)" nodeset="/CSISA_CSRD_2018_LentilStemphylium/q5" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_CSRD_2018_LentilStemphylium/Scoring/cG ,  /CSISA_CSRD_2018_LentilStemphylium/Scoring , 5)" nodeset="/CSISA_CSRD_2018_LentilStemphylium/q5CropGround" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_CSRD_2018_LentilStemphylium/Scoring/ndvi ,  /CSISA_CSRD_2018_LentilStemphylium/Scoring , 5)" nodeset="/CSISA_CSRD_2018_LentilStemphylium/q5NDVI" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_CSRD_2018_LentilStemphylium/Scoring/S1/noDis ,  /CSISA_CSRD_2018_LentilStemphylium/Scoring , 5)" nodeset="/CSISA_CSRD_2018_LentilStemphylium/q5s1_NoDisease" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_CSRD_2018_LentilStemphylium/Scoring/S2/sb2 ,  /CSISA_CSRD_2018_LentilStemphylium/Scoring , 5)" nodeset="/CSISA_CSRD_2018_LentilStemphylium/q5s2_SB" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_CSRD_2018_LentilStemphylium/Scoring/S2/sbr2 ,  /CSISA_CSRD_2018_LentilStemphylium/Scoring , 5)" nodeset="/CSISA_CSRD_2018_LentilStemphylium/q5s2_SBR" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_CSRD_2018_LentilStemphylium/Scoring/S2/sbo2 ,  /CSISA_CSRD_2018_LentilStemphylium/Scoring , 5)" nodeset="/CSISA_CSRD_2018_LentilStemphylium/q5s2_SBO" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_CSRD_2018_LentilStemphylium/Scoring/S2/root2 ,  /CSISA_CSRD_2018_LentilStemphylium/Scoring , 5)" nodeset="/CSISA_CSRD_2018_LentilStemphylium/q5s2_Root" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_CSRD_2018_LentilStemphylium/Scoring/S2/other2 ,  /CSISA_CSRD_2018_LentilStemphylium/Scoring , 5)" nodeset="/CSISA_CSRD_2018_LentilStemphylium/q5s2_Other" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_CSRD_2018_LentilStemphylium/Scoring/S3/sb3 ,  /CSISA_CSRD_2018_LentilStemphylium/Scoring , 5)" nodeset="/CSISA_CSRD_2018_LentilStemphylium/q5s3_SB" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_CSRD_2018_LentilStemphylium/Scoring/S3/sbr3 ,  /CSISA_CSRD_2018_LentilStemphylium/Scoring , 5)" nodeset="/CSISA_CSRD_2018_LentilStemphylium/q5s3_SBR" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_CSRD_2018_LentilStemphylium/Scoring/S3/sbo3 ,  /CSISA_CSRD_2018_LentilStemphylium/Scoring , 5)" nodeset="/CSISA_CSRD_2018_LentilStemphylium/q5s3_SBO" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_CSRD_2018_LentilStemphylium/Scoring/S3/root3 ,  /CSISA_CSRD_2018_LentilStemphylium/Scoring , 5)" nodeset="/CSISA_CSRD_2018_LentilStemphylium/q5s3_Root" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_CSRD_2018_LentilStemphylium/Scoring/S3/other3 ,  /CSISA_CSRD_2018_LentilStemphylium/Scoring , 5)" nodeset="/CSISA_CSRD_2018_LentilStemphylium/q5s3_Other" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_CSRD_2018_LentilStemphylium/Scoring/S4/sb4 ,  /CSISA_CSRD_2018_LentilStemphylium/Scoring , 5)" nodeset="/CSISA_CSRD_2018_LentilStemphylium/q5s4_SB" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_CSRD_2018_LentilStemphylium/Scoring/S4/sbr4 ,  /CSISA_CSRD_2018_LentilStemphylium/Scoring , 5)" nodeset="/CSISA_CSRD_2018_LentilStemphylium/q5s4_SBR" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_CSRD_2018_LentilStemphylium/Scoring/S4/sbo4 ,  /CSISA_CSRD_2018_LentilStemphylium/Scoring , 5)" nodeset="/CSISA_CSRD_2018_LentilStemphylium/q5s4_SBO" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_CSRD_2018_LentilStemphylium/Scoring/S4/root4 ,  /CSISA_CSRD_2018_LentilStemphylium/Scoring , 5)" nodeset="/CSISA_CSRD_2018_LentilStemphylium/q5s4_Root" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_CSRD_2018_LentilStemphylium/Scoring/S4/other4 ,  /CSISA_CSRD_2018_LentilStemphylium/Scoring , 5)" nodeset="/CSISA_CSRD_2018_LentilStemphylium/q5s4_Other" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_CSRD_2018_LentilStemphylium/Scoring/S5/sb5 ,  /CSISA_CSRD_2018_LentilStemphylium/Scoring , 5)" nodeset="/CSISA_CSRD_2018_LentilStemphylium/q5s5_SB" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_CSRD_2018_LentilStemphylium/Scoring/S5/sbr5 ,  /CSISA_CSRD_2018_LentilStemphylium/Scoring , 5)" nodeset="/CSISA_CSRD_2018_LentilStemphylium/q5s5_SBR" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_CSRD_2018_LentilStemphylium/Scoring/S5/sbo5 ,  /CSISA_CSRD_2018_LentilStemphylium/Scoring , 5)" nodeset="/CSISA_CSRD_2018_LentilStemphylium/q5s5_SBO" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_CSRD_2018_LentilStemphylium/Scoring/S5/root5 ,  /CSISA_CSRD_2018_LentilStemphylium/Scoring , 5)" nodeset="/CSISA_CSRD_2018_LentilStemphylium/q5s5_Root" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_CSRD_2018_LentilStemphylium/Scoring/S5/other5 ,  /CSISA_CSRD_2018_LentilStemphylium/Scoring , 5)" nodeset="/CSISA_CSRD_2018_LentilStemphylium/q5s5_Other" type="string"/>
+      <bind calculate="concat('uuid:', uuid())" nodeset="/CSISA_CSRD_2018_LentilStemphylium/meta/instanceID" readonly="true()" type="string"/>
+    </model>
+  </h:head>
+  <h:body>
+    <input ref="/CSISA_CSRD_2018_LentilStemphylium/generated_note_name_7">
+      <label>Stempedia model validating and calibrating (Rabi season 2017-18)</label>
+    </input>
+    <input ref="/CSISA_CSRD_2018_LentilStemphylium/surveyor">
+      <label>Name of surveyor</label>
+    </input>
+    <input ref="/CSISA_CSRD_2018_LentilStemphylium/gps">
+      <label>Collect the GPS coordinates of the field (on the entry point)</label>
+      <hint>Make sure the accuracy is less than 10 meters</hint>
+    </input>
+    <select1 ref="/CSISA_CSRD_2018_LentilStemphylium/country">
+      <label>Name of the country</label>
+      <item>
+        <label>Bangladesh</label>
+        <value>880</value>
+      </item>
+      <item>
+        <label>India</label>
+        <value>91</value>
+      </item>
+      <item>
+        <label>Nepal</label>
+        <value>977</value>
+      </item>
+    </select1>
+    <select1 ref="/CSISA_CSRD_2018_LentilStemphylium/district">
+      <label>Select District</label>
+      <itemset nodeset="instance('district')/root/item[country= /CSISA_CSRD_2018_LentilStemphylium/country ]">
+        <value ref="name"/>
+        <label ref="jr:itext(itextId)"/>
+      </itemset>
+    </select1>
+    <input ref="/CSISA_CSRD_2018_LentilStemphylium/village_name">
+      <label>Name of the village</label>
+    </input>
+    <input ref="/CSISA_CSRD_2018_LentilStemphylium/name_farmer">
+      <label>Name of the farmer</label>
+    </input>
+    <input appearance="no-calendar" ref="/CSISA_CSRD_2018_LentilStemphylium/dateOfVisit">
+      <label>Date of the visit</label>
+    </input>
+    <select1 ref="/CSISA_CSRD_2018_LentilStemphylium/site_id">
+      <label>Site ID</label>
+      <item>
+        <label>1</label>
+        <value>1</value>
+      </item>
+      <item>
+        <label>2</label>
+        <value>2</value>
+      </item>
+      <item>
+        <label>3</label>
+        <value>3</value>
+      </item>
+      <item>
+        <label>4</label>
+        <value>4</value>
+      </item>
+      <item>
+        <label>5</label>
+        <value>5</value>
+      </item>
+    </select1>
+    <select1 appearance="minimal" ref="/CSISA_CSRD_2018_LentilStemphylium/field_id">
+      <label>Field ID</label>
+      <item>
+        <label>1</label>
+        <value>1</value>
+      </item>
+      <item>
+        <label>2</label>
+        <value>2</value>
+      </item>
+      <item>
+        <label>3</label>
+        <value>3</value>
+      </item>
+      <item>
+        <label>4</label>
+        <value>4</value>
+      </item>
+      <item>
+        <label>5</label>
+        <value>5</value>
+      </item>
+      <item>
+        <label>6</label>
+        <value>6</value>
+      </item>
+      <item>
+        <label>7</label>
+        <value>7</value>
+      </item>
+      <item>
+        <label>8</label>
+        <value>8</value>
+      </item>
+      <item>
+        <label>9</label>
+        <value>9</value>
+      </item>
+      <item>
+        <label>10</label>
+        <value>10</value>
+      </item>
+      <item>
+        <label>11</label>
+        <value>11</value>
+      </item>
+      <item>
+        <label>12</label>
+        <value>12</value>
+      </item>
+      <item>
+        <label>13</label>
+        <value>13</value>
+      </item>
+      <item>
+        <label>14</label>
+        <value>14</value>
+      </item>
+      <item>
+        <label>15</label>
+        <value>15</value>
+      </item>
+      <item>
+        <label>16</label>
+        <value>16</value>
+      </item>
+      <item>
+        <label>17</label>
+        <value>17</value>
+      </item>
+      <item>
+        <label>18</label>
+        <value>18</value>
+      </item>
+      <item>
+        <label>19</label>
+        <value>19</value>
+      </item>
+      <item>
+        <label>20</label>
+        <value>20</value>
+      </item>
+      <item>
+        <label>21</label>
+        <value>21</value>
+      </item>
+      <item>
+        <label>22</label>
+        <value>22</value>
+      </item>
+      <item>
+        <label>23</label>
+        <value>23</value>
+      </item>
+      <item>
+        <label>24</label>
+        <value>24</value>
+      </item>
+      <item>
+        <label>25</label>
+        <value>25</value>
+      </item>
+      <item>
+        <label>26</label>
+        <value>26</value>
+      </item>
+      <item>
+        <label>27</label>
+        <value>27</value>
+      </item>
+      <item>
+        <label>28</label>
+        <value>28</value>
+      </item>
+      <item>
+        <label>29</label>
+        <value>29</value>
+      </item>
+      <item>
+        <label>30</label>
+        <value>30</value>
+      </item>
+      <item>
+        <label>31</label>
+        <value>31</value>
+      </item>
+      <item>
+        <label>32</label>
+        <value>32</value>
+      </item>
+      <item>
+        <label>33</label>
+        <value>33</value>
+      </item>
+      <item>
+        <label>34</label>
+        <value>34</value>
+      </item>
+      <item>
+        <label>35</label>
+        <value>35</value>
+      </item>
+      <item>
+        <label>36</label>
+        <value>36</value>
+      </item>
+      <item>
+        <label>37</label>
+        <value>37</value>
+      </item>
+      <item>
+        <label>38</label>
+        <value>38</value>
+      </item>
+      <item>
+        <label>39</label>
+        <value>39</value>
+      </item>
+      <item>
+        <label>40</label>
+        <value>40</value>
+      </item>
+    </select1>
+    <select1 ref="/CSISA_CSRD_2018_LentilStemphylium/visit_id">
+      <label>Visit ID</label>
+      <item>
+        <label>First visit</label>
+        <value>1</value>
+      </item>
+      <item>
+        <label>Second visit</label>
+        <value>2</value>
+      </item>
+      <item>
+        <label>Third visit</label>
+        <value>3</value>
+      </item>
+    </select1>
+    <input ref="/CSISA_CSRD_2018_LentilStemphylium/variety">
+      <label>Name of the variety</label>
+      <hint>enter "na" if the farmer is unable to recall variety name</hint>
+    </input>
+    <select1 ref="/CSISA_CSRD_2018_LentilStemphylium/seedType">
+      <label>Select the type of seed</label>
+      <item>
+        <label>Bold</label>
+        <value>bold</value>
+      </item>
+      <item>
+        <label>Small</label>
+        <value>small</value>
+      </item>
+    </select1>
+    <input appearance="no-calendar" ref="/CSISA_CSRD_2018_LentilStemphylium/sowingDate">
+      <label>Sowing date</label>
+    </input>
+    <input appearance="no-calendar" ref="/CSISA_CSRD_2018_LentilStemphylium/exp50FloweringDate">
+      <label>Expected date of 50% flowering</label>
+    </input>
+    <input ref="/CSISA_CSRD_2018_LentilStemphylium/expYield">
+      <label>Farmer's expected yield (t/ha)</label>
+    </input>
+    <select1 ref="/CSISA_CSRD_2018_LentilStemphylium/seedingMethod">
+      <label>Select the seeding method</label>
+      <item>
+        <label>Line sown</label>
+        <value>lineSown</value>
+      </item>
+      <item>
+        <label>Broadcast</label>
+        <value>broadcast</value>
+      </item>
+      <item>
+        <label>Relay (Para-seeding)</label>
+        <value>relay</value>
+      </item>
+    </select1>
+    <select1 ref="/CSISA_CSRD_2018_LentilStemphylium/phenologicalStage">
+      <label>Select the phenological stage of the crop</label>
+      <item>
+        <label>Seedling stage</label>
+        <value>seedling</value>
+      </item>
+      <item>
+        <label>Early vegetative stage</label>
+        <value>earlyVegetative</value>
+      </item>
+      <item>
+        <label>Late vegetative stage</label>
+        <value>lateVegetative</value>
+      </item>
+      <item>
+        <label>Flowering stage (1-25%)</label>
+        <value>FS1</value>
+      </item>
+      <item>
+        <label>Flowering stage (26-50%)</label>
+        <value>FS2</value>
+      </item>
+      <item>
+        <label>Flowering stage (51-50%)</label>
+        <value>FS3</value>
+      </item>
+      <item>
+        <label>Flowering stage (&gt;75%)</label>
+        <value>FS4</value>
+      </item>
+      <item>
+        <label>Maturity</label>
+        <value>maturity</value>
+      </item>
+    </select1>
+    <input ref="/CSISA_CSRD_2018_LentilStemphylium/generated_note_name_27">
+      <label>NDVI reading for two diagonals</label>
+    </input>
+    <input ref="/CSISA_CSRD_2018_LentilStemphylium/ndvi_d1">
+      <label>NDVI reading@diagonal 1</label>
+    </input>
+    <input ref="/CSISA_CSRD_2018_LentilStemphylium/ndvi_d2">
+      <label>NDVI reading@diagonal 2</label>
+    </input>
+    <input ref="/CSISA_CSRD_2018_LentilStemphylium/n1">
+      <label>Diseases scoring A. Eye estimation (0-100%) of the crop ground cover in quadrat area B. Take NDVI reading at the centre of the quadrat before setting the quadrat. Take three (photographs) a. whole quadrat b. whole plant c. close snap of leaf / diseased area</label>
+    </input>
+    <select1 ref="/CSISA_CSRD_2018_LentilStemphylium/totalQuadrat">
+      <label>How many Quadrats are you using?</label>
+      <item>
+        <label>1</label>
+        <value>1</value>
+      </item>
+      <item>
+        <label>2</label>
+        <value>2</value>
+      </item>
+      <item>
+        <label>3</label>
+        <value>3</value>
+      </item>
+      <item>
+        <label>4</label>
+        <value>4</value>
+      </item>
+      <item>
+        <label>5</label>
+        <value>5</value>
+      </item>
+    </select1>
+    <group ref="/CSISA_CSRD_2018_LentilStemphylium/Scoring">
+      <label>Disease scoring</label>
+      <repeat jr:count=" /CSISA_CSRD_2018_LentilStemphylium/Scoring_count " nodeset="/CSISA_CSRD_2018_LentilStemphylium/Scoring">
+        <select1 ref="/CSISA_CSRD_2018_LentilStemphylium/Scoring/quadNumber">
+          <label>Select Quadrat number</label>
+          <item>
+            <label>Q1</label>
+            <value>1</value>
+          </item>
+          <item>
+            <label>Q2</label>
+            <value>2</value>
+          </item>
+          <item>
+            <label>Q3</label>
+            <value>3</value>
+          </item>
+          <item>
+            <label>Q4</label>
+            <value>4</value>
+          </item>
+          <item>
+            <label>Q5</label>
+            <value>5</value>
+          </item>
+        </select1>
+        <input ref="/CSISA_CSRD_2018_LentilStemphylium/Scoring/cG">
+          <label>Visually estimate the crop ground cover (0 - 100%) in each 1 meter square quadrat</label>
+        </input>
+        <input ref="/CSISA_CSRD_2018_LentilStemphylium/Scoring/ndvi">
+          <label> Enter NDVI reading for Quadrat <output value=" /CSISA_CSRD_2018_LentilStemphylium/Scoring/quadNumber "/> </label></input>
+        <group ref="/CSISA_CSRD_2018_LentilStemphylium/Scoring/S1">
+          <label> Score 1 for Quadrat <output value=" /CSISA_CSRD_2018_LentilStemphylium/Scoring/quadNumber "/> </label><input ref="/CSISA_CSRD_2018_LentilStemphylium/Scoring/S1/noDis">
+            <label> Healthy (Score 1 for Quadrat <output value=" /CSISA_CSRD_2018_LentilStemphylium/Scoring/quadNumber "/>) </label>
+          </input>
+        </group>
+        <group appearance="field-list" ref="/CSISA_CSRD_2018_LentilStemphylium/Scoring/S2">
+          <label> Score 2 for Quadrat <output value=" /CSISA_CSRD_2018_LentilStemphylium/Scoring/quadNumber "/> </label><input ref="/CSISA_CSRD_2018_LentilStemphylium/Scoring/S2/sb2">
+            <label> Stemphylium blight (Score 2 for Quadrat <output value=" /CSISA_CSRD_2018_LentilStemphylium/Scoring/quadNumber "/>) </label>
+          </input>
+          <input ref="/CSISA_CSRD_2018_LentilStemphylium/Scoring/S2/sbr2">
+            <label> Stemphylium blight+Root (Score 2 for Quadrat <output value=" /CSISA_CSRD_2018_LentilStemphylium/Scoring/quadNumber "/>) </label>
+          </input>
+          <input ref="/CSISA_CSRD_2018_LentilStemphylium/Scoring/S2/sbo2">
+            <label> Stemphylium blight+Other (Score 2 for Quadrat <output value=" /CSISA_CSRD_2018_LentilStemphylium/Scoring/quadNumber "/>) </label>
+          </input>
+          <input ref="/CSISA_CSRD_2018_LentilStemphylium/Scoring/S2/root2">
+            <label> Root (Score 2 for Quadrat <output value=" /CSISA_CSRD_2018_LentilStemphylium/Scoring/quadNumber "/>) </label>
+          </input>
+          <input ref="/CSISA_CSRD_2018_LentilStemphylium/Scoring/S2/other2">
+            <label> Other (Score 2 for Quadrat <output value=" /CSISA_CSRD_2018_LentilStemphylium/Scoring/quadNumber "/>) </label>
+          </input>
+        </group>
+        <group appearance="field-list" ref="/CSISA_CSRD_2018_LentilStemphylium/Scoring/S3">
+          <label> Score 3 for Quadrat <output value=" /CSISA_CSRD_2018_LentilStemphylium/Scoring/quadNumber "/> </label><input ref="/CSISA_CSRD_2018_LentilStemphylium/Scoring/S3/sb3">
+            <label> Stemphylium blight (Score 3 for Quadrat <output value=" /CSISA_CSRD_2018_LentilStemphylium/Scoring/quadNumber "/>) </label>
+          </input>
+          <input ref="/CSISA_CSRD_2018_LentilStemphylium/Scoring/S3/sbr3">
+            <label> Stemphylium blight+Root (Score 3 for Quadrat <output value=" /CSISA_CSRD_2018_LentilStemphylium/Scoring/quadNumber "/>) </label>
+          </input>
+          <input ref="/CSISA_CSRD_2018_LentilStemphylium/Scoring/S3/sbo3">
+            <label> Stemphylium blight+Other (Score 3 for Quadrat <output value=" /CSISA_CSRD_2018_LentilStemphylium/Scoring/quadNumber "/>) </label>
+          </input>
+          <input ref="/CSISA_CSRD_2018_LentilStemphylium/Scoring/S3/root3">
+            <label> Root (Score 3 for Quadrat <output value=" /CSISA_CSRD_2018_LentilStemphylium/Scoring/quadNumber "/>) </label>
+          </input>
+          <input ref="/CSISA_CSRD_2018_LentilStemphylium/Scoring/S3/other3">
+            <label> Other (Score 3 for Quadrat <output value=" /CSISA_CSRD_2018_LentilStemphylium/Scoring/quadNumber "/>) </label>
+          </input>
+        </group>
+        <group appearance="field-list" ref="/CSISA_CSRD_2018_LentilStemphylium/Scoring/S4">
+          <label> Score 4 for Quadrat <output value=" /CSISA_CSRD_2018_LentilStemphylium/Scoring/quadNumber "/> </label><input ref="/CSISA_CSRD_2018_LentilStemphylium/Scoring/S4/sb4">
+            <label> Stemphylium blight (Score 4 for Quadrat <output value=" /CSISA_CSRD_2018_LentilStemphylium/Scoring/quadNumber "/>) </label>
+          </input>
+          <input ref="/CSISA_CSRD_2018_LentilStemphylium/Scoring/S4/sbr4">
+            <label> Stemphylium blight+Root (Score 4 for Quadrat <output value=" /CSISA_CSRD_2018_LentilStemphylium/Scoring/quadNumber "/>) </label>
+          </input>
+          <input ref="/CSISA_CSRD_2018_LentilStemphylium/Scoring/S4/sbo4">
+            <label> Stemphylium blight+Other (Score 4 for Quadrat <output value=" /CSISA_CSRD_2018_LentilStemphylium/Scoring/quadNumber "/>) </label>
+          </input>
+          <input ref="/CSISA_CSRD_2018_LentilStemphylium/Scoring/S4/root4">
+            <label> Root (Score 4 for Quadrat <output value=" /CSISA_CSRD_2018_LentilStemphylium/Scoring/quadNumber "/>) </label>
+          </input>
+          <input ref="/CSISA_CSRD_2018_LentilStemphylium/Scoring/S4/other4">
+            <label> Other (Score 4 for Quadrat <output value=" /CSISA_CSRD_2018_LentilStemphylium/Scoring/quadNumber "/>) </label>
+          </input>
+        </group>
+        <group appearance="field-list" ref="/CSISA_CSRD_2018_LentilStemphylium/Scoring/S5">
+          <label> Score 5 for Quadrat <output value=" /CSISA_CSRD_2018_LentilStemphylium/Scoring/quadNumber "/> </label><input ref="/CSISA_CSRD_2018_LentilStemphylium/Scoring/S5/sb5">
+            <label> Stemphylium blight (Score 5 for Quadrat <output value=" /CSISA_CSRD_2018_LentilStemphylium/Scoring/quadNumber "/>) </label>
+          </input>
+          <input ref="/CSISA_CSRD_2018_LentilStemphylium/Scoring/S5/sbr5">
+            <label> Stemphylium blight+Root (Score 5 for Quadrat <output value=" /CSISA_CSRD_2018_LentilStemphylium/Scoring/quadNumber "/>) </label>
+          </input>
+          <input ref="/CSISA_CSRD_2018_LentilStemphylium/Scoring/S5/sbo5">
+            <label> Stemphylium blight+Other (Score 5 for Quadrat <output value=" /CSISA_CSRD_2018_LentilStemphylium/Scoring/quadNumber "/>) </label>
+          </input>
+          <input ref="/CSISA_CSRD_2018_LentilStemphylium/Scoring/S5/root5">
+            <label> Root (Score 5 for Quadrat <output value=" /CSISA_CSRD_2018_LentilStemphylium/Scoring/quadNumber "/>) </label>
+          </input>
+          <input ref="/CSISA_CSRD_2018_LentilStemphylium/Scoring/S5/other5">
+            <label> Other (Score 5 for Quadrat <output value=" /CSISA_CSRD_2018_LentilStemphylium/Scoring/quadNumber "/>) </label>
+          </input>
+        </group>
+      </repeat>
+    </group>
+  </h:body>
+</h:html>

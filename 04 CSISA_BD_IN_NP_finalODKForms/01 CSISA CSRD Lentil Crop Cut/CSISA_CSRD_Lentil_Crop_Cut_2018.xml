@@ -1,0 +1,323 @@
+<?xml version="1.0"?>
+<h:html xmlns="http://www.w3.org/2002/xforms" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:h="http://www.w3.org/1999/xhtml" xmlns:jr="http://openrosa.org/javarosa" xmlns:orx="http://openrosa.org/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <h:head><!-- ODK Aggregate upload time: 2018-02-27T04:55:48.863+0000 on https://csisaodk.appspot.com -->
+    <h:title>CSISA CSRD Lentil Crop Cut 2018</h:title>
+    <model>
+      <instance>
+        <CSISA_CSRD_Lentil_crop_cut id="CSISACSRD_LentilCropCut2018" version="27022018">
+          <generated_note_name_2/>
+          <surveyDate/>
+          <surveyorName/>
+          <country/>
+          <visitID/>
+          <sightName/>
+          <villageName/>
+          <fieldID/>
+          <farmerName/>
+          <weight_1/>
+          <weight_2/>
+          <weight_3/>
+          <weight_4/>
+          <weight_5/>
+          <moisture_1/>
+          <moisture_2/>
+          <moisture_3/>
+          <meta>
+            <instanceID/>
+          </meta>
+        </CSISA_CSRD_Lentil_crop_cut>
+      </instance>
+      <bind nodeset="/CSISA_CSRD_Lentil_crop_cut/generated_note_name_2" readonly="true()" type="string"/>
+      <bind nodeset="/CSISA_CSRD_Lentil_crop_cut/surveyDate" required="true()" type="date"/>
+      <bind nodeset="/CSISA_CSRD_Lentil_crop_cut/surveyorName" required="true()" type="string"/>
+      <bind nodeset="/CSISA_CSRD_Lentil_crop_cut/country" required="true()" type="select1"/>
+      <bind nodeset="/CSISA_CSRD_Lentil_crop_cut/visitID" required="true()" type="select1"/>
+      <bind nodeset="/CSISA_CSRD_Lentil_crop_cut/sightName" required="true()" type="select1"/>
+      <bind nodeset="/CSISA_CSRD_Lentil_crop_cut/villageName" required="true()" type="string"/>
+      <bind nodeset="/CSISA_CSRD_Lentil_crop_cut/fieldID" required="true()" type="select1"/>
+      <bind nodeset="/CSISA_CSRD_Lentil_crop_cut/farmerName" required="true()" type="string"/>
+      <bind nodeset="/CSISA_CSRD_Lentil_crop_cut/weight_1" required="true()" type="decimal"/>
+      <bind nodeset="/CSISA_CSRD_Lentil_crop_cut/weight_2" required="true()" type="decimal"/>
+      <bind nodeset="/CSISA_CSRD_Lentil_crop_cut/weight_3" required="true()" type="decimal"/>
+      <bind nodeset="/CSISA_CSRD_Lentil_crop_cut/weight_4" required="true()" type="decimal"/>
+      <bind nodeset="/CSISA_CSRD_Lentil_crop_cut/weight_5" required="true()" type="decimal"/>
+      <bind constraint=".&lt;=100" jr:constraintMsg="should be less than or equal to 100 %" nodeset="/CSISA_CSRD_Lentil_crop_cut/moisture_1" required="true()" type="decimal"/>
+      <bind constraint=".&lt;=100" jr:constraintMsg="should be less than or equal to 100 %" nodeset="/CSISA_CSRD_Lentil_crop_cut/moisture_2" required="true()" type="decimal"/>
+      <bind constraint=".&lt;=100" jr:constraintMsg="should be less than or equal to 100 %" nodeset="/CSISA_CSRD_Lentil_crop_cut/moisture_3" required="true()" type="decimal"/>
+      <bind calculate="concat('uuid:', uuid())" nodeset="/CSISA_CSRD_Lentil_crop_cut/meta/instanceID" readonly="true()" type="string"/>
+    </model>
+  </h:head>
+  <h:body>
+    <input ref="/CSISA_CSRD_Lentil_crop_cut/generated_note_name_2">
+      <label>Lentil Crop Cut</label>
+    </input>
+    <input appearance="no-calendar" ref="/CSISA_CSRD_Lentil_crop_cut/surveyDate">
+      <label>Survey date</label>
+    </input>
+    <input ref="/CSISA_CSRD_Lentil_crop_cut/surveyorName">
+      <label>Name of surveyor</label>
+    </input>
+    <select1 ref="/CSISA_CSRD_Lentil_crop_cut/country">
+      <label>Name of the country</label>
+      <item>
+        <label>Bangladesh</label>
+        <value>Bangladesh</value>
+      </item>
+      <item>
+        <label>India</label>
+        <value>India</value>
+      </item>
+      <item>
+        <label>Nepal</label>
+        <value>Nepal</value>
+      </item>
+    </select1>
+    <select1 ref="/CSISA_CSRD_Lentil_crop_cut/visitID">
+      <label>Visit ID</label>
+      <item>
+        <label>First visit</label>
+        <value>Firstvisit</value>
+      </item>
+      <item>
+        <label>Second visit</label>
+        <value>Secondvisit</value>
+      </item>
+      <item>
+        <label>Third visit</label>
+        <value>Thirdvisit</value>
+      </item>
+      <item>
+        <label>Cropcut</label>
+        <value>Cropcut</value>
+      </item>
+    </select1>
+    <select1 ref="/CSISA_CSRD_Lentil_crop_cut/sightName">
+      <label>Name of the sight</label>
+      <item>
+        <label>Patna</label>
+        <value>Patna</value>
+      </item>
+      <item>
+        <label>Lakhisarai</label>
+        <value>Lakhisarai</value>
+      </item>
+      <item>
+        <label>Kanchanpur</label>
+        <value>Kanchanpur</value>
+      </item>
+      <item>
+        <label>Kailali</label>
+        <value>Kailali</value>
+      </item>
+      <item>
+        <label>Bardiya</label>
+        <value>Bardiya</value>
+      </item>
+      <item>
+        <label>Banke</label>
+        <value>Banke</value>
+      </item>
+      <item>
+        <label>Jessore</label>
+        <value>Jessore</value>
+      </item>
+      <item>
+        <label>Faridpur</label>
+        <value>Faridpur</value>
+      </item>
+    </select1>
+    <input ref="/CSISA_CSRD_Lentil_crop_cut/villageName">
+      <label>Name of the village</label>
+    </input>
+    <select1 appearance="minimal" ref="/CSISA_CSRD_Lentil_crop_cut/fieldID">
+      <label>Field ID</label>
+      <item>
+        <label>1</label>
+        <value>1</value>
+      </item>
+      <item>
+        <label>2</label>
+        <value>2</value>
+      </item>
+      <item>
+        <label>3</label>
+        <value>3</value>
+      </item>
+      <item>
+        <label>4</label>
+        <value>4</value>
+      </item>
+      <item>
+        <label>5</label>
+        <value>5</value>
+      </item>
+      <item>
+        <label>6</label>
+        <value>6</value>
+      </item>
+      <item>
+        <label>7</label>
+        <value>7</value>
+      </item>
+      <item>
+        <label>8</label>
+        <value>8</value>
+      </item>
+      <item>
+        <label>9</label>
+        <value>9</value>
+      </item>
+      <item>
+        <label>10</label>
+        <value>10</value>
+      </item>
+      <item>
+        <label>11</label>
+        <value>11</value>
+      </item>
+      <item>
+        <label>12</label>
+        <value>12</value>
+      </item>
+      <item>
+        <label>13</label>
+        <value>13</value>
+      </item>
+      <item>
+        <label>14</label>
+        <value>14</value>
+      </item>
+      <item>
+        <label>15</label>
+        <value>15</value>
+      </item>
+      <item>
+        <label>16</label>
+        <value>16</value>
+      </item>
+      <item>
+        <label>17</label>
+        <value>17</value>
+      </item>
+      <item>
+        <label>18</label>
+        <value>18</value>
+      </item>
+      <item>
+        <label>19</label>
+        <value>19</value>
+      </item>
+      <item>
+        <label>20</label>
+        <value>20</value>
+      </item>
+      <item>
+        <label>21</label>
+        <value>21</value>
+      </item>
+      <item>
+        <label>22</label>
+        <value>22</value>
+      </item>
+      <item>
+        <label>23</label>
+        <value>23</value>
+      </item>
+      <item>
+        <label>24</label>
+        <value>24</value>
+      </item>
+      <item>
+        <label>25</label>
+        <value>25</value>
+      </item>
+      <item>
+        <label>26</label>
+        <value>26</value>
+      </item>
+      <item>
+        <label>27</label>
+        <value>27</value>
+      </item>
+      <item>
+        <label>28</label>
+        <value>28</value>
+      </item>
+      <item>
+        <label>29</label>
+        <value>29</value>
+      </item>
+      <item>
+        <label>30</label>
+        <value>30</value>
+      </item>
+      <item>
+        <label>31</label>
+        <value>31</value>
+      </item>
+      <item>
+        <label>32</label>
+        <value>32</value>
+      </item>
+      <item>
+        <label>33</label>
+        <value>33</value>
+      </item>
+      <item>
+        <label>34</label>
+        <value>34</value>
+      </item>
+      <item>
+        <label>35</label>
+        <value>35</value>
+      </item>
+      <item>
+        <label>36</label>
+        <value>36</value>
+      </item>
+      <item>
+        <label>37</label>
+        <value>37</value>
+      </item>
+      <item>
+        <label>38</label>
+        <value>38</value>
+      </item>
+      <item>
+        <label>39</label>
+        <value>39</value>
+      </item>
+      <item>
+        <label>40</label>
+        <value>40</value>
+      </item>
+    </select1>
+    <input ref="/CSISA_CSRD_Lentil_crop_cut/farmerName">
+      <label>Name of the farmer</label>
+    </input>
+    <input ref="/CSISA_CSRD_Lentil_crop_cut/weight_1">
+      <label>Seed weight (g) from quadrate 1</label>
+    </input>
+    <input ref="/CSISA_CSRD_Lentil_crop_cut/weight_2">
+      <label>Seed weight (g) from quadrate 2</label>
+    </input>
+    <input ref="/CSISA_CSRD_Lentil_crop_cut/weight_3">
+      <label>Seed weight (g) from quadrate 3</label>
+    </input>
+    <input ref="/CSISA_CSRD_Lentil_crop_cut/weight_4">
+      <label>Seed weight (g) from quadrate 4</label>
+    </input>
+    <input ref="/CSISA_CSRD_Lentil_crop_cut/weight_5">
+      <label>Seed weight (g) from quadrate 5</label>
+    </input>
+    <input ref="/CSISA_CSRD_Lentil_crop_cut/moisture_1">
+      <label>Seed moisture content (%) reading 1</label>
+    </input>
+    <input ref="/CSISA_CSRD_Lentil_crop_cut/moisture_2">
+      <label>Seed moisture content (%) reading 2</label>
+    </input>
+    <input ref="/CSISA_CSRD_Lentil_crop_cut/moisture_3">
+      <label>Seed moisture content (%) reading 3</label>
+    </input>
+  </h:body>
+</h:html>

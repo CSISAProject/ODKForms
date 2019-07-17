@@ -1,0 +1,1694 @@
+<?xml version="1.0"?>
+<h:html xmlns="http://www.w3.org/2002/xforms" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:h="http://www.w3.org/1999/xhtml" xmlns:jr="http://openrosa.org/javarosa" xmlns:orx="http://openrosa.org/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <h:head><!-- ODK Aggregate upload time: 2018-02-26T06:24:46.998+0000 on https://csisaodk.appspot.com -->
+    <h:title>CSRD PANI Experiment 2018</h:title>
+    <model>
+      <instance>
+        <CSISA_BD_PANIExp_25022018 id="CSRD_PANIExp2018" version="26022017">
+          <deviceid/>
+          <start/>
+          <end/>
+          <UID/>
+          <CollectionDate/>
+          <Note/>
+          <DataCollector/>
+          <Station/>
+          <SamplingDate/>
+          <Repeat/>
+          <PANI_treatment_data_count/>
+          <PANI_treatment_data jr:template="">
+            <UniqueID/>
+            <DCollector/>
+            <station/>
+            <samplingDate/>
+            <Crop/>
+            <TreatmentCombinations/>
+            <dataID/>
+            <Irrigation/>
+            <Irrigation_>
+              <wheatStage/>
+              <maizeStage/>
+              <irrigTime/>
+              <irrigAmount/>
+            </Irrigation_>
+            <Can_Temp>
+              <canTemp1/>
+              <canTemp2/>
+              <canTemp3/>
+              <canTemp4/>
+              <canTemp5/>
+              <canTemp6/>
+            </Can_Temp>
+            <Soil_Moist_A>
+              <SMD_A_10cm/>
+              <SMD_A_20cm/>
+              <SMD_A_30cm/>
+              <SMD_A_40cm/>
+              <SMD_A_60cm/>
+              <SMD_A_100cm/>
+            </Soil_Moist_A>
+            <Soil_Moist_B>
+              <SMD_B_10cm/>
+              <SMD_B_20cm/>
+              <SMD_B_30cm/>
+              <SMD_B_40cm/>
+              <SMD_B_60cm/>
+              <SMD_B_100cm/>
+            </Soil_Moist_B>
+            <comment/>
+          </PANI_treatment_data>
+          <dataID_1/>
+          <crop_1/>
+          <TC_1/>
+          <irrigation_1/>
+          <wheatStage_1/>
+          <maize_Stage_1/>
+          <irrigTime_1/>
+          <irrigAmount_1/>
+          <canTemp1_1/>
+          <canTemp2_1/>
+          <canTemp3_1/>
+          <canTemp4_1/>
+          <canTemp5_1/>
+          <canTemp6_1/>
+          <SMD_A_10cm_1/>
+          <SMD_A_20cm_1/>
+          <SMD_A_30cm_1/>
+          <SMD_A_40cm_1/>
+          <SMD_A_60cm_1/>
+          <SMD_A_100cm_1/>
+          <SMD_B_10cm_1/>
+          <SMD_B_20cm_1/>
+          <SMD_B_30cm_1/>
+          <SMD_B_40cm_1/>
+          <SMD_B_60cm_1/>
+          <SMD_B_100cm_1/>
+          <dataID_2/>
+          <crop_2/>
+          <TC_2/>
+          <irrigation_2/>
+          <wheatStage_2/>
+          <maize_Stage_2/>
+          <irrigTime_2/>
+          <irrigAmount_2/>
+          <canTemp1_2/>
+          <canTemp2_2/>
+          <canTemp3_2/>
+          <canTemp4_2/>
+          <canTemp5_2/>
+          <canTemp6_2/>
+          <SMD_A_10cm_2/>
+          <SMD_A_20cm_2/>
+          <SMD_A_30cm_2/>
+          <SMD_A_40cm_2/>
+          <SMD_A_60cm_2/>
+          <SMD_A_100cm_2/>
+          <SMD_B_10cm_2/>
+          <SMD_B_20cm_2/>
+          <SMD_B_30cm_2/>
+          <SMD_B_40cm_2/>
+          <SMD_B_60cm_2/>
+          <SMD_B_100cm_2/>
+          <dataID_3/>
+          <crop_3/>
+          <TC_3/>
+          <irrigation_3/>
+          <wheatStage_3/>
+          <maize_Stage_3/>
+          <irrigTime_3/>
+          <irrigAmount_3/>
+          <canTemp1_3/>
+          <canTemp2_3/>
+          <canTemp3_3/>
+          <canTemp4_3/>
+          <canTemp5_3/>
+          <canTemp6_3/>
+          <SMD_A_10cm_3/>
+          <SMD_A_20cm_3/>
+          <SMD_A_30cm_3/>
+          <SMD_A_40cm_3/>
+          <SMD_A_60cm_3/>
+          <SMD_A_100cm_3/>
+          <SMD_B_10cm_3/>
+          <SMD_B_20cm_3/>
+          <SMD_B_30cm_3/>
+          <SMD_B_40cm_3/>
+          <SMD_B_60cm_3/>
+          <SMD_B_100cm_3/>
+          <dataID_4/>
+          <crop_4/>
+          <TC_4/>
+          <irrigation_4/>
+          <wheatStage_4/>
+          <maize_Stage_4/>
+          <irrigTime_4/>
+          <irrigAmount_4/>
+          <canTemp1_4/>
+          <canTemp2_4/>
+          <canTemp3_4/>
+          <canTemp4_4/>
+          <canTemp5_4/>
+          <canTemp6_4/>
+          <SMD_A_10cm_4/>
+          <SMD_A_20cm_4/>
+          <SMD_A_30cm_4/>
+          <SMD_A_40cm_4/>
+          <SMD_A_60cm_4/>
+          <SMD_A_100cm_4/>
+          <SMD_B_10cm_4/>
+          <SMD_B_20cm_4/>
+          <SMD_B_30cm_4/>
+          <SMD_B_40cm_4/>
+          <SMD_B_60cm_4/>
+          <SMD_B_100cm_4/>
+          <dataID_5/>
+          <crop_5/>
+          <TC_5/>
+          <irrigation_5/>
+          <wheatStage_5/>
+          <maize_Stage_5/>
+          <irrigTime_5/>
+          <irrigAmount_5/>
+          <canTemp1_5/>
+          <canTemp2_5/>
+          <canTemp3_5/>
+          <canTemp4_5/>
+          <canTemp5_5/>
+          <canTemp6_5/>
+          <SMD_A_10cm_5/>
+          <SMD_A_20cm_5/>
+          <SMD_A_30cm_5/>
+          <SMD_A_40cm_5/>
+          <SMD_A_60cm_5/>
+          <SMD_A_100cm_5/>
+          <SMD_B_10cm_5/>
+          <SMD_B_20cm_5/>
+          <SMD_B_30cm_5/>
+          <SMD_B_40cm_5/>
+          <SMD_B_60cm_5/>
+          <SMD_B_100cm_5/>
+          <dataID_6/>
+          <crop_6/>
+          <TC_6/>
+          <irrigation_6/>
+          <wheatStage_6/>
+          <maize_Stage_6/>
+          <irrigTime_6/>
+          <irrigAmount_6/>
+          <canTemp1_6/>
+          <canTemp2_6/>
+          <canTemp3_6/>
+          <canTemp4_6/>
+          <canTemp5_6/>
+          <canTemp6_6/>
+          <SMD_A_10cm_6/>
+          <SMD_A_20cm_6/>
+          <SMD_A_30cm_6/>
+          <SMD_A_40cm_6/>
+          <SMD_A_60cm_6/>
+          <SMD_A_100cm_6/>
+          <SMD_B_10cm_6/>
+          <SMD_B_20cm_6/>
+          <SMD_B_30cm_6/>
+          <SMD_B_40cm_6/>
+          <SMD_B_60cm_6/>
+          <SMD_B_100cm_6/>
+          <dataID_7/>
+          <crop_7/>
+          <TC_7/>
+          <irrigation_7/>
+          <wheatStage_7/>
+          <maize_Stage_7/>
+          <irrigTime_7/>
+          <irrigAmount_7/>
+          <canTemp1_7/>
+          <canTemp2_7/>
+          <canTemp3_7/>
+          <canTemp4_7/>
+          <canTemp5_7/>
+          <canTemp6_7/>
+          <SMD_A_10cm_7/>
+          <SMD_A_20cm_7/>
+          <SMD_A_30cm_7/>
+          <SMD_A_40cm_7/>
+          <SMD_A_60cm_7/>
+          <SMD_A_100cm_7/>
+          <SMD_B_10cm_7/>
+          <SMD_B_20cm_7/>
+          <SMD_B_30cm_7/>
+          <SMD_B_40cm_7/>
+          <SMD_B_60cm_7/>
+          <SMD_B_100cm_7/>
+          <dataID_8/>
+          <crop_8/>
+          <TC_8/>
+          <irrigation_8/>
+          <wheatStage_8/>
+          <maize_Stage_8/>
+          <irrigTime_8/>
+          <irrigAmount_8/>
+          <canTemp1_8/>
+          <canTemp2_8/>
+          <canTemp3_8/>
+          <canTemp4_8/>
+          <canTemp5_8/>
+          <canTemp6_8/>
+          <SMD_A_10cm_8/>
+          <SMD_A_20cm_8/>
+          <SMD_A_30cm_8/>
+          <SMD_A_40cm_8/>
+          <SMD_A_60cm_8/>
+          <SMD_A_100cm_8/>
+          <SMD_B_10cm_8/>
+          <SMD_B_20cm_8/>
+          <SMD_B_30cm_8/>
+          <SMD_B_40cm_8/>
+          <SMD_B_60cm_8/>
+          <SMD_B_100cm_8/>
+          <dataID_9/>
+          <crop_9/>
+          <TC_9/>
+          <irrigation_9/>
+          <wheatStage_9/>
+          <maize_Stage_9/>
+          <irrigTime_9/>
+          <irrigAmount_9/>
+          <canTemp1_9/>
+          <canTemp2_9/>
+          <canTemp3_9/>
+          <canTemp4_9/>
+          <canTemp5_9/>
+          <canTemp6_9/>
+          <SMD_A_10cm_9/>
+          <SMD_A_20cm_9/>
+          <SMD_A_30cm_9/>
+          <SMD_A_40cm_9/>
+          <SMD_A_60cm_9/>
+          <SMD_A_100cm_9/>
+          <SMD_B_10cm_9/>
+          <SMD_B_20cm_9/>
+          <SMD_B_30cm_9/>
+          <SMD_B_40cm_9/>
+          <SMD_B_60cm_9/>
+          <SMD_B_100cm_9/>
+          <dataID_10/>
+          <crop_10/>
+          <TC_10/>
+          <irrigation_10/>
+          <wheatStage_10/>
+          <maize_Stage_10/>
+          <irrigTime_10/>
+          <irrigAmount_10/>
+          <canTemp1_10/>
+          <canTemp2_10/>
+          <canTemp3_10/>
+          <canTemp4_10/>
+          <canTemp5_10/>
+          <canTemp6_10/>
+          <SMD_A_10cm_10/>
+          <SMD_A_20cm_10/>
+          <SMD_A_30cm_10/>
+          <SMD_A_40cm_10/>
+          <SMD_A_60cm_10/>
+          <SMD_A_100cm_10/>
+          <SMD_B_10cm_10/>
+          <SMD_B_20cm_10/>
+          <SMD_B_30cm_10/>
+          <SMD_B_40cm_10/>
+          <SMD_B_60cm_10/>
+          <SMD_B_100cm_10/>
+          <dataID_11/>
+          <crop_11/>
+          <TC_11/>
+          <irrigation_11/>
+          <wheatStage_11/>
+          <maize_Stage_11/>
+          <irrigTime_11/>
+          <irrigAmount_11/>
+          <canTemp1_11/>
+          <canTemp2_11/>
+          <canTemp3_11/>
+          <canTemp4_11/>
+          <canTemp5_11/>
+          <canTemp6_11/>
+          <SMD_A_10cm_11/>
+          <SMD_A_20cm_11/>
+          <SMD_A_30cm_11/>
+          <SMD_A_40cm_11/>
+          <SMD_A_60cm_11/>
+          <SMD_A_100cm_11/>
+          <SMD_B_10cm_11/>
+          <SMD_B_20cm_11/>
+          <SMD_B_30cm_11/>
+          <SMD_B_40cm_11/>
+          <SMD_B_60cm_11/>
+          <SMD_B_100cm_11/>
+          <dataID_12/>
+          <crop_12/>
+          <TC_12/>
+          <irrigation_12/>
+          <wheatStage_12/>
+          <maize_Stage_12/>
+          <irrigTime_12/>
+          <irrigAmount_12/>
+          <canTemp1_12/>
+          <canTemp2_12/>
+          <canTemp3_12/>
+          <canTemp4_12/>
+          <canTemp5_12/>
+          <canTemp6_12/>
+          <SMD_A_10cm_12/>
+          <SMD_A_20cm_12/>
+          <SMD_A_30cm_12/>
+          <SMD_A_40cm_12/>
+          <SMD_A_60cm_12/>
+          <SMD_A_100cm_12/>
+          <SMD_B_10cm_12/>
+          <SMD_B_20cm_12/>
+          <SMD_B_30cm_12/>
+          <SMD_B_40cm_12/>
+          <SMD_B_60cm_12/>
+          <SMD_B_100cm_12/>
+          <dataID_13/>
+          <crop_13/>
+          <TC_13/>
+          <irrigation_13/>
+          <wheatStage_13/>
+          <maize_Stage_13/>
+          <irrigTime_13/>
+          <irrigAmount_13/>
+          <canTemp1_13/>
+          <canTemp2_13/>
+          <canTemp3_13/>
+          <canTemp4_13/>
+          <canTemp5_13/>
+          <canTemp6_13/>
+          <SMD_A_10cm_13/>
+          <SMD_A_20cm_13/>
+          <SMD_A_30cm_13/>
+          <SMD_A_40cm_13/>
+          <SMD_A_60cm_13/>
+          <SMD_A_100cm_13/>
+          <SMD_B_10cm_13/>
+          <SMD_B_20cm_13/>
+          <SMD_B_30cm_13/>
+          <SMD_B_40cm_13/>
+          <SMD_B_60cm_13/>
+          <SMD_B_100cm_13/>
+          <dataID_14/>
+          <crop_14/>
+          <TC_14/>
+          <irrigation_14/>
+          <wheatStage_14/>
+          <maize_Stage_14/>
+          <irrigTime_14/>
+          <irrigAmount_14/>
+          <canTemp1_14/>
+          <canTemp2_14/>
+          <canTemp3_14/>
+          <canTemp4_14/>
+          <canTemp5_14/>
+          <canTemp6_14/>
+          <SMD_A_10cm_14/>
+          <SMD_A_20cm_14/>
+          <SMD_A_30cm_14/>
+          <SMD_A_40cm_14/>
+          <SMD_A_60cm_14/>
+          <SMD_A_100cm_14/>
+          <SMD_B_10cm_14/>
+          <SMD_B_20cm_14/>
+          <SMD_B_30cm_14/>
+          <SMD_B_40cm_14/>
+          <SMD_B_60cm_14/>
+          <SMD_B_100cm_14/>
+          <dataID_15/>
+          <crop_15/>
+          <TC_15/>
+          <irrigation_15/>
+          <wheatStage_15/>
+          <maize_Stage_15/>
+          <irrigTime_15/>
+          <irrigAmount_15/>
+          <canTemp1_15/>
+          <canTemp2_15/>
+          <canTemp3_15/>
+          <canTemp4_15/>
+          <canTemp5_15/>
+          <canTemp6_15/>
+          <SMD_A_10cm_15/>
+          <SMD_A_20cm_15/>
+          <SMD_A_30cm_15/>
+          <SMD_A_40cm_15/>
+          <SMD_A_60cm_15/>
+          <SMD_A_100cm_15/>
+          <SMD_B_10cm_15/>
+          <SMD_B_20cm_15/>
+          <SMD_B_30cm_15/>
+          <SMD_B_40cm_15/>
+          <SMD_B_60cm_15/>
+          <SMD_B_100cm_15/>
+          <dataID_16/>
+          <crop_16/>
+          <TC_16/>
+          <irrigation_16/>
+          <wheatStage_16/>
+          <maize_Stage_16/>
+          <irrigTime_16/>
+          <irrigAmount_16/>
+          <canTemp1_16/>
+          <canTemp2_16/>
+          <canTemp3_16/>
+          <canTemp4_16/>
+          <canTemp5_16/>
+          <canTemp6_16/>
+          <SMD_A_10cm_16/>
+          <SMD_A_20cm_16/>
+          <SMD_A_30cm_16/>
+          <SMD_A_40cm_16/>
+          <SMD_A_60cm_16/>
+          <SMD_A_100cm_16/>
+          <SMD_B_10cm_16/>
+          <SMD_B_20cm_16/>
+          <SMD_B_30cm_16/>
+          <SMD_B_40cm_16/>
+          <SMD_B_60cm_16/>
+          <SMD_B_100cm_16/>
+          <dataID_17/>
+          <crop_17/>
+          <TC_17/>
+          <irrigation_17/>
+          <wheatStage_17/>
+          <maize_Stage_17/>
+          <irrigTime_17/>
+          <irrigAmount_17/>
+          <canTemp1_17/>
+          <canTemp2_17/>
+          <canTemp3_17/>
+          <canTemp4_17/>
+          <canTemp5_17/>
+          <canTemp6_17/>
+          <SMD_A_10cm_17/>
+          <SMD_A_20cm_17/>
+          <SMD_A_30cm_17/>
+          <SMD_A_40cm_17/>
+          <SMD_A_60cm_17/>
+          <SMD_A_100cm_17/>
+          <SMD_B_10cm_17/>
+          <SMD_B_20cm_17/>
+          <SMD_B_30cm_17/>
+          <SMD_B_40cm_17/>
+          <SMD_B_60cm_17/>
+          <SMD_B_100cm_17/>
+          <dataID_18/>
+          <crop_18/>
+          <TC_18/>
+          <irrigation_18/>
+          <wheatStage_18/>
+          <maize_Stage_18/>
+          <irrigTime_18/>
+          <irrigAmount_18/>
+          <canTemp1_18/>
+          <canTemp2_18/>
+          <canTemp3_18/>
+          <canTemp4_18/>
+          <canTemp5_18/>
+          <canTemp6_18/>
+          <SMD_A_10cm_18/>
+          <SMD_A_20cm_18/>
+          <SMD_A_30cm_18/>
+          <SMD_A_40cm_18/>
+          <SMD_A_60cm_18/>
+          <SMD_A_100cm_18/>
+          <SMD_B_10cm_18/>
+          <SMD_B_20cm_18/>
+          <SMD_B_30cm_18/>
+          <SMD_B_40cm_18/>
+          <SMD_B_60cm_18/>
+          <SMD_B_100cm_18/>
+          <dataID_19/>
+          <crop_19/>
+          <TC_19/>
+          <irrigation_19/>
+          <wheatStage_19/>
+          <maize_Stage_19/>
+          <irrigTime_19/>
+          <irrigAmount_19/>
+          <canTemp1_19/>
+          <canTemp2_19/>
+          <canTemp3_19/>
+          <canTemp4_19/>
+          <canTemp5_19/>
+          <canTemp6_19/>
+          <SMD_A_10cm_19/>
+          <SMD_A_20cm_19/>
+          <SMD_A_30cm_19/>
+          <SMD_A_40cm_19/>
+          <SMD_A_60cm_19/>
+          <SMD_A_100cm_19/>
+          <SMD_B_10cm_19/>
+          <SMD_B_20cm_19/>
+          <SMD_B_30cm_19/>
+          <SMD_B_40cm_19/>
+          <SMD_B_60cm_19/>
+          <SMD_B_100cm_19/>
+          <dataID_20/>
+          <crop_20/>
+          <TC_20/>
+          <irrigation_20/>
+          <wheatStage_20/>
+          <maize_Stage_20/>
+          <irrigTime_20/>
+          <irrigAmount_20/>
+          <canTemp1_20/>
+          <canTemp2_20/>
+          <canTemp3_20/>
+          <canTemp4_20/>
+          <canTemp5_20/>
+          <canTemp6_20/>
+          <SMD_A_10cm_20/>
+          <SMD_A_20cm_20/>
+          <SMD_A_30cm_20/>
+          <SMD_A_40cm_20/>
+          <SMD_A_60cm_20/>
+          <SMD_A_100cm_20/>
+          <SMD_B_10cm_20/>
+          <SMD_B_20cm_20/>
+          <SMD_B_30cm_20/>
+          <SMD_B_40cm_20/>
+          <SMD_B_60cm_20/>
+          <SMD_B_100cm_20/>
+          <dataID_21/>
+          <crop_21/>
+          <TC_21/>
+          <irrigation_21/>
+          <wheatStage_21/>
+          <maize_Stage_21/>
+          <irrigTime_21/>
+          <irrigAmount_21/>
+          <canTemp1_21/>
+          <canTemp2_21/>
+          <canTemp3_21/>
+          <canTemp4_21/>
+          <canTemp5_21/>
+          <canTemp6_21/>
+          <SMD_A_10cm_21/>
+          <SMD_A_20cm_21/>
+          <SMD_A_30cm_21/>
+          <SMD_A_40cm_21/>
+          <SMD_A_60cm_21/>
+          <SMD_A_100cm_21/>
+          <SMD_B_10cm_21/>
+          <SMD_B_20cm_21/>
+          <SMD_B_30cm_21/>
+          <SMD_B_40cm_21/>
+          <SMD_B_60cm_21/>
+          <SMD_B_100cm_21/>
+          <dataID_22/>
+          <crop_22/>
+          <TC_22/>
+          <irrigation_22/>
+          <wheatStage_22/>
+          <maize_Stage_22/>
+          <irrigTime_22/>
+          <irrigAmount_22/>
+          <canTemp1_22/>
+          <canTemp2_22/>
+          <canTemp3_22/>
+          <canTemp4_22/>
+          <canTemp5_22/>
+          <canTemp6_22/>
+          <SMD_A_10cm_22/>
+          <SMD_A_20cm_22/>
+          <SMD_A_30cm_22/>
+          <SMD_A_40cm_22/>
+          <SMD_A_60cm_22/>
+          <SMD_A_100cm_22/>
+          <SMD_B_10cm_22/>
+          <SMD_B_20cm_22/>
+          <SMD_B_30cm_22/>
+          <SMD_B_40cm_22/>
+          <SMD_B_60cm_22/>
+          <SMD_B_100cm_22/>
+          <dataID_23/>
+          <crop_23/>
+          <TC_23/>
+          <irrigation_23/>
+          <wheatStage_23/>
+          <maize_Stage_23/>
+          <irrigTime_23/>
+          <irrigAmount_23/>
+          <canTemp1_23/>
+          <canTemp2_23/>
+          <canTemp3_23/>
+          <canTemp4_23/>
+          <canTemp5_23/>
+          <canTemp6_23/>
+          <SMD_A_10cm_23/>
+          <SMD_A_20cm_23/>
+          <SMD_A_30cm_23/>
+          <SMD_A_40cm_23/>
+          <SMD_A_60cm_23/>
+          <SMD_A_100cm_23/>
+          <SMD_B_10cm_23/>
+          <SMD_B_20cm_23/>
+          <SMD_B_30cm_23/>
+          <SMD_B_40cm_23/>
+          <SMD_B_60cm_23/>
+          <SMD_B_100cm_23/>
+          <dataID_24/>
+          <crop_24/>
+          <TC_24/>
+          <irrigation_24/>
+          <wheatStage_24/>
+          <maize_Stage_24/>
+          <irrigTime_24/>
+          <irrigAmount_24/>
+          <canTemp1_24/>
+          <canTemp2_24/>
+          <canTemp3_24/>
+          <canTemp4_24/>
+          <canTemp5_24/>
+          <canTemp6_24/>
+          <SMD_A_10cm_24/>
+          <SMD_A_20cm_24/>
+          <SMD_A_30cm_24/>
+          <SMD_A_40cm_24/>
+          <SMD_A_60cm_24/>
+          <SMD_A_100cm_24/>
+          <SMD_B_10cm_24/>
+          <SMD_B_20cm_24/>
+          <SMD_B_30cm_24/>
+          <SMD_B_40cm_24/>
+          <SMD_B_60cm_24/>
+          <SMD_B_100cm_24/>
+          <meta>
+            <instanceID/>
+          </meta>
+        </CSISA_BD_PANIExp_25022018>
+      </instance>
+      <bind jr:preload="property" jr:preloadParams="deviceid" nodeset="/CSISA_BD_PANIExp_25022018/deviceid" type="string"/>
+      <bind jr:preload="timestamp" jr:preloadParams="start" nodeset="/CSISA_BD_PANIExp_25022018/start" type="dateTime"/>
+      <bind jr:preload="timestamp" jr:preloadParams="end" nodeset="/CSISA_BD_PANIExp_25022018/end" type="dateTime"/>
+      <bind calculate="string(format-date-time(now(),'%Y%m%d%H%M%S3'))" nodeset="/CSISA_BD_PANIExp_25022018/UID" type="string"/>
+      <bind jr:preload="date" jr:preloadParams="today" nodeset="/CSISA_BD_PANIExp_25022018/CollectionDate" type="date"/>
+      <bind nodeset="/CSISA_BD_PANIExp_25022018/Note" readonly="true()" type="string"/>
+      <bind nodeset="/CSISA_BD_PANIExp_25022018/DataCollector" required="true()" type="string"/>
+      <bind nodeset="/CSISA_BD_PANIExp_25022018/Station" required="true()" type="select1"/>
+      <bind nodeset="/CSISA_BD_PANIExp_25022018/SamplingDate" required="true()" type="date"/>
+      <bind nodeset="/CSISA_BD_PANIExp_25022018/Repeat" required="true()" type="select1"/>
+      <bind calculate="int( /CSISA_BD_PANIExp_25022018/Repeat )" nodeset="/CSISA_BD_PANIExp_25022018/PANI_treatment_data_count" readonly="true()" type="string"/>
+      <bind calculate=" /CSISA_BD_PANIExp_25022018/UID " nodeset="/CSISA_BD_PANIExp_25022018/PANI_treatment_data/UniqueID" type="string"/>
+      <bind calculate=" /CSISA_BD_PANIExp_25022018/DataCollector " nodeset="/CSISA_BD_PANIExp_25022018/PANI_treatment_data/DCollector" type="string"/>
+      <bind calculate=" /CSISA_BD_PANIExp_25022018/Station " nodeset="/CSISA_BD_PANIExp_25022018/PANI_treatment_data/station" type="string"/>
+      <bind calculate=" /CSISA_BD_PANIExp_25022018/SamplingDate " nodeset="/CSISA_BD_PANIExp_25022018/PANI_treatment_data/samplingDate" type="string"/>
+      <bind nodeset="/CSISA_BD_PANIExp_25022018/PANI_treatment_data/Crop" required="true()" type="select1"/>
+      <bind nodeset="/CSISA_BD_PANIExp_25022018/PANI_treatment_data/TreatmentCombinations" required="true()" type="select1"/>
+      <bind calculate="concat( /CSISA_BD_PANIExp_25022018/Station , /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Crop , /CSISA_BD_PANIExp_25022018/PANI_treatment_data/TreatmentCombinations )" nodeset="/CSISA_BD_PANIExp_25022018/PANI_treatment_data/dataID" required="true()" type="string"/>
+      <bind nodeset="/CSISA_BD_PANIExp_25022018/PANI_treatment_data/Irrigation" required="true()" type="select1"/>
+      <bind nodeset="/CSISA_BD_PANIExp_25022018/PANI_treatment_data/Irrigation_" relevant="selected( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Irrigation ,'Yes')"/>
+      <bind nodeset="/CSISA_BD_PANIExp_25022018/PANI_treatment_data/Irrigation_/wheatStage" relevant="selected( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Crop ,'Wheat')" required="true()" type="select1"/>
+      <bind nodeset="/CSISA_BD_PANIExp_25022018/PANI_treatment_data/Irrigation_/maizeStage" relevant="selected( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Crop ,'Maize')" required="true()" type="select1"/>
+      <bind nodeset="/CSISA_BD_PANIExp_25022018/PANI_treatment_data/Irrigation_/irrigTime" required="true()" type="int"/>
+      <bind nodeset="/CSISA_BD_PANIExp_25022018/PANI_treatment_data/Irrigation_/irrigAmount" required="true()" type="decimal"/>
+      <bind nodeset="/CSISA_BD_PANIExp_25022018/PANI_treatment_data/Can_Temp/canTemp1" required="true()" type="decimal"/>
+      <bind nodeset="/CSISA_BD_PANIExp_25022018/PANI_treatment_data/Can_Temp/canTemp2" required="true()" type="decimal"/>
+      <bind nodeset="/CSISA_BD_PANIExp_25022018/PANI_treatment_data/Can_Temp/canTemp3" required="true()" type="decimal"/>
+      <bind nodeset="/CSISA_BD_PANIExp_25022018/PANI_treatment_data/Can_Temp/canTemp4" required="true()" type="decimal"/>
+      <bind nodeset="/CSISA_BD_PANIExp_25022018/PANI_treatment_data/Can_Temp/canTemp5" required="true()" type="decimal"/>
+      <bind nodeset="/CSISA_BD_PANIExp_25022018/PANI_treatment_data/Can_Temp/canTemp6" required="true()" type="decimal"/>
+      <bind nodeset="/CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_A" required="true()"/>
+      <bind nodeset="/CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_A/SMD_A_10cm" type="decimal"/>
+      <bind nodeset="/CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_A/SMD_A_20cm" type="decimal"/>
+      <bind nodeset="/CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_A/SMD_A_30cm" type="decimal"/>
+      <bind nodeset="/CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_A/SMD_A_40cm" type="decimal"/>
+      <bind nodeset="/CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_A/SMD_A_60cm" type="decimal"/>
+      <bind nodeset="/CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_A/SMD_A_100cm" type="decimal"/>
+      <bind nodeset="/CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_B" required="true()"/>
+      <bind nodeset="/CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_B/SMD_B_10cm" type="decimal"/>
+      <bind nodeset="/CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_B/SMD_B_20cm" type="decimal"/>
+      <bind nodeset="/CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_B/SMD_B_30cm" type="decimal"/>
+      <bind nodeset="/CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_B/SMD_B_40cm" type="decimal"/>
+      <bind nodeset="/CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_B/SMD_B_60cm" type="decimal"/>
+      <bind nodeset="/CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_B/SMD_B_100cm" type="decimal"/>
+      <bind nodeset="/CSISA_BD_PANIExp_25022018/PANI_treatment_data/comment" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/dataID ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 1)" nodeset="/CSISA_BD_PANIExp_25022018/dataID_1" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Crop ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 1)" nodeset="/CSISA_BD_PANIExp_25022018/crop_1" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/TreatmentCombinations ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 1)" nodeset="/CSISA_BD_PANIExp_25022018/TC_1" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Irrigation ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 1)" nodeset="/CSISA_BD_PANIExp_25022018/irrigation_1" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Irrigation_/wheatStage ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 1)" nodeset="/CSISA_BD_PANIExp_25022018/wheatStage_1" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Irrigation_/maizeStage ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 1)" nodeset="/CSISA_BD_PANIExp_25022018/maize_Stage_1" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Irrigation_/irrigTime ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 1)" nodeset="/CSISA_BD_PANIExp_25022018/irrigTime_1" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Irrigation_/irrigAmount ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 1)" nodeset="/CSISA_BD_PANIExp_25022018/irrigAmount_1" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Can_Temp/canTemp1 ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 1)" nodeset="/CSISA_BD_PANIExp_25022018/canTemp1_1" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Can_Temp/canTemp2 ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 1)" nodeset="/CSISA_BD_PANIExp_25022018/canTemp2_1" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Can_Temp/canTemp3 ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 1)" nodeset="/CSISA_BD_PANIExp_25022018/canTemp3_1" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Can_Temp/canTemp4 ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 1)" nodeset="/CSISA_BD_PANIExp_25022018/canTemp4_1" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Can_Temp/canTemp5 ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 1)" nodeset="/CSISA_BD_PANIExp_25022018/canTemp5_1" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Can_Temp/canTemp6 ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 1)" nodeset="/CSISA_BD_PANIExp_25022018/canTemp6_1" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_A/SMD_A_10cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 1)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_A_10cm_1" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_A/SMD_A_20cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 1)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_A_20cm_1" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_A/SMD_A_30cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 1)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_A_30cm_1" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_A/SMD_A_40cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 1)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_A_40cm_1" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_A/SMD_A_60cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 1)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_A_60cm_1" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_A/SMD_A_100cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 1)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_A_100cm_1" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_B/SMD_B_10cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 1)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_B_10cm_1" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_B/SMD_B_20cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 1)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_B_20cm_1" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_B/SMD_B_30cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 1)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_B_30cm_1" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_B/SMD_B_40cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 1)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_B_40cm_1" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_B/SMD_B_60cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 1)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_B_60cm_1" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_B/SMD_B_100cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 1)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_B_100cm_1" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/dataID ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 2)" nodeset="/CSISA_BD_PANIExp_25022018/dataID_2" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Crop ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 2)" nodeset="/CSISA_BD_PANIExp_25022018/crop_2" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/TreatmentCombinations ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 2)" nodeset="/CSISA_BD_PANIExp_25022018/TC_2" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Irrigation ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 2)" nodeset="/CSISA_BD_PANIExp_25022018/irrigation_2" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Irrigation_/wheatStage ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 2)" nodeset="/CSISA_BD_PANIExp_25022018/wheatStage_2" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Irrigation_/maizeStage ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 2)" nodeset="/CSISA_BD_PANIExp_25022018/maize_Stage_2" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Irrigation_/irrigTime ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 2)" nodeset="/CSISA_BD_PANIExp_25022018/irrigTime_2" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Irrigation_/irrigAmount ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 2)" nodeset="/CSISA_BD_PANIExp_25022018/irrigAmount_2" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Can_Temp/canTemp1 ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 2)" nodeset="/CSISA_BD_PANIExp_25022018/canTemp1_2" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Can_Temp/canTemp2 ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 2)" nodeset="/CSISA_BD_PANIExp_25022018/canTemp2_2" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Can_Temp/canTemp3 ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 2)" nodeset="/CSISA_BD_PANIExp_25022018/canTemp3_2" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Can_Temp/canTemp4 ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 2)" nodeset="/CSISA_BD_PANIExp_25022018/canTemp4_2" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Can_Temp/canTemp5 ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 2)" nodeset="/CSISA_BD_PANIExp_25022018/canTemp5_2" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Can_Temp/canTemp6 ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 2)" nodeset="/CSISA_BD_PANIExp_25022018/canTemp6_2" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_A/SMD_A_10cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 2)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_A_10cm_2" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_A/SMD_A_20cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 2)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_A_20cm_2" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_A/SMD_A_30cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 2)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_A_30cm_2" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_A/SMD_A_40cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 2)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_A_40cm_2" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_A/SMD_A_60cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 2)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_A_60cm_2" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_A/SMD_A_100cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 2)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_A_100cm_2" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_B/SMD_B_10cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 2)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_B_10cm_2" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_B/SMD_B_20cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 2)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_B_20cm_2" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_B/SMD_B_30cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 2)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_B_30cm_2" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_B/SMD_B_40cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 2)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_B_40cm_2" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_B/SMD_B_60cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 2)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_B_60cm_2" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_B/SMD_B_100cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 2)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_B_100cm_2" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/dataID ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 3)" nodeset="/CSISA_BD_PANIExp_25022018/dataID_3" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Crop ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 3)" nodeset="/CSISA_BD_PANIExp_25022018/crop_3" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/TreatmentCombinations ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 3)" nodeset="/CSISA_BD_PANIExp_25022018/TC_3" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Irrigation ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 3)" nodeset="/CSISA_BD_PANIExp_25022018/irrigation_3" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Irrigation_/wheatStage ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 3)" nodeset="/CSISA_BD_PANIExp_25022018/wheatStage_3" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Irrigation_/maizeStage ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 3)" nodeset="/CSISA_BD_PANIExp_25022018/maize_Stage_3" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Irrigation_/irrigTime ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 3)" nodeset="/CSISA_BD_PANIExp_25022018/irrigTime_3" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Irrigation_/irrigAmount ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 3)" nodeset="/CSISA_BD_PANIExp_25022018/irrigAmount_3" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Can_Temp/canTemp1 ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 3)" nodeset="/CSISA_BD_PANIExp_25022018/canTemp1_3" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Can_Temp/canTemp2 ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 3)" nodeset="/CSISA_BD_PANIExp_25022018/canTemp2_3" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Can_Temp/canTemp3 ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 3)" nodeset="/CSISA_BD_PANIExp_25022018/canTemp3_3" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Can_Temp/canTemp4 ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 3)" nodeset="/CSISA_BD_PANIExp_25022018/canTemp4_3" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Can_Temp/canTemp5 ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 3)" nodeset="/CSISA_BD_PANIExp_25022018/canTemp5_3" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Can_Temp/canTemp6 ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 3)" nodeset="/CSISA_BD_PANIExp_25022018/canTemp6_3" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_A/SMD_A_10cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 3)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_A_10cm_3" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_A/SMD_A_20cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 3)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_A_20cm_3" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_A/SMD_A_30cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 3)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_A_30cm_3" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_A/SMD_A_40cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 3)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_A_40cm_3" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_A/SMD_A_60cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 3)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_A_60cm_3" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_A/SMD_A_100cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 3)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_A_100cm_3" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_B/SMD_B_10cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 3)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_B_10cm_3" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_B/SMD_B_20cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 3)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_B_20cm_3" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_B/SMD_B_30cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 3)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_B_30cm_3" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_B/SMD_B_40cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 3)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_B_40cm_3" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_B/SMD_B_60cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 3)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_B_60cm_3" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_B/SMD_B_100cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 3)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_B_100cm_3" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/dataID ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 4)" nodeset="/CSISA_BD_PANIExp_25022018/dataID_4" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Crop ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 4)" nodeset="/CSISA_BD_PANIExp_25022018/crop_4" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/TreatmentCombinations ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 4)" nodeset="/CSISA_BD_PANIExp_25022018/TC_4" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Irrigation ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 4)" nodeset="/CSISA_BD_PANIExp_25022018/irrigation_4" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Irrigation_/wheatStage ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 4)" nodeset="/CSISA_BD_PANIExp_25022018/wheatStage_4" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Irrigation_/maizeStage ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 4)" nodeset="/CSISA_BD_PANIExp_25022018/maize_Stage_4" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Irrigation_/irrigTime ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 4)" nodeset="/CSISA_BD_PANIExp_25022018/irrigTime_4" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Irrigation_/irrigAmount ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 4)" nodeset="/CSISA_BD_PANIExp_25022018/irrigAmount_4" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Can_Temp/canTemp1 ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 4)" nodeset="/CSISA_BD_PANIExp_25022018/canTemp1_4" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Can_Temp/canTemp2 ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 4)" nodeset="/CSISA_BD_PANIExp_25022018/canTemp2_4" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Can_Temp/canTemp3 ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 4)" nodeset="/CSISA_BD_PANIExp_25022018/canTemp3_4" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Can_Temp/canTemp4 ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 4)" nodeset="/CSISA_BD_PANIExp_25022018/canTemp4_4" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Can_Temp/canTemp5 ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 4)" nodeset="/CSISA_BD_PANIExp_25022018/canTemp5_4" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Can_Temp/canTemp6 ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 4)" nodeset="/CSISA_BD_PANIExp_25022018/canTemp6_4" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_A/SMD_A_10cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 4)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_A_10cm_4" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_A/SMD_A_20cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 4)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_A_20cm_4" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_A/SMD_A_30cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 4)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_A_30cm_4" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_A/SMD_A_40cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 4)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_A_40cm_4" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_A/SMD_A_60cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 4)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_A_60cm_4" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_A/SMD_A_100cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 4)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_A_100cm_4" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_B/SMD_B_10cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 4)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_B_10cm_4" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_B/SMD_B_20cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 4)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_B_20cm_4" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_B/SMD_B_30cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 4)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_B_30cm_4" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_B/SMD_B_40cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 4)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_B_40cm_4" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_B/SMD_B_60cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 4)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_B_60cm_4" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_B/SMD_B_100cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 4)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_B_100cm_4" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/dataID ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 5)" nodeset="/CSISA_BD_PANIExp_25022018/dataID_5" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Crop ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 5)" nodeset="/CSISA_BD_PANIExp_25022018/crop_5" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/TreatmentCombinations ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 5)" nodeset="/CSISA_BD_PANIExp_25022018/TC_5" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Irrigation ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 5)" nodeset="/CSISA_BD_PANIExp_25022018/irrigation_5" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Irrigation_/wheatStage ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 5)" nodeset="/CSISA_BD_PANIExp_25022018/wheatStage_5" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Irrigation_/maizeStage ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 5)" nodeset="/CSISA_BD_PANIExp_25022018/maize_Stage_5" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Irrigation_/irrigTime ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 5)" nodeset="/CSISA_BD_PANIExp_25022018/irrigTime_5" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Irrigation_/irrigAmount ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 5)" nodeset="/CSISA_BD_PANIExp_25022018/irrigAmount_5" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Can_Temp/canTemp1 ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 5)" nodeset="/CSISA_BD_PANIExp_25022018/canTemp1_5" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Can_Temp/canTemp2 ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 5)" nodeset="/CSISA_BD_PANIExp_25022018/canTemp2_5" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Can_Temp/canTemp3 ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 5)" nodeset="/CSISA_BD_PANIExp_25022018/canTemp3_5" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Can_Temp/canTemp4 ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 5)" nodeset="/CSISA_BD_PANIExp_25022018/canTemp4_5" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Can_Temp/canTemp5 ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 5)" nodeset="/CSISA_BD_PANIExp_25022018/canTemp5_5" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Can_Temp/canTemp6 ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 5)" nodeset="/CSISA_BD_PANIExp_25022018/canTemp6_5" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_A/SMD_A_10cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 5)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_A_10cm_5" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_A/SMD_A_20cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 5)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_A_20cm_5" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_A/SMD_A_30cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 5)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_A_30cm_5" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_A/SMD_A_40cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 5)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_A_40cm_5" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_A/SMD_A_60cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 5)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_A_60cm_5" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_A/SMD_A_100cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 5)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_A_100cm_5" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_B/SMD_B_10cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 5)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_B_10cm_5" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_B/SMD_B_20cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 5)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_B_20cm_5" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_B/SMD_B_30cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 5)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_B_30cm_5" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_B/SMD_B_40cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 5)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_B_40cm_5" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_B/SMD_B_60cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 5)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_B_60cm_5" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_B/SMD_B_100cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 5)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_B_100cm_5" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/dataID ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 6)" nodeset="/CSISA_BD_PANIExp_25022018/dataID_6" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Crop ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 6)" nodeset="/CSISA_BD_PANIExp_25022018/crop_6" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/TreatmentCombinations ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 6)" nodeset="/CSISA_BD_PANIExp_25022018/TC_6" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Irrigation ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 6)" nodeset="/CSISA_BD_PANIExp_25022018/irrigation_6" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Irrigation_/wheatStage ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 6)" nodeset="/CSISA_BD_PANIExp_25022018/wheatStage_6" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Irrigation_/maizeStage ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 6)" nodeset="/CSISA_BD_PANIExp_25022018/maize_Stage_6" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Irrigation_/irrigTime ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 6)" nodeset="/CSISA_BD_PANIExp_25022018/irrigTime_6" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Irrigation_/irrigAmount ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 6)" nodeset="/CSISA_BD_PANIExp_25022018/irrigAmount_6" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Can_Temp/canTemp1 ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 6)" nodeset="/CSISA_BD_PANIExp_25022018/canTemp1_6" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Can_Temp/canTemp2 ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 6)" nodeset="/CSISA_BD_PANIExp_25022018/canTemp2_6" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Can_Temp/canTemp3 ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 6)" nodeset="/CSISA_BD_PANIExp_25022018/canTemp3_6" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Can_Temp/canTemp4 ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 6)" nodeset="/CSISA_BD_PANIExp_25022018/canTemp4_6" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Can_Temp/canTemp5 ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 6)" nodeset="/CSISA_BD_PANIExp_25022018/canTemp5_6" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Can_Temp/canTemp6 ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 6)" nodeset="/CSISA_BD_PANIExp_25022018/canTemp6_6" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_A/SMD_A_10cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 6)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_A_10cm_6" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_A/SMD_A_20cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 6)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_A_20cm_6" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_A/SMD_A_30cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 6)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_A_30cm_6" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_A/SMD_A_40cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 6)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_A_40cm_6" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_A/SMD_A_60cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 6)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_A_60cm_6" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_A/SMD_A_100cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 6)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_A_100cm_6" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_B/SMD_B_10cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 6)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_B_10cm_6" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_B/SMD_B_20cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 6)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_B_20cm_6" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_B/SMD_B_30cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 6)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_B_30cm_6" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_B/SMD_B_40cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 6)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_B_40cm_6" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_B/SMD_B_60cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 6)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_B_60cm_6" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_B/SMD_B_100cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 6)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_B_100cm_6" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/dataID ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 7)" nodeset="/CSISA_BD_PANIExp_25022018/dataID_7" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Crop ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 7)" nodeset="/CSISA_BD_PANIExp_25022018/crop_7" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/TreatmentCombinations ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 7)" nodeset="/CSISA_BD_PANIExp_25022018/TC_7" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Irrigation ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 7)" nodeset="/CSISA_BD_PANIExp_25022018/irrigation_7" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Irrigation_/wheatStage ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 7)" nodeset="/CSISA_BD_PANIExp_25022018/wheatStage_7" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Irrigation_/maizeStage ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 7)" nodeset="/CSISA_BD_PANIExp_25022018/maize_Stage_7" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Irrigation_/irrigTime ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 7)" nodeset="/CSISA_BD_PANIExp_25022018/irrigTime_7" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Irrigation_/irrigAmount ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 7)" nodeset="/CSISA_BD_PANIExp_25022018/irrigAmount_7" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Can_Temp/canTemp1 ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 7)" nodeset="/CSISA_BD_PANIExp_25022018/canTemp1_7" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Can_Temp/canTemp2 ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 7)" nodeset="/CSISA_BD_PANIExp_25022018/canTemp2_7" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Can_Temp/canTemp3 ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 7)" nodeset="/CSISA_BD_PANIExp_25022018/canTemp3_7" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Can_Temp/canTemp4 ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 7)" nodeset="/CSISA_BD_PANIExp_25022018/canTemp4_7" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Can_Temp/canTemp5 ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 7)" nodeset="/CSISA_BD_PANIExp_25022018/canTemp5_7" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Can_Temp/canTemp6 ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 7)" nodeset="/CSISA_BD_PANIExp_25022018/canTemp6_7" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_A/SMD_A_10cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 7)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_A_10cm_7" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_A/SMD_A_20cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 7)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_A_20cm_7" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_A/SMD_A_30cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 7)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_A_30cm_7" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_A/SMD_A_40cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 7)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_A_40cm_7" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_A/SMD_A_60cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 7)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_A_60cm_7" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_A/SMD_A_100cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 7)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_A_100cm_7" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_B/SMD_B_10cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 7)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_B_10cm_7" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_B/SMD_B_20cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 7)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_B_20cm_7" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_B/SMD_B_30cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 7)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_B_30cm_7" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_B/SMD_B_40cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 7)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_B_40cm_7" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_B/SMD_B_60cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 7)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_B_60cm_7" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_B/SMD_B_100cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 7)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_B_100cm_7" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/dataID ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 8)" nodeset="/CSISA_BD_PANIExp_25022018/dataID_8" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Crop ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 8)" nodeset="/CSISA_BD_PANIExp_25022018/crop_8" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/TreatmentCombinations ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 8)" nodeset="/CSISA_BD_PANIExp_25022018/TC_8" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Irrigation ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 8)" nodeset="/CSISA_BD_PANIExp_25022018/irrigation_8" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Irrigation_/wheatStage ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 8)" nodeset="/CSISA_BD_PANIExp_25022018/wheatStage_8" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Irrigation_/maizeStage ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 8)" nodeset="/CSISA_BD_PANIExp_25022018/maize_Stage_8" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Irrigation_/irrigTime ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 8)" nodeset="/CSISA_BD_PANIExp_25022018/irrigTime_8" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Irrigation_/irrigAmount ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 8)" nodeset="/CSISA_BD_PANIExp_25022018/irrigAmount_8" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Can_Temp/canTemp1 ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 8)" nodeset="/CSISA_BD_PANIExp_25022018/canTemp1_8" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Can_Temp/canTemp2 ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 8)" nodeset="/CSISA_BD_PANIExp_25022018/canTemp2_8" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Can_Temp/canTemp3 ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 8)" nodeset="/CSISA_BD_PANIExp_25022018/canTemp3_8" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Can_Temp/canTemp4 ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 8)" nodeset="/CSISA_BD_PANIExp_25022018/canTemp4_8" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Can_Temp/canTemp5 ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 8)" nodeset="/CSISA_BD_PANIExp_25022018/canTemp5_8" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Can_Temp/canTemp6 ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 8)" nodeset="/CSISA_BD_PANIExp_25022018/canTemp6_8" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_A/SMD_A_10cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 8)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_A_10cm_8" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_A/SMD_A_20cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 8)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_A_20cm_8" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_A/SMD_A_30cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 8)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_A_30cm_8" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_A/SMD_A_40cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 8)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_A_40cm_8" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_A/SMD_A_60cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 8)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_A_60cm_8" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_A/SMD_A_100cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 8)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_A_100cm_8" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_B/SMD_B_10cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 8)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_B_10cm_8" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_B/SMD_B_20cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 8)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_B_20cm_8" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_B/SMD_B_30cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 8)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_B_30cm_8" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_B/SMD_B_40cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 8)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_B_40cm_8" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_B/SMD_B_60cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 8)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_B_60cm_8" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_B/SMD_B_100cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 8)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_B_100cm_8" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/dataID ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 9)" nodeset="/CSISA_BD_PANIExp_25022018/dataID_9" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Crop ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 9)" nodeset="/CSISA_BD_PANIExp_25022018/crop_9" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/TreatmentCombinations ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 9)" nodeset="/CSISA_BD_PANIExp_25022018/TC_9" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Irrigation ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 9)" nodeset="/CSISA_BD_PANIExp_25022018/irrigation_9" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Irrigation_/wheatStage ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 9)" nodeset="/CSISA_BD_PANIExp_25022018/wheatStage_9" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Irrigation_/maizeStage ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 9)" nodeset="/CSISA_BD_PANIExp_25022018/maize_Stage_9" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Irrigation_/irrigTime ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 9)" nodeset="/CSISA_BD_PANIExp_25022018/irrigTime_9" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Irrigation_/irrigAmount ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 9)" nodeset="/CSISA_BD_PANIExp_25022018/irrigAmount_9" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Can_Temp/canTemp1 ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 9)" nodeset="/CSISA_BD_PANIExp_25022018/canTemp1_9" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Can_Temp/canTemp2 ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 9)" nodeset="/CSISA_BD_PANIExp_25022018/canTemp2_9" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Can_Temp/canTemp3 ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 9)" nodeset="/CSISA_BD_PANIExp_25022018/canTemp3_9" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Can_Temp/canTemp4 ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 9)" nodeset="/CSISA_BD_PANIExp_25022018/canTemp4_9" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Can_Temp/canTemp5 ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 9)" nodeset="/CSISA_BD_PANIExp_25022018/canTemp5_9" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Can_Temp/canTemp6 ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 9)" nodeset="/CSISA_BD_PANIExp_25022018/canTemp6_9" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_A/SMD_A_10cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 9)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_A_10cm_9" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_A/SMD_A_20cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 9)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_A_20cm_9" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_A/SMD_A_30cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 9)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_A_30cm_9" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_A/SMD_A_40cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 9)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_A_40cm_9" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_A/SMD_A_60cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 9)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_A_60cm_9" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_A/SMD_A_100cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 9)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_A_100cm_9" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_B/SMD_B_10cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 9)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_B_10cm_9" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_B/SMD_B_20cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 9)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_B_20cm_9" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_B/SMD_B_30cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 9)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_B_30cm_9" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_B/SMD_B_40cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 9)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_B_40cm_9" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_B/SMD_B_60cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 9)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_B_60cm_9" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_B/SMD_B_100cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 9)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_B_100cm_9" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/dataID ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 10)" nodeset="/CSISA_BD_PANIExp_25022018/dataID_10" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Crop ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 10)" nodeset="/CSISA_BD_PANIExp_25022018/crop_10" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/TreatmentCombinations ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 10)" nodeset="/CSISA_BD_PANIExp_25022018/TC_10" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Irrigation ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 10)" nodeset="/CSISA_BD_PANIExp_25022018/irrigation_10" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Irrigation_/wheatStage ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 10)" nodeset="/CSISA_BD_PANIExp_25022018/wheatStage_10" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Irrigation_/maizeStage ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 10)" nodeset="/CSISA_BD_PANIExp_25022018/maize_Stage_10" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Irrigation_/irrigTime ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 10)" nodeset="/CSISA_BD_PANIExp_25022018/irrigTime_10" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Irrigation_/irrigAmount ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 10)" nodeset="/CSISA_BD_PANIExp_25022018/irrigAmount_10" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Can_Temp/canTemp1 ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 10)" nodeset="/CSISA_BD_PANIExp_25022018/canTemp1_10" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Can_Temp/canTemp2 ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 10)" nodeset="/CSISA_BD_PANIExp_25022018/canTemp2_10" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Can_Temp/canTemp3 ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 10)" nodeset="/CSISA_BD_PANIExp_25022018/canTemp3_10" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Can_Temp/canTemp4 ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 10)" nodeset="/CSISA_BD_PANIExp_25022018/canTemp4_10" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Can_Temp/canTemp5 ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 10)" nodeset="/CSISA_BD_PANIExp_25022018/canTemp5_10" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Can_Temp/canTemp6 ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 10)" nodeset="/CSISA_BD_PANIExp_25022018/canTemp6_10" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_A/SMD_A_10cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 10)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_A_10cm_10" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_A/SMD_A_20cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 10)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_A_20cm_10" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_A/SMD_A_30cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 10)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_A_30cm_10" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_A/SMD_A_40cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 10)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_A_40cm_10" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_A/SMD_A_60cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 10)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_A_60cm_10" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_A/SMD_A_100cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 10)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_A_100cm_10" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_B/SMD_B_10cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 10)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_B_10cm_10" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_B/SMD_B_20cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 10)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_B_20cm_10" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_B/SMD_B_30cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 10)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_B_30cm_10" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_B/SMD_B_40cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 10)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_B_40cm_10" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_B/SMD_B_60cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 10)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_B_60cm_10" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_B/SMD_B_100cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 10)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_B_100cm_10" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/dataID ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 11)" nodeset="/CSISA_BD_PANIExp_25022018/dataID_11" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Crop ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 11)" nodeset="/CSISA_BD_PANIExp_25022018/crop_11" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/TreatmentCombinations ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 11)" nodeset="/CSISA_BD_PANIExp_25022018/TC_11" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Irrigation ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 11)" nodeset="/CSISA_BD_PANIExp_25022018/irrigation_11" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Irrigation_/wheatStage ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 11)" nodeset="/CSISA_BD_PANIExp_25022018/wheatStage_11" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Irrigation_/maizeStage ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 11)" nodeset="/CSISA_BD_PANIExp_25022018/maize_Stage_11" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Irrigation_/irrigTime ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 11)" nodeset="/CSISA_BD_PANIExp_25022018/irrigTime_11" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Irrigation_/irrigAmount ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 11)" nodeset="/CSISA_BD_PANIExp_25022018/irrigAmount_11" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Can_Temp/canTemp1 ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 11)" nodeset="/CSISA_BD_PANIExp_25022018/canTemp1_11" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Can_Temp/canTemp2 ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 11)" nodeset="/CSISA_BD_PANIExp_25022018/canTemp2_11" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Can_Temp/canTemp3 ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 11)" nodeset="/CSISA_BD_PANIExp_25022018/canTemp3_11" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Can_Temp/canTemp4 ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 11)" nodeset="/CSISA_BD_PANIExp_25022018/canTemp4_11" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Can_Temp/canTemp5 ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 11)" nodeset="/CSISA_BD_PANIExp_25022018/canTemp5_11" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Can_Temp/canTemp6 ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 11)" nodeset="/CSISA_BD_PANIExp_25022018/canTemp6_11" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_A/SMD_A_10cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 11)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_A_10cm_11" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_A/SMD_A_20cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 11)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_A_20cm_11" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_A/SMD_A_30cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 11)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_A_30cm_11" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_A/SMD_A_40cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 11)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_A_40cm_11" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_A/SMD_A_60cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 11)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_A_60cm_11" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_A/SMD_A_100cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 11)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_A_100cm_11" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_B/SMD_B_10cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 11)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_B_10cm_11" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_B/SMD_B_20cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 11)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_B_20cm_11" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_B/SMD_B_30cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 11)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_B_30cm_11" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_B/SMD_B_40cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 11)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_B_40cm_11" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_B/SMD_B_60cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 11)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_B_60cm_11" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_B/SMD_B_100cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 11)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_B_100cm_11" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/dataID ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 12)" nodeset="/CSISA_BD_PANIExp_25022018/dataID_12" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Crop ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 12)" nodeset="/CSISA_BD_PANIExp_25022018/crop_12" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/TreatmentCombinations ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 12)" nodeset="/CSISA_BD_PANIExp_25022018/TC_12" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Irrigation ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 12)" nodeset="/CSISA_BD_PANIExp_25022018/irrigation_12" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Irrigation_/wheatStage ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 12)" nodeset="/CSISA_BD_PANIExp_25022018/wheatStage_12" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Irrigation_/maizeStage ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 12)" nodeset="/CSISA_BD_PANIExp_25022018/maize_Stage_12" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Irrigation_/irrigTime ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 12)" nodeset="/CSISA_BD_PANIExp_25022018/irrigTime_12" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Irrigation_/irrigAmount ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 12)" nodeset="/CSISA_BD_PANIExp_25022018/irrigAmount_12" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Can_Temp/canTemp1 ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 12)" nodeset="/CSISA_BD_PANIExp_25022018/canTemp1_12" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Can_Temp/canTemp2 ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 12)" nodeset="/CSISA_BD_PANIExp_25022018/canTemp2_12" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Can_Temp/canTemp3 ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 12)" nodeset="/CSISA_BD_PANIExp_25022018/canTemp3_12" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Can_Temp/canTemp4 ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 12)" nodeset="/CSISA_BD_PANIExp_25022018/canTemp4_12" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Can_Temp/canTemp5 ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 12)" nodeset="/CSISA_BD_PANIExp_25022018/canTemp5_12" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Can_Temp/canTemp6 ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 12)" nodeset="/CSISA_BD_PANIExp_25022018/canTemp6_12" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_A/SMD_A_10cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 12)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_A_10cm_12" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_A/SMD_A_20cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 12)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_A_20cm_12" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_A/SMD_A_30cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 12)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_A_30cm_12" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_A/SMD_A_40cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 12)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_A_40cm_12" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_A/SMD_A_60cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 12)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_A_60cm_12" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_A/SMD_A_100cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 12)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_A_100cm_12" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_B/SMD_B_10cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 12)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_B_10cm_12" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_B/SMD_B_20cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 12)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_B_20cm_12" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_B/SMD_B_30cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 12)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_B_30cm_12" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_B/SMD_B_40cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 12)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_B_40cm_12" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_B/SMD_B_60cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 12)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_B_60cm_12" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_B/SMD_B_100cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 12)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_B_100cm_12" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/dataID ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 13)" nodeset="/CSISA_BD_PANIExp_25022018/dataID_13" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Crop ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 13)" nodeset="/CSISA_BD_PANIExp_25022018/crop_13" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/TreatmentCombinations ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 13)" nodeset="/CSISA_BD_PANIExp_25022018/TC_13" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Irrigation ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 13)" nodeset="/CSISA_BD_PANIExp_25022018/irrigation_13" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Irrigation_/wheatStage ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 13)" nodeset="/CSISA_BD_PANIExp_25022018/wheatStage_13" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Irrigation_/maizeStage ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 13)" nodeset="/CSISA_BD_PANIExp_25022018/maize_Stage_13" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Irrigation_/irrigTime ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 13)" nodeset="/CSISA_BD_PANIExp_25022018/irrigTime_13" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Irrigation_/irrigAmount ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 13)" nodeset="/CSISA_BD_PANIExp_25022018/irrigAmount_13" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Can_Temp/canTemp1 ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 13)" nodeset="/CSISA_BD_PANIExp_25022018/canTemp1_13" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Can_Temp/canTemp2 ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 13)" nodeset="/CSISA_BD_PANIExp_25022018/canTemp2_13" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Can_Temp/canTemp3 ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 13)" nodeset="/CSISA_BD_PANIExp_25022018/canTemp3_13" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Can_Temp/canTemp4 ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 13)" nodeset="/CSISA_BD_PANIExp_25022018/canTemp4_13" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Can_Temp/canTemp5 ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 13)" nodeset="/CSISA_BD_PANIExp_25022018/canTemp5_13" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Can_Temp/canTemp6 ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 13)" nodeset="/CSISA_BD_PANIExp_25022018/canTemp6_13" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_A/SMD_A_10cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 13)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_A_10cm_13" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_A/SMD_A_20cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 13)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_A_20cm_13" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_A/SMD_A_30cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 13)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_A_30cm_13" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_A/SMD_A_40cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 13)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_A_40cm_13" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_A/SMD_A_60cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 13)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_A_60cm_13" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_A/SMD_A_100cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 13)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_A_100cm_13" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_B/SMD_B_10cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 13)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_B_10cm_13" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_B/SMD_B_20cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 13)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_B_20cm_13" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_B/SMD_B_30cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 13)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_B_30cm_13" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_B/SMD_B_40cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 13)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_B_40cm_13" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_B/SMD_B_60cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 13)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_B_60cm_13" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_B/SMD_B_100cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 13)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_B_100cm_13" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/dataID ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 14)" nodeset="/CSISA_BD_PANIExp_25022018/dataID_14" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Crop ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 14)" nodeset="/CSISA_BD_PANIExp_25022018/crop_14" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/TreatmentCombinations ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 14)" nodeset="/CSISA_BD_PANIExp_25022018/TC_14" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Irrigation ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 14)" nodeset="/CSISA_BD_PANIExp_25022018/irrigation_14" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Irrigation_/wheatStage ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 14)" nodeset="/CSISA_BD_PANIExp_25022018/wheatStage_14" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Irrigation_/maizeStage ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 14)" nodeset="/CSISA_BD_PANIExp_25022018/maize_Stage_14" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Irrigation_/irrigTime ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 14)" nodeset="/CSISA_BD_PANIExp_25022018/irrigTime_14" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Irrigation_/irrigAmount ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 14)" nodeset="/CSISA_BD_PANIExp_25022018/irrigAmount_14" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Can_Temp/canTemp1 ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 14)" nodeset="/CSISA_BD_PANIExp_25022018/canTemp1_14" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Can_Temp/canTemp2 ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 14)" nodeset="/CSISA_BD_PANIExp_25022018/canTemp2_14" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Can_Temp/canTemp3 ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 14)" nodeset="/CSISA_BD_PANIExp_25022018/canTemp3_14" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Can_Temp/canTemp4 ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 14)" nodeset="/CSISA_BD_PANIExp_25022018/canTemp4_14" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Can_Temp/canTemp5 ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 14)" nodeset="/CSISA_BD_PANIExp_25022018/canTemp5_14" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Can_Temp/canTemp6 ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 14)" nodeset="/CSISA_BD_PANIExp_25022018/canTemp6_14" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_A/SMD_A_10cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 14)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_A_10cm_14" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_A/SMD_A_20cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 14)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_A_20cm_14" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_A/SMD_A_30cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 14)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_A_30cm_14" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_A/SMD_A_40cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 14)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_A_40cm_14" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_A/SMD_A_60cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 14)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_A_60cm_14" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_A/SMD_A_100cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 14)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_A_100cm_14" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_B/SMD_B_10cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 14)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_B_10cm_14" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_B/SMD_B_20cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 14)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_B_20cm_14" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_B/SMD_B_30cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 14)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_B_30cm_14" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_B/SMD_B_40cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 14)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_B_40cm_14" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_B/SMD_B_60cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 14)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_B_60cm_14" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_B/SMD_B_100cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 14)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_B_100cm_14" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/dataID ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 15)" nodeset="/CSISA_BD_PANIExp_25022018/dataID_15" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Crop ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 15)" nodeset="/CSISA_BD_PANIExp_25022018/crop_15" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/TreatmentCombinations ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 15)" nodeset="/CSISA_BD_PANIExp_25022018/TC_15" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Irrigation ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 15)" nodeset="/CSISA_BD_PANIExp_25022018/irrigation_15" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Irrigation_/wheatStage ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 15)" nodeset="/CSISA_BD_PANIExp_25022018/wheatStage_15" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Irrigation_/maizeStage ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 15)" nodeset="/CSISA_BD_PANIExp_25022018/maize_Stage_15" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Irrigation_/irrigTime ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 15)" nodeset="/CSISA_BD_PANIExp_25022018/irrigTime_15" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Irrigation_/irrigAmount ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 15)" nodeset="/CSISA_BD_PANIExp_25022018/irrigAmount_15" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Can_Temp/canTemp1 ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 15)" nodeset="/CSISA_BD_PANIExp_25022018/canTemp1_15" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Can_Temp/canTemp2 ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 15)" nodeset="/CSISA_BD_PANIExp_25022018/canTemp2_15" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Can_Temp/canTemp3 ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 15)" nodeset="/CSISA_BD_PANIExp_25022018/canTemp3_15" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Can_Temp/canTemp4 ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 15)" nodeset="/CSISA_BD_PANIExp_25022018/canTemp4_15" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Can_Temp/canTemp5 ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 15)" nodeset="/CSISA_BD_PANIExp_25022018/canTemp5_15" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Can_Temp/canTemp6 ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 15)" nodeset="/CSISA_BD_PANIExp_25022018/canTemp6_15" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_A/SMD_A_10cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 15)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_A_10cm_15" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_A/SMD_A_20cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 15)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_A_20cm_15" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_A/SMD_A_30cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 15)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_A_30cm_15" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_A/SMD_A_40cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 15)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_A_40cm_15" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_A/SMD_A_60cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 15)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_A_60cm_15" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_A/SMD_A_100cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 15)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_A_100cm_15" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_B/SMD_B_10cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 15)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_B_10cm_15" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_B/SMD_B_20cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 15)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_B_20cm_15" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_B/SMD_B_30cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 15)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_B_30cm_15" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_B/SMD_B_40cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 15)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_B_40cm_15" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_B/SMD_B_60cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 15)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_B_60cm_15" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_B/SMD_B_100cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 15)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_B_100cm_15" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/dataID ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 16)" nodeset="/CSISA_BD_PANIExp_25022018/dataID_16" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Crop ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 16)" nodeset="/CSISA_BD_PANIExp_25022018/crop_16" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/TreatmentCombinations ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 16)" nodeset="/CSISA_BD_PANIExp_25022018/TC_16" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Irrigation ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 16)" nodeset="/CSISA_BD_PANIExp_25022018/irrigation_16" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Irrigation_/wheatStage ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 16)" nodeset="/CSISA_BD_PANIExp_25022018/wheatStage_16" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Irrigation_/maizeStage ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 16)" nodeset="/CSISA_BD_PANIExp_25022018/maize_Stage_16" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Irrigation_/irrigTime ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 16)" nodeset="/CSISA_BD_PANIExp_25022018/irrigTime_16" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Irrigation_/irrigAmount ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 16)" nodeset="/CSISA_BD_PANIExp_25022018/irrigAmount_16" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Can_Temp/canTemp1 ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 16)" nodeset="/CSISA_BD_PANIExp_25022018/canTemp1_16" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Can_Temp/canTemp2 ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 16)" nodeset="/CSISA_BD_PANIExp_25022018/canTemp2_16" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Can_Temp/canTemp3 ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 16)" nodeset="/CSISA_BD_PANIExp_25022018/canTemp3_16" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Can_Temp/canTemp4 ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 16)" nodeset="/CSISA_BD_PANIExp_25022018/canTemp4_16" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Can_Temp/canTemp5 ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 16)" nodeset="/CSISA_BD_PANIExp_25022018/canTemp5_16" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Can_Temp/canTemp6 ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 16)" nodeset="/CSISA_BD_PANIExp_25022018/canTemp6_16" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_A/SMD_A_10cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 16)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_A_10cm_16" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_A/SMD_A_20cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 16)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_A_20cm_16" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_A/SMD_A_30cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 16)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_A_30cm_16" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_A/SMD_A_40cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 16)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_A_40cm_16" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_A/SMD_A_60cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 16)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_A_60cm_16" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_A/SMD_A_100cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 16)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_A_100cm_16" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_B/SMD_B_10cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 16)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_B_10cm_16" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_B/SMD_B_20cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 16)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_B_20cm_16" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_B/SMD_B_30cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 16)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_B_30cm_16" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_B/SMD_B_40cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 16)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_B_40cm_16" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_B/SMD_B_60cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 16)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_B_60cm_16" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_B/SMD_B_100cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 16)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_B_100cm_16" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/dataID ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 17)" nodeset="/CSISA_BD_PANIExp_25022018/dataID_17" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Crop ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 17)" nodeset="/CSISA_BD_PANIExp_25022018/crop_17" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/TreatmentCombinations ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 17)" nodeset="/CSISA_BD_PANIExp_25022018/TC_17" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Irrigation ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 17)" nodeset="/CSISA_BD_PANIExp_25022018/irrigation_17" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Irrigation_/wheatStage ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 17)" nodeset="/CSISA_BD_PANIExp_25022018/wheatStage_17" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Irrigation_/maizeStage ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 17)" nodeset="/CSISA_BD_PANIExp_25022018/maize_Stage_17" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Irrigation_/irrigTime ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 17)" nodeset="/CSISA_BD_PANIExp_25022018/irrigTime_17" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Irrigation_/irrigAmount ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 17)" nodeset="/CSISA_BD_PANIExp_25022018/irrigAmount_17" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Can_Temp/canTemp1 ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 17)" nodeset="/CSISA_BD_PANIExp_25022018/canTemp1_17" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Can_Temp/canTemp2 ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 17)" nodeset="/CSISA_BD_PANIExp_25022018/canTemp2_17" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Can_Temp/canTemp3 ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 17)" nodeset="/CSISA_BD_PANIExp_25022018/canTemp3_17" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Can_Temp/canTemp4 ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 17)" nodeset="/CSISA_BD_PANIExp_25022018/canTemp4_17" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Can_Temp/canTemp5 ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 17)" nodeset="/CSISA_BD_PANIExp_25022018/canTemp5_17" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Can_Temp/canTemp6 ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 17)" nodeset="/CSISA_BD_PANIExp_25022018/canTemp6_17" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_A/SMD_A_10cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 17)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_A_10cm_17" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_A/SMD_A_20cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 17)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_A_20cm_17" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_A/SMD_A_30cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 17)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_A_30cm_17" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_A/SMD_A_40cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 17)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_A_40cm_17" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_A/SMD_A_60cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 17)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_A_60cm_17" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_A/SMD_A_100cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 17)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_A_100cm_17" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_B/SMD_B_10cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 17)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_B_10cm_17" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_B/SMD_B_20cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 17)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_B_20cm_17" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_B/SMD_B_30cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 17)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_B_30cm_17" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_B/SMD_B_40cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 17)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_B_40cm_17" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_B/SMD_B_60cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 17)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_B_60cm_17" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_B/SMD_B_100cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 17)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_B_100cm_17" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/dataID ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 18)" nodeset="/CSISA_BD_PANIExp_25022018/dataID_18" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Crop ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 18)" nodeset="/CSISA_BD_PANIExp_25022018/crop_18" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/TreatmentCombinations ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 18)" nodeset="/CSISA_BD_PANIExp_25022018/TC_18" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Irrigation ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 18)" nodeset="/CSISA_BD_PANIExp_25022018/irrigation_18" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Irrigation_/wheatStage ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 18)" nodeset="/CSISA_BD_PANIExp_25022018/wheatStage_18" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Irrigation_/maizeStage ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 18)" nodeset="/CSISA_BD_PANIExp_25022018/maize_Stage_18" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Irrigation_/irrigTime ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 18)" nodeset="/CSISA_BD_PANIExp_25022018/irrigTime_18" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Irrigation_/irrigAmount ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 18)" nodeset="/CSISA_BD_PANIExp_25022018/irrigAmount_18" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Can_Temp/canTemp1 ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 18)" nodeset="/CSISA_BD_PANIExp_25022018/canTemp1_18" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Can_Temp/canTemp2 ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 18)" nodeset="/CSISA_BD_PANIExp_25022018/canTemp2_18" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Can_Temp/canTemp3 ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 18)" nodeset="/CSISA_BD_PANIExp_25022018/canTemp3_18" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Can_Temp/canTemp4 ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 18)" nodeset="/CSISA_BD_PANIExp_25022018/canTemp4_18" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Can_Temp/canTemp5 ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 18)" nodeset="/CSISA_BD_PANIExp_25022018/canTemp5_18" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Can_Temp/canTemp6 ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 18)" nodeset="/CSISA_BD_PANIExp_25022018/canTemp6_18" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_A/SMD_A_10cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 18)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_A_10cm_18" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_A/SMD_A_20cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 18)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_A_20cm_18" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_A/SMD_A_30cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 18)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_A_30cm_18" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_A/SMD_A_40cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 18)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_A_40cm_18" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_A/SMD_A_60cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 18)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_A_60cm_18" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_A/SMD_A_100cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 18)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_A_100cm_18" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_B/SMD_B_10cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 18)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_B_10cm_18" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_B/SMD_B_20cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 18)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_B_20cm_18" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_B/SMD_B_30cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 18)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_B_30cm_18" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_B/SMD_B_40cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 18)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_B_40cm_18" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_B/SMD_B_60cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 18)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_B_60cm_18" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_B/SMD_B_100cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 18)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_B_100cm_18" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/dataID ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 19)" nodeset="/CSISA_BD_PANIExp_25022018/dataID_19" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Crop ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 19)" nodeset="/CSISA_BD_PANIExp_25022018/crop_19" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/TreatmentCombinations ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 19)" nodeset="/CSISA_BD_PANIExp_25022018/TC_19" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Irrigation ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 19)" nodeset="/CSISA_BD_PANIExp_25022018/irrigation_19" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Irrigation_/wheatStage ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 19)" nodeset="/CSISA_BD_PANIExp_25022018/wheatStage_19" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Irrigation_/maizeStage ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 19)" nodeset="/CSISA_BD_PANIExp_25022018/maize_Stage_19" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Irrigation_/irrigTime ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 19)" nodeset="/CSISA_BD_PANIExp_25022018/irrigTime_19" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Irrigation_/irrigAmount ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 19)" nodeset="/CSISA_BD_PANIExp_25022018/irrigAmount_19" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Can_Temp/canTemp1 ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 19)" nodeset="/CSISA_BD_PANIExp_25022018/canTemp1_19" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Can_Temp/canTemp2 ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 19)" nodeset="/CSISA_BD_PANIExp_25022018/canTemp2_19" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Can_Temp/canTemp3 ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 19)" nodeset="/CSISA_BD_PANIExp_25022018/canTemp3_19" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Can_Temp/canTemp4 ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 19)" nodeset="/CSISA_BD_PANIExp_25022018/canTemp4_19" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Can_Temp/canTemp5 ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 19)" nodeset="/CSISA_BD_PANIExp_25022018/canTemp5_19" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Can_Temp/canTemp6 ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 19)" nodeset="/CSISA_BD_PANIExp_25022018/canTemp6_19" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_A/SMD_A_10cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 19)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_A_10cm_19" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_A/SMD_A_20cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 19)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_A_20cm_19" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_A/SMD_A_30cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 19)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_A_30cm_19" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_A/SMD_A_40cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 19)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_A_40cm_19" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_A/SMD_A_60cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 19)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_A_60cm_19" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_A/SMD_A_100cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 19)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_A_100cm_19" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_B/SMD_B_10cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 19)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_B_10cm_19" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_B/SMD_B_20cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 19)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_B_20cm_19" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_B/SMD_B_30cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 19)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_B_30cm_19" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_B/SMD_B_40cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 19)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_B_40cm_19" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_B/SMD_B_60cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 19)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_B_60cm_19" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_B/SMD_B_100cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 19)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_B_100cm_19" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/dataID ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 20)" nodeset="/CSISA_BD_PANIExp_25022018/dataID_20" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Crop ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 20)" nodeset="/CSISA_BD_PANIExp_25022018/crop_20" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/TreatmentCombinations ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 20)" nodeset="/CSISA_BD_PANIExp_25022018/TC_20" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Irrigation ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 20)" nodeset="/CSISA_BD_PANIExp_25022018/irrigation_20" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Irrigation_/wheatStage ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 20)" nodeset="/CSISA_BD_PANIExp_25022018/wheatStage_20" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Irrigation_/maizeStage ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 20)" nodeset="/CSISA_BD_PANIExp_25022018/maize_Stage_20" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Irrigation_/irrigTime ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 20)" nodeset="/CSISA_BD_PANIExp_25022018/irrigTime_20" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Irrigation_/irrigAmount ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 20)" nodeset="/CSISA_BD_PANIExp_25022018/irrigAmount_20" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Can_Temp/canTemp1 ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 20)" nodeset="/CSISA_BD_PANIExp_25022018/canTemp1_20" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Can_Temp/canTemp2 ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 20)" nodeset="/CSISA_BD_PANIExp_25022018/canTemp2_20" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Can_Temp/canTemp3 ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 20)" nodeset="/CSISA_BD_PANIExp_25022018/canTemp3_20" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Can_Temp/canTemp4 ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 20)" nodeset="/CSISA_BD_PANIExp_25022018/canTemp4_20" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Can_Temp/canTemp5 ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 20)" nodeset="/CSISA_BD_PANIExp_25022018/canTemp5_20" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Can_Temp/canTemp6 ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 20)" nodeset="/CSISA_BD_PANIExp_25022018/canTemp6_20" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_A/SMD_A_10cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 20)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_A_10cm_20" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_A/SMD_A_20cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 20)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_A_20cm_20" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_A/SMD_A_30cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 20)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_A_30cm_20" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_A/SMD_A_40cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 20)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_A_40cm_20" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_A/SMD_A_60cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 20)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_A_60cm_20" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_A/SMD_A_100cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 20)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_A_100cm_20" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_B/SMD_B_10cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 20)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_B_10cm_20" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_B/SMD_B_20cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 20)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_B_20cm_20" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_B/SMD_B_30cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 20)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_B_30cm_20" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_B/SMD_B_40cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 20)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_B_40cm_20" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_B/SMD_B_60cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 20)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_B_60cm_20" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_B/SMD_B_100cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 20)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_B_100cm_20" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/dataID ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 21)" nodeset="/CSISA_BD_PANIExp_25022018/dataID_21" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Crop ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 21)" nodeset="/CSISA_BD_PANIExp_25022018/crop_21" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/TreatmentCombinations ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 21)" nodeset="/CSISA_BD_PANIExp_25022018/TC_21" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Irrigation ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 21)" nodeset="/CSISA_BD_PANIExp_25022018/irrigation_21" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Irrigation_/wheatStage ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 21)" nodeset="/CSISA_BD_PANIExp_25022018/wheatStage_21" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Irrigation_/maizeStage ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 21)" nodeset="/CSISA_BD_PANIExp_25022018/maize_Stage_21" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Irrigation_/irrigTime ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 21)" nodeset="/CSISA_BD_PANIExp_25022018/irrigTime_21" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Irrigation_/irrigAmount ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 21)" nodeset="/CSISA_BD_PANIExp_25022018/irrigAmount_21" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Can_Temp/canTemp1 ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 21)" nodeset="/CSISA_BD_PANIExp_25022018/canTemp1_21" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Can_Temp/canTemp2 ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 21)" nodeset="/CSISA_BD_PANIExp_25022018/canTemp2_21" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Can_Temp/canTemp3 ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 21)" nodeset="/CSISA_BD_PANIExp_25022018/canTemp3_21" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Can_Temp/canTemp4 ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 21)" nodeset="/CSISA_BD_PANIExp_25022018/canTemp4_21" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Can_Temp/canTemp5 ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 21)" nodeset="/CSISA_BD_PANIExp_25022018/canTemp5_21" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Can_Temp/canTemp6 ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 21)" nodeset="/CSISA_BD_PANIExp_25022018/canTemp6_21" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_A/SMD_A_10cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 21)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_A_10cm_21" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_A/SMD_A_20cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 21)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_A_20cm_21" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_A/SMD_A_30cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 21)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_A_30cm_21" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_A/SMD_A_40cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 21)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_A_40cm_21" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_A/SMD_A_60cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 21)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_A_60cm_21" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_A/SMD_A_100cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 21)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_A_100cm_21" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_B/SMD_B_10cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 21)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_B_10cm_21" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_B/SMD_B_20cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 21)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_B_20cm_21" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_B/SMD_B_30cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 21)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_B_30cm_21" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_B/SMD_B_40cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 21)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_B_40cm_21" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_B/SMD_B_60cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 21)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_B_60cm_21" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_B/SMD_B_100cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 21)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_B_100cm_21" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/dataID ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 22)" nodeset="/CSISA_BD_PANIExp_25022018/dataID_22" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Crop ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 22)" nodeset="/CSISA_BD_PANIExp_25022018/crop_22" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/TreatmentCombinations ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 22)" nodeset="/CSISA_BD_PANIExp_25022018/TC_22" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Irrigation ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 22)" nodeset="/CSISA_BD_PANIExp_25022018/irrigation_22" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Irrigation_/wheatStage ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 22)" nodeset="/CSISA_BD_PANIExp_25022018/wheatStage_22" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Irrigation_/maizeStage ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 22)" nodeset="/CSISA_BD_PANIExp_25022018/maize_Stage_22" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Irrigation_/irrigTime ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 22)" nodeset="/CSISA_BD_PANIExp_25022018/irrigTime_22" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Irrigation_/irrigAmount ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 22)" nodeset="/CSISA_BD_PANIExp_25022018/irrigAmount_22" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Can_Temp/canTemp1 ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 22)" nodeset="/CSISA_BD_PANIExp_25022018/canTemp1_22" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Can_Temp/canTemp2 ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 22)" nodeset="/CSISA_BD_PANIExp_25022018/canTemp2_22" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Can_Temp/canTemp3 ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 22)" nodeset="/CSISA_BD_PANIExp_25022018/canTemp3_22" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Can_Temp/canTemp4 ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 22)" nodeset="/CSISA_BD_PANIExp_25022018/canTemp4_22" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Can_Temp/canTemp5 ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 22)" nodeset="/CSISA_BD_PANIExp_25022018/canTemp5_22" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Can_Temp/canTemp6 ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 22)" nodeset="/CSISA_BD_PANIExp_25022018/canTemp6_22" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_A/SMD_A_10cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 22)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_A_10cm_22" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_A/SMD_A_20cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 22)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_A_20cm_22" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_A/SMD_A_30cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 22)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_A_30cm_22" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_A/SMD_A_40cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 22)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_A_40cm_22" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_A/SMD_A_60cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 22)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_A_60cm_22" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_A/SMD_A_100cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 22)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_A_100cm_22" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_B/SMD_B_10cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 22)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_B_10cm_22" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_B/SMD_B_20cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 22)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_B_20cm_22" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_B/SMD_B_30cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 22)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_B_30cm_22" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_B/SMD_B_40cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 22)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_B_40cm_22" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_B/SMD_B_60cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 22)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_B_60cm_22" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_B/SMD_B_100cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 22)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_B_100cm_22" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/dataID ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 23)" nodeset="/CSISA_BD_PANIExp_25022018/dataID_23" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Crop ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 23)" nodeset="/CSISA_BD_PANIExp_25022018/crop_23" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/TreatmentCombinations ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 23)" nodeset="/CSISA_BD_PANIExp_25022018/TC_23" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Irrigation ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 23)" nodeset="/CSISA_BD_PANIExp_25022018/irrigation_23" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Irrigation_/wheatStage ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 23)" nodeset="/CSISA_BD_PANIExp_25022018/wheatStage_23" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Irrigation_/maizeStage ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 23)" nodeset="/CSISA_BD_PANIExp_25022018/maize_Stage_23" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Irrigation_/irrigTime ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 23)" nodeset="/CSISA_BD_PANIExp_25022018/irrigTime_23" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Irrigation_/irrigAmount ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 23)" nodeset="/CSISA_BD_PANIExp_25022018/irrigAmount_23" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Can_Temp/canTemp1 ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 23)" nodeset="/CSISA_BD_PANIExp_25022018/canTemp1_23" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Can_Temp/canTemp2 ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 23)" nodeset="/CSISA_BD_PANIExp_25022018/canTemp2_23" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Can_Temp/canTemp3 ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 23)" nodeset="/CSISA_BD_PANIExp_25022018/canTemp3_23" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Can_Temp/canTemp4 ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 23)" nodeset="/CSISA_BD_PANIExp_25022018/canTemp4_23" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Can_Temp/canTemp5 ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 23)" nodeset="/CSISA_BD_PANIExp_25022018/canTemp5_23" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Can_Temp/canTemp6 ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 23)" nodeset="/CSISA_BD_PANIExp_25022018/canTemp6_23" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_A/SMD_A_10cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 23)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_A_10cm_23" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_A/SMD_A_20cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 23)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_A_20cm_23" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_A/SMD_A_30cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 23)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_A_30cm_23" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_A/SMD_A_40cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 23)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_A_40cm_23" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_A/SMD_A_60cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 23)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_A_60cm_23" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_A/SMD_A_100cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 23)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_A_100cm_23" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_B/SMD_B_10cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 23)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_B_10cm_23" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_B/SMD_B_20cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 23)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_B_20cm_23" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_B/SMD_B_30cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 23)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_B_30cm_23" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_B/SMD_B_40cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 23)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_B_40cm_23" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_B/SMD_B_60cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 23)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_B_60cm_23" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_B/SMD_B_100cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 23)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_B_100cm_23" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/dataID ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 24)" nodeset="/CSISA_BD_PANIExp_25022018/dataID_24" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Crop ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 24)" nodeset="/CSISA_BD_PANIExp_25022018/crop_24" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/TreatmentCombinations ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 24)" nodeset="/CSISA_BD_PANIExp_25022018/TC_24" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Irrigation ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 24)" nodeset="/CSISA_BD_PANIExp_25022018/irrigation_24" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Irrigation_/wheatStage ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 24)" nodeset="/CSISA_BD_PANIExp_25022018/wheatStage_24" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Irrigation_/maizeStage ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 24)" nodeset="/CSISA_BD_PANIExp_25022018/maize_Stage_24" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Irrigation_/irrigTime ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 24)" nodeset="/CSISA_BD_PANIExp_25022018/irrigTime_24" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Irrigation_/irrigAmount ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 24)" nodeset="/CSISA_BD_PANIExp_25022018/irrigAmount_24" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Can_Temp/canTemp1 ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 24)" nodeset="/CSISA_BD_PANIExp_25022018/canTemp1_24" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Can_Temp/canTemp2 ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 24)" nodeset="/CSISA_BD_PANIExp_25022018/canTemp2_24" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Can_Temp/canTemp3 ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 24)" nodeset="/CSISA_BD_PANIExp_25022018/canTemp3_24" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Can_Temp/canTemp4 ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 24)" nodeset="/CSISA_BD_PANIExp_25022018/canTemp4_24" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Can_Temp/canTemp5 ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 24)" nodeset="/CSISA_BD_PANIExp_25022018/canTemp5_24" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Can_Temp/canTemp6 ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 24)" nodeset="/CSISA_BD_PANIExp_25022018/canTemp6_24" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_A/SMD_A_10cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 24)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_A_10cm_24" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_A/SMD_A_20cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 24)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_A_20cm_24" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_A/SMD_A_30cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 24)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_A_30cm_24" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_A/SMD_A_40cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 24)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_A_40cm_24" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_A/SMD_A_60cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 24)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_A_60cm_24" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_A/SMD_A_100cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 24)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_A_100cm_24" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_B/SMD_B_10cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 24)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_B_10cm_24" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_B/SMD_B_20cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 24)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_B_20cm_24" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_B/SMD_B_30cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 24)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_B_30cm_24" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_B/SMD_B_40cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 24)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_B_40cm_24" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_B/SMD_B_60cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 24)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_B_60cm_24" type="string"/>
+      <bind calculate="indexed-repeat( /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_B/SMD_B_100cm ,  /CSISA_BD_PANIExp_25022018/PANI_treatment_data , 24)" nodeset="/CSISA_BD_PANIExp_25022018/SMD_B_100cm_24" type="string"/>
+      <bind calculate="concat('uuid:', uuid())" nodeset="/CSISA_BD_PANIExp_25022018/meta/instanceID" readonly="true()" type="string"/>
+    </model>
+  </h:head>
+  <h:body>
+    <input ref="/CSISA_BD_PANIExp_25022018/Note">
+      <label>Data collection for PANI field experiments for wheat and maize at BARI research stations</label>
+    </input>
+    <input ref="/CSISA_BD_PANIExp_25022018/DataCollector">
+      <label>Name of the data collector</label>
+    </input>
+    <select1 ref="/CSISA_BD_PANIExp_25022018/Station">
+      <label>Name of the station</label>
+      <item>
+        <label>Dinajpur</label>
+        <value>531</value>
+      </item>
+      <item>
+        <label>Rajshahi</label>
+        <value>721</value>
+      </item>
+      <item>
+        <label>Barisal</label>
+        <value>431</value>
+      </item>
+    </select1>
+    <input appearance="no-calendar" ref="/CSISA_BD_PANIExp_25022018/SamplingDate">
+      <label>Sampling date</label>
+    </input>
+    <select1 appearance="minimal" ref="/CSISA_BD_PANIExp_25022018/Repeat">
+      <label>Select the maximum number of repeats used to enter the data</label>
+      <item>
+        <label>1</label>
+        <value>1</value>
+      </item>
+      <item>
+        <label>2</label>
+        <value>2</value>
+      </item>
+      <item>
+        <label>3</label>
+        <value>3</value>
+      </item>
+      <item>
+        <label>4</label>
+        <value>4</value>
+      </item>
+      <item>
+        <label>5</label>
+        <value>5</value>
+      </item>
+      <item>
+        <label>6</label>
+        <value>6</value>
+      </item>
+      <item>
+        <label>7</label>
+        <value>7</value>
+      </item>
+      <item>
+        <label>8</label>
+        <value>8</value>
+      </item>
+      <item>
+        <label>9</label>
+        <value>9</value>
+      </item>
+      <item>
+        <label>10</label>
+        <value>10</value>
+      </item>
+      <item>
+        <label>11</label>
+        <value>11</value>
+      </item>
+      <item>
+        <label>12</label>
+        <value>12</value>
+      </item>
+      <item>
+        <label>13</label>
+        <value>13</value>
+      </item>
+      <item>
+        <label>14</label>
+        <value>14</value>
+      </item>
+      <item>
+        <label>15</label>
+        <value>15</value>
+      </item>
+      <item>
+        <label>16</label>
+        <value>16</value>
+      </item>
+      <item>
+        <label>17</label>
+        <value>17</value>
+      </item>
+      <item>
+        <label>18</label>
+        <value>18</value>
+      </item>
+      <item>
+        <label>19</label>
+        <value>19</value>
+      </item>
+      <item>
+        <label>20</label>
+        <value>20</value>
+      </item>
+      <item>
+        <label>21</label>
+        <value>21</value>
+      </item>
+      <item>
+        <label>22</label>
+        <value>22</value>
+      </item>
+      <item>
+        <label>23</label>
+        <value>23</value>
+      </item>
+      <item>
+        <label>24</label>
+        <value>24</value>
+      </item>
+    </select1>
+    <group ref="/CSISA_BD_PANIExp_25022018/PANI_treatment_data">
+      <label>PANI treatment-wise data collection</label>
+      <repeat jr:count=" /CSISA_BD_PANIExp_25022018/PANI_treatment_data_count " nodeset="/CSISA_BD_PANIExp_25022018/PANI_treatment_data">
+        <select1 ref="/CSISA_BD_PANIExp_25022018/PANI_treatment_data/Crop">
+          <label>Name of the crop</label>
+          <item>
+            <label>Wheat</label>
+            <value>wheat</value>
+          </item>
+          <item>
+            <label>Maize</label>
+            <value>maize</value>
+          </item>
+        </select1>
+        <select1 appearance="minimal" ref="/CSISA_BD_PANIExp_25022018/PANI_treatment_data/TreatmentCombinations">
+          <label>Select the treatment combinations applicable to this trial</label>
+          <item>
+            <label>R1T1</label>
+            <value>R1T1</value>
+          </item>
+          <item>
+            <label>R1T2</label>
+            <value>R1T2</value>
+          </item>
+          <item>
+            <label>R1T3</label>
+            <value>R1T3</value>
+          </item>
+          <item>
+            <label>R2T1</label>
+            <value>R2T1</value>
+          </item>
+          <item>
+            <label>R2T2</label>
+            <value>R2T2</value>
+          </item>
+          <item>
+            <label>R2T3</label>
+            <value>R2T3</value>
+          </item>
+          <item>
+            <label>R3T1</label>
+            <value>R3T1</value>
+          </item>
+          <item>
+            <label>R3T2</label>
+            <value>R3T2</value>
+          </item>
+          <item>
+            <label>R3T3</label>
+            <value>R3T3</value>
+          </item>
+          <item>
+            <label>R4T1</label>
+            <value>R4T1</value>
+          </item>
+          <item>
+            <label>R4T2</label>
+            <value>R4T2</value>
+          </item>
+          <item>
+            <label>R4T3</label>
+            <value>R4T3</value>
+          </item>
+        </select1>
+        <select1 ref="/CSISA_BD_PANIExp_25022018/PANI_treatment_data/Irrigation">
+          <label> Did you apply irrigation at <output value=" /CSISA_BD_PANIExp_25022018/PANI_treatment_data/TreatmentCombinations "/> for <output value=" /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Crop "/>? </label>
+          <item>
+            <label>Yes</label>
+            <value>Yes</value>
+          </item>
+          <item>
+            <label>No</label>
+            <value>No</value>
+          </item>
+        </select1>
+        <group appearance="field-list" ref="/CSISA_BD_PANIExp_25022018/PANI_treatment_data/Irrigation_">
+          <label>Irrigation</label>
+          <select1 ref="/CSISA_BD_PANIExp_25022018/PANI_treatment_data/Irrigation_/wheatStage">
+            <label> Wheat stage during irrigation at <output value=" /CSISA_BD_PANIExp_25022018/PANI_treatment_data/TreatmentCombinations "/> </label><item>
+              <label>Germination</label>
+              <value>Germination</value>
+            </item>
+            <item>
+              <label>Tillering</label>
+              <value>Tillering</value>
+            </item>
+            <item>
+              <label>Stem elongation</label>
+              <value>stemElongation</value>
+            </item>
+            <item>
+              <label>Booting</label>
+              <value>Booting</value>
+            </item>
+            <item>
+              <label>Heading</label>
+              <value>Heading</value>
+            </item>
+            <item>
+              <label>Anthesis</label>
+              <value>Anthesis</value>
+            </item>
+            <item>
+              <label>Milk</label>
+              <value>Milk</value>
+            </item>
+            <item>
+              <label>Germination</label>
+              <value>Germination</value>
+            </item>
+          </select1>
+          <select1 ref="/CSISA_BD_PANIExp_25022018/PANI_treatment_data/Irrigation_/maizeStage">
+            <label> Maize stage during irrigation at <output value=" /CSISA_BD_PANIExp_25022018/PANI_treatment_data/TreatmentCombinations "/> </label><item>
+              <label>V6 stage</label>
+              <value>V6</value>
+            </item>
+            <item>
+              <label>V8 stage</label>
+              <value>V8</value>
+            </item>
+            <item>
+              <label>V10 stage</label>
+              <value>V10</value>
+            </item>
+            <item>
+              <label>V12 stage</label>
+              <value>V12</value>
+            </item>
+            <item>
+              <label>Silking stage</label>
+              <value>Silking</value>
+            </item>
+            <item>
+              <label>Tasseling</label>
+              <value>Tasseling</value>
+            </item>
+            <item>
+              <label>Grain filling</label>
+              <value>grainFilling</value>
+            </item>
+          </select1>
+          <input ref="/CSISA_BD_PANIExp_25022018/PANI_treatment_data/Irrigation_/irrigTime">
+            <label> Irrigation time (s) at <output value=" /CSISA_BD_PANIExp_25022018/PANI_treatment_data/TreatmentCombinations "/> for <output value=" /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Crop "/> </label></input>
+          <input ref="/CSISA_BD_PANIExp_25022018/PANI_treatment_data/Irrigation_/irrigAmount">
+            <label> Amount of water (m3/s) at <output value=" /CSISA_BD_PANIExp_25022018/PANI_treatment_data/TreatmentCombinations "/> for <output value=" /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Crop "/> </label></input>
+        </group>
+        <group ref="/CSISA_BD_PANIExp_25022018/PANI_treatment_data/Can_Temp">
+          <input ref="/CSISA_BD_PANIExp_25022018/PANI_treatment_data/Can_Temp/canTemp1">
+            <label> Canopy temperature 1 (°C) at <output value=" /CSISA_BD_PANIExp_25022018/PANI_treatment_data/TreatmentCombinations "/> for <output value=" /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Crop "/> </label></input>
+          <input ref="/CSISA_BD_PANIExp_25022018/PANI_treatment_data/Can_Temp/canTemp2">
+            <label> Canopy temperature 2 (°C) at <output value=" /CSISA_BD_PANIExp_25022018/PANI_treatment_data/TreatmentCombinations "/> for <output value=" /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Crop "/> </label></input>
+          <input ref="/CSISA_BD_PANIExp_25022018/PANI_treatment_data/Can_Temp/canTemp3">
+            <label> Canopy temperature 3 (°C) at <output value=" /CSISA_BD_PANIExp_25022018/PANI_treatment_data/TreatmentCombinations "/> for <output value=" /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Crop "/> </label></input>
+          <input ref="/CSISA_BD_PANIExp_25022018/PANI_treatment_data/Can_Temp/canTemp4">
+            <label> Canopy temperature 4 (°C) at <output value=" /CSISA_BD_PANIExp_25022018/PANI_treatment_data/TreatmentCombinations "/> for <output value=" /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Crop "/> </label></input>
+          <input ref="/CSISA_BD_PANIExp_25022018/PANI_treatment_data/Can_Temp/canTemp5">
+            <label> Canopy temperature 5 (°C) at <output value=" /CSISA_BD_PANIExp_25022018/PANI_treatment_data/TreatmentCombinations "/> for <output value=" /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Crop "/> </label></input>
+          <input ref="/CSISA_BD_PANIExp_25022018/PANI_treatment_data/Can_Temp/canTemp6">
+            <label> Canopy temperature 6 (°C) at <output value=" /CSISA_BD_PANIExp_25022018/PANI_treatment_data/TreatmentCombinations "/> for <output value=" /CSISA_BD_PANIExp_25022018/PANI_treatment_data/Crop "/> </label></input>
+        </group>
+        <group ref="/CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_A">
+          <label>Soil moisture data (SMD) for A (%)</label>
+          <input ref="/CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_A/SMD_A_10cm">
+            <label>soil moisture data A 0-10cm</label>
+          </input>
+          <input ref="/CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_A/SMD_A_20cm">
+            <label>soil moisture data A 10-20cm</label>
+          </input>
+          <input ref="/CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_A/SMD_A_30cm">
+            <label>soil moisture data A 20-30cm</label>
+          </input>
+          <input ref="/CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_A/SMD_A_40cm">
+            <label>soil moisture data A 30-40cm</label>
+          </input>
+          <input ref="/CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_A/SMD_A_60cm">
+            <label>soil moisture data A 40-60cm</label>
+          </input>
+          <input ref="/CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_A/SMD_A_100cm">
+            <label>soil moisture data A 60-100cm</label>
+          </input>
+        </group>
+        <group ref="/CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_B">
+          <label>Soil moisture data (SMD) for B (%)</label>
+          <input ref="/CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_B/SMD_B_10cm">
+            <label>soil moisture data B 0-10cm</label>
+          </input>
+          <input ref="/CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_B/SMD_B_20cm">
+            <label>soil moisture data B 10-20cm</label>
+          </input>
+          <input ref="/CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_B/SMD_B_30cm">
+            <label>soil moisture data B 20-30cm</label>
+          </input>
+          <input ref="/CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_B/SMD_B_40cm">
+            <label>soil moisture data B 30-40cm</label>
+          </input>
+          <input ref="/CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_B/SMD_B_60cm">
+            <label>soil moisture data B 40-60cm</label>
+          </input>
+          <input ref="/CSISA_BD_PANIExp_25022018/PANI_treatment_data/Soil_Moist_B/SMD_B_100cm">
+            <label>soil moisture data B 60-100cm</label>
+          </input>
+        </group>
+        <input ref="/CSISA_BD_PANIExp_25022018/PANI_treatment_data/comment">
+          <label>comment</label>
+        </input>
+      </repeat>
+    </group>
+  </h:body>
+</h:html>

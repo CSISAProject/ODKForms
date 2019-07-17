@@ -1,0 +1,1527 @@
+<?xml version="1.0"?>
+<h:html xmlns="http://www.w3.org/2002/xforms" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:h="http://www.w3.org/1999/xhtml" xmlns:jr="http://openrosa.org/javarosa" xmlns:orx="http://openrosa.org/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <h:head><!-- ODK Aggregate upload time: 2018-01-08T10:15:41.282+0000 on https://csisaodk.appspot.com -->
+    <h:title>CSISA Odisha Maize Survey 2017 MBJ</h:title>
+    <model>
+      <submission action="https://csisaodk.appspot.com/submission" method="form-data-post"/>
+      <itext>
+        <translation default="true()" lang="English">
+          <text id="static_instance-Village-6">
+            <value>Jhalkyani</value>
+          </text>
+          <text id="static_instance-Cleaning-0">
+            <value>Yes</value>
+          </text>
+          <text id="static_instance-Buyer-1">
+            <value>Trader or commission agent</value>
+          </text>
+          <text id="static_instance-Village-0">
+            <value>Badbil</value>
+          </text>
+          <text id="static_instance-Sundry-2">
+            <value>Cemented floor</value>
+          </text>
+          <text id="static_instance-Education-3">
+            <value>Graduate</value>
+          </text>
+          <text id="static_instance-Maize_year-1">
+            <value>Two years</value>
+          </text>
+          <text id="static_instance-enumerator_id-2">
+            <value>3</value>
+          </text>
+          <text id="static_instance-Connection-2">
+            <value>Other agency facilitated</value>
+          </text>
+          <text id="static_instance-Payment-0">
+            <value>Immediately</value>
+          </text>
+          <text id="static_instance-Education-5">
+            <value>Ph D</value>
+          </text>
+          <text id="static_instance-Maize_year-0">
+            <value>One year</value>
+          </text>
+          <text id="static_instance-Transaction-3">
+            <value>4</value>
+          </text>
+          <text id="static_instance-Sundry-0">
+            <value>Open ground</value>
+          </text>
+          <text id="static_instance-Trans_Reason-3">
+            <value>Other</value>
+          </text>
+          <text id="static_instance-Block-0">
+            <value>Jashipur</value>
+          </text>
+          <text id="static_instance-Maize_year-2">
+            <value>Three years</value>
+          </text>
+          <text id="static_instance-Education-2">
+            <value>10+2</value>
+          </text>
+          <text id="static_instance-Weighing-0">
+            <value>Yes</value>
+          </text>
+          <text id="static_instance-Village-3">
+            <value>Kalapathar</value>
+          </text>
+          <text id="static_instance-Storage-3">
+            <value>Stored without packing</value>
+          </text>
+          <text id="static_instance-Transaction-0">
+            <value>1</value>
+          </text>
+          <text id="static_instance-Village-7">
+            <value>Dhublabeda</value>
+          </text>
+          <text id="static_instance-Trans_Reason-0">
+            <value>Buyer agreed for limitted quantity</value>
+          </text>
+          <text id="static_instance-StoragePlace-0">
+            <value>Separate storage structure</value>
+          </text>
+          <text id="static_instance-Maize_year-4">
+            <value>10+</value>
+          </text>
+          <text id="static_instance-Transaction-1">
+            <value>2</value>
+          </text>
+          <text id="static_instance-Number_Buyer-2">
+            <value>3</value>
+          </text>
+          <text id="static_instance-Connection-1">
+            <value>Buyer visited</value>
+          </text>
+          <text id="static_instance-Storage-1">
+            <value>Jute bags</value>
+          </text>
+          <text id="static_instance-Maize_year-3">
+            <value>5+</value>
+          </text>
+          <text id="static_instance-Month-2">
+            <value>December</value>
+          </text>
+          <text id="static_instance-Education-0">
+            <value>0</value>
+          </text>
+          <text id="static_instance-Number_Buyer-0">
+            <value>1</value>
+          </text>
+          <text id="static_instance-Trans_Reason-2">
+            <value>Rest of the produce was non-marketable</value>
+          </text>
+          <text id="static_instance-Month_Sell-2">
+            <value>December</value>
+          </text>
+          <text id="static_instance-Gender-0">
+            <value>Male</value>
+          </text>
+          <text id="static_instance-Payment-4">
+            <value>More than a month</value>
+          </text>
+          <text id="static_instance-Month-0">
+            <value>October</value>
+          </text>
+          <text id="static_instance-Village-9">
+            <value>Gobindashai</value>
+          </text>
+          <text id="static_instance-Sell_Point-0">
+            <value>Within my village</value>
+          </text>
+          <text id="static_instance-Buyer-0">
+            <value>Local village level aggregator</value>
+          </text>
+          <text id="static_instance-Drying-0">
+            <value>Harvested cobs only</value>
+          </text>
+          <text id="static_instance-Block-1">
+            <value>Karanjia</value>
+          </text>
+          <text id="static_instance-Weighing-1">
+            <value>No</value>
+          </text>
+          <text id="static_instance-Selling-2">
+            <value>Both modes</value>
+          </text>
+          <text id="static_instance-Payment-1">
+            <value>Within a week</value>
+          </text>
+          <text id="static_instance-Storage-0">
+            <value>Plastic bags</value>
+          </text>
+          <text id="static_instance-enumerator_id-1">
+            <value>2</value>
+          </text>
+          <text id="static_instance-Village-2">
+            <value>Batapondugandi</value>
+          </text>
+          <text id="static_instance-Village-4">
+            <value>Kasipal</value>
+          </text>
+          <text id="static_instance-MSP-1">
+            <value>No</value>
+          </text>
+          <text id="static_instance-Month_Sell-3">
+            <value>January</value>
+          </text>
+          <text id="static_instance-Threshing-1">
+            <value>Owned thresher</value>
+          </text>
+          <text id="static_instance-StoragePlace-1">
+            <value>Covered space inside house</value>
+          </text>
+          <text id="static_instance-Threshing-0">
+            <value>By manual labour</value>
+          </text>
+          <text id="static_instance-Block-2">
+            <value>Rairangpur</value>
+          </text>
+          <text id="static_instance-Block-4">
+            <value>Sukruli</value>
+          </text>
+          <text id="static_instance-Quality-0">
+            <value>Yes</value>
+          </text>
+          <text id="static_instance-Selling-0">
+            <value>Individually</value>
+          </text>
+          <text id="static_instance-enumerator_id-4">
+            <value>5</value>
+          </text>
+          <text id="static_instance-Storage-2">
+            <value>Both types of bags</value>
+          </text>
+          <text id="static_instance-Month_Sell-0">
+            <value>October</value>
+          </text>
+          <text id="static_instance-Block-3">
+            <value>Shamakhunta</value>
+          </text>
+          <text id="static_instance-District-0">
+            <value>Mayurbhanj</value>
+          </text>
+          <text id="static_instance-Month-1">
+            <value>November</value>
+          </text>
+          <text id="static_instance-Gender-1">
+            <value>Female</value>
+          </text>
+          <text id="static_instance-Number_Buyer-1">
+            <value>2</value>
+          </text>
+          <text id="static_instance-StoragePlace-2">
+            <value>Open space outside house</value>
+          </text>
+          <text id="static_instance-Month_Sell-1">
+            <value>November</value>
+          </text>
+          <text id="static_instance-Payment-2">
+            <value>Within 15 days</value>
+          </text>
+          <text id="static_instance-Moisture-0">
+            <value>Yes</value>
+          </text>
+          <text id="static_instance-Threshing-2">
+            <value>Thresher rented-in from SP</value>
+          </text>
+          <text id="static_instance-Village-5">
+            <value>Chanchbani</value>
+          </text>
+          <text id="static_instance-Trans_Reason-1">
+            <value>Anticipated higer price in future</value>
+          </text>
+          <text id="static_instance-Drying-2">
+            <value>Both</value>
+          </text>
+          <text id="static_instance-Transaction-5">
+            <value>More than 5</value>
+          </text>
+          <text id="static_instance-Transaction-4">
+            <value>5</value>
+          </text>
+          <text id="static_instance-enumerator_id-0">
+            <value>1</value>
+          </text>
+          <text id="static_instance-Sundry-1">
+            <value>Plastic sheet</value>
+          </text>
+          <text id="static_instance-Education-4">
+            <value>Master</value>
+          </text>
+          <text id="static_instance-MSP-0">
+            <value>Yes</value>
+          </text>
+          <text id="static_instance-Buyer-2">
+            <value>Poultry feed miller</value>
+          </text>
+          <text id="static_instance-Transaction-2">
+            <value>3</value>
+          </text>
+          <text id="static_instance-Quality-1">
+            <value>No</value>
+          </text>
+          <text id="static_instance-Village-1">
+            <value>Badsol</value>
+          </text>
+          <text id="static_instance-Sell_Point-2">
+            <value>Sent to buyer's place - mill or go-down</value>
+          </text>
+          <text id="static_instance-Expected_Price-1">
+            <value>No</value>
+          </text>
+          <text id="static_instance-enumerator_id-3">
+            <value>4</value>
+          </text>
+          <text id="static_instance-Village-8">
+            <value>Sanputuka</value>
+          </text>
+          <text id="static_instance-Expected_Price-0">
+            <value>Yes</value>
+          </text>
+          <text id="static_instance-Moisture-1">
+            <value>No</value>
+          </text>
+          <text id="static_instance-Drying-1">
+            <value>Threshed grains only</value>
+          </text>
+          <text id="static_instance-Time-1">
+            <value>Second fortnight</value>
+          </text>
+          <text id="static_instance-Education-1">
+            <value>Upto 10</value>
+          </text>
+          <text id="static_instance-Sell_Point-1">
+            <value>Outside my village in local market</value>
+          </text>
+          <text id="static_instance-Connection-0">
+            <value>By my own</value>
+          </text>
+          <text id="static_instance-Selling-1">
+            <value>In group with neighbour farmers</value>
+          </text>
+          <text id="static_instance-Number_Buyer-3">
+            <value>More than 3</value>
+          </text>
+          <text id="static_instance-Payment-3">
+            <value>Within a month</value>
+          </text>
+          <text id="static_instance-Buyer-3">
+            <value>Other agencies</value>
+          </text>
+          <text id="static_instance-Cleaning-1">
+            <value>No</value>
+          </text>
+          <text id="static_instance-Time-0">
+            <value>First fortnight</value>
+          </text>
+        </translation>
+      </itext>
+      <instance>
+        <CSISA_Odisha_Maize_Survey_2017_18_NBM id="CSISA_OD_2017_MaizeSurvey_MBJ" version="20180108">
+          <start/>
+          <end/>
+          <today/>
+          <deviceid/>
+          <phonenumber/>
+          <acknowledge_test/>
+          <EnumID/>
+          <District/>
+          <Block/>
+          <Village/>
+          <FarmerId/>
+          <Farmer/>
+          <Age/>
+          <Gender/>
+          <Education/>
+          <Mobile/>
+          <HHMember/>
+          <AreaCultivated/>
+          <MaizeFarming/>
+          <A>
+            <MaizeArea2016/>
+            <MaizeProduction2016/>
+            <MaizeSell2016/>
+          </A>
+          <B>
+            <MaizeArea2017/>
+            <MaizeProduction2017/>
+            <MaizeSell2017/>
+          </B>
+          <acknowledge_test1/>
+          <Harvesting_Time>
+            <HarvestingMonth/>
+            <HarvestingTime/>
+          </Harvesting_Time>
+          <ThreshingMethod/>
+          <Drying/>
+          <SundryingPlace/>
+          <Cleaning/>
+          <Storage/>
+          <StoragePlace/>
+          <SellingMonth/>
+          <acknowledge_test2/>
+          <SellingType/>
+          <Buyers/>
+          <SellingPoint/>
+          <QualityCheck/>
+          <Moisture/>
+          <Weighing/>
+          <Buyer_Name/>
+          <Buyer_Contact/>
+          <Transaction/>
+          <Trans_Reason/>
+          <TransOtherReason/>
+          <Buyer_Connect/>
+          <Number_Buyer/>
+          <Price_2016/>
+          <Price_2017/>
+          <Payment_Time/>
+          <GotExpectedPrice/>
+          <ExpectedPrice/>
+          <MSP/>
+          <MSP_Value/>
+          <Sell_Reason/>
+          <GPS/>
+          <meta>
+            <instanceID/>
+          </meta>
+        </CSISA_Odisha_Maize_Survey_2017_18_NBM>
+      </instance>
+      <instance id="Cleaning">
+        <root>
+          <item>
+            <itextId>static_instance-Cleaning-0</itextId>
+            <name>Yes</name>
+          </item>
+          <item>
+            <itextId>static_instance-Cleaning-1</itextId>
+            <name>No</name>
+          </item>
+        </root>
+      </instance>
+      <instance id="Maize_year">
+        <root>
+          <item>
+            <itextId>static_instance-Maize_year-0</itextId>
+            <name>One</name>
+          </item>
+          <item>
+            <itextId>static_instance-Maize_year-1</itextId>
+            <name>Two</name>
+          </item>
+          <item>
+            <itextId>static_instance-Maize_year-2</itextId>
+            <name>Three</name>
+          </item>
+          <item>
+            <itextId>static_instance-Maize_year-3</itextId>
+            <name>MorethanFive</name>
+          </item>
+          <item>
+            <itextId>static_instance-Maize_year-4</itextId>
+            <name>MorethanTen</name>
+          </item>
+        </root>
+      </instance>
+      <instance id="Transaction">
+        <root>
+          <item>
+            <itextId>static_instance-Transaction-0</itextId>
+            <name>1</name>
+          </item>
+          <item>
+            <itextId>static_instance-Transaction-1</itextId>
+            <name>2</name>
+          </item>
+          <item>
+            <itextId>static_instance-Transaction-2</itextId>
+            <name>3</name>
+          </item>
+          <item>
+            <itextId>static_instance-Transaction-3</itextId>
+            <name>4</name>
+          </item>
+          <item>
+            <itextId>static_instance-Transaction-4</itextId>
+            <name>5</name>
+          </item>
+          <item>
+            <itextId>static_instance-Transaction-5</itextId>
+            <name>Morethan5</name>
+          </item>
+        </root>
+      </instance>
+      <instance id="StoragePlace">
+        <root>
+          <item>
+            <itextId>static_instance-StoragePlace-0</itextId>
+            <name>Separate</name>
+          </item>
+          <item>
+            <itextId>static_instance-StoragePlace-1</itextId>
+            <name>Covered</name>
+          </item>
+          <item>
+            <itextId>static_instance-StoragePlace-2</itextId>
+            <name>Open</name>
+          </item>
+        </root>
+      </instance>
+      <instance id="Buyer">
+        <root>
+          <item>
+            <itextId>static_instance-Buyer-0</itextId>
+            <name>Local</name>
+          </item>
+          <item>
+            <itextId>static_instance-Buyer-1</itextId>
+            <name>Agent</name>
+          </item>
+          <item>
+            <itextId>static_instance-Buyer-2</itextId>
+            <name>Mill</name>
+          </item>
+          <item>
+            <itextId>static_instance-Buyer-3</itextId>
+            <name>Agency</name>
+          </item>
+        </root>
+      </instance>
+      <instance id="Block">
+        <root>
+          <item>
+            <itextId>static_instance-Block-0</itextId>
+            <name>Jashipur</name>
+            <District>Mayurbhanj</District>
+          </item>
+          <item>
+            <itextId>static_instance-Block-1</itextId>
+            <name>Karanjia</name>
+            <District>Mayurbhanj</District>
+          </item>
+          <item>
+            <itextId>static_instance-Block-2</itextId>
+            <name>Rairangpur</name>
+            <District>Mayurbhanj</District>
+          </item>
+          <item>
+            <itextId>static_instance-Block-3</itextId>
+            <name>Shamakhunta</name>
+            <District>Mayurbhanj</District>
+          </item>
+          <item>
+            <itextId>static_instance-Block-4</itextId>
+            <name>Sukruli</name>
+            <District>Mayurbhanj</District>
+          </item>
+        </root>
+      </instance>
+      <instance id="Village">
+        <root>
+          <item>
+            <itextId>static_instance-Village-0</itextId>
+            <Block>Jashipur</Block>
+            <District>Mayurbhanj</District>
+            <name>Badbil</name>
+          </item>
+          <item>
+            <itextId>static_instance-Village-1</itextId>
+            <Block>Jashipur</Block>
+            <District>Mayurbhanj</District>
+            <name>Badsol</name>
+          </item>
+          <item>
+            <itextId>static_instance-Village-2</itextId>
+            <Block>Jashipur</Block>
+            <District>Mayurbhanj</District>
+            <name>Batapondugandi</name>
+          </item>
+          <item>
+            <itextId>static_instance-Village-3</itextId>
+            <Block>Jashipur</Block>
+            <District>Mayurbhanj</District>
+            <name>Kalapathar</name>
+          </item>
+          <item>
+            <itextId>static_instance-Village-4</itextId>
+            <Block>Jashipur</Block>
+            <District>Mayurbhanj</District>
+            <name>Kasipal</name>
+          </item>
+          <item>
+            <itextId>static_instance-Village-5</itextId>
+            <Block>Karanjia</Block>
+            <District>Mayurbhanj</District>
+            <name>Chanchbani</name>
+          </item>
+          <item>
+            <itextId>static_instance-Village-6</itextId>
+            <Block>Karanjia</Block>
+            <District>Mayurbhanj</District>
+            <name>Jhalkyani</name>
+          </item>
+          <item>
+            <itextId>static_instance-Village-7</itextId>
+            <Block>Rairangpur</Block>
+            <District>Mayurbhanj</District>
+            <name>Dhublabeda</name>
+          </item>
+          <item>
+            <itextId>static_instance-Village-8</itextId>
+            <Block>Suliapada</Block>
+            <District>Mayurbhanj</District>
+            <name>Sanputuka</name>
+          </item>
+          <item>
+            <itextId>static_instance-Village-9</itextId>
+            <Block>Sukruli</Block>
+            <District>Mayurbhanj</District>
+            <name>Gobindashai</name>
+          </item>
+        </root>
+      </instance>
+      <instance id="Quality">
+        <root>
+          <item>
+            <itextId>static_instance-Quality-0</itextId>
+            <name>Yes</name>
+          </item>
+          <item>
+            <itextId>static_instance-Quality-1</itextId>
+            <name>No</name>
+          </item>
+        </root>
+      </instance>
+      <instance id="Trans_Reason">
+        <root>
+          <item>
+            <itextId>static_instance-Trans_Reason-0</itextId>
+            <name>BuyerTookLess</name>
+          </item>
+          <item>
+            <itextId>static_instance-Trans_Reason-1</itextId>
+            <name>PriceHike</name>
+          </item>
+          <item>
+            <itextId>static_instance-Trans_Reason-2</itextId>
+            <name>Nonmarketable</name>
+          </item>
+          <item>
+            <itextId>static_instance-Trans_Reason-3</itextId>
+            <name>Other</name>
+          </item>
+        </root>
+      </instance>
+      <instance id="Number_Buyer">
+        <root>
+          <item>
+            <itextId>static_instance-Number_Buyer-0</itextId>
+            <name>1</name>
+          </item>
+          <item>
+            <itextId>static_instance-Number_Buyer-1</itextId>
+            <name>2</name>
+          </item>
+          <item>
+            <itextId>static_instance-Number_Buyer-2</itextId>
+            <name>3</name>
+          </item>
+          <item>
+            <itextId>static_instance-Number_Buyer-3</itextId>
+            <name>Morethan3</name>
+          </item>
+        </root>
+      </instance>
+      <instance id="Gender">
+        <root>
+          <item>
+            <itextId>static_instance-Gender-0</itextId>
+            <name>Male</name>
+          </item>
+          <item>
+            <itextId>static_instance-Gender-1</itextId>
+            <name>Female</name>
+          </item>
+        </root>
+      </instance>
+      <instance id="Time">
+        <root>
+          <item>
+            <itextId>static_instance-Time-0</itextId>
+            <name>FirstFortnight</name>
+          </item>
+          <item>
+            <itextId>static_instance-Time-1</itextId>
+            <name>SecondFortnight</name>
+          </item>
+        </root>
+      </instance>
+      <instance id="enumerator_id">
+        <root>
+          <item>
+            <itextId>static_instance-enumerator_id-0</itextId>
+            <name>1</name>
+          </item>
+          <item>
+            <itextId>static_instance-enumerator_id-1</itextId>
+            <name>2</name>
+          </item>
+          <item>
+            <itextId>static_instance-enumerator_id-2</itextId>
+            <name>3</name>
+          </item>
+          <item>
+            <itextId>static_instance-enumerator_id-3</itextId>
+            <name>4</name>
+          </item>
+          <item>
+            <itextId>static_instance-enumerator_id-4</itextId>
+            <name>5</name>
+          </item>
+        </root>
+      </instance>
+      <instance id="District">
+        <root>
+          <item>
+            <itextId>static_instance-District-0</itextId>
+            <name>Mayurbhanj</name>
+          </item>
+        </root>
+      </instance>
+      <instance id="Payment">
+        <root>
+          <item>
+            <itextId>static_instance-Payment-0</itextId>
+            <name>0</name>
+          </item>
+          <item>
+            <itextId>static_instance-Payment-1</itextId>
+            <name>7</name>
+          </item>
+          <item>
+            <itextId>static_instance-Payment-2</itextId>
+            <name>15</name>
+          </item>
+          <item>
+            <itextId>static_instance-Payment-3</itextId>
+            <name>30</name>
+          </item>
+          <item>
+            <itextId>static_instance-Payment-4</itextId>
+            <name>Morethan30</name>
+          </item>
+        </root>
+      </instance>
+      <instance id="Expected_Price">
+        <root>
+          <item>
+            <itextId>static_instance-Expected_Price-0</itextId>
+            <name>Yes</name>
+          </item>
+          <item>
+            <itextId>static_instance-Expected_Price-1</itextId>
+            <name>No</name>
+          </item>
+        </root>
+      </instance>
+      <instance id="Month_Sell">
+        <root>
+          <item>
+            <itextId>static_instance-Month_Sell-0</itextId>
+            <name>October</name>
+          </item>
+          <item>
+            <itextId>static_instance-Month_Sell-1</itextId>
+            <name>November</name>
+          </item>
+          <item>
+            <itextId>static_instance-Month_Sell-2</itextId>
+            <name>December</name>
+          </item>
+          <item>
+            <itextId>static_instance-Month_Sell-3</itextId>
+            <name>January</name>
+          </item>
+        </root>
+      </instance>
+      <instance id="Storage">
+        <root>
+          <item>
+            <itextId>static_instance-Storage-0</itextId>
+            <name>Plastic</name>
+          </item>
+          <item>
+            <itextId>static_instance-Storage-1</itextId>
+            <name>Jute</name>
+          </item>
+          <item>
+            <itextId>static_instance-Storage-2</itextId>
+            <name>BothPlasticJute</name>
+          </item>
+          <item>
+            <itextId>static_instance-Storage-3</itextId>
+            <name>Open</name>
+          </item>
+        </root>
+      </instance>
+      <instance id="Education">
+        <root>
+          <item>
+            <itextId>static_instance-Education-0</itextId>
+            <name>No</name>
+          </item>
+          <item>
+            <itextId>static_instance-Education-1</itextId>
+            <name>Ten</name>
+          </item>
+          <item>
+            <itextId>static_instance-Education-2</itextId>
+            <name>Tewelve</name>
+          </item>
+          <item>
+            <itextId>static_instance-Education-3</itextId>
+            <name>Graduate</name>
+          </item>
+          <item>
+            <itextId>static_instance-Education-4</itextId>
+            <name>Master</name>
+          </item>
+          <item>
+            <itextId>static_instance-Education-5</itextId>
+            <name>PhD</name>
+          </item>
+        </root>
+      </instance>
+      <instance id="Drying">
+        <root>
+          <item>
+            <itextId>static_instance-Drying-0</itextId>
+            <name>Cobs</name>
+          </item>
+          <item>
+            <itextId>static_instance-Drying-1</itextId>
+            <name>Grains</name>
+          </item>
+          <item>
+            <itextId>static_instance-Drying-2</itextId>
+            <name>BothCobsGrains</name>
+          </item>
+        </root>
+      </instance>
+      <instance id="Threshing">
+        <root>
+          <item>
+            <itextId>static_instance-Threshing-0</itextId>
+            <name>Manual</name>
+          </item>
+          <item>
+            <itextId>static_instance-Threshing-1</itextId>
+            <name>Mechanical</name>
+          </item>
+          <item>
+            <itextId>static_instance-Threshing-2</itextId>
+            <name>Both</name>
+          </item>
+        </root>
+      </instance>
+      <instance id="Sell_Point">
+        <root>
+          <item>
+            <itextId>static_instance-Sell_Point-0</itextId>
+            <name>Village</name>
+          </item>
+          <item>
+            <itextId>static_instance-Sell_Point-1</itextId>
+            <name>Outside</name>
+          </item>
+          <item>
+            <itextId>static_instance-Sell_Point-2</itextId>
+            <name>Mill</name>
+          </item>
+        </root>
+      </instance>
+      <instance id="MSP">
+        <root>
+          <item>
+            <itextId>static_instance-MSP-0</itextId>
+            <name>Yes</name>
+          </item>
+          <item>
+            <itextId>static_instance-MSP-1</itextId>
+            <name>No</name>
+          </item>
+        </root>
+      </instance>
+      <instance id="Connection">
+        <root>
+          <item>
+            <itextId>static_instance-Connection-0</itextId>
+            <name>Own</name>
+          </item>
+          <item>
+            <itextId>static_instance-Connection-1</itextId>
+            <name>Them</name>
+          </item>
+          <item>
+            <itextId>static_instance-Connection-2</itextId>
+            <name>Agency</name>
+          </item>
+        </root>
+      </instance>
+      <instance id="Selling">
+        <root>
+          <item>
+            <itextId>static_instance-Selling-0</itextId>
+            <name>Individual</name>
+          </item>
+          <item>
+            <itextId>static_instance-Selling-1</itextId>
+            <name>Group</name>
+          </item>
+          <item>
+            <itextId>static_instance-Selling-2</itextId>
+            <name>BothIndividualGroup</name>
+          </item>
+        </root>
+      </instance>
+      <instance id="Moisture">
+        <root>
+          <item>
+            <itextId>static_instance-Moisture-0</itextId>
+            <name>Yes</name>
+          </item>
+          <item>
+            <itextId>static_instance-Moisture-1</itextId>
+            <name>No</name>
+          </item>
+        </root>
+      </instance>
+      <instance id="Weighing">
+        <root>
+          <item>
+            <itextId>static_instance-Weighing-0</itextId>
+            <name>Yes</name>
+          </item>
+          <item>
+            <itextId>static_instance-Weighing-1</itextId>
+            <name>No</name>
+          </item>
+        </root>
+      </instance>
+      <instance id="Sundry">
+        <root>
+          <item>
+            <itextId>static_instance-Sundry-0</itextId>
+            <name>Ground</name>
+          </item>
+          <item>
+            <itextId>static_instance-Sundry-1</itextId>
+            <name>Plastic</name>
+          </item>
+          <item>
+            <itextId>static_instance-Sundry-2</itextId>
+            <name>Cemented</name>
+          </item>
+        </root>
+      </instance>
+      <instance id="Month">
+        <root>
+          <item>
+            <itextId>static_instance-Month-0</itextId>
+            <name>October</name>
+          </item>
+          <item>
+            <itextId>static_instance-Month-1</itextId>
+            <name>November</name>
+          </item>
+          <item>
+            <itextId>static_instance-Month-2</itextId>
+            <name>December</name>
+          </item>
+        </root>
+      </instance>
+      <bind jr:preload="timestamp" jr:preloadParams="start" nodeset="/CSISA_Odisha_Maize_Survey_2017_18_NBM/start" type="dateTime"/>
+      <bind jr:preload="timestamp" jr:preloadParams="end" nodeset="/CSISA_Odisha_Maize_Survey_2017_18_NBM/end" type="dateTime"/>
+      <bind jr:preload="date" jr:preloadParams="today" nodeset="/CSISA_Odisha_Maize_Survey_2017_18_NBM/today" type="date"/>
+      <bind jr:preload="property" jr:preloadParams="deviceid" nodeset="/CSISA_Odisha_Maize_Survey_2017_18_NBM/deviceid" type="string"/>
+      <bind jr:preload="property" jr:preloadParams="phonenumber" nodeset="/CSISA_Odisha_Maize_Survey_2017_18_NBM/phonenumber" type="string"/>
+      <bind nodeset="/CSISA_Odisha_Maize_Survey_2017_18_NBM/acknowledge_test" type="string"/>
+      <bind nodeset="/CSISA_Odisha_Maize_Survey_2017_18_NBM/EnumID" required="true()" type="select1"/>
+      <bind nodeset="/CSISA_Odisha_Maize_Survey_2017_18_NBM/District" required="true()" type="select1"/>
+      <bind nodeset="/CSISA_Odisha_Maize_Survey_2017_18_NBM/Block" required="true()" type="select1"/>
+      <bind nodeset="/CSISA_Odisha_Maize_Survey_2017_18_NBM/Village" required="true()" type="select1"/>
+      <bind nodeset="/CSISA_Odisha_Maize_Survey_2017_18_NBM/FarmerId" required="true()" type="int"/>
+      <bind nodeset="/CSISA_Odisha_Maize_Survey_2017_18_NBM/Farmer" required="true()" type="string"/>
+      <bind nodeset="/CSISA_Odisha_Maize_Survey_2017_18_NBM/Age" required="true()" type="int"/>
+      <bind nodeset="/CSISA_Odisha_Maize_Survey_2017_18_NBM/Gender" required="true()" type="select1"/>
+      <bind nodeset="/CSISA_Odisha_Maize_Survey_2017_18_NBM/Education" required="true()" type="select1"/>
+      <bind nodeset="/CSISA_Odisha_Maize_Survey_2017_18_NBM/Mobile" required="true()" type="int"/>
+      <bind constraint=".&lt;=15" jr:constraintMsg="Are you sure?" nodeset="/CSISA_Odisha_Maize_Survey_2017_18_NBM/HHMember" required="true()" type="int"/>
+      <bind nodeset="/CSISA_Odisha_Maize_Survey_2017_18_NBM/AreaCultivated" required="true()" type="int"/>
+      <bind nodeset="/CSISA_Odisha_Maize_Survey_2017_18_NBM/MaizeFarming" required="true()" type="select1"/>
+      <bind nodeset="/CSISA_Odisha_Maize_Survey_2017_18_NBM/A" required="true()"/>
+      <bind nodeset="/CSISA_Odisha_Maize_Survey_2017_18_NBM/A/MaizeArea2016" type="int"/>
+      <bind nodeset="/CSISA_Odisha_Maize_Survey_2017_18_NBM/A/MaizeProduction2016" type="int"/>
+      <bind nodeset="/CSISA_Odisha_Maize_Survey_2017_18_NBM/A/MaizeSell2016" type="int"/>
+      <bind nodeset="/CSISA_Odisha_Maize_Survey_2017_18_NBM/B" required="true()"/>
+      <bind nodeset="/CSISA_Odisha_Maize_Survey_2017_18_NBM/B/MaizeArea2017" type="int"/>
+      <bind nodeset="/CSISA_Odisha_Maize_Survey_2017_18_NBM/B/MaizeProduction2017" type="int"/>
+      <bind nodeset="/CSISA_Odisha_Maize_Survey_2017_18_NBM/B/MaizeSell2017" type="int"/>
+      <bind nodeset="/CSISA_Odisha_Maize_Survey_2017_18_NBM/acknowledge_test1" type="string"/>
+      <bind nodeset="/CSISA_Odisha_Maize_Survey_2017_18_NBM/Harvesting_Time" required="true()"/>
+      <bind nodeset="/CSISA_Odisha_Maize_Survey_2017_18_NBM/Harvesting_Time/HarvestingMonth" type="select1"/>
+      <bind nodeset="/CSISA_Odisha_Maize_Survey_2017_18_NBM/Harvesting_Time/HarvestingTime" type="select1"/>
+      <bind nodeset="/CSISA_Odisha_Maize_Survey_2017_18_NBM/ThreshingMethod" required="true()" type="select"/>
+      <bind nodeset="/CSISA_Odisha_Maize_Survey_2017_18_NBM/Drying" required="true()" type="select1"/>
+      <bind nodeset="/CSISA_Odisha_Maize_Survey_2017_18_NBM/SundryingPlace" required="true()" type="select1"/>
+      <bind nodeset="/CSISA_Odisha_Maize_Survey_2017_18_NBM/Cleaning" required="true()" type="select1"/>
+      <bind nodeset="/CSISA_Odisha_Maize_Survey_2017_18_NBM/Storage" required="true()" type="select1"/>
+      <bind nodeset="/CSISA_Odisha_Maize_Survey_2017_18_NBM/StoragePlace" required="true()" type="select1"/>
+      <bind nodeset="/CSISA_Odisha_Maize_Survey_2017_18_NBM/SellingMonth" required="true()" type="select1"/>
+      <bind nodeset="/CSISA_Odisha_Maize_Survey_2017_18_NBM/acknowledge_test2" type="string"/>
+      <bind nodeset="/CSISA_Odisha_Maize_Survey_2017_18_NBM/SellingType" required="true()" type="select1"/>
+      <bind nodeset="/CSISA_Odisha_Maize_Survey_2017_18_NBM/Buyers" required="true()" type="select1"/>
+      <bind nodeset="/CSISA_Odisha_Maize_Survey_2017_18_NBM/SellingPoint" required="true()" type="select1"/>
+      <bind nodeset="/CSISA_Odisha_Maize_Survey_2017_18_NBM/QualityCheck" required="true()" type="select1"/>
+      <bind nodeset="/CSISA_Odisha_Maize_Survey_2017_18_NBM/Moisture" required="true()" type="select1"/>
+      <bind nodeset="/CSISA_Odisha_Maize_Survey_2017_18_NBM/Weighing" required="true()" type="select1"/>
+      <bind nodeset="/CSISA_Odisha_Maize_Survey_2017_18_NBM/Buyer_Name" required="true()" type="string"/>
+      <bind nodeset="/CSISA_Odisha_Maize_Survey_2017_18_NBM/Buyer_Contact" required="true()" type="int"/>
+      <bind nodeset="/CSISA_Odisha_Maize_Survey_2017_18_NBM/Transaction" required="true()" type="select1"/>
+      <bind nodeset="/CSISA_Odisha_Maize_Survey_2017_18_NBM/Trans_Reason" required="true()" type="select"/>
+      <bind nodeset="/CSISA_Odisha_Maize_Survey_2017_18_NBM/TransOtherReason" required="true()" type="string"/>
+      <bind nodeset="/CSISA_Odisha_Maize_Survey_2017_18_NBM/Buyer_Connect" required="true()" type="select"/>
+      <bind nodeset="/CSISA_Odisha_Maize_Survey_2017_18_NBM/Number_Buyer" required="true()" type="select1"/>
+      <bind nodeset="/CSISA_Odisha_Maize_Survey_2017_18_NBM/Price_2016" required="true()" type="int"/>
+      <bind nodeset="/CSISA_Odisha_Maize_Survey_2017_18_NBM/Price_2017" required="true()" type="int"/>
+      <bind nodeset="/CSISA_Odisha_Maize_Survey_2017_18_NBM/Payment_Time" required="true()" type="select1"/>
+      <bind nodeset="/CSISA_Odisha_Maize_Survey_2017_18_NBM/GotExpectedPrice" required="true()" type="select1"/>
+      <bind nodeset="/CSISA_Odisha_Maize_Survey_2017_18_NBM/ExpectedPrice" required="true()" type="int"/>
+      <bind nodeset="/CSISA_Odisha_Maize_Survey_2017_18_NBM/MSP" required="true()" type="select1"/>
+      <bind nodeset="/CSISA_Odisha_Maize_Survey_2017_18_NBM/MSP_Value" required="true()" type="int"/>
+      <bind nodeset="/CSISA_Odisha_Maize_Survey_2017_18_NBM/Sell_Reason" required="true()" type="string"/>
+      <bind nodeset="/CSISA_Odisha_Maize_Survey_2017_18_NBM/GPS" required="true()" type="geopoint"/>
+      <bind calculate="concat('uuid:', uuid())" nodeset="/CSISA_Odisha_Maize_Survey_2017_18_NBM/meta/instanceID" readonly="true()" type="string"/>
+    </model>
+  </h:head>
+  <h:body>
+    <trigger ref="/CSISA_Odisha_Maize_Survey_2017_18_NBM/acknowledge_test">
+      <label>Please collect CSISA's affiliated farmers' information regarding dry maize grain production &amp; marketing</label>
+    </trigger>
+    <select1 appearance="quick" ref="/CSISA_Odisha_Maize_Survey_2017_18_NBM/EnumID">
+      <label>Select your ID</label>
+      <item>
+        <label>1</label>
+        <value>1</value>
+      </item>
+      <item>
+        <label>2</label>
+        <value>2</value>
+      </item>
+      <item>
+        <label>3</label>
+        <value>3</value>
+      </item>
+      <item>
+        <label>4</label>
+        <value>4</value>
+      </item>
+      <item>
+        <label>5</label>
+        <value>5</value>
+      </item>
+    </select1>
+    <select1 appearance="quick" ref="/CSISA_Odisha_Maize_Survey_2017_18_NBM/District">
+      <label>Select district</label>
+      <item>
+        <label>Mayurbhanj</label>
+        <value>Mayurbhanj</value>
+      </item>
+    </select1>
+    <select1 ref="/CSISA_Odisha_Maize_Survey_2017_18_NBM/Block">
+      <label>Select block</label>
+      <itemset nodeset="instance('Block')/root/item[District= /CSISA_Odisha_Maize_Survey_2017_18_NBM/District ]">
+        <value ref="name"/>
+        <label ref="jr:itext(itextId)"/>
+      </itemset>
+    </select1>
+    <select1 ref="/CSISA_Odisha_Maize_Survey_2017_18_NBM/Village">
+      <label>Select village</label>
+      <itemset nodeset="instance('Village')/root/item[District= /CSISA_Odisha_Maize_Survey_2017_18_NBM/District  and Block= /CSISA_Odisha_Maize_Survey_2017_18_NBM/Block ]">
+        <value ref="name"/>
+        <label ref="jr:itext(itextId)"/>
+      </itemset>
+    </select1>
+    <input ref="/CSISA_Odisha_Maize_Survey_2017_18_NBM/FarmerId">
+      <label>Assign an Id to farmer</label>
+    </input>
+    <input ref="/CSISA_Odisha_Maize_Survey_2017_18_NBM/Farmer">
+      <label>Name of farmer</label>
+    </input>
+    <input ref="/CSISA_Odisha_Maize_Survey_2017_18_NBM/Age">
+      <label>Age of farmer</label>
+    </input>
+    <select1 appearance="quick" ref="/CSISA_Odisha_Maize_Survey_2017_18_NBM/Gender">
+      <label>Select gender of farmer</label>
+      <item>
+        <label>Male</label>
+        <value>Male</value>
+      </item>
+      <item>
+        <label>Female</label>
+        <value>Female</value>
+      </item>
+    </select1>
+    <select1 appearance="quick" ref="/CSISA_Odisha_Maize_Survey_2017_18_NBM/Education">
+      <label>Select education of farmer</label>
+      <item>
+        <label>0</label>
+        <value>No</value>
+      </item>
+      <item>
+        <label>Upto 10</label>
+        <value>Ten</value>
+      </item>
+      <item>
+        <label>10+2</label>
+        <value>Tewelve</value>
+      </item>
+      <item>
+        <label>Graduate</label>
+        <value>Graduate</value>
+      </item>
+      <item>
+        <label>Master</label>
+        <value>Master</value>
+      </item>
+      <item>
+        <label>Ph D</label>
+        <value>PhD</value>
+      </item>
+    </select1>
+    <input ref="/CSISA_Odisha_Maize_Survey_2017_18_NBM/Mobile">
+      <label>Contact number of farmer</label>
+    </input>
+    <input ref="/CSISA_Odisha_Maize_Survey_2017_18_NBM/HHMember">
+      <label>Total number of household members</label>
+    </input>
+    <input ref="/CSISA_Odisha_Maize_Survey_2017_18_NBM/AreaCultivated">
+      <label>Total cultivated land (acre)</label>
+    </input>
+    <select1 ref="/CSISA_Odisha_Maize_Survey_2017_18_NBM/MaizeFarming">
+      <label>For how many years have you been cultivating maize?</label>
+      <item>
+        <label>One year</label>
+        <value>One</value>
+      </item>
+      <item>
+        <label>Two years</label>
+        <value>Two</value>
+      </item>
+      <item>
+        <label>Three years</label>
+        <value>Three</value>
+      </item>
+      <item>
+        <label>5+</label>
+        <value>MorethanFive</value>
+      </item>
+      <item>
+        <label>10+</label>
+        <value>MorethanTen</value>
+      </item>
+    </select1>
+    <group appearance="field-list" ref="/CSISA_Odisha_Maize_Survey_2017_18_NBM/A">
+      <label>Maize Production in 2016</label>
+      <input ref="/CSISA_Odisha_Maize_Survey_2017_18_NBM/A/MaizeArea2016">
+        <label>Land cultivated under maize in kharif 2016 (acre)</label>
+      </input>
+      <input ref="/CSISA_Odisha_Maize_Survey_2017_18_NBM/A/MaizeProduction2016">
+        <label>Total amount of dry maize grain produced in kharif 2016 (quintal)</label>
+      </input>
+      <input ref="/CSISA_Odisha_Maize_Survey_2017_18_NBM/A/MaizeSell2016">
+        <label>Total amount of dry maize grain sold in kharif 2016 (quintal)</label>
+      </input>
+    </group>
+    <group appearance="field-list" ref="/CSISA_Odisha_Maize_Survey_2017_18_NBM/B">
+      <label>Maize Production in 2017</label>
+      <input ref="/CSISA_Odisha_Maize_Survey_2017_18_NBM/B/MaizeArea2017">
+        <label>Land cultivated under maize in kharif 2017 (acre)</label>
+      </input>
+      <input ref="/CSISA_Odisha_Maize_Survey_2017_18_NBM/B/MaizeProduction2017">
+        <label>Total amount of dry maize grain produced in kharif 2017 (quintal)</label>
+      </input>
+      <input ref="/CSISA_Odisha_Maize_Survey_2017_18_NBM/B/MaizeSell2017">
+        <label>Total amount of dry maize grain sold in kharif 2017 (quintal)</label>
+      </input>
+    </group>
+    <trigger ref="/CSISA_Odisha_Maize_Survey_2017_18_NBM/acknowledge_test1">
+      <label>Please collect post-harvest related information</label>
+    </trigger>
+    <group appearance="field-list" ref="/CSISA_Odisha_Maize_Survey_2017_18_NBM/Harvesting_Time">
+      <label>Harvesting Time</label>
+      <select1 ref="/CSISA_Odisha_Maize_Survey_2017_18_NBM/Harvesting_Time/HarvestingMonth">
+        <label>In which month did you finish your harvesting in current season?</label>
+        <item>
+          <label>October</label>
+          <value>October</value>
+        </item>
+        <item>
+          <label>November</label>
+          <value>November</value>
+        </item>
+        <item>
+          <label>December</label>
+          <value>December</value>
+        </item>
+      </select1>
+      <select1 ref="/CSISA_Odisha_Maize_Survey_2017_18_NBM/Harvesting_Time/HarvestingTime">
+        <label>In which part of the above month did you finish your harvesting in current season?</label>
+        <item>
+          <label>First fortnight</label>
+          <value>FirstFortnight</value>
+        </item>
+        <item>
+          <label>Second fortnight</label>
+          <value>SecondFortnight</value>
+        </item>
+      </select1>
+    </group>
+    <select ref="/CSISA_Odisha_Maize_Survey_2017_18_NBM/ThreshingMethod">
+      <label>How did you thresh your maize cobs?</label>
+      <item>
+        <label>By manual labour</label>
+        <value>Manual</value>
+      </item>
+      <item>
+        <label>Owned thresher</label>
+        <value>Mechanical</value>
+      </item>
+      <item>
+        <label>Thresher rented-in from SP</label>
+        <value>Both</value>
+      </item>
+    </select>
+    <select1 ref="/CSISA_Odisha_Maize_Survey_2017_18_NBM/Drying">
+      <label>Which forms of maize produce did you sundry?</label>
+      <item>
+        <label>Harvested cobs only</label>
+        <value>Cobs</value>
+      </item>
+      <item>
+        <label>Threshed grains only</label>
+        <value>Grains</value>
+      </item>
+      <item>
+        <label>Both</label>
+        <value>BothCobsGrains</value>
+      </item>
+    </select1>
+    <select1 ref="/CSISA_Odisha_Maize_Survey_2017_18_NBM/SundryingPlace">
+      <label>Where did you sundray your produce?</label>
+      <item>
+        <label>Open ground</label>
+        <value>Ground</value>
+      </item>
+      <item>
+        <label>Plastic sheet</label>
+        <value>Plastic</value>
+      </item>
+      <item>
+        <label>Cemented floor</label>
+        <value>Cemented</value>
+      </item>
+    </select1>
+    <select1 ref="/CSISA_Odisha_Maize_Survey_2017_18_NBM/Cleaning">
+      <label>Did you clean the final produce before storage or sell?</label>
+      <item>
+        <label>Yes</label>
+        <value>Yes</value>
+      </item>
+      <item>
+        <label>No</label>
+        <value>No</value>
+      </item>
+    </select1>
+    <select1 ref="/CSISA_Odisha_Maize_Survey_2017_18_NBM/Storage">
+      <label>If stored before sell, how did you store?</label>
+      <item>
+        <label>Plastic bags</label>
+        <value>Plastic</value>
+      </item>
+      <item>
+        <label>Jute bags</label>
+        <value>Jute</value>
+      </item>
+      <item>
+        <label>Both types of bags</label>
+        <value>BothPlasticJute</value>
+      </item>
+      <item>
+        <label>Stored without packing</label>
+        <value>Open</value>
+      </item>
+    </select1>
+    <select1 ref="/CSISA_Odisha_Maize_Survey_2017_18_NBM/StoragePlace">
+      <label>If stored before sell, where did you store?</label>
+      <item>
+        <label>Separate storage structure</label>
+        <value>Separate</value>
+      </item>
+      <item>
+        <label>Covered space inside house</label>
+        <value>Covered</value>
+      </item>
+      <item>
+        <label>Open space outside house</label>
+        <value>Open</value>
+      </item>
+    </select1>
+    <select1 ref="/CSISA_Odisha_Maize_Survey_2017_18_NBM/SellingMonth">
+      <label>When was your produce ready for sell in current season?</label>
+      <item>
+        <label>October</label>
+        <value>October</value>
+      </item>
+      <item>
+        <label>November</label>
+        <value>November</value>
+      </item>
+      <item>
+        <label>December</label>
+        <value>December</value>
+      </item>
+      <item>
+        <label>January</label>
+        <value>January</value>
+      </item>
+    </select1>
+    <trigger ref="/CSISA_Odisha_Maize_Survey_2017_18_NBM/acknowledge_test2">
+      <label>Please collect marketing related information</label>
+    </trigger>
+    <select1 ref="/CSISA_Odisha_Maize_Survey_2017_18_NBM/SellingType">
+      <label>How did you sell your produce?</label>
+      <item>
+        <label>Individually</label>
+        <value>Individual</value>
+      </item>
+      <item>
+        <label>In group with neighbour farmers</label>
+        <value>Group</value>
+      </item>
+      <item>
+        <label>Both modes</label>
+        <value>BothIndividualGroup</value>
+      </item>
+    </select1>
+    <select1 ref="/CSISA_Odisha_Maize_Survey_2017_18_NBM/Buyers">
+      <label>Whom did you sell your produce?</label>
+      <item>
+        <label>Local village level aggregator</label>
+        <value>Local</value>
+      </item>
+      <item>
+        <label>Trader or commission agent</label>
+        <value>Agent</value>
+      </item>
+      <item>
+        <label>Poultry feed miller</label>
+        <value>Mill</value>
+      </item>
+      <item>
+        <label>Other agencies</label>
+        <value>Agency</value>
+      </item>
+    </select1>
+    <select1 ref="/CSISA_Odisha_Maize_Survey_2017_18_NBM/SellingPoint">
+      <label>Where did you make the physical selling transactions?</label>
+      <item>
+        <label>Within my village</label>
+        <value>Village</value>
+      </item>
+      <item>
+        <label>Outside my village in local market</label>
+        <value>Outside</value>
+      </item>
+      <item>
+        <label>Sent to buyer's place - mill or go-down</label>
+        <value>Mill</value>
+      </item>
+    </select1>
+    <select1 ref="/CSISA_Odisha_Maize_Survey_2017_18_NBM/QualityCheck">
+      <label>Did the buyer check quality of your produce?</label>
+      <item>
+        <label>Yes</label>
+        <value>Yes</value>
+      </item>
+      <item>
+        <label>No</label>
+        <value>No</value>
+      </item>
+    </select1>
+    <select1 ref="/CSISA_Odisha_Maize_Survey_2017_18_NBM/Moisture">
+      <label>Did the buyer check &amp; told you moisture percent in you grain?</label>
+      <item>
+        <label>Yes</label>
+        <value>Yes</value>
+      </item>
+      <item>
+        <label>No</label>
+        <value>No</value>
+      </item>
+    </select1>
+    <select1 ref="/CSISA_Odisha_Maize_Survey_2017_18_NBM/Weighing">
+      <label>Did the buyer use digital balance for weighing?</label>
+      <item>
+        <label>Yes</label>
+        <value>Yes</value>
+      </item>
+      <item>
+        <label>No</label>
+        <value>No</value>
+      </item>
+    </select1>
+    <input ref="/CSISA_Odisha_Maize_Survey_2017_18_NBM/Buyer_Name">
+      <label>Please provide buyer's name</label>
+    </input>
+    <input ref="/CSISA_Odisha_Maize_Survey_2017_18_NBM/Buyer_Contact">
+      <label>Please provide buyer's contact number</label>
+    </input>
+    <select1 ref="/CSISA_Odisha_Maize_Survey_2017_18_NBM/Transaction">
+      <label>In how many transactions you could finish the total sell?</label>
+      <item>
+        <label>1</label>
+        <value>1</value>
+      </item>
+      <item>
+        <label>2</label>
+        <value>2</value>
+      </item>
+      <item>
+        <label>3</label>
+        <value>3</value>
+      </item>
+      <item>
+        <label>4</label>
+        <value>4</value>
+      </item>
+      <item>
+        <label>5</label>
+        <value>5</value>
+      </item>
+      <item>
+        <label>More than 5</label>
+        <value>Morethan5</value>
+      </item>
+    </select1>
+    <select ref="/CSISA_Odisha_Maize_Survey_2017_18_NBM/Trans_Reason">
+      <label>If more than 1 transactions, why?</label>
+      <itemset nodeset="instance('Trans_Reason')/root/item[ /CSISA_Odisha_Maize_Survey_2017_18_NBM/Transaction &gt;1]">
+        <value ref="name"/>
+        <label ref="jr:itext(itextId)"/>
+      </itemset>
+    </select>
+    <input ref="/CSISA_Odisha_Maize_Survey_2017_18_NBM/TransOtherReason">
+      <label>Enter other reason for more than one transaction</label>
+    </input>
+    <select ref="/CSISA_Odisha_Maize_Survey_2017_18_NBM/Buyer_Connect">
+      <label>How did you connect with buyer?</label>
+      <item>
+        <label>By my own</label>
+        <value>Own</value>
+      </item>
+      <item>
+        <label>Buyer visited</label>
+        <value>Them</value>
+      </item>
+      <item>
+        <label>Other agency facilitated</label>
+        <value>Agency</value>
+      </item>
+    </select>
+    <select1 ref="/CSISA_Odisha_Maize_Survey_2017_18_NBM/Number_Buyer">
+      <label>With how many buyers you interacted before sell?</label>
+      <item>
+        <label>1</label>
+        <value>1</value>
+      </item>
+      <item>
+        <label>2</label>
+        <value>2</value>
+      </item>
+      <item>
+        <label>3</label>
+        <value>3</value>
+      </item>
+      <item>
+        <label>More than 3</label>
+        <value>Morethan3</value>
+      </item>
+    </select1>
+    <input ref="/CSISA_Odisha_Maize_Survey_2017_18_NBM/Price_2016">
+      <label>At what average price you did you sell the produce in 2016 (Rs./quintal)?</label>
+    </input>
+    <input ref="/CSISA_Odisha_Maize_Survey_2017_18_NBM/Price_2017">
+      <label>At what average price you did you sell the produce in 2017 (Rs./quintal)?</label>
+    </input>
+    <select1 ref="/CSISA_Odisha_Maize_Survey_2017_18_NBM/Payment_Time">
+      <label>In how many days did you get your payment after selling?</label>
+      <item>
+        <label>Immediately</label>
+        <value>0</value>
+      </item>
+      <item>
+        <label>Within a week</label>
+        <value>7</value>
+      </item>
+      <item>
+        <label>Within 15 days</label>
+        <value>15</value>
+      </item>
+      <item>
+        <label>Within a month</label>
+        <value>30</value>
+      </item>
+      <item>
+        <label>More than a month</label>
+        <value>Morethan30</value>
+      </item>
+    </select1>
+    <select1 ref="/CSISA_Odisha_Maize_Survey_2017_18_NBM/GotExpectedPrice">
+      <label>Did you get the expected price for your produce?</label>
+      <item>
+        <label>Yes</label>
+        <value>Yes</value>
+      </item>
+      <item>
+        <label>No</label>
+        <value>No</value>
+      </item>
+    </select1>
+    <input ref="/CSISA_Odisha_Maize_Survey_2017_18_NBM/ExpectedPrice">
+      <label>What was your expected price (Rs/quintal) in this season?</label>
+    </input>
+    <select1 ref="/CSISA_Odisha_Maize_Survey_2017_18_NBM/MSP">
+      <label>Are you aware of MSP for maize in the current season?</label>
+      <item>
+        <label>Yes</label>
+        <value>Yes</value>
+      </item>
+      <item>
+        <label>No</label>
+        <value>No</value>
+      </item>
+    </select1>
+    <input ref="/CSISA_Odisha_Maize_Survey_2017_18_NBM/MSP_Value">
+      <label>Please provide MSP value for this year(Rs./quintal)</label>
+    </input>
+    <input ref="/CSISA_Odisha_Maize_Survey_2017_18_NBM/Sell_Reason">
+      <label>If sold below MSP (1425), what was the reason?</label>
+    </input>
+    <input ref="/CSISA_Odisha_Maize_Survey_2017_18_NBM/GPS">
+      <label>Collect the GPS coordinates of the service provider location</label>
+      <hint>Make sure the accuracy level is less than 10 meters.</hint>
+    </input>
+  </h:body>
+</h:html>

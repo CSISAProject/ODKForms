@@ -1,0 +1,5376 @@
+<?xml version="1.0"?>
+<h:html xmlns="http://www.w3.org/2002/xforms" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:h="http://www.w3.org/1999/xhtml" xmlns:jr="http://openrosa.org/javarosa" xmlns:orx="http://openrosa.org/xforms/" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <h:head><!-- ODK Aggregate upload time: 2014-10-30T11:55:18.446+0000 on https://csisaodk.appspot.com -->
+    <h:title>ZtSp2014015</h:title>
+    <model>
+      <submission action="https://csisaodk.appspot.com/submission" method="form-data-post"/>
+      <itext>
+        <translation default="true()" lang="English">
+          <text id="static_instance-block-213">
+            <value>Jogapatti</value>
+          </text>
+          <text id="static_instance-block-212">
+            <value>Gaunaha</value>
+          </text>
+          <text id="static_instance-block-211">
+            <value>Chanpattia</value>
+          </text>
+          <text id="static_instance-block-210">
+            <value>Bhitaha</value>
+          </text>
+          <text id="static_instance-block-217">
+            <value>Manjhaulia</value>
+          </text>
+          <text id="static_instance-block-216">
+            <value>Mainatand</value>
+          </text>
+          <text id="static_instance-block-215">
+            <value>Madhubani</value>
+          </text>
+          <text id="static_instance-block-214">
+            <value>Lauria</value>
+          </text>
+          <text id="static_instance-block-219">
+            <value>Nautan</value>
+          </text>
+          <text id="static_instance-block-218">
+            <value>Narkatiaganj</value>
+          </text>
+          <text id="static_instance-block-18">
+            <value>Areraj</value>
+          </text>
+          <text id="static_instance-block-19">
+            <value>Banjaria</value>
+          </text>
+          <text id="static_instance-block-12">
+            <value>Harsiddhi</value>
+          </text>
+          <text id="static_instance-block-13">
+            <value>Maheshi</value>
+          </text>
+          <text id="static_instance-block-10">
+            <value>Tarari</value>
+          </text>
+          <text id="static_instance-block-11">
+            <value>Udvantnagar</value>
+          </text>
+          <text id="static_instance-block-16">
+            <value>Sugauli</value>
+          </text>
+          <text id="static_instance-block-17">
+            <value>Adapur</value>
+          </text>
+          <text id="static_instance-block-14">
+            <value>Motihari</value>
+          </text>
+          <text id="static_instance-block-15">
+            <value>Pakridayal</value>
+          </text>
+          <text id="static_instance-block-448">
+            <value>Kalimela</value>
+          </text>
+          <text id="static_instance-block-449">
+            <value>Khairaput</value>
+          </text>
+          <text id="static_instance-block-446">
+            <value>Pottangi</value>
+          </text>
+          <text id="static_instance-block-447">
+            <value>Similiguda</value>
+          </text>
+          <text id="static_instance-block-444">
+            <value>Nandapur</value>
+          </text>
+          <text id="static_instance-block-445">
+            <value>Naryanpatna</value>
+          </text>
+          <text id="static_instance-block-442">
+            <value>Lamtaput</value>
+          </text>
+          <text id="static_instance-block-443">
+            <value>Laxmipur</value>
+          </text>
+          <text id="static_instance-block-440">
+            <value>Dasmantpur</value>
+          </text>
+          <text id="static_instance-block-441">
+            <value>Koraput</value>
+          </text>
+          <text id="static_instance-block-489">
+            <value>Tentulikhunti</value>
+          </text>
+          <text id="static_instance-block-468">
+            <value>Kusumi</value>
+          </text>
+          <text id="static_instance-block-305">
+            <value>Santha</value>
+          </text>
+          <text id="static_instance-block-367">
+            <value>Tileibani</value>
+          </text>
+          <text id="static_instance-block-366">
+            <value>Riamal</value>
+          </text>
+          <text id="static_instance-block-365">
+            <value>Barkote</value>
+          </text>
+          <text id="static_instance-block-364">
+            <value>Tangi-Chowdar</value>
+          </text>
+          <text id="static_instance-block-288">
+            <value>Dhani</value>
+          </text>
+          <text id="static_instance-block-289">
+            <value>Ghughuli</value>
+          </text>
+          <text id="static_instance-block-361">
+            <value>Niali</value>
+          </text>
+          <text id="static_instance-block-360">
+            <value>Mahanga</value>
+          </text>
+          <text id="static_instance-block-284">
+            <value>Tamkuhiraj</value>
+          </text>
+          <text id="static_instance-block-285">
+            <value>Vishunpura</value>
+          </text>
+          <text id="static_instance-block-286">
+            <value>Motichak</value>
+          </text>
+          <text id="static_instance-block-287">
+            <value>Bridgemanganj</value>
+          </text>
+          <text id="static_instance-block-280">
+            <value>Padrauna</value>
+          </text>
+          <text id="static_instance-block-281">
+            <value>Ramkola</value>
+          </text>
+          <text id="static_instance-block-282">
+            <value>Seorahi</value>
+          </text>
+          <text id="static_instance-block-283">
+            <value>Sukrauli</value>
+          </text>
+          <text id="static_instance-district-50">
+            <value>Sundargarh</value>
+          </text>
+          <text id="static_instance-block-529">
+            <value>Tarva</value>
+          </text>
+          <text id="static_instance-block-528">
+            <value>Sonepur</value>
+          </text>
+          <text id="static_instance-block-494">
+            <value>Khandapada</value>
+          </text>
+          <text id="static_instance-block-41">
+            <value>Chakki</value>
+          </text>
+          <text id="static_instance-block-40">
+            <value>Buxar</value>
+          </text>
+          <text id="static_instance-block-43">
+            <value>Chausa</value>
+          </text>
+          <text id="static_instance-block-42">
+            <value>Chaugain</value>
+          </text>
+          <text id="static_instance-block-45">
+            <value>Itarhi</value>
+          </text>
+          <text id="static_instance-block-44">
+            <value>Dumraon</value>
+          </text>
+          <text id="static_instance-block-47">
+            <value>Nawanagar</value>
+          </text>
+          <text id="static_instance-block-46">
+            <value>Kesath</value>
+          </text>
+          <text id="static_instance-block-49">
+            <value>Simari</value>
+          </text>
+          <text id="static_instance-block-48">
+            <value>Rajpur</value>
+          </text>
+          <text id="static_instance-block-109">
+            <value>Sahebganj</value>
+          </text>
+          <text id="static_instance-block-108">
+            <value>Ramnagar</value>
+          </text>
+          <text id="static_instance-block-107">
+            <value>Paru</value>
+          </text>
+          <text id="static_instance-block-106">
+            <value>Musahari</value>
+          </text>
+          <text id="static_instance-block-105">
+            <value>Muraul</value>
+          </text>
+          <text id="static_instance-block-104">
+            <value>Motipur</value>
+          </text>
+          <text id="static_instance-block-103">
+            <value>Minapur</value>
+          </text>
+          <text id="static_instance-block-102">
+            <value>Marawan</value>
+          </text>
+          <text id="static_instance-block-101">
+            <value>Kurahni</value>
+          </text>
+          <text id="static_instance-block-100">
+            <value>Katra</value>
+          </text>
+          <text id="static_instance-block-248">
+            <value>Lar</value>
+          </text>
+          <text id="static_instance-block-249">
+            <value>Pathardewa</value>
+          </text>
+          <text id="static_instance-block-321">
+            <value>Uska Bazar</value>
+          </text>
+          <text id="static_instance-block-320">
+            <value>Shohratgarh</value>
+          </text>
+          <text id="static_instance-block-327">
+            <value>Baliapal</value>
+          </text>
+          <text id="static_instance-block-326">
+            <value>Balasore</value>
+          </text>
+          <text id="static_instance-block-325">
+            <value>Bahanaga</value>
+          </text>
+          <text id="static_instance-block-324">
+            <value>Chhendipada</value>
+          </text>
+          <text id="static_instance-block-240">
+            <value>Barhaj</value>
+          </text>
+          <text id="static_instance-block-241">
+            <value>Bhagalpur</value>
+          </text>
+          <text id="static_instance-block-242">
+            <value>Bhalvani</value>
+          </text>
+          <text id="static_instance-block-243">
+            <value>Bhatni</value>
+          </text>
+          <text id="static_instance-block-244">
+            <value>Bhatpar</value>
+          </text>
+          <text id="static_instance-block-245">
+            <value>Deoria</value>
+          </text>
+          <text id="static_instance-block-246">
+            <value>Desahi Deoria</value>
+          </text>
+          <text id="static_instance-block-247">
+            <value>Gauribazar</value>
+          </text>
+          <text id="static_instance-block-479">
+            <value>Tiring</value>
+          </text>
+          <text id="static_instance-block-472">
+            <value>Raruan</value>
+          </text>
+          <text id="static_instance-block-437">
+            <value>Bhubaneswar</value>
+          </text>
+          <text id="static_instance-block-436">
+            <value>Balipatna</value>
+          </text>
+          <text id="static_instance-block-435">
+            <value>Balianta</value>
+          </text>
+          <text id="static_instance-block-434">
+            <value>Hatadihi</value>
+          </text>
+          <text id="static_instance-block-433">
+            <value>Ghasipur</value>
+          </text>
+          <text id="static_instance-block-432">
+            <value>Anadapur</value>
+          </text>
+          <text id="static_instance-block-431">
+            <value>Rajnagar</value>
+          </text>
+          <text id="static_instance-block-430">
+            <value>Rajkanika</value>
+          </text>
+          <text id="static_instance-block-439">
+            <value>Bandhugaon</value>
+          </text>
+          <text id="static_instance-block-438">
+            <value>Jatni</value>
+          </text>
+          <text id="static_instance-district-29">
+            <value>Dhenkanal</value>
+          </text>
+          <text id="static_instance-district-28">
+            <value>Deogarh</value>
+          </text>
+          <text id="static_instance-district-25">
+            <value>Bolangir</value>
+          </text>
+          <text id="static_instance-district-24">
+            <value>Bhadrak</value>
+          </text>
+          <text id="static_instance-district-27">
+            <value>Cuttack</value>
+          </text>
+          <text id="static_instance-district-26">
+            <value>Boudh</value>
+          </text>
+          <text id="static_instance-district-21">
+            <value>Angul</value>
+          </text>
+          <text id="static_instance-district-20">
+            <value>Sidharthnagar</value>
+          </text>
+          <text id="static_instance-district-23">
+            <value>Bargarh</value>
+          </text>
+          <text id="static_instance-district-22">
+            <value>Balasore</value>
+          </text>
+          <text id="static_instance-block-308">
+            <value>Bansi</value>
+          </text>
+          <text id="static_instance-block-509">
+            <value>Kanas</value>
+          </text>
+          <text id="static_instance-block-508">
+            <value>Kakatpur</value>
+          </text>
+          <text id="static_instance-block-503">
+            <value>Sinapalli</value>
+          </text>
+          <text id="static_instance-block-502">
+            <value>Nawapara</value>
+          </text>
+          <text id="static_instance-block-501">
+            <value>Komna</value>
+          </text>
+          <text id="static_instance-block-500">
+            <value>Khariar</value>
+          </text>
+          <text id="static_instance-block-507">
+            <value>Gop</value>
+          </text>
+          <text id="static_instance-block-506">
+            <value>Delang</value>
+          </text>
+          <text id="static_instance-block-505">
+            <value>Brahmagiri</value>
+          </text>
+          <text id="static_instance-block-504">
+            <value>Astarang</value>
+          </text>
+          <text id="static_instance-block-149">
+            <value>Akorhigola</value>
+          </text>
+          <text id="static_instance-block-148">
+            <value>Sampatchak</value>
+          </text>
+          <text id="static_instance-block-143">
+            <value>Paliganj</value>
+          </text>
+          <text id="static_instance-block-142">
+            <value>Naubatpur</value>
+          </text>
+          <text id="static_instance-block-141">
+            <value>Mokama</value>
+          </text>
+          <text id="static_instance-block-140">
+            <value>Masaurhi</value>
+          </text>
+          <text id="static_instance-block-147">
+            <value>Punpun</value>
+          </text>
+          <text id="static_instance-block-146">
+            <value>Phulwarisharif</value>
+          </text>
+          <text id="static_instance-block-145">
+            <value>Patna</value>
+          </text>
+          <text id="static_instance-block-144">
+            <value>Pandarak</value>
+          </text>
+          <text id="static_instance-district-4">
+            <value>Jamui</value>
+          </text>
+          <text id="static_instance-block-92">
+            <value>Sangrampur</value>
+          </text>
+          <text id="static_instance-block-93">
+            <value>Tarapur</value>
+          </text>
+          <text id="static_instance-block-90">
+            <value>Kharagpur</value>
+          </text>
+          <text id="static_instance-block-91">
+            <value>Munger</value>
+          </text>
+          <text id="static_instance-block-96">
+            <value>Bandra</value>
+          </text>
+          <text id="static_instance-block-97">
+            <value>Bochaha</value>
+          </text>
+          <text id="static_instance-block-94">
+            <value>Tetiabamber</value>
+          </text>
+          <text id="static_instance-block-95">
+            <value>Aurai</value>
+          </text>
+          <text id="static_instance-block-98">
+            <value>Gayhaghat</value>
+          </text>
+          <text id="static_instance-block-99">
+            <value>Kanti</value>
+          </text>
+          <text id="static_instance-block-204">
+            <value>Sahdeibuzurg</value>
+          </text>
+          <text id="static_instance-block-205">
+            <value>Vaishali</value>
+          </text>
+          <text id="static_instance-block-206">
+            <value>Bagaha-1</value>
+          </text>
+          <text id="static_instance-block-207">
+            <value>Bagaha-2</value>
+          </text>
+          <text id="static_instance-block-200">
+            <value>Patepur</value>
+          </text>
+          <text id="static_instance-block-201">
+            <value>Premraj</value>
+          </text>
+          <text id="static_instance-block-202">
+            <value>Raghopur</value>
+          </text>
+          <text id="static_instance-block-203">
+            <value>Razapakar</value>
+          </text>
+          <text id="static_instance-block-208">
+            <value>Bairia</value>
+          </text>
+          <text id="static_instance-block-209">
+            <value>Bettiah</value>
+          </text>
+          <text id="static_instance-block-78">
+            <value>Sono</value>
+          </text>
+          <text id="static_instance-block-79">
+            <value>Barhaiya</value>
+          </text>
+          <text id="static_instance-block-70">
+            <value>Barhat</value>
+          </text>
+          <text id="static_instance-block-71">
+            <value>Chakai</value>
+          </text>
+          <text id="static_instance-block-72">
+            <value>Gidhaur</value>
+          </text>
+          <text id="static_instance-block-73">
+            <value>Jamui</value>
+          </text>
+          <text id="static_instance-block-74">
+            <value>Jhajha</value>
+          </text>
+          <text id="static_instance-block-75">
+            <value>Khaira</value>
+          </text>
+          <text id="static_instance-block-76">
+            <value>Laxmipur</value>
+          </text>
+          <text id="static_instance-block-77">
+            <value>Sikandra</value>
+          </text>
+          <text id="static_instance-block-363">
+            <value>Salipur</value>
+          </text>
+          <text id="static_instance-block-378">
+            <value>Chikiti</value>
+          </text>
+          <text id="static_instance-block-379">
+            <value>Digapahandi</value>
+          </text>
+          <text id="static_instance-block-471">
+            <value>Rairangpur</value>
+          </text>
+          <text id="static_instance-block-470">
+            <value>Moroda</value>
+          </text>
+          <text id="static_instance-block-477">
+            <value>Suliapada</value>
+          </text>
+          <text id="static_instance-block-476">
+            <value>Sukruli</value>
+          </text>
+          <text id="static_instance-block-475">
+            <value>Saraskana</value>
+          </text>
+          <text id="static_instance-block-474">
+            <value>Samakhunta</value>
+          </text>
+          <text id="static_instance-block-370">
+            <value>Sadar</value>
+          </text>
+          <text id="static_instance-block-371">
+            <value>Gumma</value>
+          </text>
+          <text id="static_instance-block-372">
+            <value>Kasinagar</value>
+          </text>
+          <text id="static_instance-block-373">
+            <value>Mohana</value>
+          </text>
+          <text id="static_instance-block-374">
+            <value>Nuagad</value>
+          </text>
+          <text id="static_instance-block-375">
+            <value>Paralakhemundi</value>
+          </text>
+          <text id="static_instance-block-376">
+            <value>R. Udayagiri</value>
+          </text>
+          <text id="static_instance-block-377">
+            <value>Rayagada</value>
+          </text>
+          <text id="static_instance-block-323">
+            <value>Banarpal</value>
+          </text>
+          <text id="static_instance-block-271">
+            <value>Sardarnagar</value>
+          </text>
+          <text id="static_instance-block-270">
+            <value>Sahjanwa</value>
+          </text>
+          <text id="static_instance-block-273">
+            <value>Captainganj</value>
+          </text>
+          <text id="static_instance-block-272">
+            <value>Uruwa</value>
+          </text>
+          <text id="static_instance-block-275">
+            <value>Fazilnagar</value>
+          </text>
+          <text id="static_instance-block-274">
+            <value>Dudhahi</value>
+          </text>
+          <text id="static_instance-block-277">
+            <value>Kasia</value>
+          </text>
+          <text id="static_instance-block-276">
+            <value>Hata</value>
+          </text>
+          <text id="static_instance-block-279">
+            <value>Nebua Naurangiya</value>
+          </text>
+          <text id="static_instance-block-278">
+            <value>Khadda</value>
+          </text>
+          <text id="static_instance-block-469">
+            <value>Kuliana</value>
+          </text>
+          <text id="static_instance-block-362">
+            <value>Nischintakoili</value>
+          </text>
+          <text id="static_instance-block-385">
+            <value>Biridi-F</value>
+          </text>
+          <text id="static_instance-block-384">
+            <value>Balikuda</value>
+          </text>
+          <text id="static_instance-block-387">
+            <value>Jagatsinghpur</value>
+          </text>
+          <text id="static_instance-block-386">
+            <value>Erasma</value>
+          </text>
+          <text id="static_instance-block-381">
+            <value>Patrapur</value>
+          </text>
+          <text id="static_instance-block-380">
+            <value>Kukudakhandi</value>
+          </text>
+          <text id="static_instance-block-383">
+            <value>Sankhemundi</value>
+          </text>
+          <text id="static_instance-block-382">
+            <value>Rangeilunda</value>
+          </text>
+          <text id="static_instance-block-389">
+            <value>Nuagaon</value>
+          </text>
+          <text id="static_instance-block-388">
+            <value>Kujang</value>
+          </text>
+          <text id="static_instance-block-369">
+            <value>Odapada</value>
+          </text>
+          <text id="static_instance-block-368">
+            <value>Gondia</value>
+          </text>
+          <text id="static_instance-block-187">
+            <value>Vidyapatinagar</value>
+          </text>
+          <text id="static_instance-block-186">
+            <value>Ujiyarpur</value>
+          </text>
+          <text id="static_instance-block-185">
+            <value>Tajpur</value>
+          </text>
+          <text id="static_instance-block-184">
+            <value>Singhia</value>
+          </text>
+          <text id="static_instance-block-183">
+            <value>Shivajinagar</value>
+          </text>
+          <text id="static_instance-block-182">
+            <value>Sarairanjan</value>
+          </text>
+          <text id="static_instance-block-181">
+            <value>Samastipur</value>
+          </text>
+          <text id="static_instance-block-180">
+            <value>Rosara</value>
+          </text>
+          <text id="static_instance-block-189">
+            <value>Mahnar</value>
+          </text>
+          <text id="static_instance-block-188">
+            <value>Warisnagar</value>
+          </text>
+          <text id="static_instance-block-499">
+            <value>Boden</value>
+          </text>
+          <text id="static_instance-block-498">
+            <value>Ranpur</value>
+          </text>
+          <text id="static_instance-block-491">
+            <value>Bhapur</value>
+          </text>
+          <text id="static_instance-block-490">
+            <value>Umerkote</value>
+          </text>
+          <text id="static_instance-block-493">
+            <value>Gania</value>
+          </text>
+          <text id="static_instance-block-492">
+            <value>Daspalla</value>
+          </text>
+          <text id="static_instance-block-495">
+            <value>Nayagarh</value>
+          </text>
+          <text id="static_instance-district-8">
+            <value>Nawada</value>
+          </text>
+          <text id="static_instance-block-497">
+            <value>Odagaon</value>
+          </text>
+          <text id="static_instance-block-496">
+            <value>Nuagaon</value>
+          </text>
+          <text id="static_instance-district-9">
+            <value>Patna</value>
+          </text>
+          <text id="static_instance-block-34">
+            <value>Raxaul</value>
+          </text>
+          <text id="static_instance-block-35">
+            <value>Sangrampur</value>
+          </text>
+          <text id="static_instance-block-36">
+            <value>Tetaria</value>
+          </text>
+          <text id="static_instance-block-37">
+            <value>Turkaulia</value>
+          </text>
+          <text id="static_instance-block-30">
+            <value>Patahi</value>
+          </text>
+          <text id="static_instance-block-31">
+            <value>Phenhara</value>
+          </text>
+          <text id="static_instance-block-32">
+            <value>Piprakothi</value>
+          </text>
+          <text id="static_instance-block-33">
+            <value>Ramgarhwa</value>
+          </text>
+          <text id="static_instance-block-38">
+            <value>Vankatwa</value>
+          </text>
+          <text id="static_instance-block-39">
+            <value>Brahmpur</value>
+          </text>
+          <text id="static_instance-block-110">
+            <value>Sakra</value>
+          </text>
+          <text id="static_instance-block-111">
+            <value>Saraiya</value>
+          </text>
+          <text id="static_instance-block-112">
+            <value>Akbarpur</value>
+          </text>
+          <text id="static_instance-block-113">
+            <value>Govindpur</value>
+          </text>
+          <text id="static_instance-block-114">
+            <value>Hisua</value>
+          </text>
+          <text id="static_instance-block-115">
+            <value>Kasichak</value>
+          </text>
+          <text id="static_instance-block-116">
+            <value>Kauakol</value>
+          </text>
+          <text id="static_instance-block-117">
+            <value>Meskaur</value>
+          </text>
+          <text id="static_instance-block-118">
+            <value>Nardiganj</value>
+          </text>
+          <text id="static_instance-block-119">
+            <value>Narhat</value>
+          </text>
+          <text id="static_instance-district-5">
+            <value>Lakhisarai</value>
+          </text>
+          <text id="static_instance-block-334">
+            <value>Soro</value>
+          </text>
+          <text id="static_instance-block-335">
+            <value>Ambabhana</value>
+          </text>
+          <text id="static_instance-block-336">
+            <value>Attabira</value>
+          </text>
+          <text id="static_instance-block-337">
+            <value>Bargarh</value>
+          </text>
+          <text id="static_instance-block-239">
+            <value>Bankata</value>
+          </text>
+          <text id="static_instance-block-238">
+            <value>Baitalpur</value>
+          </text>
+          <text id="static_instance-block-332">
+            <value>Remuna</value>
+          </text>
+          <text id="static_instance-block-333">
+            <value>Simulia</value>
+          </text>
+          <text id="static_instance-block-235">
+            <value>Saltaua Gopalpur</value>
+          </text>
+          <text id="static_instance-block-234">
+            <value>Rudhauli</value>
+          </text>
+          <text id="static_instance-block-237">
+            <value>Vikramjot</value>
+          </text>
+          <text id="static_instance-block-236">
+            <value>Sau Ghat</value>
+          </text>
+          <text id="static_instance-block-231">
+            <value>Kudaraha</value>
+          </text>
+          <text id="static_instance-block-230">
+            <value>Kaptanganj</value>
+          </text>
+          <text id="static_instance-block-233">
+            <value>Ramnagar</value>
+          </text>
+          <text id="static_instance-block-232">
+            <value>Parasrampur</value>
+          </text>
+          <text id="static_instance-block-428">
+            <value>Marsaghai</value>
+          </text>
+          <text id="static_instance-block-429">
+            <value>Pattamundai</value>
+          </text>
+          <text id="static_instance-block-420">
+            <value>Raikia</value>
+          </text>
+          <text id="static_instance-block-421">
+            <value>Tikabali</value>
+          </text>
+          <text id="static_instance-block-422">
+            <value>Tumudibandh</value>
+          </text>
+          <text id="static_instance-block-423">
+            <value>Aul</value>
+          </text>
+          <text id="static_instance-block-424">
+            <value>Derabis</value>
+          </text>
+          <text id="static_instance-block-425">
+            <value>Garadpur</value>
+          </text>
+          <text id="static_instance-block-426">
+            <value>Kendrapara</value>
+          </text>
+          <text id="static_instance-block-427">
+            <value>Mahakalapada</value>
+          </text>
+          <text id="static_instance-block-341">
+            <value>Basudevpur</value>
+          </text>
+          <text id="static_instance-block-340">
+            <value>Bheden</value>
+          </text>
+          <text id="static_instance-block-343">
+            <value>Bhandari pokhari</value>
+          </text>
+          <text id="static_instance-block-342">
+            <value>Bhadrak</value>
+          </text>
+          <text id="static_instance-block-345">
+            <value>Chandabali</value>
+          </text>
+          <text id="static_instance-block-344">
+            <value>Bonth</value>
+          </text>
+          <text id="static_instance-block-347">
+            <value>Tihidi</value>
+          </text>
+          <text id="static_instance-block-346">
+            <value>Dhamnagar</value>
+          </text>
+          <text id="static_instance-block-349">
+            <value>Bolangir</value>
+          </text>
+          <text id="static_instance-block-348">
+            <value>Agalpur</value>
+          </text>
+          <text id="static_instance-district-32">
+            <value>Jagatsinghpur</value>
+          </text>
+          <text id="static_instance-district-33">
+            <value>Jaipur</value>
+          </text>
+          <text id="static_instance-district-30">
+            <value>Gajapati</value>
+          </text>
+          <text id="static_instance-district-31">
+            <value>Ganjam</value>
+          </text>
+          <text id="static_instance-district-36">
+            <value>Kandhamal</value>
+          </text>
+          <text id="static_instance-district-37">
+            <value>Kendrapara</value>
+          </text>
+          <text id="static_instance-district-34">
+            <value>Jharsuguda</value>
+          </text>
+          <text id="static_instance-district-35">
+            <value>Kalahandi</value>
+          </text>
+          <text id="static_instance-district-38">
+            <value>Keonjhar</value>
+          </text>
+          <text id="static_instance-district-39">
+            <value>Khurda</value>
+          </text>
+          <text id="static_instance-block-518">
+            <value>Nuagad</value>
+          </text>
+          <text id="static_instance-block-519">
+            <value>Paralakhemundi</value>
+          </text>
+          <text id="static_instance-block-514">
+            <value>Satyabadi</value>
+          </text>
+          <text id="static_instance-block-515">
+            <value>Gumma</value>
+          </text>
+          <text id="static_instance-block-516">
+            <value>Kasinagar</value>
+          </text>
+          <text id="static_instance-block-517">
+            <value>Mohana</value>
+          </text>
+          <text id="static_instance-block-510">
+            <value>Krushnaprasad</value>
+          </text>
+          <text id="static_instance-block-511">
+            <value>Nimapara</value>
+          </text>
+          <text id="static_instance-block-512">
+            <value>Pipili</value>
+          </text>
+          <text id="static_instance-block-513">
+            <value>Sadar</value>
+          </text>
+          <text id="static_instance-block-158">
+            <value>Nauhatta</value>
+          </text>
+          <text id="static_instance-block-159">
+            <value>Nokha</value>
+          </text>
+          <text id="static_instance-block-154">
+            <value>Karakat</value>
+          </text>
+          <text id="static_instance-block-155">
+            <value>Kargahar</value>
+          </text>
+          <text id="static_instance-block-156">
+            <value>Kochas</value>
+          </text>
+          <text id="static_instance-block-157">
+            <value>Nasriganj</value>
+          </text>
+          <text id="static_instance-block-150">
+            <value>Chenari</value>
+          </text>
+          <text id="static_instance-block-151">
+            <value>Dawath</value>
+          </text>
+          <text id="static_instance-block-152">
+            <value>Dihri</value>
+          </text>
+          <text id="static_instance-block-153">
+            <value>Dinara</value>
+          </text>
+          <text id="static_instance-block-527">
+            <value>Dunguripalli</value>
+          </text>
+          <text id="static_instance-block-85">
+            <value>Asarganj</value>
+          </text>
+          <text id="static_instance-block-84">
+            <value>Surjgadha</value>
+          </text>
+          <text id="static_instance-block-87">
+            <value>Dharhara</value>
+          </text>
+          <text id="static_instance-block-86">
+            <value>Bariarpur</value>
+          </text>
+          <text id="static_instance-block-81">
+            <value>Lakhisarai</value>
+          </text>
+          <text id="static_instance-block-80">
+            <value>Halsi</value>
+          </text>
+          <text id="static_instance-block-83">
+            <value>Ramgadhchock</value>
+          </text>
+          <text id="static_instance-block-82">
+            <value>Pepariya</value>
+          </text>
+          <text id="static_instance-block-89">
+            <value>Jamalpur</value>
+          </text>
+          <text id="static_instance-block-88">
+            <value>Haveli</value>
+          </text>
+          <text id="static_instance-block-464">
+            <value>Jashipur</value>
+          </text>
+          <text id="static_instance-block-465">
+            <value>Kaptipada</value>
+          </text>
+          <text id="static_instance-block-526">
+            <value>Binika</value>
+          </text>
+          <text id="static_instance-block-466">
+            <value>Karanjia</value>
+          </text>
+          <text id="static_instance-block-69">
+            <value>Asalmanagar</value>
+          </text>
+          <text id="static_instance-block-68">
+            <value>Aliganj</value>
+          </text>
+          <text id="static_instance-block-63">
+            <value>Matihani</value>
+          </text>
+          <text id="static_instance-block-62">
+            <value>Mansurchak</value>
+          </text>
+          <text id="static_instance-block-61">
+            <value>Khodabandpur</value>
+          </text>
+          <text id="static_instance-block-60">
+            <value>Garhpura</value>
+          </text>
+          <text id="static_instance-block-67">
+            <value>Teghra</value>
+          </text>
+          <text id="static_instance-block-66">
+            <value>Samho-Akaha-Kurha</value>
+          </text>
+          <text id="static_instance-block-65">
+            <value>Sahebpur Kamal</value>
+          </text>
+          <text id="static_instance-block-64">
+            <value>Navkothi</value>
+          </text>
+          <text id="static_instance-block-462">
+            <value>Gopabandhunagar</value>
+          </text>
+          <text id="static_instance-block-463">
+            <value>Jamada</value>
+          </text>
+          <text id="static_instance-block-129">
+            <value>Belchhi</value>
+          </text>
+          <text id="static_instance-block-128">
+            <value>Barh</value>
+          </text>
+          <text id="static_instance-block-304">
+            <value>Pauli</value>
+          </text>
+          <text id="static_instance-block-121">
+            <value>Pakribarawan</value>
+          </text>
+          <text id="static_instance-block-120">
+            <value>Navada</value>
+          </text>
+          <text id="static_instance-block-123">
+            <value>Roh</value>
+          </text>
+          <text id="static_instance-block-122">
+            <value>Rajouli</value>
+          </text>
+          <text id="static_instance-block-125">
+            <value>Varsaliganj</value>
+          </text>
+          <text id="static_instance-block-124">
+            <value>Sirdalla</value>
+          </text>
+          <text id="static_instance-block-127">
+            <value>Bakhtiyarpur</value>
+          </text>
+          <text id="static_instance-block-126">
+            <value>Athmalgola</value>
+          </text>
+          <text id="static_instance-block-0">
+            <value>Agiaon</value>
+          </text>
+          <text id="static_instance-block-1">
+            <value>Barhara</value>
+          </text>
+          <text id="static_instance-block-2">
+            <value>Bihiyan</value>
+          </text>
+          <text id="static_instance-block-3">
+            <value>Chapokhari</value>
+          </text>
+          <text id="static_instance-block-4">
+            <value>Gadhani</value>
+          </text>
+          <text id="static_instance-block-5">
+            <value>Jagdishpur</value>
+          </text>
+          <text id="static_instance-block-6">
+            <value>Koilwar</value>
+          </text>
+          <text id="static_instance-block-7">
+            <value>Piro</value>
+          </text>
+          <text id="static_instance-block-8">
+            <value>Sahar</value>
+          </text>
+          <text id="static_instance-block-9">
+            <value>Sandesh</value>
+          </text>
+          <text id="static_instance-block-307">
+            <value>Semariyawan</value>
+          </text>
+          <text id="static_instance-block-306">
+            <value>Nathnagar</value>
+          </text>
+          <text id="static_instance-block-301">
+            <value>Haisar Bazar</value>
+          </text>
+          <text id="static_instance-block-300">
+            <value>Belharkala</value>
+          </text>
+          <text id="static_instance-block-303">
+            <value>Mehdawal</value>
+          </text>
+          <text id="static_instance-block-302">
+            <value>Khalilabad</value>
+          </text>
+          <text id="static_instance-block-262">
+            <value>Gola</value>
+          </text>
+          <text id="static_instance-block-263">
+            <value>Jangal Kaudia</value>
+          </text>
+          <text id="static_instance-block-260">
+            <value>Chargawan</value>
+          </text>
+          <text id="static_instance-block-261">
+            <value>Gagha</value>
+          </text>
+          <text id="static_instance-block-266">
+            <value>Khorabar</value>
+          </text>
+          <text id="static_instance-block-267">
+            <value>Pali</value>
+          </text>
+          <text id="static_instance-block-264">
+            <value>Kauriram</value>
+          </text>
+          <text id="static_instance-block-265">
+            <value>Khajni</value>
+          </text>
+          <text id="static_instance-block-268">
+            <value>Pipraich</value>
+          </text>
+          <text id="static_instance-block-269">
+            <value>Piprauli</value>
+          </text>
+          <text id="static_instance-block-330">
+            <value>Jaleswar</value>
+          </text>
+          <text id="static_instance-block-331">
+            <value>Khaira</value>
+          </text>
+          <text id="static_instance-block-396">
+            <value>Dasarathpur</value>
+          </text>
+          <text id="static_instance-block-397">
+            <value>Dharmasala</value>
+          </text>
+          <text id="static_instance-block-394">
+            <value>Binjharpur</value>
+          </text>
+          <text id="static_instance-block-395">
+            <value>Dangadi</value>
+          </text>
+          <text id="static_instance-block-392">
+            <value>Badachana</value>
+          </text>
+          <text id="static_instance-block-393">
+            <value>Bari</value>
+          </text>
+          <text id="static_instance-block-390">
+            <value>Raghunathpur</value>
+          </text>
+          <text id="static_instance-block-391">
+            <value>Tirtol</value>
+          </text>
+          <text id="static_instance-block-350">
+            <value>Deogaon</value>
+          </text>
+          <text id="static_instance-block-398">
+            <value>Jaipur</value>
+          </text>
+          <text id="static_instance-block-399">
+            <value>Korei</value>
+          </text>
+          <text id="static_instance-block-411">
+            <value>M.Rampur</value>
+          </text>
+          <text id="static_instance-block-410">
+            <value>Lanjigarh</value>
+          </text>
+          <text id="static_instance-block-413">
+            <value>ThumalRampur</value>
+          </text>
+          <text id="static_instance-block-351">
+            <value>Gudvella</value>
+          </text>
+          <text id="static_instance-block-415">
+            <value>Chakpad</value>
+          </text>
+          <text id="static_instance-block-414">
+            <value>Balliguda</value>
+          </text>
+          <text id="static_instance-block-417">
+            <value>G.Udayagiri</value>
+          </text>
+          <text id="static_instance-block-416">
+            <value>Daringibadi</value>
+          </text>
+          <text id="static_instance-block-419">
+            <value>Nuagaon</value>
+          </text>
+          <text id="static_instance-block-418">
+            <value>Kotgarh</value>
+          </text>
+          <text id="static_instance-block-338">
+            <value>Barpalli</value>
+          </text>
+          <text id="static_instance-block-339">
+            <value>Bhatli</value>
+          </text>
+          <text id="static_instance-block-198">
+            <value>Mahua</value>
+          </text>
+          <text id="static_instance-block-199">
+            <value>Patedhi-Belshar</value>
+          </text>
+          <text id="static_instance-block-190">
+            <value>Bhagwanpur</value>
+          </text>
+          <text id="static_instance-block-191">
+            <value>Bidupur</value>
+          </text>
+          <text id="static_instance-block-192">
+            <value>Chehrakala</value>
+          </text>
+          <text id="static_instance-block-193">
+            <value>Desari</value>
+          </text>
+          <text id="static_instance-block-194">
+            <value>Goraul</value>
+          </text>
+          <text id="static_instance-block-195">
+            <value>Hazipur</value>
+          </text>
+          <text id="static_instance-block-196">
+            <value>Jandaha</value>
+          </text>
+          <text id="static_instance-block-197">
+            <value>Lalganj</value>
+          </text>
+          <text id="static_instance-block-525">
+            <value>Rengali</value>
+          </text>
+          <text id="static_instance-block-524">
+            <value>Maneswar</value>
+          </text>
+          <text id="static_instance-block-488">
+            <value>Raighar</value>
+          </text>
+          <text id="static_instance-block-359">
+            <value>Kantapada</value>
+          </text>
+          <text id="static_instance-block-521">
+            <value>Rayagada</value>
+          </text>
+          <text id="static_instance-block-520">
+            <value>R.Udaygiri</value>
+          </text>
+          <text id="static_instance-block-523">
+            <value>Jujumura</value>
+          </text>
+          <text id="static_instance-block-522">
+            <value>Dhankhanda</value>
+          </text>
+          <text id="static_instance-block-482">
+            <value>Dabugaon</value>
+          </text>
+          <text id="static_instance-block-483">
+            <value>Jharigam</value>
+          </text>
+          <text id="static_instance-block-480">
+            <value>Udala</value>
+          </text>
+          <text id="static_instance-block-481">
+            <value>Chandahandi</value>
+          </text>
+          <text id="static_instance-block-486">
+            <value>Nawarangpur</value>
+          </text>
+          <text id="static_instance-block-487">
+            <value>Papadahandi</value>
+          </text>
+          <text id="static_instance-block-484">
+            <value>Kosagumuda</value>
+          </text>
+          <text id="static_instance-block-485">
+            <value>Nandahandi</value>
+          </text>
+          <text id="static_instance-block-358">
+            <value>Cuttack Sadar</value>
+          </text>
+          <text id="static_instance-block-27">
+            <value>Kotwa</value>
+          </text>
+          <text id="static_instance-block-26">
+            <value>Kesharia</value>
+          </text>
+          <text id="static_instance-block-25">
+            <value>Kalyanpur</value>
+          </text>
+          <text id="static_instance-block-24">
+            <value>Ghorasahan</value>
+          </text>
+          <text id="static_instance-block-23">
+            <value>Dhakha</value>
+          </text>
+          <text id="static_instance-block-22">
+            <value>Chiraian</value>
+          </text>
+          <text id="static_instance-block-21">
+            <value>Chhauradano</value>
+          </text>
+          <text id="static_instance-block-20">
+            <value>Chakai</value>
+          </text>
+          <text id="static_instance-block-29">
+            <value>Paharpur</value>
+          </text>
+          <text id="static_instance-block-28">
+            <value>Madhuban</value>
+          </text>
+          <text id="static_instance-block-165">
+            <value>Suryapura</value>
+          </text>
+          <text id="static_instance-block-164">
+            <value>Shivsagar</value>
+          </text>
+          <text id="static_instance-block-167">
+            <value>Vikramganj</value>
+          </text>
+          <text id="static_instance-block-166">
+            <value>Tilauthu</value>
+          </text>
+          <text id="static_instance-block-161">
+            <value>Rohtas</value>
+          </text>
+          <text id="static_instance-block-160">
+            <value>Rajpur</value>
+          </text>
+          <text id="static_instance-block-163">
+            <value>Sasaram</value>
+          </text>
+          <text id="static_instance-block-162">
+            <value>Sanjhauli</value>
+          </text>
+          <text id="static_instance-block-169">
+            <value>Bithan</value>
+          </text>
+          <text id="static_instance-block-168">
+            <value>Bibhutipur</value>
+          </text>
+          <text id="static_instance-block-228">
+            <value>Gaur</value>
+          </text>
+          <text id="static_instance-block-229">
+            <value>Harraiya</value>
+          </text>
+          <text id="static_instance-block-226">
+            <value>Basti Sadar</value>
+          </text>
+          <text id="static_instance-block-227">
+            <value>Dubauliya</value>
+          </text>
+          <text id="static_instance-block-224">
+            <value>Bahadurpur</value>
+          </text>
+          <text id="static_instance-block-225">
+            <value>Bankati</value>
+          </text>
+          <text id="static_instance-block-222">
+            <value>Sikta</value>
+          </text>
+          <text id="static_instance-block-223">
+            <value>Thakraha</value>
+          </text>
+          <text id="static_instance-block-220">
+            <value>Piprasi.</value>
+          </text>
+          <text id="static_instance-block-221">
+            <value>Ramnagar</value>
+          </text>
+          <text id="static_instance-block-412">
+            <value>Narla</value>
+          </text>
+          <text id="static_instance-hub-0">
+            <value>Bihar</value>
+          </text>
+          <text id="static_instance-hub-1">
+            <value>Eastern UP</value>
+          </text>
+          <text id="static_instance-hub-2">
+            <value>Odisha</value>
+          </text>
+          <text id="static_instance-block-459">
+            <value>Betnoti</value>
+          </text>
+          <text id="static_instance-block-458">
+            <value>Barsahi</value>
+          </text>
+          <text id="static_instance-block-455">
+            <value>Bahalda</value>
+          </text>
+          <text id="static_instance-block-454">
+            <value>Podia</value>
+          </text>
+          <text id="static_instance-block-457">
+            <value>Baripada</value>
+          </text>
+          <text id="static_instance-block-456">
+            <value>Bangriposi</value>
+          </text>
+          <text id="static_instance-block-451">
+            <value>Kudumuluguma</value>
+          </text>
+          <text id="static_instance-block-450">
+            <value>Korkunda</value>
+          </text>
+          <text id="static_instance-block-453">
+            <value>Mathili</value>
+          </text>
+          <text id="static_instance-block-452">
+            <value>Malkangiri</value>
+          </text>
+          <text id="static_instance-block-352">
+            <value>Loisinga</value>
+          </text>
+          <text id="static_instance-block-353">
+            <value>Puintala</value>
+          </text>
+          <text id="static_instance-block-299">
+            <value>Baghauli</value>
+          </text>
+          <text id="static_instance-block-298">
+            <value>Siswa</value>
+          </text>
+          <text id="static_instance-block-356">
+            <value>Kantamal</value>
+          </text>
+          <text id="static_instance-block-357">
+            <value>Baranga</value>
+          </text>
+          <text id="static_instance-block-354">
+            <value>Boudh</value>
+          </text>
+          <text id="static_instance-block-355">
+            <value>Harabhanga</value>
+          </text>
+          <text id="static_instance-block-293">
+            <value>Nautanwa</value>
+          </text>
+          <text id="static_instance-block-292">
+            <value>Mithaura</value>
+          </text>
+          <text id="static_instance-block-291">
+            <value>Maharajgunj</value>
+          </text>
+          <text id="static_instance-block-290">
+            <value>Lakshmipur</value>
+          </text>
+          <text id="static_instance-block-297">
+            <value>Pharendra</value>
+          </text>
+          <text id="static_instance-block-296">
+            <value>Partawal</value>
+          </text>
+          <text id="static_instance-block-295">
+            <value>Nichlaul</value>
+          </text>
+          <text id="static_instance-block-294">
+            <value>Paniyara</value>
+          </text>
+          <text id="static_instance-district-47">
+            <value>Rayagada</value>
+          </text>
+          <text id="static_instance-district-46">
+            <value>Puri</value>
+          </text>
+          <text id="static_instance-district-45">
+            <value>Nuapada</value>
+          </text>
+          <text id="static_instance-district-44">
+            <value>Nayagarh</value>
+          </text>
+          <text id="static_instance-district-43">
+            <value>Nawarangpur</value>
+          </text>
+          <text id="static_instance-district-42">
+            <value>Mayurbhanj</value>
+          </text>
+          <text id="static_instance-district-41">
+            <value>Malkangiri</value>
+          </text>
+          <text id="static_instance-district-40">
+            <value>Koraput</value>
+          </text>
+          <text id="static_instance-district-49">
+            <value>Sonepur</value>
+          </text>
+          <text id="static_instance-district-48">
+            <value>Sambalpur</value>
+          </text>
+          <text id="static_instance-gender-1">
+            <value>महिला</value>
+          </text>
+          <text id="static_instance-gender-0">
+            <value>पुरुष</value>
+          </text>
+          <text id="static_instance-block-58">
+            <value>Chhourahi</value>
+          </text>
+          <text id="static_instance-block-59">
+            <value>Dandari</value>
+          </text>
+          <text id="static_instance-block-56">
+            <value>Birpur</value>
+          </text>
+          <text id="static_instance-block-57">
+            <value>Cheria Bariyarpur</value>
+          </text>
+          <text id="static_instance-block-54">
+            <value>Begusarai</value>
+          </text>
+          <text id="static_instance-block-55">
+            <value>Bhagwanpur</value>
+          </text>
+          <text id="static_instance-block-52">
+            <value>Balia</value>
+          </text>
+          <text id="static_instance-block-53">
+            <value>Barauni</value>
+          </text>
+          <text id="static_instance-block-50">
+            <value>Bachwara</value>
+          </text>
+          <text id="static_instance-block-51">
+            <value>Bakhri</value>
+          </text>
+          <text id="static_instance-block-138">
+            <value>Khusrupur</value>
+          </text>
+          <text id="static_instance-block-139">
+            <value>Maner</value>
+          </text>
+          <text id="static_instance-block-132">
+            <value>Danapur</value>
+          </text>
+          <text id="static_instance-block-133">
+            <value>Daniawan</value>
+          </text>
+          <text id="static_instance-block-130">
+            <value>Bihta</value>
+          </text>
+          <text id="static_instance-block-131">
+            <value>Bikram</value>
+          </text>
+          <text id="static_instance-block-136">
+            <value>Fatuha</value>
+          </text>
+          <text id="static_instance-block-137">
+            <value>Ghoswari</value>
+          </text>
+          <text id="static_instance-block-134">
+            <value>Dhanarua</value>
+          </text>
+          <text id="static_instance-block-135">
+            <value>Dulhinbazar</value>
+          </text>
+          <text id="static_instance-block-473">
+            <value>Rasgobindpur</value>
+          </text>
+          <text id="static_instance-block-318">
+            <value>Mithwal</value>
+          </text>
+          <text id="static_instance-block-319">
+            <value>Naugarh</value>
+          </text>
+          <text id="static_instance-block-316">
+            <value>Khuniyaon</value>
+          </text>
+          <text id="static_instance-block-317">
+            <value>Lotan</value>
+          </text>
+          <text id="static_instance-block-314">
+            <value>Jogia</value>
+          </text>
+          <text id="static_instance-block-315">
+            <value>Khesraha</value>
+          </text>
+          <text id="static_instance-block-312">
+            <value>Domariyaganj</value>
+          </text>
+          <text id="static_instance-block-313">
+            <value>Itwa</value>
+          </text>
+          <text id="static_instance-block-310">
+            <value>Bhanwapur</value>
+          </text>
+          <text id="static_instance-block-311">
+            <value>Birdpur</value>
+          </text>
+          <text id="static_instance-block-257">
+            <value>Bhathat</value>
+          </text>
+          <text id="static_instance-block-256">
+            <value>Belghat</value>
+          </text>
+          <text id="static_instance-block-255">
+            <value>Barhalganj</value>
+          </text>
+          <text id="static_instance-block-254">
+            <value>Bansgaon</value>
+          </text>
+          <text id="static_instance-block-253">
+            <value>Salempur</value>
+          </text>
+          <text id="static_instance-block-252">
+            <value>Rudrapur</value>
+          </text>
+          <text id="static_instance-block-251">
+            <value>Rani</value>
+          </text>
+          <text id="static_instance-block-250">
+            <value>Rampur Karchana</value>
+          </text>
+          <text id="static_instance-district-2">
+            <value>Buxar</value>
+          </text>
+          <text id="static_instance-district-3">
+            <value>Begusarai</value>
+          </text>
+          <text id="static_instance-district-0">
+            <value>Arah</value>
+          </text>
+          <text id="static_instance-district-1">
+            <value>East Champaran</value>
+          </text>
+          <text id="static_instance-district-6">
+            <value>Munger</value>
+          </text>
+          <text id="static_instance-district-7">
+            <value>Muzaffarpur</value>
+          </text>
+          <text id="static_instance-block-259">
+            <value>Campierganj</value>
+          </text>
+          <text id="static_instance-block-258">
+            <value>Brahmpur</value>
+          </text>
+          <text id="static_instance-block-478">
+            <value>Thakurmunda</value>
+          </text>
+          <text id="static_instance-block-467">
+            <value>Khunta</value>
+          </text>
+          <text id="static_instance-block-460">
+            <value>Bijatola</value>
+          </text>
+          <text id="static_instance-block-402">
+            <value>Jharsuguda</value>
+          </text>
+          <text id="static_instance-block-403">
+            <value>Kirimira</value>
+          </text>
+          <text id="static_instance-block-400">
+            <value>Rasulpur</value>
+          </text>
+          <text id="static_instance-block-401">
+            <value>Sukinda</value>
+          </text>
+          <text id="static_instance-block-406">
+            <value>Lakhanpur</value>
+          </text>
+          <text id="static_instance-block-407">
+            <value>Bhawanipatna</value>
+          </text>
+          <text id="static_instance-block-404">
+            <value>Kolabira</value>
+          </text>
+          <text id="static_instance-block-405">
+            <value>Laikera</value>
+          </text>
+          <text id="static_instance-block-408">
+            <value>Karlamunda</value>
+          </text>
+          <text id="static_instance-block-409">
+            <value>Kesinga</value>
+          </text>
+          <text id="static_instance-district-18">
+            <value>Maharajganj</value>
+          </text>
+          <text id="static_instance-district-19">
+            <value>Sant Kabir Nagar</value>
+          </text>
+          <text id="static_instance-block-461">
+            <value>Bisoi</value>
+          </text>
+          <text id="static_instance-block-322">
+            <value>Angul</value>
+          </text>
+          <text id="static_instance-district-10">
+            <value>Rohtas</value>
+          </text>
+          <text id="static_instance-district-11">
+            <value>Samastipur</value>
+          </text>
+          <text id="static_instance-district-12">
+            <value>Vaishali</value>
+          </text>
+          <text id="static_instance-district-13">
+            <value>West Champaran</value>
+          </text>
+          <text id="static_instance-district-14">
+            <value>Basti</value>
+          </text>
+          <text id="static_instance-district-15">
+            <value>Deoria</value>
+          </text>
+          <text id="static_instance-district-16">
+            <value>Gorakhpur</value>
+          </text>
+          <text id="static_instance-district-17">
+            <value>Kushinagar</value>
+          </text>
+          <text id="static_instance-block-532">
+            <value>Lathikata</value>
+          </text>
+          <text id="static_instance-block-533">
+            <value>Nuagaon</value>
+          </text>
+          <text id="static_instance-block-530">
+            <value>Bisra</value>
+          </text>
+          <text id="static_instance-block-531">
+            <value>Kuarmunda</value>
+          </text>
+          <text id="static_instance-block-329">
+            <value>Bhograi</value>
+          </text>
+          <text id="static_instance-block-328">
+            <value>Basta</value>
+          </text>
+          <text id="static_instance-block-309">
+            <value>Barhni</value>
+          </text>
+          <text id="static_instance-block-176">
+            <value>Mohanpur</value>
+          </text>
+          <text id="static_instance-block-177">
+            <value>Morwa</value>
+          </text>
+          <text id="static_instance-block-174">
+            <value>Khanpur</value>
+          </text>
+          <text id="static_instance-block-175">
+            <value>Mohaddinagar</value>
+          </text>
+          <text id="static_instance-block-172">
+            <value>Jitwarpur</value>
+          </text>
+          <text id="static_instance-block-173">
+            <value>Kalyanpur</value>
+          </text>
+          <text id="static_instance-block-170">
+            <value>Dalsinghsarai</value>
+          </text>
+          <text id="static_instance-block-171">
+            <value>Hasanpur</value>
+          </text>
+          <text id="static_instance-block-178">
+            <value>Patori</value>
+          </text>
+          <text id="static_instance-block-179">
+            <value>Pusa</value>
+          </text>
+        </translation>
+      </itext>
+      <instance>
+        <ZTSP_20142015 id="ztsp2014015" version="1">
+          <deviceid/>
+          <start/>
+          <end/>
+          <date_time/>
+          <collector/>
+          <hub_hub/>
+          <hub_district/>
+          <hub/>
+          <panchayat/>
+          <village/>
+          <farmer_name/>
+          <gender/>
+          <father_husband_name/>
+          <gps/>
+          <photo/>
+          <meta>
+            <instanceID/>
+          </meta>
+        </ZTSP_20142015>
+      </instance>
+      <instance id="gender">
+        <root>
+          <item>
+            <itextId>static_instance-gender-0</itextId>
+            <name>male</name>
+          </item>
+          <item>
+            <itextId>static_instance-gender-1</itextId>
+            <name>female</name>
+          </item>
+        </root>
+      </instance>
+      <instance id="hub">
+        <root>
+          <item>
+            <itextId>static_instance-hub-0</itextId>
+            <name>bihar</name>
+          </item>
+          <item>
+            <itextId>static_instance-hub-1</itextId>
+            <name>eastern_up</name>
+          </item>
+          <item>
+            <itextId>static_instance-hub-2</itextId>
+            <name>odisha</name>
+          </item>
+        </root>
+      </instance>
+      <instance id="district">
+        <root>
+          <item>
+            <itextId>static_instance-district-0</itextId>
+            <name>arah</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-district-1</itextId>
+            <name>east_champaran</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-district-2</itextId>
+            <name>buxar</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-district-3</itextId>
+            <name>begusarai</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-district-4</itextId>
+            <name>jamui</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-district-5</itextId>
+            <name>lakhisarai</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-district-6</itextId>
+            <name>munger</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-district-7</itextId>
+            <name>muzaffarpur</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-district-8</itextId>
+            <name>nawada</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-district-9</itextId>
+            <name>patna</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-district-10</itextId>
+            <name>rohtas</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-district-11</itextId>
+            <name>samastipur</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-district-12</itextId>
+            <name>vaishali</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-district-13</itextId>
+            <name>west_champaran</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-district-14</itextId>
+            <name>basti</name>
+            <hub>eastern_up</hub>
+          </item>
+          <item>
+            <itextId>static_instance-district-15</itextId>
+            <name>deoria</name>
+            <hub>eastern_up</hub>
+          </item>
+          <item>
+            <itextId>static_instance-district-16</itextId>
+            <name>gorakhpur</name>
+            <hub>eastern_up</hub>
+          </item>
+          <item>
+            <itextId>static_instance-district-17</itextId>
+            <name>kushinagar</name>
+            <hub>eastern_up</hub>
+          </item>
+          <item>
+            <itextId>static_instance-district-18</itextId>
+            <name>maharajganj</name>
+            <hub>eastern_up</hub>
+          </item>
+          <item>
+            <itextId>static_instance-district-19</itextId>
+            <name>sant_kabir_nagar</name>
+            <hub>eastern_up</hub>
+          </item>
+          <item>
+            <itextId>static_instance-district-20</itextId>
+            <name>sidharthnagar</name>
+            <hub>eastern_up</hub>
+          </item>
+          <item>
+            <itextId>static_instance-district-21</itextId>
+            <name>angul</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-district-22</itextId>
+            <name>balasore</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-district-23</itextId>
+            <name>bargarh</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-district-24</itextId>
+            <name>bhadrak</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-district-25</itextId>
+            <name>bolangir</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-district-26</itextId>
+            <name>boudh</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-district-27</itextId>
+            <name>cuttack</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-district-28</itextId>
+            <name>deogarh</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-district-29</itextId>
+            <name>dhenkanal</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-district-30</itextId>
+            <name>gajapati</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-district-31</itextId>
+            <name>ganjam</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-district-32</itextId>
+            <name>jagatsinghpur</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-district-33</itextId>
+            <name>jaipur</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-district-34</itextId>
+            <name>jharsuguda</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-district-35</itextId>
+            <name>kalahandi</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-district-36</itextId>
+            <name>kandhamal</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-district-37</itextId>
+            <name>kendrapara</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-district-38</itextId>
+            <name>keonjhar</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-district-39</itextId>
+            <name>khurda</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-district-40</itextId>
+            <name>koraput</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-district-41</itextId>
+            <name>malkangiri</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-district-42</itextId>
+            <name>mayurbhanj</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-district-43</itextId>
+            <name>nawarangpur</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-district-44</itextId>
+            <name>nayagarh</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-district-45</itextId>
+            <name>nuapada</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-district-46</itextId>
+            <name>puri</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-district-47</itextId>
+            <name>rayagada</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-district-48</itextId>
+            <name>sambalpur</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-district-49</itextId>
+            <name>sonepur</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-district-50</itextId>
+            <name>sundargarh</name>
+            <hub>odisha</hub>
+          </item>
+        </root>
+      </instance>
+      <instance id="block">
+        <root>
+          <item>
+            <itextId>static_instance-block-0</itextId>
+            <district>arah</district>
+            <name>agiaon</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-1</itextId>
+            <district>arah</district>
+            <name>barhara</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-2</itextId>
+            <district>arah</district>
+            <name>bihiyan</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-3</itextId>
+            <district>arah</district>
+            <name>chapokhari</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-4</itextId>
+            <district>arah</district>
+            <name>gadhani</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-5</itextId>
+            <district>arah</district>
+            <name>jagdishpur</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-6</itextId>
+            <district>arah</district>
+            <name>koilwar</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-7</itextId>
+            <district>arah</district>
+            <name>piro</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-8</itextId>
+            <district>arah</district>
+            <name>sahar</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-9</itextId>
+            <district>arah</district>
+            <name>sandesh</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-10</itextId>
+            <district>arah</district>
+            <name>tarari</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-11</itextId>
+            <district>arah</district>
+            <name>udvantnagar</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-12</itextId>
+            <district>east_champaran</district>
+            <name>harsiddhi</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-13</itextId>
+            <district>east_champaran</district>
+            <name>maheshi</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-14</itextId>
+            <district>east_champaran</district>
+            <name>motihari</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-15</itextId>
+            <district>east_champaran</district>
+            <name>pakridayal</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-16</itextId>
+            <district>east_champaran</district>
+            <name>sugauli</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-17</itextId>
+            <district>east_champaran</district>
+            <name>adapur</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-18</itextId>
+            <district>east_champaran</district>
+            <name>areraj</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-19</itextId>
+            <district>east_champaran</district>
+            <name>banjaria</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-20</itextId>
+            <district>east_champaran</district>
+            <name>chakai</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-21</itextId>
+            <district>east_champaran</district>
+            <name>chhauradano</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-22</itextId>
+            <district>east_champaran</district>
+            <name>chiraian</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-23</itextId>
+            <district>east_champaran</district>
+            <name>dhakha</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-24</itextId>
+            <district>east_champaran</district>
+            <name>ghorasahan</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-25</itextId>
+            <district>east_champaran</district>
+            <name>kalyanpur</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-26</itextId>
+            <district>east_champaran</district>
+            <name>kesharia</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-27</itextId>
+            <district>east_champaran</district>
+            <name>kotwa</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-28</itextId>
+            <district>east_champaran</district>
+            <name>madhuban</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-29</itextId>
+            <district>east_champaran</district>
+            <name>paharpur</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-30</itextId>
+            <district>east_champaran</district>
+            <name>patahi</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-31</itextId>
+            <district>east_champaran</district>
+            <name>phenhara</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-32</itextId>
+            <district>east_champaran</district>
+            <name>piprakothi</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-33</itextId>
+            <district>east_champaran</district>
+            <name>ramgarhwa</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-34</itextId>
+            <district>east_champaran</district>
+            <name>raxaul</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-35</itextId>
+            <district>east_champaran</district>
+            <name>sangrampur</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-36</itextId>
+            <district>east_champaran</district>
+            <name>tetaria</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-37</itextId>
+            <district>east_champaran</district>
+            <name>turkaulia</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-38</itextId>
+            <district>east_champaran</district>
+            <name>vankatwa</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-39</itextId>
+            <district>buxar</district>
+            <name>brahmpur</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-40</itextId>
+            <district>buxar</district>
+            <name>buxar</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-41</itextId>
+            <district>buxar</district>
+            <name>chakki</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-42</itextId>
+            <district>buxar</district>
+            <name>chaugain</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-43</itextId>
+            <district>buxar</district>
+            <name>chausa</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-44</itextId>
+            <district>buxar</district>
+            <name>dumraon</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-45</itextId>
+            <district>buxar</district>
+            <name>itarhi</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-46</itextId>
+            <district>buxar</district>
+            <name>kesath</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-47</itextId>
+            <district>buxar</district>
+            <name>nawanagar</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-48</itextId>
+            <district>buxar</district>
+            <name>rajpur</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-49</itextId>
+            <district>buxar</district>
+            <name>simari</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-50</itextId>
+            <district>begusarai</district>
+            <name>bachwara</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-51</itextId>
+            <district>begusarai</district>
+            <name>bakhri</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-52</itextId>
+            <district>begusarai</district>
+            <name>balia</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-53</itextId>
+            <district>begusarai</district>
+            <name>barauni</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-54</itextId>
+            <district>begusarai</district>
+            <name>begusarai</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-55</itextId>
+            <district>begusarai</district>
+            <name>bhagwanpur</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-56</itextId>
+            <district>begusarai</district>
+            <name>birpur</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-57</itextId>
+            <district>begusarai</district>
+            <name>cheria_bariyarpur</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-58</itextId>
+            <district>begusarai</district>
+            <name>chhourahi</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-59</itextId>
+            <district>begusarai</district>
+            <name>dandari</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-60</itextId>
+            <district>begusarai</district>
+            <name>garhpura</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-61</itextId>
+            <district>begusarai</district>
+            <name>khodabandpur</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-62</itextId>
+            <district>begusarai</district>
+            <name>mansurchak</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-63</itextId>
+            <district>begusarai</district>
+            <name>matihani</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-64</itextId>
+            <district>begusarai</district>
+            <name>navkothi</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-65</itextId>
+            <district>begusarai</district>
+            <name>sahebpur_kamal</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-66</itextId>
+            <district>begusarai</district>
+            <name>samho_akaha_kurha</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-67</itextId>
+            <district>begusarai</district>
+            <name>teghra</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-68</itextId>
+            <district>jamui</district>
+            <name>aliganj</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-69</itextId>
+            <district>jamui</district>
+            <name>asalmanagar</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-70</itextId>
+            <district>jamui</district>
+            <name>barhat</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-71</itextId>
+            <district>jamui</district>
+            <name>chakai</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-72</itextId>
+            <district>jamui</district>
+            <name>gidhaur</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-73</itextId>
+            <district>jamui</district>
+            <name>jamui</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-74</itextId>
+            <district>jamui</district>
+            <name>jhajha</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-75</itextId>
+            <district>jamui</district>
+            <name>khaira</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-76</itextId>
+            <district>jamui</district>
+            <name>laxmipur</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-77</itextId>
+            <district>jamui</district>
+            <name>sikandra</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-78</itextId>
+            <district>jamui</district>
+            <name>sono</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-79</itextId>
+            <district>lakhisarai</district>
+            <name>barhaiya</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-80</itextId>
+            <district>lakhisarai</district>
+            <name>halsi</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-81</itextId>
+            <district>lakhisarai</district>
+            <name>lakhisarai</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-82</itextId>
+            <district>lakhisarai</district>
+            <name>pepariya</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-83</itextId>
+            <district>lakhisarai</district>
+            <name>ramgadhchock</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-84</itextId>
+            <district>lakhisarai</district>
+            <name>surjgadha</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-85</itextId>
+            <district>munger</district>
+            <name>asarganj</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-86</itextId>
+            <district>munger</district>
+            <name>bariarpur</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-87</itextId>
+            <district>munger</district>
+            <name>dharhara</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-88</itextId>
+            <district>munger</district>
+            <name>haveli</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-89</itextId>
+            <district>munger</district>
+            <name>jamalpur</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-90</itextId>
+            <district>munger</district>
+            <name>kharagpur</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-91</itextId>
+            <district>munger</district>
+            <name>munger</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-92</itextId>
+            <district>munger</district>
+            <name>sangrampur</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-93</itextId>
+            <district>munger</district>
+            <name>tarapur</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-94</itextId>
+            <district>munger</district>
+            <name>tetiabamber</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-95</itextId>
+            <district>muzaffarpur</district>
+            <name>aurai</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-96</itextId>
+            <district>muzaffarpur</district>
+            <name>bandra</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-97</itextId>
+            <district>muzaffarpur</district>
+            <name>bochaha</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-98</itextId>
+            <district>muzaffarpur</district>
+            <name>gayhaghat</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-99</itextId>
+            <district>muzaffarpur</district>
+            <name>kanti</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-100</itextId>
+            <district>muzaffarpur</district>
+            <name>katra</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-101</itextId>
+            <district>muzaffarpur</district>
+            <name>kurahni</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-102</itextId>
+            <district>muzaffarpur</district>
+            <name>marawan</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-103</itextId>
+            <district>muzaffarpur</district>
+            <name>minapur</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-104</itextId>
+            <district>muzaffarpur</district>
+            <name>motipur</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-105</itextId>
+            <district>muzaffarpur</district>
+            <name>muraul</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-106</itextId>
+            <district>muzaffarpur</district>
+            <name>musahari</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-107</itextId>
+            <district>muzaffarpur</district>
+            <name>paru</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-108</itextId>
+            <district>muzaffarpur</district>
+            <name>ramnagar</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-109</itextId>
+            <district>muzaffarpur</district>
+            <name>sahebganj</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-110</itextId>
+            <district>muzaffarpur</district>
+            <name>sakra</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-111</itextId>
+            <district>muzaffarpur</district>
+            <name>saraiya</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-112</itextId>
+            <district>nawada</district>
+            <name>akbarpur</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-113</itextId>
+            <district>nawada</district>
+            <name>govindpur</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-114</itextId>
+            <district>nawada</district>
+            <name>hisua</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-115</itextId>
+            <district>nawada</district>
+            <name>kasichak</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-116</itextId>
+            <district>nawada</district>
+            <name>kauakol</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-117</itextId>
+            <district>nawada</district>
+            <name>meskaur</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-118</itextId>
+            <district>nawada</district>
+            <name>nardiganj</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-119</itextId>
+            <district>nawada</district>
+            <name>narhat</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-120</itextId>
+            <district>nawada</district>
+            <name>navada</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-121</itextId>
+            <district>nawada</district>
+            <name>pakribarawan</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-122</itextId>
+            <district>nawada</district>
+            <name>rajouli</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-123</itextId>
+            <district>nawada</district>
+            <name>roh</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-124</itextId>
+            <district>nawada</district>
+            <name>sirdalla</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-125</itextId>
+            <district>nawada</district>
+            <name>varsaliganj</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-126</itextId>
+            <district>patna</district>
+            <name>athmalgola</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-127</itextId>
+            <district>patna</district>
+            <name>bakhtiyarpur</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-128</itextId>
+            <district>patna</district>
+            <name>barh</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-129</itextId>
+            <district>patna</district>
+            <name>belchhi</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-130</itextId>
+            <district>patna</district>
+            <name>bihta</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-131</itextId>
+            <district>patna</district>
+            <name>bikram</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-132</itextId>
+            <district>patna</district>
+            <name>danapur</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-133</itextId>
+            <district>patna</district>
+            <name>daniawan</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-134</itextId>
+            <district>patna</district>
+            <name>dhanarua</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-135</itextId>
+            <district>patna</district>
+            <name>dulhinbazar</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-136</itextId>
+            <district>patna</district>
+            <name>fatuha</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-137</itextId>
+            <district>patna</district>
+            <name>ghoswari</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-138</itextId>
+            <district>patna</district>
+            <name>khusrupur</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-139</itextId>
+            <district>patna</district>
+            <name>maner</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-140</itextId>
+            <district>patna</district>
+            <name>masaurhi</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-141</itextId>
+            <district>patna</district>
+            <name>mokama</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-142</itextId>
+            <district>patna</district>
+            <name>naubatpur</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-143</itextId>
+            <district>patna</district>
+            <name>paliganj</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-144</itextId>
+            <district>patna</district>
+            <name>pandarak</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-145</itextId>
+            <district>patna</district>
+            <name>patna</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-146</itextId>
+            <district>patna</district>
+            <name>phulwarisharif</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-147</itextId>
+            <district>patna</district>
+            <name>punpun</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-148</itextId>
+            <district>patna</district>
+            <name>sampatchak</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-149</itextId>
+            <district>rohtas</district>
+            <name>akorhigola</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-150</itextId>
+            <district>rohtas</district>
+            <name>chenari</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-151</itextId>
+            <district>rohtas</district>
+            <name>dawath</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-152</itextId>
+            <district>rohtas</district>
+            <name>dihri</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-153</itextId>
+            <district>rohtas</district>
+            <name>dinara</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-154</itextId>
+            <district>rohtas</district>
+            <name>karakat</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-155</itextId>
+            <district>rohtas</district>
+            <name>kargahar</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-156</itextId>
+            <district>rohtas</district>
+            <name>kochas</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-157</itextId>
+            <district>rohtas</district>
+            <name>nasriganj</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-158</itextId>
+            <district>rohtas</district>
+            <name>nauhatta</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-159</itextId>
+            <district>rohtas</district>
+            <name>nokha</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-160</itextId>
+            <district>rohtas</district>
+            <name>rajpur</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-161</itextId>
+            <district>rohtas</district>
+            <name>rohtas</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-162</itextId>
+            <district>rohtas</district>
+            <name>sanjhauli</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-163</itextId>
+            <district>rohtas</district>
+            <name>sasaram</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-164</itextId>
+            <district>rohtas</district>
+            <name>shivsagar</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-165</itextId>
+            <district>rohtas</district>
+            <name>suryapura</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-166</itextId>
+            <district>rohtas</district>
+            <name>tilauthu</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-167</itextId>
+            <district>rohtas</district>
+            <name>vikramganj</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-168</itextId>
+            <district>samastipur</district>
+            <name>bibhutipur</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-169</itextId>
+            <district>samastipur</district>
+            <name>bithan</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-170</itextId>
+            <district>samastipur</district>
+            <name>dalsinghsarai</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-171</itextId>
+            <district>samastipur</district>
+            <name>hasanpur</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-172</itextId>
+            <district>samastipur</district>
+            <name>jitwarpur</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-173</itextId>
+            <district>samastipur</district>
+            <name>kalyanpur</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-174</itextId>
+            <district>samastipur</district>
+            <name>khanpur</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-175</itextId>
+            <district>samastipur</district>
+            <name>mohaddinagar</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-176</itextId>
+            <district>samastipur</district>
+            <name>mohanpur</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-177</itextId>
+            <district>samastipur</district>
+            <name>morwa</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-178</itextId>
+            <district>samastipur</district>
+            <name>patori</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-179</itextId>
+            <district>samastipur</district>
+            <name>pusa</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-180</itextId>
+            <district>samastipur</district>
+            <name>rosara</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-181</itextId>
+            <district>samastipur</district>
+            <name>samastipur</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-182</itextId>
+            <district>samastipur</district>
+            <name>sarairanjan</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-183</itextId>
+            <district>samastipur</district>
+            <name>shivajinagar</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-184</itextId>
+            <district>samastipur</district>
+            <name>singhia</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-185</itextId>
+            <district>samastipur</district>
+            <name>tajpur</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-186</itextId>
+            <district>samastipur</district>
+            <name>ujiyarpur</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-187</itextId>
+            <district>samastipur</district>
+            <name>vidyapatinagar</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-188</itextId>
+            <district>samastipur</district>
+            <name>warisnagar</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-189</itextId>
+            <district>vaishali</district>
+            <name>mahnar</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-190</itextId>
+            <district>vaishali</district>
+            <name>bhagwanpur</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-191</itextId>
+            <district>vaishali</district>
+            <name>bidupur</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-192</itextId>
+            <district>vaishali</district>
+            <name>chehrakala</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-193</itextId>
+            <district>vaishali</district>
+            <name>desari</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-194</itextId>
+            <district>vaishali</district>
+            <name>goraul</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-195</itextId>
+            <district>vaishali</district>
+            <name>hazipur</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-196</itextId>
+            <district>vaishali</district>
+            <name>jandaha</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-197</itextId>
+            <district>vaishali</district>
+            <name>lalganj</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-198</itextId>
+            <district>vaishali</district>
+            <name>mahua</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-199</itextId>
+            <district>vaishali</district>
+            <name>patedhi_belshar</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-200</itextId>
+            <district>vaishali</district>
+            <name>patepur</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-201</itextId>
+            <district>vaishali</district>
+            <name>premraj</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-202</itextId>
+            <district>vaishali</district>
+            <name>raghopur</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-203</itextId>
+            <district>vaishali</district>
+            <name>razapakar</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-204</itextId>
+            <district>vaishali</district>
+            <name>sahdeibuzurg</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-205</itextId>
+            <district>vaishali</district>
+            <name>vaishali</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-206</itextId>
+            <district>west_champaran</district>
+            <name>bagaha_1</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-207</itextId>
+            <district>west_champaran</district>
+            <name>bagaha_2</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-208</itextId>
+            <district>west_champaran</district>
+            <name>bairia</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-209</itextId>
+            <district>west_champaran</district>
+            <name>bettiah</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-210</itextId>
+            <district>west_champaran</district>
+            <name>bhitaha</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-211</itextId>
+            <district>west_champaran</district>
+            <name>chanpattia</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-212</itextId>
+            <district>west_champaran</district>
+            <name>gaunaha</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-213</itextId>
+            <district>west_champaran</district>
+            <name>jogapatti</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-214</itextId>
+            <district>west_champaran</district>
+            <name>lauria</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-215</itextId>
+            <district>west_champaran</district>
+            <name>madhubani</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-216</itextId>
+            <district>west_champaran</district>
+            <name>mainatand</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-217</itextId>
+            <district>west_champaran</district>
+            <name>manjhaulia</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-218</itextId>
+            <district>west_champaran</district>
+            <name>narkatiaganj</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-219</itextId>
+            <district>west_champaran</district>
+            <name>nautan</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-220</itextId>
+            <district>west_champaran</district>
+            <name>piprasi_</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-221</itextId>
+            <district>west_champaran</district>
+            <name>ramnagar</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-222</itextId>
+            <district>west_champaran</district>
+            <name>sikta</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-223</itextId>
+            <district>west_champaran</district>
+            <name>thakraha</name>
+            <hub>bihar</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-224</itextId>
+            <district>basti</district>
+            <name>bahadurpur</name>
+            <hub>eastern_up</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-225</itextId>
+            <district>basti</district>
+            <name>bankati</name>
+            <hub>eastern_up</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-226</itextId>
+            <district>basti</district>
+            <name>basti_sadar</name>
+            <hub>eastern_up</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-227</itextId>
+            <district>basti</district>
+            <name>dubauliya</name>
+            <hub>eastern_up</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-228</itextId>
+            <district>basti</district>
+            <name>gaur</name>
+            <hub>eastern_up</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-229</itextId>
+            <district>basti</district>
+            <name>harraiya</name>
+            <hub>eastern_up</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-230</itextId>
+            <district>basti</district>
+            <name>kaptanganj</name>
+            <hub>eastern_up</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-231</itextId>
+            <district>basti</district>
+            <name>kudaraha</name>
+            <hub>eastern_up</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-232</itextId>
+            <district>basti</district>
+            <name>parasrampur</name>
+            <hub>eastern_up</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-233</itextId>
+            <district>basti</district>
+            <name>ramnagar</name>
+            <hub>eastern_up</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-234</itextId>
+            <district>basti</district>
+            <name>rudhauli</name>
+            <hub>eastern_up</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-235</itextId>
+            <district>basti</district>
+            <name>saltaua_gopalpur</name>
+            <hub>eastern_up</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-236</itextId>
+            <district>basti</district>
+            <name>sau_ghat</name>
+            <hub>eastern_up</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-237</itextId>
+            <district>basti</district>
+            <name>vikramjot</name>
+            <hub>eastern_up</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-238</itextId>
+            <district>deoria</district>
+            <name>baitalpur</name>
+            <hub>eastern_up</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-239</itextId>
+            <district>deoria</district>
+            <name>bankata</name>
+            <hub>eastern_up</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-240</itextId>
+            <district>deoria</district>
+            <name>barhaj</name>
+            <hub>eastern_up</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-241</itextId>
+            <district>deoria</district>
+            <name>bhagalpur</name>
+            <hub>eastern_up</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-242</itextId>
+            <district>deoria</district>
+            <name>bhalvani</name>
+            <hub>eastern_up</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-243</itextId>
+            <district>deoria</district>
+            <name>bhatni</name>
+            <hub>eastern_up</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-244</itextId>
+            <district>deoria</district>
+            <name>bhatpar</name>
+            <hub>eastern_up</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-245</itextId>
+            <district>deoria</district>
+            <name>deoria</name>
+            <hub>eastern_up</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-246</itextId>
+            <district>deoria</district>
+            <name>desahi_deoria</name>
+            <hub>eastern_up</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-247</itextId>
+            <district>deoria</district>
+            <name>gauribazar</name>
+            <hub>eastern_up</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-248</itextId>
+            <district>deoria</district>
+            <name>lar</name>
+            <hub>eastern_up</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-249</itextId>
+            <district>deoria</district>
+            <name>pathardewa</name>
+            <hub>eastern_up</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-250</itextId>
+            <district>deoria</district>
+            <name>rampur_karchana</name>
+            <hub>eastern_up</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-251</itextId>
+            <district>deoria</district>
+            <name>rani</name>
+            <hub>eastern_up</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-252</itextId>
+            <district>deoria</district>
+            <name>rudrapur</name>
+            <hub>eastern_up</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-253</itextId>
+            <district>deoria</district>
+            <name>salempur</name>
+            <hub>eastern_up</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-254</itextId>
+            <district>gorakhpur</district>
+            <name>bansgaon</name>
+            <hub>eastern_up</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-255</itextId>
+            <district>gorakhpur</district>
+            <name>barhalganj</name>
+            <hub>eastern_up</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-256</itextId>
+            <district>gorakhpur</district>
+            <name>belghat</name>
+            <hub>eastern_up</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-257</itextId>
+            <district>gorakhpur</district>
+            <name>bhathat</name>
+            <hub>eastern_up</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-258</itextId>
+            <district>gorakhpur</district>
+            <name>brahmpur</name>
+            <hub>eastern_up</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-259</itextId>
+            <district>gorakhpur</district>
+            <name>campierganj</name>
+            <hub>eastern_up</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-260</itextId>
+            <district>gorakhpur</district>
+            <name>chargawan</name>
+            <hub>eastern_up</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-261</itextId>
+            <district>gorakhpur</district>
+            <name>gagha</name>
+            <hub>eastern_up</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-262</itextId>
+            <district>gorakhpur</district>
+            <name>gola</name>
+            <hub>eastern_up</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-263</itextId>
+            <district>gorakhpur</district>
+            <name>jangal_kaudia</name>
+            <hub>eastern_up</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-264</itextId>
+            <district>gorakhpur</district>
+            <name>kauriram</name>
+            <hub>eastern_up</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-265</itextId>
+            <district>gorakhpur</district>
+            <name>khajni</name>
+            <hub>eastern_up</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-266</itextId>
+            <district>gorakhpur</district>
+            <name>khorabar</name>
+            <hub>eastern_up</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-267</itextId>
+            <district>gorakhpur</district>
+            <name>pali</name>
+            <hub>eastern_up</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-268</itextId>
+            <district>gorakhpur</district>
+            <name>pipraich</name>
+            <hub>eastern_up</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-269</itextId>
+            <district>gorakhpur</district>
+            <name>piprauli</name>
+            <hub>eastern_up</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-270</itextId>
+            <district>gorakhpur</district>
+            <name>sahjanwa</name>
+            <hub>eastern_up</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-271</itextId>
+            <district>gorakhpur</district>
+            <name>sardarnagar</name>
+            <hub>eastern_up</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-272</itextId>
+            <district>gorakhpur</district>
+            <name>uruwa</name>
+            <hub>eastern_up</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-273</itextId>
+            <district>kushinagar</district>
+            <name>captainganj</name>
+            <hub>eastern_up</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-274</itextId>
+            <district>kushinagar</district>
+            <name>dudhahi</name>
+            <hub>eastern_up</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-275</itextId>
+            <district>kushinagar</district>
+            <name>fazilnagar</name>
+            <hub>eastern_up</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-276</itextId>
+            <district>kushinagar</district>
+            <name>hata</name>
+            <hub>eastern_up</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-277</itextId>
+            <district>kushinagar</district>
+            <name>kasia</name>
+            <hub>eastern_up</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-278</itextId>
+            <district>kushinagar</district>
+            <name>khadda</name>
+            <hub>eastern_up</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-279</itextId>
+            <district>kushinagar</district>
+            <name>nebua_naurangiya</name>
+            <hub>eastern_up</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-280</itextId>
+            <district>kushinagar</district>
+            <name>padrauna</name>
+            <hub>eastern_up</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-281</itextId>
+            <district>kushinagar</district>
+            <name>ramkola</name>
+            <hub>eastern_up</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-282</itextId>
+            <district>kushinagar</district>
+            <name>seorahi</name>
+            <hub>eastern_up</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-283</itextId>
+            <district>kushinagar</district>
+            <name>sukrauli</name>
+            <hub>eastern_up</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-284</itextId>
+            <district>kushinagar</district>
+            <name>tamkuhiraj</name>
+            <hub>eastern_up</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-285</itextId>
+            <district>kushinagar</district>
+            <name>vishunpura</name>
+            <hub>eastern_up</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-286</itextId>
+            <district>kushinagar</district>
+            <name>motichak</name>
+            <hub>eastern_up</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-287</itextId>
+            <district>maharajganj</district>
+            <name>bridgemanganj</name>
+            <hub>eastern_up</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-288</itextId>
+            <district>maharajganj</district>
+            <name>dhani</name>
+            <hub>eastern_up</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-289</itextId>
+            <district>maharajganj</district>
+            <name>ghughuli</name>
+            <hub>eastern_up</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-290</itextId>
+            <district>maharajganj</district>
+            <name>lakshmipur</name>
+            <hub>eastern_up</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-291</itextId>
+            <district>maharajganj</district>
+            <name>maharajgunj</name>
+            <hub>eastern_up</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-292</itextId>
+            <district>maharajganj</district>
+            <name>mithaura</name>
+            <hub>eastern_up</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-293</itextId>
+            <district>maharajganj</district>
+            <name>nautanwa</name>
+            <hub>eastern_up</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-294</itextId>
+            <district>maharajganj</district>
+            <name>paniyara</name>
+            <hub>eastern_up</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-295</itextId>
+            <district>maharajganj</district>
+            <name>nichlaul</name>
+            <hub>eastern_up</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-296</itextId>
+            <district>maharajganj</district>
+            <name>partawal</name>
+            <hub>eastern_up</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-297</itextId>
+            <district>maharajganj</district>
+            <name>pharendra</name>
+            <hub>eastern_up</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-298</itextId>
+            <district>maharajganj</district>
+            <name>siswa</name>
+            <hub>eastern_up</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-299</itextId>
+            <district>sant_kabir_nagar</district>
+            <name>baghauli</name>
+            <hub>eastern_up</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-300</itextId>
+            <district>sant_kabir_nagar</district>
+            <name>belharkala</name>
+            <hub>eastern_up</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-301</itextId>
+            <district>sant_kabir_nagar</district>
+            <name>haisar_bazar</name>
+            <hub>eastern_up</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-302</itextId>
+            <district>sant_kabir_nagar</district>
+            <name>khalilabad</name>
+            <hub>eastern_up</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-303</itextId>
+            <district>sant_kabir_nagar</district>
+            <name>mehdawal</name>
+            <hub>eastern_up</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-304</itextId>
+            <district>sant_kabir_nagar</district>
+            <name>pauli</name>
+            <hub>eastern_up</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-305</itextId>
+            <district>sant_kabir_nagar</district>
+            <name>santha</name>
+            <hub>eastern_up</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-306</itextId>
+            <district>sant_kabir_nagar</district>
+            <name>nathnagar</name>
+            <hub>eastern_up</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-307</itextId>
+            <district>sant_kabir_nagar</district>
+            <name>semariyawan</name>
+            <hub>eastern_up</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-308</itextId>
+            <district>sidharthnagar</district>
+            <name>bansi</name>
+            <hub>eastern_up</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-309</itextId>
+            <district>sidharthnagar</district>
+            <name>barhni</name>
+            <hub>eastern_up</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-310</itextId>
+            <district>sidharthnagar</district>
+            <name>bhanwapur</name>
+            <hub>eastern_up</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-311</itextId>
+            <district>sidharthnagar</district>
+            <name>birdpur</name>
+            <hub>eastern_up</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-312</itextId>
+            <district>sidharthnagar</district>
+            <name>domariyaganj</name>
+            <hub>eastern_up</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-313</itextId>
+            <district>sidharthnagar</district>
+            <name>itwa</name>
+            <hub>eastern_up</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-314</itextId>
+            <district>sidharthnagar</district>
+            <name>jogia</name>
+            <hub>eastern_up</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-315</itextId>
+            <district>sidharthnagar</district>
+            <name>khesraha</name>
+            <hub>eastern_up</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-316</itextId>
+            <district>sidharthnagar</district>
+            <name>khuniyaon</name>
+            <hub>eastern_up</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-317</itextId>
+            <district>sidharthnagar</district>
+            <name>lotan</name>
+            <hub>eastern_up</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-318</itextId>
+            <district>sidharthnagar</district>
+            <name>mithwal</name>
+            <hub>eastern_up</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-319</itextId>
+            <district>sidharthnagar</district>
+            <name>naugarh</name>
+            <hub>eastern_up</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-320</itextId>
+            <district>sidharthnagar</district>
+            <name>shohratgarh</name>
+            <hub>eastern_up</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-321</itextId>
+            <district>sidharthnagar</district>
+            <name>uska_bazar</name>
+            <hub>eastern_up</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-322</itextId>
+            <district>angul</district>
+            <name>angul</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-323</itextId>
+            <district>angul</district>
+            <name>banarpal</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-324</itextId>
+            <district>angul</district>
+            <name>chhendipada</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-325</itextId>
+            <district>balasore</district>
+            <name>bahanaga</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-326</itextId>
+            <district>balasore</district>
+            <name>balasore</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-327</itextId>
+            <district>balasore</district>
+            <name>baliapal</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-328</itextId>
+            <district>balasore</district>
+            <name>basta</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-329</itextId>
+            <district>balasore</district>
+            <name>bhograi</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-330</itextId>
+            <district>balasore</district>
+            <name>jaleswar</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-331</itextId>
+            <district>balasore</district>
+            <name>khaira</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-332</itextId>
+            <district>balasore</district>
+            <name>remuna</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-333</itextId>
+            <district>balasore</district>
+            <name>simulia</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-334</itextId>
+            <district>balasore</district>
+            <name>soro</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-335</itextId>
+            <district>bargarh</district>
+            <name>ambabhana</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-336</itextId>
+            <district>bargarh</district>
+            <name>attabira</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-337</itextId>
+            <district>bargarh</district>
+            <name>bargarh</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-338</itextId>
+            <district>bargarh</district>
+            <name>barpalli</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-339</itextId>
+            <district>bargarh</district>
+            <name>bhatli</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-340</itextId>
+            <district>bargarh</district>
+            <name>bheden</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-341</itextId>
+            <district>bhadrak</district>
+            <name>basudevpur</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-342</itextId>
+            <district>bhadrak</district>
+            <name>bhadrak</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-343</itextId>
+            <district>bhadrak</district>
+            <name>bhandari_pokhari</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-344</itextId>
+            <district>bhadrak</district>
+            <name>bonth</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-345</itextId>
+            <district>bhadrak</district>
+            <name>chandabali</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-346</itextId>
+            <district>bhadrak</district>
+            <name>dhamnagar</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-347</itextId>
+            <district>bhadrak</district>
+            <name>tihidi</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-348</itextId>
+            <district>bolangir</district>
+            <name>agalpur</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-349</itextId>
+            <district>bolangir</district>
+            <name>bolangir</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-350</itextId>
+            <district>bolangir</district>
+            <name>deogaon</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-351</itextId>
+            <district>bolangir</district>
+            <name>gudvella</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-352</itextId>
+            <district>bolangir</district>
+            <name>loisinga</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-353</itextId>
+            <district>bolangir</district>
+            <name>puintala</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-354</itextId>
+            <district>boudh</district>
+            <name>boudh</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-355</itextId>
+            <district>boudh</district>
+            <name>harabhanga</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-356</itextId>
+            <district>boudh</district>
+            <name>kantamal</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-357</itextId>
+            <district>cuttack</district>
+            <name>baranga</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-358</itextId>
+            <district>cuttack</district>
+            <name>cuttack_sadar</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-359</itextId>
+            <district>cuttack</district>
+            <name>kantapada</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-360</itextId>
+            <district>cuttack</district>
+            <name>mahanga</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-361</itextId>
+            <district>cuttack</district>
+            <name>niali</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-362</itextId>
+            <district>cuttack</district>
+            <name>nischintakoili</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-363</itextId>
+            <district>cuttack</district>
+            <name>salipur</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-364</itextId>
+            <district>cuttack</district>
+            <name>tangi_chowdar</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-365</itextId>
+            <district>deogarh</district>
+            <name>barkote</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-366</itextId>
+            <district>deogarh</district>
+            <name>riamal</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-367</itextId>
+            <district>deogarh</district>
+            <name>tileibani</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-368</itextId>
+            <district>dhenkanal</district>
+            <name>gondia</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-369</itextId>
+            <district>dhenkanal</district>
+            <name>odapada</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-370</itextId>
+            <district>dhenkanal</district>
+            <name>sadar</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-371</itextId>
+            <district>gajapati</district>
+            <name>gumma</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-372</itextId>
+            <district>gajapati</district>
+            <name>kasinagar</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-373</itextId>
+            <district>gajapati</district>
+            <name>mohana</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-374</itextId>
+            <district>gajapati</district>
+            <name>nuagad</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-375</itextId>
+            <district>gajapati</district>
+            <name>paralakhemundi</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-376</itextId>
+            <district>gajapati</district>
+            <name>r_udayagiri</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-377</itextId>
+            <district>gajapati</district>
+            <name>rayagada</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-378</itextId>
+            <district>ganjam</district>
+            <name>chikiti</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-379</itextId>
+            <district>ganjam</district>
+            <name>digapahandi</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-380</itextId>
+            <district>ganjam</district>
+            <name>kukudakhandi</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-381</itextId>
+            <district>ganjam</district>
+            <name>patrapur</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-382</itextId>
+            <district>ganjam</district>
+            <name>rangeilunda</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-383</itextId>
+            <district>ganjam</district>
+            <name>sankhemundi</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-384</itextId>
+            <district>jagatsinghpur</district>
+            <name>balikuda</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-385</itextId>
+            <district>jagatsinghpur</district>
+            <name>biridi_f</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-386</itextId>
+            <district>jagatsinghpur</district>
+            <name>erasma</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-387</itextId>
+            <district>jagatsinghpur</district>
+            <name>jagatsinghpur</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-388</itextId>
+            <district>jagatsinghpur</district>
+            <name>kujang</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-389</itextId>
+            <district>jagatsinghpur</district>
+            <name>nuagaon</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-390</itextId>
+            <district>jagatsinghpur</district>
+            <name>raghunathpur</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-391</itextId>
+            <district>jagatsinghpur</district>
+            <name>tirtol</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-392</itextId>
+            <district>jaipur</district>
+            <name>badachana</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-393</itextId>
+            <district>jaipur</district>
+            <name>bari</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-394</itextId>
+            <district>jaipur</district>
+            <name>binjharpur</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-395</itextId>
+            <district>jaipur</district>
+            <name>dangadi</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-396</itextId>
+            <district>jaipur</district>
+            <name>dasarathpur</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-397</itextId>
+            <district>jaipur</district>
+            <name>dharmasala</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-398</itextId>
+            <district>jaipur</district>
+            <name>jaipur</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-399</itextId>
+            <district>jaipur</district>
+            <name>korei</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-400</itextId>
+            <district>jaipur</district>
+            <name>rasulpur</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-401</itextId>
+            <district>jaipur</district>
+            <name>sukinda</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-402</itextId>
+            <district>jharsuguda</district>
+            <name>jharsuguda</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-403</itextId>
+            <district>jharsuguda</district>
+            <name>kirimira</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-404</itextId>
+            <district>jharsuguda</district>
+            <name>kolabira</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-405</itextId>
+            <district>jharsuguda</district>
+            <name>laikera</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-406</itextId>
+            <district>jharsuguda</district>
+            <name>lakhanpur</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-407</itextId>
+            <district>kalahandi</district>
+            <name>bhawanipatna</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-408</itextId>
+            <district>kalahandi</district>
+            <name>karlamunda</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-409</itextId>
+            <district>kalahandi</district>
+            <name>kesinga</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-410</itextId>
+            <district>kalahandi</district>
+            <name>lanjigarh</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-411</itextId>
+            <district>kalahandi</district>
+            <name>m_rampur</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-412</itextId>
+            <district>kalahandi</district>
+            <name>narla</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-413</itextId>
+            <district>kalahandi</district>
+            <name>thumalrampur</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-414</itextId>
+            <district>kandhamal</district>
+            <name>balliguda</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-415</itextId>
+            <district>kandhamal</district>
+            <name>chakpad</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-416</itextId>
+            <district>kandhamal</district>
+            <name>daringibadi</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-417</itextId>
+            <district>kandhamal</district>
+            <name>g_udayagiri</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-418</itextId>
+            <district>kandhamal</district>
+            <name>kotgarh</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-419</itextId>
+            <district>kandhamal</district>
+            <name>nuagaon</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-420</itextId>
+            <district>kandhamal</district>
+            <name>raikia</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-421</itextId>
+            <district>kandhamal</district>
+            <name>tikabali</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-422</itextId>
+            <district>kandhamal</district>
+            <name>tumudibandh</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-423</itextId>
+            <district>kendrapara</district>
+            <name>aul</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-424</itextId>
+            <district>kendrapara</district>
+            <name>derabis</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-425</itextId>
+            <district>kendrapara</district>
+            <name>garadpur</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-426</itextId>
+            <district>kendrapara</district>
+            <name>kendrapara</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-427</itextId>
+            <district>kendrapara</district>
+            <name>mahakalapada</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-428</itextId>
+            <district>kendrapara</district>
+            <name>marsaghai</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-429</itextId>
+            <district>kendrapara</district>
+            <name>pattamundai</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-430</itextId>
+            <district>kendrapara</district>
+            <name>rajkanika</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-431</itextId>
+            <district>kendrapara</district>
+            <name>rajnagar</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-432</itextId>
+            <district>keonjhar</district>
+            <name>anadapur</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-433</itextId>
+            <district>keonjhar</district>
+            <name>ghasipur</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-434</itextId>
+            <district>keonjhar</district>
+            <name>hatadihi</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-435</itextId>
+            <district>khurda</district>
+            <name>balianta</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-436</itextId>
+            <district>khurda</district>
+            <name>balipatna</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-437</itextId>
+            <district>khurda</district>
+            <name>bhubaneswar</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-438</itextId>
+            <district>khurda</district>
+            <name>jatni</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-439</itextId>
+            <district>koraput</district>
+            <name>bandhugaon</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-440</itextId>
+            <district>koraput</district>
+            <name>dasmantpur</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-441</itextId>
+            <district>koraput</district>
+            <name>koraput</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-442</itextId>
+            <district>koraput</district>
+            <name>lamtaput</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-443</itextId>
+            <district>koraput</district>
+            <name>laxmipur</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-444</itextId>
+            <district>koraput</district>
+            <name>nandapur</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-445</itextId>
+            <district>koraput</district>
+            <name>naryanpatna</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-446</itextId>
+            <district>koraput</district>
+            <name>pottangi</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-447</itextId>
+            <district>koraput</district>
+            <name>similiguda</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-448</itextId>
+            <district>malkangiri</district>
+            <name>kalimela</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-449</itextId>
+            <district>malkangiri</district>
+            <name>khairaput</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-450</itextId>
+            <district>malkangiri</district>
+            <name>korkunda</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-451</itextId>
+            <district>malkangiri</district>
+            <name>kudumuluguma</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-452</itextId>
+            <district>malkangiri</district>
+            <name>malkangiri</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-453</itextId>
+            <district>malkangiri</district>
+            <name>mathili</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-454</itextId>
+            <district>malkangiri</district>
+            <name>podia</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-455</itextId>
+            <district>mayurbhanj</district>
+            <name>bahalda</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-456</itextId>
+            <district>mayurbhanj</district>
+            <name>bangriposi</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-457</itextId>
+            <district>mayurbhanj</district>
+            <name>baripada</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-458</itextId>
+            <district>mayurbhanj</district>
+            <name>barsahi</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-459</itextId>
+            <district>mayurbhanj</district>
+            <name>betnoti</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-460</itextId>
+            <district>mayurbhanj</district>
+            <name>bijatola</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-461</itextId>
+            <district>mayurbhanj</district>
+            <name>bisoi</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-462</itextId>
+            <district>mayurbhanj</district>
+            <name>gopabandhunagar</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-463</itextId>
+            <district>mayurbhanj</district>
+            <name>jamada</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-464</itextId>
+            <district>mayurbhanj</district>
+            <name>jashipur</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-465</itextId>
+            <district>mayurbhanj</district>
+            <name>kaptipada</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-466</itextId>
+            <district>mayurbhanj</district>
+            <name>karanjia</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-467</itextId>
+            <district>mayurbhanj</district>
+            <name>khunta</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-468</itextId>
+            <district>mayurbhanj</district>
+            <name>kusumi</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-469</itextId>
+            <district>mayurbhanj</district>
+            <name>kuliana</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-470</itextId>
+            <district>mayurbhanj</district>
+            <name>moroda</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-471</itextId>
+            <district>mayurbhanj</district>
+            <name>rairangpur</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-472</itextId>
+            <district>mayurbhanj</district>
+            <name>raruan</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-473</itextId>
+            <district>mayurbhanj</district>
+            <name>rasgobindpur</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-474</itextId>
+            <district>mayurbhanj</district>
+            <name>samakhunta</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-475</itextId>
+            <district>mayurbhanj</district>
+            <name>saraskana</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-476</itextId>
+            <district>mayurbhanj</district>
+            <name>sukruli</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-477</itextId>
+            <district>mayurbhanj</district>
+            <name>suliapada</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-478</itextId>
+            <district>mayurbhanj</district>
+            <name>thakurmunda</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-479</itextId>
+            <district>mayurbhanj</district>
+            <name>tiring</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-480</itextId>
+            <district>mayurbhanj</district>
+            <name>udala</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-481</itextId>
+            <district>nawarangpur</district>
+            <name>chandahandi</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-482</itextId>
+            <district>nawarangpur</district>
+            <name>dabugaon</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-483</itextId>
+            <district>nawarangpur</district>
+            <name>jharigam</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-484</itextId>
+            <district>nawarangpur</district>
+            <name>kosagumuda</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-485</itextId>
+            <district>nawarangpur</district>
+            <name>nandahandi</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-486</itextId>
+            <district>nawarangpur</district>
+            <name>nawarangpur</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-487</itextId>
+            <district>nawarangpur</district>
+            <name>papadahandi</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-488</itextId>
+            <district>nawarangpur</district>
+            <name>raighar</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-489</itextId>
+            <district>nawarangpur</district>
+            <name>tentulikhunti</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-490</itextId>
+            <district>nawarangpur</district>
+            <name>umerkote</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-491</itextId>
+            <district>nayagarh</district>
+            <name>bhapur</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-492</itextId>
+            <district>nayagarh</district>
+            <name>daspalla</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-493</itextId>
+            <district>nayagarh</district>
+            <name>gania</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-494</itextId>
+            <district>nayagarh</district>
+            <name>khandapada</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-495</itextId>
+            <district>nayagarh</district>
+            <name>nayagarh</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-496</itextId>
+            <district>nayagarh</district>
+            <name>nuagaon</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-497</itextId>
+            <district>nayagarh</district>
+            <name>odagaon</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-498</itextId>
+            <district>nayagarh</district>
+            <name>ranpur</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-499</itextId>
+            <district>nuapada</district>
+            <name>boden</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-500</itextId>
+            <district>nuapada</district>
+            <name>khariar</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-501</itextId>
+            <district>nuapada</district>
+            <name>komna</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-502</itextId>
+            <district>nuapada</district>
+            <name>nawapara</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-503</itextId>
+            <district>nuapada</district>
+            <name>sinapalli</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-504</itextId>
+            <district>puri</district>
+            <name>astarang</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-505</itextId>
+            <district>puri</district>
+            <name>brahmagiri</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-506</itextId>
+            <district>puri</district>
+            <name>delang</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-507</itextId>
+            <district>puri</district>
+            <name>gop</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-508</itextId>
+            <district>puri</district>
+            <name>kakatpur</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-509</itextId>
+            <district>puri</district>
+            <name>kanas</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-510</itextId>
+            <district>puri</district>
+            <name>krushnaprasad</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-511</itextId>
+            <district>puri</district>
+            <name>nimapara</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-512</itextId>
+            <district>puri</district>
+            <name>pipili</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-513</itextId>
+            <district>puri</district>
+            <name>sadar</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-514</itextId>
+            <district>puri</district>
+            <name>satyabadi</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-515</itextId>
+            <district>rayagada</district>
+            <name>gumma</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-516</itextId>
+            <district>rayagada</district>
+            <name>kasinagar</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-517</itextId>
+            <district>rayagada</district>
+            <name>mohana</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-518</itextId>
+            <district>rayagada</district>
+            <name>nuagad</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-519</itextId>
+            <district>rayagada</district>
+            <name>paralakhemundi</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-520</itextId>
+            <district>rayagada</district>
+            <name>r_udaygiri</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-521</itextId>
+            <district>rayagada</district>
+            <name>rayagada</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-522</itextId>
+            <district>sambalpur</district>
+            <name>dhankhanda</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-523</itextId>
+            <district>sambalpur</district>
+            <name>jujumura</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-524</itextId>
+            <district>sambalpur</district>
+            <name>maneswar</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-525</itextId>
+            <district>sambalpur</district>
+            <name>rengali</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-526</itextId>
+            <district>sonepur</district>
+            <name>binika</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-527</itextId>
+            <district>sonepur</district>
+            <name>dunguripalli</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-528</itextId>
+            <district>sonepur</district>
+            <name>sonepur</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-529</itextId>
+            <district>sonepur</district>
+            <name>tarva</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-530</itextId>
+            <district>sundargarh</district>
+            <name>bisra</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-531</itextId>
+            <district>sundargarh</district>
+            <name>kuarmunda</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-532</itextId>
+            <district>sundargarh</district>
+            <name>lathikata</name>
+            <hub>odisha</hub>
+          </item>
+          <item>
+            <itextId>static_instance-block-533</itextId>
+            <district>sundargarh</district>
+            <name>nuagaon</name>
+            <hub>odisha</hub>
+          </item>
+        </root>
+      </instance>
+      <bind jr:preload="property" jr:preloadParams="deviceid" nodeset="/ZTSP_20142015/deviceid" type="string"/>
+      <bind jr:preload="timestamp" jr:preloadParams="start" nodeset="/ZTSP_20142015/start" type="dateTime"/>
+      <bind jr:preload="timestamp" jr:preloadParams="end" nodeset="/ZTSP_20142015/end" type="dateTime"/>
+      <bind nodeset="/ZTSP_20142015/date_time" required="true()" type="dateTime"/>
+      <bind nodeset="/ZTSP_20142015/collector" required="true()" type="int"/>
+      <bind nodeset="/ZTSP_20142015/hub_hub" required="true()" type="select1"/>
+      <bind nodeset="/ZTSP_20142015/hub_district" required="true()" type="select1"/>
+      <bind nodeset="/ZTSP_20142015/hub" required="true()" type="select1"/>
+      <bind nodeset="/ZTSP_20142015/panchayat" required="true()" type="string"/>
+      <bind nodeset="/ZTSP_20142015/village" required="true()" type="string"/>
+      <bind nodeset="/ZTSP_20142015/farmer_name" required="true()" type="string"/>
+      <bind nodeset="/ZTSP_20142015/gender" required="true()" type="select1"/>
+      <bind nodeset="/ZTSP_20142015/father_husband_name" required="true()" type="string"/>
+      <bind nodeset="/ZTSP_20142015/gps" required="true()" type="geopoint"/>
+      <bind nodeset="/ZTSP_20142015/photo" required="true()" type="binary"/>
+      <bind calculate="concat('uuid:', uuid())" nodeset="/ZTSP_20142015/meta/instanceID" readonly="true()" type="string"/>
+    </model>
+  </h:head>
+  <h:body>
+    <input ref="/ZTSP_20142015/date_time">
+      <label>तारिख व समय</label>
+    </input>
+    <input ref="/ZTSP_20142015/collector">
+      <label>डाटा कलेक्टर नम्बर</label>
+    </input>
+    <select1 ref="/ZTSP_20142015/hub_hub">
+      <label>कृपया सिसा हब चुनिए</label>
+      <itemset nodeset="instance('hub')/root/item">
+        <value ref="name"/>
+        <label ref="jr:itext(itextId)"/>
+      </itemset>
+    </select1>
+    <select1 ref="/ZTSP_20142015/hub_district">
+      <label>कृपया जिला चुनिए</label>
+      <itemset nodeset="instance('district')/root/item[hub= /ZTSP_20142015/hub_hub ]">
+        <value ref="name"/>
+        <label ref="jr:itext(itextId)"/>
+      </itemset>
+    </select1>
+    <select1 ref="/ZTSP_20142015/hub">
+      <label>कृपया ब्लाँक चुनिए </label>
+      <itemset nodeset="instance('block')/root/item[hub= /ZTSP_20142015/hub_hub  and district= /ZTSP_20142015/hub_district ]">
+        <value ref="name"/>
+        <label ref="jr:itext(itextId)"/>
+      </itemset>
+    </select1>
+    <input ref="/ZTSP_20142015/panchayat">
+      <label>पंचायत</label>
+    </input>
+    <input ref="/ZTSP_20142015/village">
+      <label>गाँवका नाम</label>
+    </input>
+    <input ref="/ZTSP_20142015/farmer_name">
+      <label>सर्विस प्रोवाइडर का नाम</label>
+    </input>
+    <select1 ref="/ZTSP_20142015/gender">
+      <label>लिंग</label>
+      <item>
+        <label>पुरुष</label>
+        <value>male</value>
+      </item>
+      <item>
+        <label>महिला</label>
+        <value>female</value>
+      </item>
+    </select1>
+    <input ref="/ZTSP_20142015/father_husband_name">
+      <label>पिता व पति के नाम</label>
+    </input>
+    <input ref="/ZTSP_20142015/gps">
+      <label>जिपिएस</label>
+      <hint>GPS coordinates can only be collected when outside.</hint>
+    </input>
+    <upload mediatype="image/*" ref="/ZTSP_20142015/photo">
+      <label>फोटो</label>
+      <hint>फोटो लेने से पहले कैमरा रेजोलुशन कम करे</hint>
+    </upload>
+  </h:body>
+</h:html>

@@ -1,0 +1,258 @@
+<?xml version="1.0"?>
+<h:html xmlns="http://www.w3.org/2002/xforms" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:h="http://www.w3.org/1999/xhtml" xmlns:jr="http://openrosa.org/javarosa" xmlns:orx="http://openrosa.org/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <h:head><!-- ODK Aggregate upload time: 2017-03-25T16:18:55.213+0000 on https://csisaodk.appspot.com -->
+    <h:title>CSISA Training Record</h:title>
+    <model>
+      <submission action="https://csisaodk.appspot.com/submission" method="form-data-post"/>
+      <instance>
+        <TrainingFormODK id="CSISA_TrainingRecordForm" version="23032017">
+          <deviceid/>
+          <start/>
+          <end/>
+          <today/>
+          <Collector/>
+          <Country/>
+          <Hub/>
+          <District/>
+          <Block/>
+          <Village/>
+          <TrainingType/>
+          <OtherTrainingType/>
+          <Crop/>
+          <OtherCrop/>
+          <Training/>
+          <TrainingStart/>
+          <TrainingEnd/>
+          <T1>
+            <TotalParticipants/>
+            <Male/>
+            <Female/>
+          </T1>
+          <MF/>
+          <Check1/>
+          <T2>
+            <Farmer/>
+            <ServiceProvider/>
+            <PrivateSector/>
+            <NGO/>
+            <Government/>
+            <Other/>
+          </T2>
+          <Psum/>
+          <Check2/>
+          <Collaborator/>
+          <ResourcePerson1/>
+          <ResourcePerson2/>
+          <GPS/>
+          <GroupPhoto/>
+          <meta>
+            <instanceID/>
+          </meta>
+        </TrainingFormODK>
+      </instance>
+      <bind jr:preload="property" jr:preloadParams="deviceid" nodeset="/TrainingFormODK/deviceid" type="string"/>
+      <bind jr:preload="timestamp" jr:preloadParams="start" nodeset="/TrainingFormODK/start" type="dateTime"/>
+      <bind jr:preload="timestamp" jr:preloadParams="end" nodeset="/TrainingFormODK/end" type="dateTime"/>
+      <bind jr:preload="date" jr:preloadParams="today" nodeset="/TrainingFormODK/today" type="date"/>
+      <bind constraint=".&lt;200" jr:constraintMsg="Your ID should be less than 200 !" nodeset="/TrainingFormODK/Collector" required="true()" type="int"/>
+      <bind nodeset="/TrainingFormODK/Country" required="true()" type="select1"/>
+      <bind nodeset="/TrainingFormODK/Hub" required="true()" type="string"/>
+      <bind nodeset="/TrainingFormODK/District" required="true()" type="string"/>
+      <bind nodeset="/TrainingFormODK/Block" required="true()" type="string"/>
+      <bind nodeset="/TrainingFormODK/Village" required="true()" type="string"/>
+      <bind nodeset="/TrainingFormODK/TrainingType" required="true()" type="select1"/>
+      <bind nodeset="/TrainingFormODK/OtherTrainingType" relevant="selected( /TrainingFormODK/TrainingType ,'Other')" required="true()" type="string"/>
+      <bind nodeset="/TrainingFormODK/Crop" required="true()" type="select"/>
+      <bind nodeset="/TrainingFormODK/OtherCrop" relevant="selected( /TrainingFormODK/Crop ,'Other')" required="true()" type="string"/>
+      <bind nodeset="/TrainingFormODK/Training" required="true()" type="string"/>
+      <bind nodeset="/TrainingFormODK/TrainingStart" required="true()" type="date"/>
+      <bind nodeset="/TrainingFormODK/TrainingEnd" required="true()" type="date"/>
+      <bind nodeset="/TrainingFormODK/T1" required="true()"/>
+      <bind nodeset="/TrainingFormODK/T1/TotalParticipants" type="int"/>
+      <bind nodeset="/TrainingFormODK/T1/Male" type="int"/>
+      <bind nodeset="/TrainingFormODK/T1/Female" type="int"/>
+      <bind calculate=" /TrainingFormODK/T1/Male + /TrainingFormODK/T1/Female " nodeset="/TrainingFormODK/MF" type="string"/>
+      <bind nodeset="/TrainingFormODK/Check1" readonly="true()" type="string"/>
+      <bind nodeset="/TrainingFormODK/T2" required="true()"/>
+      <bind nodeset="/TrainingFormODK/T2/Farmer" type="int"/>
+      <bind nodeset="/TrainingFormODK/T2/ServiceProvider" type="int"/>
+      <bind nodeset="/TrainingFormODK/T2/PrivateSector" type="int"/>
+      <bind nodeset="/TrainingFormODK/T2/NGO" type="int"/>
+      <bind nodeset="/TrainingFormODK/T2/Government" type="int"/>
+      <bind nodeset="/TrainingFormODK/T2/Other" type="int"/>
+      <bind calculate=" /TrainingFormODK/T2/Farmer + /TrainingFormODK/T2/ServiceProvider + /TrainingFormODK/T2/PrivateSector + /TrainingFormODK/T2/NGO + /TrainingFormODK/T2/Government + /TrainingFormODK/T2/Other " nodeset="/TrainingFormODK/Psum" type="string"/>
+      <bind nodeset="/TrainingFormODK/Check2" readonly="true()" type="string"/>
+      <bind nodeset="/TrainingFormODK/Collaborator" required="true()" type="string"/>
+      <bind nodeset="/TrainingFormODK/ResourcePerson1" required="true()" type="string"/>
+      <bind nodeset="/TrainingFormODK/ResourcePerson2" required="true()" type="string"/>
+      <bind nodeset="/TrainingFormODK/GPS" required="true()" type="geopoint"/>
+      <bind nodeset="/TrainingFormODK/GroupPhoto" type="binary"/>
+      <bind calculate="concat('uuid:', uuid())" nodeset="/TrainingFormODK/meta/instanceID" readonly="true()" type="string"/>
+    </model>
+  </h:head>
+  <h:body>
+    <input ref="/TrainingFormODK/Collector">
+      <label>Enter Your ID</label>
+    </input>
+    <select1 ref="/TrainingFormODK/Country">
+      <label>Select Country</label>
+      <item>
+        <label>Bangladesh</label>
+        <value>Bangladesh</value>
+      </item>
+      <item>
+        <label>India</label>
+        <value>India</value>
+      </item>
+      <item>
+        <label>Nepal</label>
+        <value>Nepal</value>
+      </item>
+    </select1>
+    <input query="instance('Hub')/root/item[Country= /TrainingFormODK/Country ]" ref="/TrainingFormODK/Hub">
+      <label>Select Hub</label>
+    </input>
+    <input query="instance('District')/root/item[Country= /TrainingFormODK/Country  and Hub= /TrainingFormODK/Hub ]" ref="/TrainingFormODK/District">
+      <label>Select District</label>
+    </input>
+    <input query="instance('Block')/root/item[Country= /TrainingFormODK/Country  and Hub= /TrainingFormODK/Hub  and District= /TrainingFormODK/District ]" ref="/TrainingFormODK/Block">
+      <label>Select Block</label>
+    </input>
+    <input ref="/TrainingFormODK/Village">
+      <label>Village</label>
+    </input>
+    <select1 appearance="minimal" ref="/TrainingFormODK/TrainingType">
+      <label>Select type of Training</label>
+      <item>
+        <label>Demonstration / Exposure visit</label>
+        <value>Demonstration</value>
+      </item>
+      <item>
+        <label>Farmer's training</label>
+        <value>FarmerTraining</value>
+      </item>
+      <item>
+        <label>Hands-on training</label>
+        <value>HandsonTraining</value>
+      </item>
+      <item>
+        <label>Training of trainers (ToTs)</label>
+        <value>TrainingofTrainers</value>
+      </item>
+      <item>
+        <label>Agri-professionals training</label>
+        <value>AgriProfessional</value>
+      </item>
+      <item>
+        <label>Meeting / Seminar / Workshop</label>
+        <value>MeetingSeminarWorkshop</value>
+      </item>
+      <item>
+        <label>Other</label>
+        <value>Other</value>
+      </item>
+    </select1>
+    <input ref="/TrainingFormODK/OtherTrainingType">
+      <label>Enter other type of training</label>
+    </input>
+    <select ref="/TrainingFormODK/Crop">
+      <label>Targeted crop for training</label>
+      <item>
+        <label>Wheat</label>
+        <value>Wheat</value>
+      </item>
+      <item>
+        <label>Rice</label>
+        <value>Rice</value>
+      </item>
+      <item>
+        <label>Maize</label>
+        <value>Maize</value>
+      </item>
+      <item>
+        <label>Other</label>
+        <value>Other</value>
+      </item>
+      <item>
+        <label>None</label>
+        <value>NA</value>
+      </item>
+    </select>
+    <input ref="/TrainingFormODK/OtherCrop">
+      <label>Enter other crop</label>
+    </input>
+    <input ref="/TrainingFormODK/Training">
+      <label>Training Title</label>
+    </input>
+    <input appearance="no-calendar" ref="/TrainingFormODK/TrainingStart">
+      <label>Training Start Date</label>
+    </input>
+    <input appearance="no-calendar" ref="/TrainingFormODK/TrainingEnd">
+      <label>Training End Date</label>
+    </input>
+    <group appearance="field-list" ref="/TrainingFormODK/T1">
+      <input ref="/TrainingFormODK/T1/TotalParticipants">
+        <label>Enter total number of participants</label>
+      </input>
+      <input ref="/TrainingFormODK/T1/Male">
+        <label>Enter total number of male participants</label>
+        <hint>Enter &quot;0&quot; if none</hint>
+      </input>
+      <input ref="/TrainingFormODK/T1/Female">
+        <label>Enter total number of female participants</label>
+        <hint>Enter &quot;0&quot; if none</hint>
+      </input>
+    </group>
+    <input ref="/TrainingFormODK/Check1">
+      <label>The total number of partcipants is <output value=" /TrainingFormODK/T1/TotalParticipants "/>. Male participants number = <output value=" /TrainingFormODK/T1/Male "/> , female participants number = <output value=" /TrainingFormODK/T1/Female "/>. If <output value=" /TrainingFormODK/MF "/> = <output value=" /TrainingFormODK/T1/TotalParticipants "/> then proceed ahead , else go back and check !</label>
+    </input>
+    <group appearance="field-list" ref="/TrainingFormODK/T2">
+      <input ref="/TrainingFormODK/T2/Farmer">
+        <label>Enter number of participants as Farmer</label>
+        <hint>Enter &quot;0&quot; if none</hint>
+      </input>
+      <input ref="/TrainingFormODK/T2/ServiceProvider">
+        <label>Enter number of participants as Service Provider</label>
+        <hint>Enter &quot;0&quot; if none</hint>
+      </input>
+      <input ref="/TrainingFormODK/T2/PrivateSector">
+        <label>Enter number of participants from Private Sector</label>
+        <hint>Enter &quot;0&quot; if none</hint>
+      </input>
+      <input ref="/TrainingFormODK/T2/NGO">
+        <label>Enter number of participants from NGOs</label>
+        <hint>Enter &quot;0&quot; if none</hint>
+      </input>
+      <input ref="/TrainingFormODK/T2/Government">
+        <label>Enter number of participants from Government</label>
+        <hint>Enter &quot;0&quot; if none</hint>
+      </input>
+      <input ref="/TrainingFormODK/T2/Other">
+        <label>Enter number of participants from other sector</label>
+        <hint>Enter &quot;0&quot; if none</hint>
+      </input>
+    </group>
+    <input ref="/TrainingFormODK/Check2">
+      <label>If <output value=" /TrainingFormODK/T1/TotalParticipants "/> = <output value=" /TrainingFormODK/Psum "/> then proceed ahead , else go back and check !</label>
+    </input>
+    <input ref="/TrainingFormODK/Collaborator">
+      <label>Name of collaborators if any</label>
+      <hint>Enter &quot;NONE&quot; if there is not any</hint>
+    </input>
+    <input ref="/TrainingFormODK/ResourcePerson1">
+      <label>Name of Resource Person (1)</label>
+    </input>
+    <input ref="/TrainingFormODK/ResourcePerson2">
+      <label>Name of Resource Person (2)</label>
+      <hint>Enter &quot;NONE&quot; if there is not any</hint>
+    </input>
+    <input ref="/TrainingFormODK/GPS">
+      <label>Record GPS of the training event site</label>
+      <hint>Make sure the accuracy is less than 10 meters</hint>
+    </input>
+    <upload mediatype="image/*" ref="/TrainingFormODK/GroupPhoto">
+      <label>Capture group photo of the participants</label>
+      <hint>Make sure the camera is set to lowest resolution !</hint>
+    </upload>
+  </h:body>
+</h:html>

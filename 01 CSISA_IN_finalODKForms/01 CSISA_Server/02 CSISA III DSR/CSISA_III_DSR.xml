@@ -1,0 +1,374 @@
+<?xml version="1.0"?>
+<h:html xmlns="http://www.w3.org/2002/xforms" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:h="http://www.w3.org/1999/xhtml" xmlns:jr="http://openrosa.org/javarosa" xmlns:orx="http://openrosa.org/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <h:head><!-- ODK Aggregate upload time: 2016-09-02T09:03:39.205+0000 on https://csisaodk.appspot.com -->
+    <h:title>CSISA III DSR</h:title>
+    <model>
+      <submission action="https://csisaodk.appspot.com/submission" method="form-data-post"/>
+      <instance>
+        <CSISA_III_DSR id="CSISA_III_DSR" version="20160808">
+          <deviceid/>
+          <start/>
+          <end/>
+          <Date/>
+          <Collector/>
+          <Note/>
+          <Hub/>
+          <District/>
+          <Block/>
+          <GramPanchayat/>
+          <Village/>
+          <Name/>
+          <Mobile/>
+          <TrainedUpon/>
+          <OtherTraining/>
+          <YearSeason/>
+          <No_SeedDrills/>
+          <TotalServicedArea_Acre/>
+          <TotalServicedArea_Ha/>
+          <TotalFarmerServiced/>
+          <WheatService/>
+          <GPS/>
+          <meta>
+            <instanceID/>
+          </meta>
+        </CSISA_III_DSR>
+      </instance>
+      <bind jr:preload="property" jr:preloadParams="deviceid" nodeset="/CSISA_III_DSR/deviceid" type="string"/>
+      <bind jr:preload="timestamp" jr:preloadParams="start" nodeset="/CSISA_III_DSR/start" type="dateTime"/>
+      <bind jr:preload="timestamp" jr:preloadParams="end" nodeset="/CSISA_III_DSR/end" type="dateTime"/>
+      <bind nodeset="/CSISA_III_DSR/Date" required="true()" type="date"/>
+      <bind nodeset="/CSISA_III_DSR/Collector" required="true()" type="select1"/>
+      <bind nodeset="/CSISA_III_DSR/Note" readonly="true()" type="string"/>
+      <bind nodeset="/CSISA_III_DSR/Hub" required="true()" type="select1"/>
+      <bind nodeset="/CSISA_III_DSR/District" required="true()" type="string"/>
+      <bind nodeset="/CSISA_III_DSR/Block" required="true()" type="string"/>
+      <bind nodeset="/CSISA_III_DSR/GramPanchayat" required="true()" type="string"/>
+      <bind nodeset="/CSISA_III_DSR/Village" required="true()" type="string"/>
+      <bind nodeset="/CSISA_III_DSR/Name" required="true()" type="string"/>
+      <bind constraint="string-length(.) =10" jr:constraintMsg="Check the number you entered. Is it 10 digit?" nodeset="/CSISA_III_DSR/Mobile" required="true()" type="string"/>
+      <bind nodeset="/CSISA_III_DSR/TrainedUpon" required="true()" type="select"/>
+      <bind nodeset="/CSISA_III_DSR/OtherTraining" relevant="selected( /CSISA_III_DSR/TrainedUpon ,'Other')" required="true()" type="string"/>
+      <bind nodeset="/CSISA_III_DSR/YearSeason" required="true()" type="select1"/>
+      <bind nodeset="/CSISA_III_DSR/No_SeedDrills" required="true()" type="int"/>
+      <bind nodeset="/CSISA_III_DSR/TotalServicedArea_Acre" required="true()" type="decimal"/>
+      <bind calculate=" /CSISA_III_DSR/TotalServicedArea_Acre  div 2.5" nodeset="/CSISA_III_DSR/TotalServicedArea_Ha" type="string"/>
+      <bind nodeset="/CSISA_III_DSR/TotalFarmerServiced" required="true()" type="int"/>
+      <bind nodeset="/CSISA_III_DSR/WheatService" required="true()" type="select1"/>
+      <bind nodeset="/CSISA_III_DSR/GPS" required="true()" type="geopoint"/>
+      <bind calculate="concat('uuid:', uuid())" nodeset="/CSISA_III_DSR/meta/instanceID" readonly="true()" type="string"/>
+    </model>
+  </h:head>
+  <h:body>
+    <input ref="/CSISA_III_DSR/Date">
+      <label>Date and time</label>
+    </input>
+    <select1 appearance="minimal" ref="/CSISA_III_DSR/Collector">
+      <label>Enter Your ID</label>
+      <item>
+        <label>2</label>
+        <value>Anurag_A</value>
+      </item>
+      <item>
+        <label>3</label>
+        <value>Anurag_K</value>
+      </item>
+      <item>
+        <label>5</label>
+        <value>Madhulika</value>
+      </item>
+      <item>
+        <label>7</label>
+        <value>Dr_Pankaj</value>
+      </item>
+      <item>
+        <label>8</label>
+        <value>Prabhat</value>
+      </item>
+      <item>
+        <label>9</label>
+        <value>Pratibha</value>
+      </item>
+      <item>
+        <label>10</label>
+        <value>Dr_Rajeev</value>
+      </item>
+      <item>
+        <label>12</label>
+        <value>Dr_Ramdhan</value>
+      </item>
+      <item>
+        <label>13</label>
+        <value>Amresh</value>
+      </item>
+      <item>
+        <label>14</label>
+        <value>Vipin</value>
+      </item>
+      <item>
+        <label>15</label>
+        <value>Dr_Ajay</value>
+      </item>
+      <item>
+        <label>16</label>
+        <value>Praveen_EUP</value>
+      </item>
+      <item>
+        <label>17</label>
+        <value>Rabin</value>
+      </item>
+      <item>
+        <label>18</label>
+        <value>Dr_Ifti</value>
+      </item>
+      <item>
+        <label>19</label>
+        <value>Dr_Naba</value>
+      </item>
+      <item>
+        <label>20</label>
+        <value>Vivek</value>
+      </item>
+      <item>
+        <label>27</label>
+        <value>Bidhan</value>
+      </item>
+      <item>
+        <label>28</label>
+        <value>Dr_Banik</value>
+      </item>
+      <item>
+        <label>29</label>
+        <value>Surya</value>
+      </item>
+      <item>
+        <label>30</label>
+        <value>Dilip</value>
+      </item>
+      <item>
+        <label>32</label>
+        <value>Jasbir</value>
+      </item>
+      <item>
+        <label>33</label>
+        <value>Raut_Babu</value>
+      </item>
+      <item>
+        <label>34</label>
+        <value>Ajit</value>
+      </item>
+      <item>
+        <label>36</label>
+        <value>Praveen_Odisha</value>
+      </item>
+      <item>
+        <label>37</label>
+        <value>Dr_Poonia</value>
+      </item>
+      <item>
+        <label>39</label>
+        <value>Govind</value>
+      </item>
+      <item>
+        <label>40</label>
+        <value>SanjayKumar</value>
+      </item>
+      <item>
+        <label>41</label>
+        <value>Gopal</value>
+      </item>
+      <item>
+        <label>42</label>
+        <value>Sanjay_Rohtas</value>
+      </item>
+      <item>
+        <label>43</label>
+        <value>Ramratan</value>
+      </item>
+      <item>
+        <label>44</label>
+        <value>Chandan</value>
+      </item>
+      <item>
+        <label>45</label>
+        <value>Ashok_Kumar</value>
+      </item>
+      <item>
+        <label>46</label>
+        <value>Diwakar</value>
+      </item>
+      <item>
+        <label>47</label>
+        <value>Jagdish</value>
+      </item>
+      <item>
+        <label>48</label>
+        <value>Rajesh_Rai</value>
+      </item>
+      <item>
+        <label>49</label>
+        <value>Rajesh_Kumar</value>
+      </item>
+      <item>
+        <label>50</label>
+        <value>Ramji</value>
+      </item>
+      <item>
+        <label>51</label>
+        <value>Moben</value>
+      </item>
+      <item>
+        <label>59</label>
+        <value>Meethu_Babu</value>
+      </item>
+      <item>
+        <label>60</label>
+        <value>Aloke</value>
+      </item>
+      <item>
+        <label>61</label>
+        <value>Lokendra</value>
+      </item>
+      <item>
+        <label>62</label>
+        <value>Himalaya</value>
+      </item>
+      <item>
+        <label>63</label>
+        <value>Subash</value>
+      </item>
+      <item>
+        <label>64</label>
+        <value>Anil</value>
+      </item>
+      <item>
+        <label>65</label>
+        <value>Shalin</value>
+      </item>
+      <item>
+        <label>66</label>
+        <value>Anil_Pant</value>
+      </item>
+      <item>
+        <label>67</label>
+        <value>Kuldeep</value>
+      </item>
+    </select1>
+    <input ref="/CSISA_III_DSR/Note">
+      <label>Hi <output value=" /CSISA_III_DSR/Collector "/> ! You are about to track down the area coverage under DSR Technology promoted by CSISA through this form. Thank you for filling out !</label>
+    </input>
+    <select1 ref="/CSISA_III_DSR/Hub">
+      <label>Select CSISA Hub</label>
+      <item>
+        <label>Bihar</label>
+        <value>Bihar</value>
+      </item>
+      <item>
+        <label>Eastern UP</label>
+        <value>EasternUP</value>
+      </item>
+      <item>
+        <label>Odisha</label>
+        <value>Odisha</value>
+      </item>
+    </select1>
+    <input query="instance('Districts')/root/item[Hub= /CSISA_III_DSR/Hub ]" ref="/CSISA_III_DSR/District">
+      <label>Select District</label>
+    </input>
+    <input query="instance('Blocks')/root/item[Hub= /CSISA_III_DSR/Hub  and District= /CSISA_III_DSR/District ]" ref="/CSISA_III_DSR/Block">
+      <label>Select Block</label>
+    </input>
+    <input query="instance('GramPanchayats')/root/item[Hub= /CSISA_III_DSR/Hub  and District= /CSISA_III_DSR/District  and Block= /CSISA_III_DSR/Block ]" ref="/CSISA_III_DSR/GramPanchayat">
+      <label>Select Gram Panchayat</label>
+    </input>
+    <input ref="/CSISA_III_DSR/Village">
+      <label>Village</label>
+    </input>
+    <input ref="/CSISA_III_DSR/Name">
+      <label>Name of DSR Service Provider</label>
+    </input>
+    <input ref="/CSISA_III_DSR/Mobile">
+      <label>Mobile Number of Service Provider</label>
+    </input>
+    <select appearance="minimal" ref="/CSISA_III_DSR/TrainedUpon">
+      <label>Areas you are trained upon</label>
+      <item>
+        <label>Seed &amp; Fertilizer Calibration</label>
+        <value>Seed&amp;FertilizerCalibration</value>
+      </item>
+      <item>
+        <label>Sowing of Plot</label>
+        <value>SowingofPlot</value>
+      </item>
+      <item>
+        <label>Machine Maintenance</label>
+        <value>MachineMaintenance</value>
+      </item>
+      <item>
+        <label>Minor Troubleshooting</label>
+        <value>MinorTroubleShooting</value>
+      </item>
+      <item>
+        <label>Better Bet Rice Agronomy</label>
+        <value>BetterBetRiceAgronomy</value>
+      </item>
+      <item>
+        <label>Other</label>
+        <value>Other</value>
+      </item>
+      <item>
+        <label>None</label>
+        <value>None</value>
+      </item>
+    </select>
+    <input ref="/CSISA_III_DSR/OtherTraining">
+      <label>Mention the other topic you are trained upon</label>
+    </input>
+    <select1 appearance="minimal" ref="/CSISA_III_DSR/YearSeason">
+      <label>Year &amp; Season</label>
+      <item>
+        <label>2016 Kharif</label>
+        <value>2016Kharif</value>
+      </item>
+      <item>
+        <label>2017 Kharif</label>
+        <value>2017Kharif</value>
+      </item>
+      <item>
+        <label>2018 Kharif</label>
+        <value>2018Kharif</value>
+      </item>
+      <item>
+        <label>2019 Kharif</label>
+        <value>2019Kharif</value>
+      </item>
+      <item>
+        <label>2020 Kharif</label>
+        <value>2020Kharif</value>
+      </item>
+    </select1>
+    <input ref="/CSISA_III_DSR/No_SeedDrills">
+      <label>Number of Seed Drills operated in this season</label>
+    </input>
+    <input ref="/CSISA_III_DSR/TotalServicedArea_Acre">
+      <label>Total area serviced in Acre</label>
+    </input>
+    <input ref="/CSISA_III_DSR/TotalFarmerServiced">
+      <label>Total Farmer Serviced</label>
+    </input>
+    <select1 appearance="minimal" ref="/CSISA_III_DSR/WheatService">
+      <label>Do you provide service for wheat sowing too by the same machine(s)?</label>
+      <item>
+        <label>Yes</label>
+        <value>Yes</value>
+      </item>
+      <item>
+        <label>No</label>
+        <value>No</value>
+      </item>
+    </select1>
+    <input accuracyThreshold="1.5" ref="/CSISA_III_DSR/GPS">
+      <label>GPS</label>
+      <hint>Make sure the accuracy level is less than 5 meters</hint>
+    </input>
+  </h:body>
+</h:html>

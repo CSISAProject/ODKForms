@@ -1,0 +1,417 @@
+<?xml version="1.0"?>
+<h:html xmlns="http://www.w3.org/2002/xforms" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:h="http://www.w3.org/1999/xhtml" xmlns:jr="http://openrosa.org/javarosa" xmlns:orx="http://openrosa.org/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <h:head><!-- ODK Aggregate upload time: 2016-09-02T09:04:44.533+0000 on https://csisaodk.appspot.com -->
+    <h:title>CSISA III Machine Transplanting</h:title>
+    <model>
+      <submission action="https://csisaodk.appspot.com/submission" method="form-data-post"/>
+      <instance>
+        <CSISA_III_MachineTransplanting id="CSISA_III_MT" version="20160808">
+          <deviceid/>
+          <start/>
+          <end/>
+          <Date/>
+          <Collector/>
+          <Note/>
+          <Hub/>
+          <District/>
+          <Block/>
+          <GramPanchayat/>
+          <Village/>
+          <Name/>
+          <Mobile/>
+          <CSISASupport/>
+          <RabiSeason/>
+          <Rabi>
+            <No_RabiRiceTransplanters>0</No_RabiRiceTransplanters>
+            <TotalServicedArea_Rabi>0</TotalServicedArea_Rabi>
+            <TotalRabiServicedArea_Ha/>
+            <TotalFarmerServiced_Rabi>0</TotalFarmerServiced_Rabi>
+            <NewServicedArea_Rabi>0</NewServicedArea_Rabi>
+            <NewRabiServicedArea_Ha/>
+            <NewFarmerServiced_Rabi>0</NewFarmerServiced_Rabi>
+          </Rabi>
+          <KharifSeason/>
+          <No_KharifRiceTransplanters>0</No_KharifRiceTransplanters>
+          <TotalServicedArea_Kharif>0</TotalServicedArea_Kharif>
+          <TotalKharifServicedArea_Ha/>
+          <TotalFarmerServiced>0</TotalFarmerServiced>
+          <NewServicedArea_Kharif>0</NewServicedArea_Kharif>
+          <NewKharifServicedArea_ha/>
+          <NewFarmerServiced_Kharif>0</NewFarmerServiced_Kharif>
+          <GPS/>
+          <meta>
+            <instanceID/>
+          </meta>
+        </CSISA_III_MachineTransplanting>
+      </instance>
+      <bind jr:preload="property" jr:preloadParams="deviceid" nodeset="/CSISA_III_MachineTransplanting/deviceid" type="string"/>
+      <bind jr:preload="timestamp" jr:preloadParams="start" nodeset="/CSISA_III_MachineTransplanting/start" type="dateTime"/>
+      <bind jr:preload="timestamp" jr:preloadParams="end" nodeset="/CSISA_III_MachineTransplanting/end" type="dateTime"/>
+      <bind nodeset="/CSISA_III_MachineTransplanting/Date" required="true()" type="date"/>
+      <bind nodeset="/CSISA_III_MachineTransplanting/Collector" required="true()" type="select1"/>
+      <bind nodeset="/CSISA_III_MachineTransplanting/Note" readonly="true()" type="string"/>
+      <bind nodeset="/CSISA_III_MachineTransplanting/Hub" required="true()" type="select1"/>
+      <bind nodeset="/CSISA_III_MachineTransplanting/District" required="true()" type="string"/>
+      <bind nodeset="/CSISA_III_MachineTransplanting/Block" required="true()" type="string"/>
+      <bind nodeset="/CSISA_III_MachineTransplanting/GramPanchayat" required="true()" type="string"/>
+      <bind nodeset="/CSISA_III_MachineTransplanting/Village" required="true()" type="string"/>
+      <bind nodeset="/CSISA_III_MachineTransplanting/Name" required="true()" type="string"/>
+      <bind constraint="string-length(.) =10" jr:constraintMsg="Check the number you entered. Is it 10 digit?" nodeset="/CSISA_III_MachineTransplanting/Mobile" required="true()" type="string"/>
+      <bind nodeset="/CSISA_III_MachineTransplanting/CSISASupport" required="true()" type="select1"/>
+      <bind nodeset="/CSISA_III_MachineTransplanting/RabiSeason" relevant="selected( /CSISA_III_MachineTransplanting/Hub , 'Odisha')" required="true()" type="select1"/>
+      <bind nodeset="/CSISA_III_MachineTransplanting/Rabi" relevant=" /CSISA_III_MachineTransplanting/RabiSeason  != 'Zero' and selected( /CSISA_III_MachineTransplanting/Hub , 'Odisha')"/>
+      <bind nodeset="/CSISA_III_MachineTransplanting/Rabi/No_RabiRiceTransplanters" relevant="selected( /CSISA_III_MachineTransplanting/Hub , 'Odisha')" required="true()" type="int"/>
+      <bind nodeset="/CSISA_III_MachineTransplanting/Rabi/TotalServicedArea_Rabi" relevant="selected( /CSISA_III_MachineTransplanting/Hub , 'Odisha')" required="true()" type="decimal"/>
+      <bind calculate=" /CSISA_III_MachineTransplanting/Rabi/TotalServicedArea_Rabi  div 2.5" nodeset="/CSISA_III_MachineTransplanting/Rabi/TotalRabiServicedArea_Ha" type="string"/>
+      <bind nodeset="/CSISA_III_MachineTransplanting/Rabi/TotalFarmerServiced_Rabi" relevant="selected( /CSISA_III_MachineTransplanting/Hub , 'Odisha')" required="true()" type="int"/>
+      <bind nodeset="/CSISA_III_MachineTransplanting/Rabi/NewServicedArea_Rabi" relevant="selected( /CSISA_III_MachineTransplanting/Hub , 'Odisha')" required="true()" type="decimal"/>
+      <bind calculate=" /CSISA_III_MachineTransplanting/Rabi/NewServicedArea_Rabi  div 2.5" nodeset="/CSISA_III_MachineTransplanting/Rabi/NewRabiServicedArea_Ha" type="string"/>
+      <bind nodeset="/CSISA_III_MachineTransplanting/Rabi/NewFarmerServiced_Rabi" relevant="selected( /CSISA_III_MachineTransplanting/Hub , 'Odisha')" required="true()" type="int"/>
+      <bind nodeset="/CSISA_III_MachineTransplanting/KharifSeason" required="true()" type="select1"/>
+      <bind nodeset="/CSISA_III_MachineTransplanting/No_KharifRiceTransplanters" required="true()" type="int"/>
+      <bind nodeset="/CSISA_III_MachineTransplanting/TotalServicedArea_Kharif" required="true()" type="decimal"/>
+      <bind calculate=" /CSISA_III_MachineTransplanting/TotalServicedArea_Kharif  div 2.5" nodeset="/CSISA_III_MachineTransplanting/TotalKharifServicedArea_Ha" type="string"/>
+      <bind nodeset="/CSISA_III_MachineTransplanting/TotalFarmerServiced" required="true()" type="int"/>
+      <bind nodeset="/CSISA_III_MachineTransplanting/NewServicedArea_Kharif" required="true()" type="decimal"/>
+      <bind calculate=" /CSISA_III_MachineTransplanting/NewServicedArea_Kharif  div 2.5" nodeset="/CSISA_III_MachineTransplanting/NewKharifServicedArea_ha" type="string"/>
+      <bind nodeset="/CSISA_III_MachineTransplanting/NewFarmerServiced_Kharif" required="true()" type="int"/>
+      <bind nodeset="/CSISA_III_MachineTransplanting/GPS" required="true()" type="geopoint"/>
+      <bind calculate="concat('uuid:', uuid())" nodeset="/CSISA_III_MachineTransplanting/meta/instanceID" readonly="true()" type="string"/>
+    </model>
+  </h:head>
+  <h:body>
+    <input ref="/CSISA_III_MachineTransplanting/Date">
+      <label>Date and time</label>
+    </input>
+    <select1 appearance="minimal" ref="/CSISA_III_MachineTransplanting/Collector">
+      <label>Enter Your ID</label>
+      <item>
+        <label>2</label>
+        <value>Anurag_A</value>
+      </item>
+      <item>
+        <label>3</label>
+        <value>Anurag_K</value>
+      </item>
+      <item>
+        <label>5</label>
+        <value>Madhulika</value>
+      </item>
+      <item>
+        <label>7</label>
+        <value>Dr_Pankaj</value>
+      </item>
+      <item>
+        <label>8</label>
+        <value>Prabhat</value>
+      </item>
+      <item>
+        <label>9</label>
+        <value>Pratibha</value>
+      </item>
+      <item>
+        <label>10</label>
+        <value>Dr_Rajeev</value>
+      </item>
+      <item>
+        <label>12</label>
+        <value>Dr_Ramdhan</value>
+      </item>
+      <item>
+        <label>13</label>
+        <value>Amresh</value>
+      </item>
+      <item>
+        <label>14</label>
+        <value>Vipin</value>
+      </item>
+      <item>
+        <label>15</label>
+        <value>Dr_Ajay</value>
+      </item>
+      <item>
+        <label>16</label>
+        <value>Praveen_EUP</value>
+      </item>
+      <item>
+        <label>17</label>
+        <value>Rabin</value>
+      </item>
+      <item>
+        <label>18</label>
+        <value>Dr_Ifti</value>
+      </item>
+      <item>
+        <label>19</label>
+        <value>Dr_Naba</value>
+      </item>
+      <item>
+        <label>20</label>
+        <value>Vivek</value>
+      </item>
+      <item>
+        <label>27</label>
+        <value>Bidhan</value>
+      </item>
+      <item>
+        <label>28</label>
+        <value>Dr_Banik</value>
+      </item>
+      <item>
+        <label>29</label>
+        <value>Surya</value>
+      </item>
+      <item>
+        <label>30</label>
+        <value>Dilip</value>
+      </item>
+      <item>
+        <label>32</label>
+        <value>Jasbir</value>
+      </item>
+      <item>
+        <label>33</label>
+        <value>Raut_Babu</value>
+      </item>
+      <item>
+        <label>34</label>
+        <value>Ajit</value>
+      </item>
+      <item>
+        <label>36</label>
+        <value>Praveen_Odisha</value>
+      </item>
+      <item>
+        <label>37</label>
+        <value>Dr_Poonia</value>
+      </item>
+      <item>
+        <label>39</label>
+        <value>Govind</value>
+      </item>
+      <item>
+        <label>40</label>
+        <value>SanjayKumar</value>
+      </item>
+      <item>
+        <label>41</label>
+        <value>Gopal</value>
+      </item>
+      <item>
+        <label>42</label>
+        <value>Sanjay_Rohtas</value>
+      </item>
+      <item>
+        <label>43</label>
+        <value>Ramratan</value>
+      </item>
+      <item>
+        <label>44</label>
+        <value>Chandan</value>
+      </item>
+      <item>
+        <label>45</label>
+        <value>Ashok_Kumar</value>
+      </item>
+      <item>
+        <label>46</label>
+        <value>Diwakar</value>
+      </item>
+      <item>
+        <label>47</label>
+        <value>Jagdish</value>
+      </item>
+      <item>
+        <label>48</label>
+        <value>Rajesh_Rai</value>
+      </item>
+      <item>
+        <label>49</label>
+        <value>Rajesh_Kumar</value>
+      </item>
+      <item>
+        <label>50</label>
+        <value>Ramji</value>
+      </item>
+      <item>
+        <label>51</label>
+        <value>Moben</value>
+      </item>
+      <item>
+        <label>59</label>
+        <value>Meethu_Babu</value>
+      </item>
+      <item>
+        <label>60</label>
+        <value>Aloke</value>
+      </item>
+      <item>
+        <label>61</label>
+        <value>Lokendra</value>
+      </item>
+      <item>
+        <label>62</label>
+        <value>Himalaya</value>
+      </item>
+      <item>
+        <label>63</label>
+        <value>Subash</value>
+      </item>
+      <item>
+        <label>64</label>
+        <value>Anil</value>
+      </item>
+      <item>
+        <label>65</label>
+        <value>Shalin</value>
+      </item>
+      <item>
+        <label>66</label>
+        <value>Anil_Pant</value>
+      </item>
+      <item>
+        <label>67</label>
+        <value>Kuldeep</value>
+      </item>
+    </select1>
+    <input ref="/CSISA_III_MachineTransplanting/Note">
+      <label>Hi <output value=" /CSISA_III_MachineTransplanting/Collector "/> ! You are about to track down the coverage under machine transplanting for rice in CSISA through this form. Thank you for filling out !</label>
+    </input>
+    <select1 ref="/CSISA_III_MachineTransplanting/Hub">
+      <label>Select CSISA Hub</label>
+      <item>
+        <label>Bihar</label>
+        <value>Bihar</value>
+      </item>
+      <item>
+        <label>Eastern UP</label>
+        <value>EasternUP</value>
+      </item>
+      <item>
+        <label>Odisha</label>
+        <value>Odisha</value>
+      </item>
+    </select1>
+    <input query="instance('Districts')/root/item[Hub= /CSISA_III_MachineTransplanting/Hub ]" ref="/CSISA_III_MachineTransplanting/District">
+      <label>Select District</label>
+    </input>
+    <input query="instance('Blocks')/root/item[Hub= /CSISA_III_MachineTransplanting/Hub  and District= /CSISA_III_MachineTransplanting/District ]" ref="/CSISA_III_MachineTransplanting/Block">
+      <label>Select Block</label>
+    </input>
+    <input query="instance('GramPanchayats')/root/item[Hub= /CSISA_III_MachineTransplanting/Hub  and District= /CSISA_III_MachineTransplanting/District  and Block= /CSISA_III_MachineTransplanting/Block ]" ref="/CSISA_III_MachineTransplanting/GramPanchayat">
+      <label>Select Gram Panchayat</label>
+    </input>
+    <input ref="/CSISA_III_MachineTransplanting/Village">
+      <label>Village</label>
+    </input>
+    <input ref="/CSISA_III_MachineTransplanting/Name">
+      <label>Name of MT Service Provider</label>
+    </input>
+    <input ref="/CSISA_III_MachineTransplanting/Mobile">
+      <label>Mobile Number of Service Provider</label>
+    </input>
+    <select1 appearance="minimal" ref="/CSISA_III_MachineTransplanting/CSISASupport">
+      <label>Have you received any handholding support or mentoring from CSISA in current season / year?</label>
+      <item>
+        <label>Yes</label>
+        <value>Yes</value>
+      </item>
+      <item>
+        <label>No</label>
+        <value>No</value>
+      </item>
+    </select1>
+    <select1 appearance="minimal" ref="/CSISA_III_MachineTransplanting/RabiSeason">
+      <label>Select Year for Rabi</label>
+      <hint>Select &quot;Zero&quot; if the SP has not serviced in this season</hint>
+      <item>
+        <label>2015-16 Rabi</label>
+        <value>2015-16Rabi</value>
+      </item>
+      <item>
+        <label>2016-17 Rabi</label>
+        <value>2016-17Rabi</value>
+      </item>
+      <item>
+        <label>2017-18 Rabi</label>
+        <value>2017-18Rabi</value>
+      </item>
+      <item>
+        <label>2018-19 Rabi</label>
+        <value>2018-19Rabi</value>
+      </item>
+      <item>
+        <label>2019-20 Rabi</label>
+        <value>2019-20Rabi</value>
+      </item>
+      <item>
+        <label>Zero</label>
+        <value>Zero</value>
+      </item>
+    </select1>
+    <group ref="/CSISA_III_MachineTransplanting/Rabi">
+      <label>Rabi</label>
+      <input ref="/CSISA_III_MachineTransplanting/Rabi/No_RabiRiceTransplanters">
+        <label>Number of Rice Transplanter operated in Rabi</label>
+      </input>
+      <input ref="/CSISA_III_MachineTransplanting/Rabi/TotalServicedArea_Rabi">
+        <label>Total area serviced in Rabi (Acre)</label>
+      </input>
+      <input ref="/CSISA_III_MachineTransplanting/Rabi/TotalFarmerServiced_Rabi">
+        <label>Total Farmer Serviced</label>
+      </input>
+      <input ref="/CSISA_III_MachineTransplanting/Rabi/NewServicedArea_Rabi">
+        <label>New Area Serviced in Rabi (Acre)</label>
+        <hint>New area serviced refers to those areas that have not been transplanted by this SP in the past.</hint>
+      </input>
+      <input ref="/CSISA_III_MachineTransplanting/Rabi/NewFarmerServiced_Rabi">
+        <label>New Farmer Serviced in Rabi</label>
+        <hint>New farmers refer to those farmers who have not received transplanting service from this SP in the past.</hint>
+      </input>
+    </group>
+    <select1 appearance="minimal" ref="/CSISA_III_MachineTransplanting/KharifSeason">
+      <label>Select Year for Kharif</label>
+      <item>
+        <label>2016 Kharif</label>
+        <value>2016Kharif</value>
+      </item>
+      <item>
+        <label>2017 Kharif</label>
+        <value>2017Kharif</value>
+      </item>
+      <item>
+        <label>2018 Kharif</label>
+        <value>2018Kharif</value>
+      </item>
+      <item>
+        <label>2019 Kharif</label>
+        <value>2019Kharif</value>
+      </item>
+      <item>
+        <label>2020 Kharif</label>
+        <value>2020Kharif</value>
+      </item>
+    </select1>
+    <input ref="/CSISA_III_MachineTransplanting/No_KharifRiceTransplanters">
+      <label>Number of Rice Transplanter operated in Kharif</label>
+    </input>
+    <input ref="/CSISA_III_MachineTransplanting/TotalServicedArea_Kharif">
+      <label>Total area serviced in Kharif (Acre)</label>
+    </input>
+    <input ref="/CSISA_III_MachineTransplanting/TotalFarmerServiced">
+      <label>Total Farmer Serviced</label>
+    </input>
+    <input ref="/CSISA_III_MachineTransplanting/NewServicedArea_Kharif">
+      <label>New Area Serviced in Kharif (Acre)</label>
+      <hint>New area serviced refers to those areas that have not been transplanted by this SP in the past.</hint>
+    </input>
+    <input ref="/CSISA_III_MachineTransplanting/NewFarmerServiced_Kharif">
+      <label>New Farmer Serviced</label>
+      <hint>New farmers refer to those farmers who have not received transplanting service from this SP in the past.</hint>
+    </input>
+    <input accuracyThreshold="1.5" ref="/CSISA_III_MachineTransplanting/GPS">
+      <label>GPS</label>
+      <hint>Make sure the accuracy level is less than 5 meters</hint>
+    </input>
+  </h:body>
+</h:html>

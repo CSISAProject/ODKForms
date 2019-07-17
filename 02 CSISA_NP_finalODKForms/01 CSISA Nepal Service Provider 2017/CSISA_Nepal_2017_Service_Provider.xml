@@ -1,0 +1,205 @@
+<?xml version="1.0"?>
+<h:html xmlns="http://www.w3.org/2002/xforms" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:h="http://www.w3.org/1999/xhtml" xmlns:jr="http://openrosa.org/javarosa" xmlns:orx="http://openrosa.org/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <h:head><!-- ODK Aggregate upload time: 2017-08-04T03:03:00.242+0000 on https://csisaodk.appspot.com -->
+    <h:title>CSISA Nepal 2017 Service Provider</h:title>
+    <model>
+      <submission action="https://csisaodk.appspot.com/submission" method="form-data-post"/>
+      <instance>
+        <CSISA_Nepal_2017_ServiceProvider id="CSISA_Nepal_2017_ServiceProvider" version="20170803">
+          <deviceid/>
+          <start/>
+          <end/>
+          <today/>
+          <Collector/>
+          <Region/>
+          <District/>
+          <Municipality_VC/>
+          <Ward/>
+          <Village/>
+          <ServiceProvider/>
+          <_4WTSeed_Drill/>
+          <_2WTSeed_Drill/>
+          <Crop/>
+          <ServiceYear/>
+          <FarmerNumber_2014/>
+          <ServiceArea_2014/>
+          <ServiceCharge_2014/>
+          <FarmerNumber_2015/>
+          <ServiceArea_2015/>
+          <ServiceCharge_2015/>
+          <FarmerNumber_2016/>
+          <ServiceArea_2016/>
+          <ServiceCharge_2016/>
+          <FarmerNumber_2017/>
+          <ServiceArea_2017/>
+          <ServiceCharge_2017/>
+          <DistanceCoverage_2017/>
+          <GPS/>
+          <meta>
+            <instanceID/>
+          </meta>
+        </CSISA_Nepal_2017_ServiceProvider>
+      </instance>
+      <bind jr:preload="property" jr:preloadParams="deviceid" nodeset="/CSISA_Nepal_2017_ServiceProvider/deviceid" type="string"/>
+      <bind jr:preload="timestamp" jr:preloadParams="start" nodeset="/CSISA_Nepal_2017_ServiceProvider/start" type="dateTime"/>
+      <bind jr:preload="timestamp" jr:preloadParams="end" nodeset="/CSISA_Nepal_2017_ServiceProvider/end" type="dateTime"/>
+      <bind jr:preload="date" jr:preloadParams="today" nodeset="/CSISA_Nepal_2017_ServiceProvider/today" type="date"/>
+      <bind constraint=".&lt;100" nodeset="/CSISA_Nepal_2017_ServiceProvider/Collector" required="true()" type="int"/>
+      <bind nodeset="/CSISA_Nepal_2017_ServiceProvider/Region" required="true()" type="select1"/>
+      <bind nodeset="/CSISA_Nepal_2017_ServiceProvider/District" required="true()" type="string"/>
+      <bind nodeset="/CSISA_Nepal_2017_ServiceProvider/Municipality_VC" required="true()" type="string"/>
+      <bind constraint=".&lt;25" nodeset="/CSISA_Nepal_2017_ServiceProvider/Ward" required="true()" type="int"/>
+      <bind nodeset="/CSISA_Nepal_2017_ServiceProvider/Village" required="true()" type="string"/>
+      <bind nodeset="/CSISA_Nepal_2017_ServiceProvider/ServiceProvider" required="true()" type="string"/>
+      <bind constraint=".&lt;10" nodeset="/CSISA_Nepal_2017_ServiceProvider/_4WTSeed_Drill" required="true()" type="int"/>
+      <bind constraint=".&lt;10" nodeset="/CSISA_Nepal_2017_ServiceProvider/_2WTSeed_Drill" required="true()" type="int"/>
+      <bind nodeset="/CSISA_Nepal_2017_ServiceProvider/Crop" required="true()" type="select"/>
+      <bind nodeset="/CSISA_Nepal_2017_ServiceProvider/ServiceYear" required="true()" type="select"/>
+      <bind nodeset="/CSISA_Nepal_2017_ServiceProvider/FarmerNumber_2014" relevant="selected( /CSISA_Nepal_2017_ServiceProvider/ServiceYear ,'2014')" required="true()" type="int"/>
+      <bind nodeset="/CSISA_Nepal_2017_ServiceProvider/ServiceArea_2014" relevant="selected( /CSISA_Nepal_2017_ServiceProvider/ServiceYear ,'2014')" required="true()" type="decimal"/>
+      <bind nodeset="/CSISA_Nepal_2017_ServiceProvider/ServiceCharge_2014" relevant="selected( /CSISA_Nepal_2017_ServiceProvider/ServiceYear ,'2014')" required="true()" type="decimal"/>
+      <bind nodeset="/CSISA_Nepal_2017_ServiceProvider/FarmerNumber_2015" relevant="selected( /CSISA_Nepal_2017_ServiceProvider/ServiceYear ,'2015')" required="true()" type="int"/>
+      <bind nodeset="/CSISA_Nepal_2017_ServiceProvider/ServiceArea_2015" relevant="selected( /CSISA_Nepal_2017_ServiceProvider/ServiceYear ,'2015')" required="true()" type="decimal"/>
+      <bind nodeset="/CSISA_Nepal_2017_ServiceProvider/ServiceCharge_2015" relevant="selected( /CSISA_Nepal_2017_ServiceProvider/ServiceYear ,'2015')" required="true()" type="decimal"/>
+      <bind nodeset="/CSISA_Nepal_2017_ServiceProvider/FarmerNumber_2016" relevant="selected( /CSISA_Nepal_2017_ServiceProvider/ServiceYear ,'2016')" required="true()" type="int"/>
+      <bind nodeset="/CSISA_Nepal_2017_ServiceProvider/ServiceArea_2016" relevant="selected( /CSISA_Nepal_2017_ServiceProvider/ServiceYear ,'2016')" required="true()" type="decimal"/>
+      <bind nodeset="/CSISA_Nepal_2017_ServiceProvider/ServiceCharge_2016" relevant="selected( /CSISA_Nepal_2017_ServiceProvider/ServiceYear ,'2016')" required="true()" type="decimal"/>
+      <bind nodeset="/CSISA_Nepal_2017_ServiceProvider/FarmerNumber_2017" relevant="selected( /CSISA_Nepal_2017_ServiceProvider/ServiceYear ,'2017')" required="true()" type="int"/>
+      <bind nodeset="/CSISA_Nepal_2017_ServiceProvider/ServiceArea_2017" relevant="selected( /CSISA_Nepal_2017_ServiceProvider/ServiceYear ,'2017')" required="true()" type="decimal"/>
+      <bind nodeset="/CSISA_Nepal_2017_ServiceProvider/ServiceCharge_2017" relevant="selected( /CSISA_Nepal_2017_ServiceProvider/ServiceYear ,'2017')" required="true()" type="decimal"/>
+      <bind nodeset="/CSISA_Nepal_2017_ServiceProvider/DistanceCoverage_2017" relevant="selected( /CSISA_Nepal_2017_ServiceProvider/ServiceYear ,'2017')" required="true()" type="decimal"/>
+      <bind nodeset="/CSISA_Nepal_2017_ServiceProvider/GPS" type="geopoint"/>
+      <bind calculate="concat('uuid:', uuid())" nodeset="/CSISA_Nepal_2017_ServiceProvider/meta/instanceID" readonly="true()" type="string"/>
+    </model>
+  </h:head>
+  <h:body>
+    <input ref="/CSISA_Nepal_2017_ServiceProvider/Collector">
+      <label>Data Collector's ID</label>
+    </input>
+    <select1 ref="/CSISA_Nepal_2017_ServiceProvider/Region">
+      <label>Select Region</label>
+      <item>
+        <label>FarWestern</label>
+        <value>FarWestern</value>
+      </item>
+      <item>
+        <label>MidWestern</label>
+        <value>MidWestern</value>
+      </item>
+      <item>
+        <label>Central</label>
+        <value>Central</value>
+      </item>
+      <item>
+        <label>Western</label>
+        <value>Western</value>
+      </item>
+    </select1>
+    <input query="instance('District')/root/item[Region= /CSISA_Nepal_2017_ServiceProvider/Region ]" ref="/CSISA_Nepal_2017_ServiceProvider/District">
+      <label>Select District</label>
+    </input>
+    <input query="instance('Municipality_VC')/root/item[Region= /CSISA_Nepal_2017_ServiceProvider/Region  and District= /CSISA_Nepal_2017_ServiceProvider/District ]" ref="/CSISA_Nepal_2017_ServiceProvider/Municipality_VC">
+      <label>Select Municipality or Village Council</label>
+    </input>
+    <input ref="/CSISA_Nepal_2017_ServiceProvider/Ward">
+      <label>Ward number</label>
+    </input>
+    <input ref="/CSISA_Nepal_2017_ServiceProvider/Village">
+      <label>Village</label>
+    </input>
+    <input ref="/CSISA_Nepal_2017_ServiceProvider/ServiceProvider">
+      <label>Name of Service Provider</label>
+    </input>
+    <input ref="/CSISA_Nepal_2017_ServiceProvider/_4WTSeed_Drill">
+      <label>Enter number of 4 wheel tractor seed drill owned</label>
+    </input>
+    <input ref="/CSISA_Nepal_2017_ServiceProvider/_2WTSeed_Drill">
+      <label>Enter number of 2 wheel tractor seed drill owned</label>
+    </input>
+    <select ref="/CSISA_Nepal_2017_ServiceProvider/Crop">
+      <label>Select the crop</label>
+      <item>
+        <label>Rice</label>
+        <value>Rice</value>
+      </item>
+      <item>
+        <label>Wheat</label>
+        <value>Wheat</value>
+      </item>
+      <item>
+        <label>Maize</label>
+        <value>Maize</value>
+      </item>
+      <item>
+        <label>Lentil</label>
+        <value>Lentil</value>
+      </item>
+      <item>
+        <label>Mungbean</label>
+        <value>Mungbean</value>
+      </item>
+    </select>
+    <select ref="/CSISA_Nepal_2017_ServiceProvider/ServiceYear">
+      <label>Select the year(s) provided service</label>
+      <item>
+        <label>2014</label>
+        <value>2014</value>
+      </item>
+      <item>
+        <label>2015</label>
+        <value>2015</value>
+      </item>
+      <item>
+        <label>2016</label>
+        <value>2016</value>
+      </item>
+      <item>
+        <label>2017</label>
+        <value>2017</value>
+      </item>
+    </select>
+    <input ref="/CSISA_Nepal_2017_ServiceProvider/FarmerNumber_2014">
+      <label>Enter number of farmers who gained service in 2014</label>
+    </input>
+    <input ref="/CSISA_Nepal_2017_ServiceProvider/ServiceArea_2014">
+      <label>Enter total area serviced in 2014 in Kattha</label>
+    </input>
+    <input ref="/CSISA_Nepal_2017_ServiceProvider/ServiceCharge_2014">
+      <label>Enter service charge (Rupees per hour) in 2014</label>
+    </input>
+    <input ref="/CSISA_Nepal_2017_ServiceProvider/FarmerNumber_2015">
+      <label>Enter number of farmers who gained service in 2015</label>
+    </input>
+    <input ref="/CSISA_Nepal_2017_ServiceProvider/ServiceArea_2015">
+      <label>Enter total area serviced in 2015 in Kattha</label>
+    </input>
+    <input ref="/CSISA_Nepal_2017_ServiceProvider/ServiceCharge_2015">
+      <label>Enter service charge (Rupees per hour) in 2015</label>
+    </input>
+    <input ref="/CSISA_Nepal_2017_ServiceProvider/FarmerNumber_2016">
+      <label>Enter number of farmers who gained service in 2016</label>
+    </input>
+    <input ref="/CSISA_Nepal_2017_ServiceProvider/ServiceArea_2016">
+      <label>Enter total area serviced in 2016 in Kattha</label>
+    </input>
+    <input ref="/CSISA_Nepal_2017_ServiceProvider/ServiceCharge_2016">
+      <label>Enter service charge (Rupees per hour) in 2016</label>
+    </input>
+    <input ref="/CSISA_Nepal_2017_ServiceProvider/FarmerNumber_2017">
+      <label>Enter number of farmers who gained service in 2017</label>
+    </input>
+    <input ref="/CSISA_Nepal_2017_ServiceProvider/ServiceArea_2017">
+      <label>Enter total area serviced in 2017 in Kattha</label>
+    </input>
+    <input ref="/CSISA_Nepal_2017_ServiceProvider/ServiceCharge_2017">
+      <label>Enter service charge (Rupees per hour) in 2017</label>
+    </input>
+    <input ref="/CSISA_Nepal_2017_ServiceProvider/DistanceCoverage_2017">
+      <label>Enter maximum distance coverage (km) in 2017</label>
+    </input>
+    <input ref="/CSISA_Nepal_2017_ServiceProvider/GPS">
+      <label>Enter GPS of Service Provider location</label>
+      <hint>Make sure the GPS button is turned ON and accuracy is less than 10 meters.</hint>
+    </input>
+  </h:body>
+</h:html>

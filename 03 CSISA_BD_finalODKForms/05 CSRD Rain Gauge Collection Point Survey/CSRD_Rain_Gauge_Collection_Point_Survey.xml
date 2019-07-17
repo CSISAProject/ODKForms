@@ -1,0 +1,237 @@
+<?xml version="1.0"?>
+<h:html xmlns="http://www.w3.org/2002/xforms" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:h="http://www.w3.org/1999/xhtml" xmlns:jr="http://openrosa.org/javarosa" xmlns:orx="http://openrosa.org/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <h:head><!-- ODK Aggregate upload time: 2018-02-18T10:15:28.811+0000 on https://csisaodk.appspot.com -->
+    <h:title>CSRD Rain Gauge Collection Point Survey</h:title>
+    <model>
+      <instance>
+        <CSRD_RainGaugeCollectionPointSurvey_18022018 id="CSRD2017RainGauge" version="18022018">
+          <deviceid/>
+          <start/>
+          <end/>
+          <UniqueID/>
+          <note1/>
+          <SurveyDate/>
+          <Surveyor/>
+          <dataCollectionDate/>
+          <timeOfCollection/>
+          <C>
+            <SiteID/>
+            <StationID/>
+            <preci_amnt/>
+            <comment/>
+          </C>
+          <A>
+            <SMD_A_10cm/>
+            <SMD_A_20cm/>
+            <SMD_A_30cm/>
+            <SMD_A_40cm/>
+            <SMD_A_60cm/>
+            <SMD_A_100cm/>
+          </A>
+          <B>
+            <SMD_B_10cm/>
+            <SMD_B_20cm/>
+            <SMD_B_30cm/>
+            <SMD_B__40cm/>
+            <SMD_B_60cm/>
+            <SMD_B_100cm/>
+            <comment/>
+          </B>
+          <GPS/>
+          <meta>
+            <instanceID/>
+          </meta>
+        </CSRD_RainGaugeCollectionPointSurvey_18022018>
+      </instance>
+      <bind jr:preload="property" jr:preloadParams="deviceid" nodeset="/CSRD_RainGaugeCollectionPointSurvey_18022018/deviceid" type="string"/>
+      <bind jr:preload="timestamp" jr:preloadParams="start" nodeset="/CSRD_RainGaugeCollectionPointSurvey_18022018/start" type="dateTime"/>
+      <bind jr:preload="timestamp" jr:preloadParams="end" nodeset="/CSRD_RainGaugeCollectionPointSurvey_18022018/end" type="dateTime"/>
+      <bind calculate="string(format-date-time(now(),'%Y%m%d%H%M%S3'))" nodeset="/CSRD_RainGaugeCollectionPointSurvey_18022018/UniqueID" type="string"/>
+      <bind nodeset="/CSRD_RainGaugeCollectionPointSurvey_18022018/note1" readonly="true()" type="string"/>
+      <bind jr:preload="date" jr:preloadParams="today" nodeset="/CSRD_RainGaugeCollectionPointSurvey_18022018/SurveyDate" type="date"/>
+      <bind nodeset="/CSRD_RainGaugeCollectionPointSurvey_18022018/Surveyor" required="true()" type="string"/>
+      <bind nodeset="/CSRD_RainGaugeCollectionPointSurvey_18022018/dataCollectionDate" required="true()" type="date"/>
+      <bind nodeset="/CSRD_RainGaugeCollectionPointSurvey_18022018/timeOfCollection" required="true()" type="time"/>
+      <bind nodeset="/CSRD_RainGaugeCollectionPointSurvey_18022018/C" required="true()"/>
+      <bind nodeset="/CSRD_RainGaugeCollectionPointSurvey_18022018/C/SiteID" type="select1"/>
+      <bind nodeset="/CSRD_RainGaugeCollectionPointSurvey_18022018/C/StationID" type="select1"/>
+      <bind nodeset="/CSRD_RainGaugeCollectionPointSurvey_18022018/C/preci_amnt" type="decimal"/>
+      <bind nodeset="/CSRD_RainGaugeCollectionPointSurvey_18022018/C/comment" type="string"/>
+      <bind nodeset="/CSRD_RainGaugeCollectionPointSurvey_18022018/A" required="true()"/>
+      <bind nodeset="/CSRD_RainGaugeCollectionPointSurvey_18022018/A/SMD_A_10cm" type="decimal"/>
+      <bind nodeset="/CSRD_RainGaugeCollectionPointSurvey_18022018/A/SMD_A_20cm" type="decimal"/>
+      <bind nodeset="/CSRD_RainGaugeCollectionPointSurvey_18022018/A/SMD_A_30cm" type="decimal"/>
+      <bind nodeset="/CSRD_RainGaugeCollectionPointSurvey_18022018/A/SMD_A_40cm" type="decimal"/>
+      <bind nodeset="/CSRD_RainGaugeCollectionPointSurvey_18022018/A/SMD_A_60cm" type="decimal"/>
+      <bind nodeset="/CSRD_RainGaugeCollectionPointSurvey_18022018/A/SMD_A_100cm" type="decimal"/>
+      <bind nodeset="/CSRD_RainGaugeCollectionPointSurvey_18022018/B" required="true()"/>
+      <bind nodeset="/CSRD_RainGaugeCollectionPointSurvey_18022018/B/SMD_B_10cm" type="decimal"/>
+      <bind nodeset="/CSRD_RainGaugeCollectionPointSurvey_18022018/B/SMD_B_20cm" type="decimal"/>
+      <bind nodeset="/CSRD_RainGaugeCollectionPointSurvey_18022018/B/SMD_B_30cm" type="decimal"/>
+      <bind nodeset="/CSRD_RainGaugeCollectionPointSurvey_18022018/B/SMD_B__40cm" type="decimal"/>
+      <bind nodeset="/CSRD_RainGaugeCollectionPointSurvey_18022018/B/SMD_B_60cm" type="decimal"/>
+      <bind nodeset="/CSRD_RainGaugeCollectionPointSurvey_18022018/B/SMD_B_100cm" type="decimal"/>
+      <bind nodeset="/CSRD_RainGaugeCollectionPointSurvey_18022018/B/comment" type="string"/>
+      <bind nodeset="/CSRD_RainGaugeCollectionPointSurvey_18022018/GPS" required="true()" type="geopoint"/>
+      <bind calculate="concat('uuid:', uuid())" nodeset="/CSRD_RainGaugeCollectionPointSurvey_18022018/meta/instanceID" readonly="true()" type="string"/>
+    </model>
+  </h:head>
+  <h:body>
+    <input ref="/CSRD_RainGaugeCollectionPointSurvey_18022018/note1">
+      <label>Precipitation and soil moisture data collection</label>
+    </input>
+    <input ref="/CSRD_RainGaugeCollectionPointSurvey_18022018/Surveyor">
+      <label>Name of Surveyor</label>
+    </input>
+    <input appearance="no-calendar" ref="/CSRD_RainGaugeCollectionPointSurvey_18022018/dataCollectionDate">
+      <label>Enter date of survey</label>
+    </input>
+    <input ref="/CSRD_RainGaugeCollectionPointSurvey_18022018/timeOfCollection">
+      <label>Enter time of data collection</label>
+    </input>
+    <group appearance="field-list" ref="/CSRD_RainGaugeCollectionPointSurvey_18022018/C">
+      <label>Site Details and precipitation record</label>
+      <select1 appearance="minimal" ref="/CSRD_RainGaugeCollectionPointSurvey_18022018/C/SiteID">
+        <label>Select site ID</label>
+        <item>
+          <label>DWS</label>
+          <value>DWS</value>
+        </item>
+        <item>
+          <label>NWS</label>
+          <value>NWS</value>
+        </item>
+        <item>
+          <label>RWS</label>
+          <value>RWS</value>
+        </item>
+      </select1>
+      <select1 appearance="minimal" ref="/CSRD_RainGaugeCollectionPointSurvey_18022018/C/StationID">
+        <label>Select station ID</label>
+        <item>
+          <label>1</label>
+          <value>1</value>
+        </item>
+        <item>
+          <label>2</label>
+          <value>2</value>
+        </item>
+        <item>
+          <label>3</label>
+          <value>3</value>
+        </item>
+        <item>
+          <label>4</label>
+          <value>4</value>
+        </item>
+        <item>
+          <label>5</label>
+          <value>5</value>
+        </item>
+        <item>
+          <label>6</label>
+          <value>6</value>
+        </item>
+        <item>
+          <label>7</label>
+          <value>7</value>
+        </item>
+        <item>
+          <label>8</label>
+          <value>8</value>
+        </item>
+        <item>
+          <label>9</label>
+          <value>9</value>
+        </item>
+        <item>
+          <label>10</label>
+          <value>10</value>
+        </item>
+        <item>
+          <label>11</label>
+          <value>11</value>
+        </item>
+        <item>
+          <label>12</label>
+          <value>12</value>
+        </item>
+        <item>
+          <label>13</label>
+          <value>13</value>
+        </item>
+        <item>
+          <label>14</label>
+          <value>14</value>
+        </item>
+        <item>
+          <label>15</label>
+          <value>15</value>
+        </item>
+        <item>
+          <label>16</label>
+          <value>16</value>
+        </item>
+        <item>
+          <label>17</label>
+          <value>17</value>
+        </item>
+      </select1>
+      <input ref="/CSRD_RainGaugeCollectionPointSurvey_18022018/C/preci_amnt">
+        <label>Precipitation amount (in mm)</label>
+      </input>
+      <input appearance="Enter &quot;none&quot; if there is nothing to comment on" ref="/CSRD_RainGaugeCollectionPointSurvey_18022018/C/comment">
+        <label>comment</label>
+      </input>
+    </group>
+    <group appearance="field-list" ref="/CSRD_RainGaugeCollectionPointSurvey_18022018/A">
+      <label>Soil moisture data (SMD) for A (%)</label>
+      <input ref="/CSRD_RainGaugeCollectionPointSurvey_18022018/A/SMD_A_10cm">
+        <label>soil moisture data A 0-10cm</label>
+      </input>
+      <input ref="/CSRD_RainGaugeCollectionPointSurvey_18022018/A/SMD_A_20cm">
+        <label>soil moisture data A 10-20cm</label>
+      </input>
+      <input ref="/CSRD_RainGaugeCollectionPointSurvey_18022018/A/SMD_A_30cm">
+        <label>soil moisture data A 20-30cm</label>
+      </input>
+      <input ref="/CSRD_RainGaugeCollectionPointSurvey_18022018/A/SMD_A_40cm">
+        <label>soil moisture data A 30-40cm</label>
+      </input>
+      <input ref="/CSRD_RainGaugeCollectionPointSurvey_18022018/A/SMD_A_60cm">
+        <label>soil moisture data A 40-60cm</label>
+      </input>
+      <input ref="/CSRD_RainGaugeCollectionPointSurvey_18022018/A/SMD_A_100cm">
+        <label>soil moisture data A 60-100cm</label>
+      </input>
+    </group>
+    <group appearance="field-list" ref="/CSRD_RainGaugeCollectionPointSurvey_18022018/B">
+      <label>Soil moisture data (SMD) for B (%)</label>
+      <input ref="/CSRD_RainGaugeCollectionPointSurvey_18022018/B/SMD_B_10cm">
+        <label>soil moisture data B 0-10cm</label>
+      </input>
+      <input ref="/CSRD_RainGaugeCollectionPointSurvey_18022018/B/SMD_B_20cm">
+        <label>soil moisture data B 10-20cm</label>
+      </input>
+      <input ref="/CSRD_RainGaugeCollectionPointSurvey_18022018/B/SMD_B_30cm">
+        <label>soil moisture data B 20-30cm</label>
+      </input>
+      <input ref="/CSRD_RainGaugeCollectionPointSurvey_18022018/B/SMD_B__40cm">
+        <label>soil moisture data B 30-40cm</label>
+      </input>
+      <input ref="/CSRD_RainGaugeCollectionPointSurvey_18022018/B/SMD_B_60cm">
+        <label>soil moisture data B 40-60cm</label>
+      </input>
+      <input ref="/CSRD_RainGaugeCollectionPointSurvey_18022018/B/SMD_B_100cm">
+        <label>soil moisture data B 60-100cm</label>
+      </input>
+      <input ref="/CSRD_RainGaugeCollectionPointSurvey_18022018/B/comment">
+        <label>comment</label>
+      </input>
+    </group>
+    <input ref="/CSRD_RainGaugeCollectionPointSurvey_18022018/GPS">
+      <label>Record the GPS coordinates</label>
+      <hint>Make sure the accuracy is less than 10 meters.</hint>
+    </input>
+  </h:body>
+</h:html>
