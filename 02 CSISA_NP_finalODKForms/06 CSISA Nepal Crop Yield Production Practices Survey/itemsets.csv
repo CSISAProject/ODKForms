@@ -1,0 +1,299 @@
+list_name,name,label,q101_country,q102_state,q103_district
+country,India,India,,,
+country,Bangladesh,Bangladesh,,,
+country,Nepal,Nepal,,,
+,,,,,
+state,State_1,State 1,Nepal,,
+state,State_2,State 2,Nepal,,
+state,State_3,State 3,Nepal,,
+state,State_4,State 4,Nepal,,
+state,State_5,State 5,Nepal,,
+state,State_7,State 7,Nepal,,
+,,,,,
+,,,,,
+district,Banke,Banke,Nepal,State_5,
+district,Bara,Bara,Nepal,State_2,
+district,Bardiya,Bardiya,Nepal,State_5,
+district,Chitwan,Chitwan,Nepal,State_3,
+district,Dhanusha,Dhanusha,Nepal,State_2,
+district,Jhapa,Jhapa,Nepal,State_1,
+district,Kailali,Kailali,Nepal,State_7,
+district,Kanchanpur,Kanchanpur,Nepal,State_7,
+district,Kapilbastu,Kapilbastu,Nepal,State_5,
+district,Mahottari,Mahottari,Nepal,State_2,
+district,Morang,Morang,Nepal,State_1,
+district,Nawalparasi,Nawalparasi,Nepal,State_5,
+district,Parsa,Parsa,Nepal,State_2,
+district,Rautahat,Rautahat,Nepal,State_2,
+district,Rupandehi,Rupandehi,Nepal,State_5,
+district,Saptari,Saptari,Nepal,State_2,
+district,Sarlahi,Sarlahi,Nepal,State_2,
+district,Siraha,Siraha,Nepal,State_2,
+district,Sunsari,Sunsari,Nepal,State_1,
+,,,,,
+subDistrict,Baijanath ,Baijanath ,Nepal,State_5,Banke
+subDistrict,Duduwa ,Duduwa ,Nepal,State_5,Banke
+subDistrict,Janaki ,Janaki ,Nepal,State_5,Banke
+subDistrict,Khajura ,Khajura ,Nepal,State_5,Banke
+subDistrict,Kohalpur ,Kohalpur ,Nepal,State_5,Banke
+subDistrict,Narainapur ,Narainapur ,Nepal,State_5,Banke
+subDistrict,Nepalganj ,Nepalganj ,Nepal,State_5,Banke
+subDistrict,Raptisonari ,Raptisonari ,Nepal,State_5,Banke
+subDistrict,Adarshkotwal ,Adarshkotwal ,Nepal,State_2,Bara
+subDistrict,Baragadhi ,Baragadhi ,Nepal,State_2,Bara
+subDistrict,Bisrampur,Bisrampur,Nepal,State_2,Bara
+subDistrict,Devtal ,Devtal ,Nepal,State_2,Bara
+subDistrict,JitpurSimara ,JitpurSimara ,Nepal,State_2,Bara
+subDistrict,Kalaiya ,Kalaiya ,Nepal,State_2,Bara
+subDistrict,Karaiyamai ,Karaiyamai ,Nepal,State_2,Bara
+subDistrict,Kolhabi ,Kolhabi ,Nepal,State_2,Bara
+subDistrict,Mahagadhimai ,Mahagadhimai ,Nepal,State_2,Bara
+subDistrict,Nijgadh ,Nijgadh ,Nepal,State_2,Bara
+subDistrict,Pacharauta ,Pacharauta ,Nepal,State_2,Bara
+subDistrict,Parwanipur ,Parwanipur ,Nepal,State_2,Bara
+subDistrict,Pheta ,Pheta ,Nepal,State_2,Bara
+subDistrict,Prasauni ,Prasauni ,Nepal,State_2,Bara
+subDistrict,Simraungadh ,Simraungadh ,Nepal,State_2,Bara
+subDistrict,Suwarna ,Suwarna ,Nepal,State_2,Bara
+subDistrict,Badhaiyatal ,Badhaiyatal ,Nepal,State_5,Bardiya
+subDistrict,Bansagadhi ,Bansagadhi ,Nepal,State_5,Bardiya
+subDistrict,Barbardiya ,Barbardiya ,Nepal,State_5,Bardiya
+subDistrict,Geruwa ,Geruwa ,Nepal,State_5,Bardiya
+subDistrict,Gulariya ,Gulariya ,Nepal,State_5,Bardiya
+subDistrict,Madhuwan ,Madhuwan ,Nepal,State_5,Bardiya
+subDistrict,Rajapur ,Rajapur ,Nepal,State_5,Bardiya
+subDistrict,Thakurbaba ,Thakurbaba ,Nepal,State_5,Bardiya
+subDistrict,Bharatpur ,Bharatpur ,Nepal,State_3,Chitwan
+subDistrict,Ichchhyakamana ,Ichchhyakamana ,Nepal,State_3,Chitwan
+subDistrict,Kalika ,Kalika ,Nepal,State_3,Chitwan
+subDistrict,Khairahani ,Khairahani ,Nepal,State_3,Chitwan
+subDistrict,Madi ,Madi ,Nepal,State_3,Chitwan
+subDistrict,Rapti ,Rapti ,Nepal,State_3,Chitwan
+subDistrict,Ratnanagar ,Ratnanagar ,Nepal,State_3,Chitwan
+subDistrict,Aaurahi ,Aaurahi ,Nepal,State_2,Dhanusha
+subDistrict,Bateshwor ,Bateshwor ,Nepal,State_2,Dhanusha
+subDistrict,Bideha ,Bideha ,Nepal,State_2,Dhanusha
+subDistrict,Chhireshwornath ,Chhireshwornath ,Nepal,State_2,Dhanusha
+subDistrict,Dhanauji,Dhanauji,Nepal,State_2,Dhanusha
+subDistrict,Dhanusadham ,Dhanusadham ,Nepal,State_2,Dhanusha
+subDistrict,GaneshmanCharnath ,Ganeshman Charnath ,Nepal,State_2,Dhanusha
+subDistrict,Hansapur ,Hansapur ,Nepal,State_2,Dhanusha
+subDistrict,Janaknandani ,Janaknandani ,Nepal,State_2,Dhanusha
+subDistrict,Janakpur ,Janakpur ,Nepal,State_2,Dhanusha
+subDistrict,Kamala  ,Kamala  ,Nepal,State_2,Dhanusha
+subDistrict,Lakshminiya ,Lakshminiya ,Nepal,State_2,Dhanusha
+subDistrict,Mithila ,Mithila ,Nepal,State_2,Dhanusha
+subDistrict,MithilaBihari ,Mithila Bihari ,Nepal,State_2,Dhanusha
+subDistrict,MukhiyapattiMusarmiya ,Mukhiyapatti Musarmiya ,Nepal,State_2,Dhanusha
+subDistrict,Nagarain ,Nagarain ,Nepal,State_2,Dhanusha
+subDistrict,Sabaila ,Sabaila ,Nepal,State_2,Dhanusha
+subDistrict,Sahidnagar ,Sahidnagar ,Nepal,State_2,Dhanusha
+subDistrict,Arjundhara,Arjundhara,Nepal,State_1,Jhapa
+subDistrict,Barhadashi ,Barhadashi ,Nepal,State_1,Jhapa
+subDistrict,Bhadrapur,Bhadrapur,Nepal,State_1,Jhapa
+subDistrict,Birtamod ,Birtamod ,Nepal,State_1,Jhapa
+subDistrict,Buddhashanti,Buddhashanti,Nepal,State_1,Jhapa
+subDistrict,Damak,Damak,Nepal,State_1,Jhapa
+subDistrict,Gauradhaha,Gauradhaha,Nepal,State_1,Jhapa
+subDistrict,Gauriganj,Gauriganj,Nepal,State_1,Jhapa
+subDistrict,Haldibari,Haldibari,Nepal,State_1,Jhapa
+subDistrict,Jhapa ,Jhapa ,Nepal,State_1,Jhapa
+subDistrict,Kachankawal,Kachankawal,Nepal,State_1,Jhapa
+subDistrict,Kamal ,Kamal ,Nepal,State_1,Jhapa
+subDistrict,Kankai,Kankai,Nepal,State_1,Jhapa
+subDistrict,Mechinagar,Mechinagar,Nepal,State_1,Jhapa
+subDistrict,Shivasataxi,Shivasataxi,Nepal,State_1,Jhapa
+subDistrict,Bardagoriya ,Bardagoriya ,Nepal,State_7,Kailali
+subDistrict,Bhajani ,Bhajani ,Nepal,State_7,Kailali
+subDistrict,Chure ,Chure ,Nepal,State_7,Kailali
+subDistrict,Dhangadhi ,Dhangadhi ,Nepal,State_7,Kailali
+subDistrict,Gauriganga ,Gauriganga ,Nepal,State_7,Kailali
+subDistrict,Ghodaghodi ,Ghodaghodi ,Nepal,State_7,Kailali
+subDistrict,Godawari ,Godawari ,Nepal,State_7,Kailali
+subDistrict,Janaki ,Janaki ,Nepal,State_7,Kailali
+subDistrict,Joshipur ,Joshipur ,Nepal,State_7,Kailali
+subDistrict,Kailari ,Kailari ,Nepal,State_7,Kailali
+subDistrict,LamkiChuha ,Lamki Chuha ,Nepal,State_7,Kailali
+subDistrict,Mohanyal ,Mohanyal ,Nepal,State_7,Kailali
+subDistrict,Tikapur ,Tikapur ,Nepal,State_7,Kailali
+subDistrict,Bedkot ,Bedkot ,Nepal,State_7,Kanchanpur
+subDistrict,Belauri ,Belauri ,Nepal,State_7,Kanchanpur
+subDistrict,Beldandi ,Beldandi ,Nepal,State_7,Kanchanpur
+subDistrict,Bhimdatta ,Bhimdatta ,Nepal,State_7,Kanchanpur
+subDistrict,Krishnapur ,Krishnapur ,Nepal,State_7,Kanchanpur
+subDistrict,Laljhadi ,Laljhadi ,Nepal,State_7,Kanchanpur
+subDistrict,Mahakali ,Mahakali ,Nepal,State_7,Kanchanpur
+subDistrict,Punarbas ,Punarbas ,Nepal,State_7,Kanchanpur
+subDistrict,Shuklaphanta ,Shuklaphanta ,Nepal,State_7,Kanchanpur
+subDistrict,Banganga ,Banganga ,Nepal,State_5,Kapilbastu
+subDistrict,Bijayanagar ,Bijayanagar ,Nepal,State_5,Kapilbastu
+subDistrict,Buddhabhumi ,Buddhabhumi ,Nepal,State_5,Kapilbastu
+subDistrict,Kapilvastu ,Kapilvastu ,Nepal,State_5,Kapilbastu
+subDistrict,Krishnanagar ,Krishnanagar ,Nepal,State_5,Kapilbastu
+subDistrict,Maharajgunj ,Maharajgunj ,Nepal,State_5,Kapilbastu
+subDistrict,Mayadevi,Mayadevi,Nepal,State_5,Kapilbastu
+subDistrict,Shivaraj,Shivaraj,Nepal,State_5,Kapilbastu
+subDistrict,Sudhodhan ,Sudhodhan ,Nepal,State_5,Kapilbastu
+subDistrict,Yashodhara ,Yashodhara ,Nepal,State_5,Kapilbastu
+subDistrict,Aurahi ,Aurahi ,Nepal,State_2,Mahottari
+subDistrict,Balwa ,Balwa ,Nepal,State_2,Mahottari
+subDistrict,Bardibas ,Bardibas ,Nepal,State_2,Mahottari
+subDistrict,Bhangaha ,Bhangaha ,Nepal,State_2,Mahottari
+subDistrict,Ekdanra ,Ekdanra ,Nepal,State_2,Mahottari
+subDistrict,Gaushala ,Gaushala ,Nepal,State_2,Mahottari
+subDistrict,Jaleswor ,Jaleswor ,Nepal,State_2,Mahottari
+subDistrict,Loharpatti ,Loharpatti ,Nepal,State_2,Mahottari
+subDistrict,Mahottari ,Mahottari ,Nepal,State_2,Mahottari
+subDistrict,Manra Sisawa,Manra Sisawa,Nepal,State_2,Mahottari
+subDistrict,Matihani ,Matihani ,Nepal,State_2,Mahottari
+subDistrict,Pipra ,Pipra ,Nepal,State_2,Mahottari
+subDistrict,Ramgopalpur ,Ramgopalpur ,Nepal,State_2,Mahottari
+subDistrict,Samsi ,Samsi ,Nepal,State_2,Mahottari
+subDistrict,Sonama ,Sonama ,Nepal,State_2,Mahottari
+subDistrict,Belbari ,Belbari ,Nepal,State_1,Morang
+subDistrict,Biratnagar,Biratnagar,Nepal,State_1,Morang
+subDistrict,Budhiganga,Budhiganga,Nepal,State_1,Morang
+subDistrict,Dhanpalthan,Dhanpalthan,Nepal,State_1,Morang
+subDistrict,Gramthan ,Gramthan ,Nepal,State_1,Morang
+subDistrict,Jahada,Jahada,Nepal,State_1,Morang
+subDistrict,Kanepokhari ,Kanepokhari ,Nepal,State_1,Morang
+subDistrict,Katahari,Katahari,Nepal,State_1,Morang
+subDistrict,Kerabari,Kerabari,Nepal,State_1,Morang
+subDistrict,Letang,Letang,Nepal,State_1,Morang
+subDistrict,Milkajunga,Milkajunga,Nepal,State_1,Morang
+subDistrict,PathariShanishchare,Pathari Shanishchare,Nepal,State_1,Morang
+subDistrict,Rangeli ,Rangeli ,Nepal,State_1,Morang
+subDistrict,Ratuwamai,Ratuwamai,Nepal,State_1,Morang
+subDistrict,Sundarharaicha,Sundarharaicha,Nepal,State_1,Morang
+subDistrict,Sunwarshi,Sunwarshi,Nepal,State_1,Morang
+subDistrict,Uralabari,Uralabari,Nepal,State_1,Morang
+subDistrict,Bardaghat ,Bardaghat ,Nepal,State_5,Nawalparasi
+subDistrict,Binayee ,Binayee ,Nepal,State_5,Nawalparasi
+subDistrict,Bulingtar ,Bulingtar ,Nepal,State_5,Nawalparasi
+subDistrict,Bungdikali ,Bungdikali ,Nepal,State_5,Nawalparasi
+subDistrict,Devchuli,Devchuli,Nepal,State_5,Nawalparasi
+subDistrict,Gaidakot ,Gaidakot ,Nepal,State_5,Nawalparasi
+subDistrict,Hupsekot,Hupsekot,Nepal,State_5,Nawalparasi
+subDistrict,Kawasoti ,Kawasoti ,Nepal,State_5,Nawalparasi
+subDistrict,Madhyabindu ,Madhyabindu ,Nepal,State_5,Nawalparasi
+subDistrict,PalhiNandan ,Palhi Nandan ,Nepal,State_5,Nawalparasi
+subDistrict,Pratappur,Pratappur,Nepal,State_5,Nawalparasi
+subDistrict,Ramgram ,Ramgram ,Nepal,State_5,Nawalparasi
+subDistrict,Sarawal ,Sarawal ,Nepal,State_5,Nawalparasi
+subDistrict,Sunwal ,Sunwal ,Nepal,State_5,Nawalparasi
+subDistrict,Susta ,Susta ,Nepal,State_5,Nawalparasi
+subDistrict,Bahudaramai ,Bahudaramai ,Nepal,State_2,Parsa
+subDistrict,Bindabasini ,Bindabasini ,Nepal,State_2,Parsa
+subDistrict,Birgunj ,Birgunj ,Nepal,State_2,Parsa
+subDistrict,Chhipaharmai ,Chhipaharmai ,Nepal,State_2,Parsa
+subDistrict,Dhobini ,Dhobini ,Nepal,State_2,Parsa
+subDistrict,Jagarnathpur ,Jagarnathpur ,Nepal,State_2,Parsa
+subDistrict,JeeraBhawani,JeeraBhawani,Nepal,State_2,Parsa
+subDistrict,Kalikamai,Kalikamai,Nepal,State_2,Parsa
+subDistrict,Pakahamainpur ,Pakahamainpur ,Nepal,State_2,Parsa
+subDistrict,Parsagadhi ,Parsagadhi ,Nepal,State_2,Parsa
+subDistrict,Paterwasugauli ,Paterwasugauli ,Nepal,State_2,Parsa
+subDistrict,Pokhariya ,Pokhariya ,Nepal,State_2,Parsa
+subDistrict,Sakhuwaprasauni ,Sakhuwaprasauni ,Nepal,State_2,Parsa
+subDistrict,Thori,Thori,Nepal,State_2,Parsa
+subDistrict,Baudhimai ,Baudhimai ,Nepal,State_2,Rautahat
+subDistrict,Birndaban ,Birndaban ,Nepal,State_2,Rautahat
+subDistrict,Chandrapur ,Chandrapur ,Nepal,State_2,Rautahat
+subDistrict,DewahhiGonahi ,Dewahhi Gonahi ,Nepal,State_2,Rautahat
+subDistrict,DurgaBhagwati ,Durga Bhagwati ,Nepal,State_2,Rautahat
+subDistrict,Gadhimai ,Gadhimai ,Nepal,State_2,Rautahat
+subDistrict,Garuda ,Garuda ,Nepal,State_2,Rautahat
+subDistrict,Gaur ,Gaur ,Nepal,State_2,Rautahat
+subDistrict,Gujara ,Gujara ,Nepal,State_2,Rautahat
+subDistrict,Ishanath ,Ishanath ,Nepal,State_2,Rautahat
+subDistrict,Katahariya ,Katahariya ,Nepal,State_2,Rautahat
+subDistrict,MadhavNarayan ,Madhav Narayan ,Nepal,State_2,Rautahat
+subDistrict,Maulapur ,Maulapur ,Nepal,State_2,Rautahat
+subDistrict,Paroha ,Paroha ,Nepal,State_2,Rautahat
+subDistrict,PhatuwaBijayapur,Phatuwa Bijayapur,Nepal,State_2,Rautahat
+subDistrict,Rajdevi,Rajdevi,Nepal,State_2,Rautahat
+subDistrict,Rajpur,Rajpur,Nepal,State_2,Rautahat
+subDistrict,Yaminamai,Yaminamai,Nepal,State_2,Rautahat
+subDistrict,Butwal ,Butwal ,Nepal,State_5,Rupandehi
+subDistrict,Devdaha,Devdaha,Nepal,State_5,Rupandehi
+subDistrict,Gaidahawa ,Gaidahawa ,Nepal,State_5,Rupandehi
+subDistrict,Kanchan ,Kanchan ,Nepal,State_5,Rupandehi
+subDistrict,Kotahimai ,Kotahimai ,Nepal,State_5,Rupandehi
+subDistrict,LumbiniSanskritik ,Lumbini Sanskritik ,Nepal,State_5,Rupandehi
+subDistrict,Marchawari ,Marchawari ,Nepal,State_5,Rupandehi
+subDistrict,Mayadevi ,Mayadevi ,Nepal,State_5,Rupandehi
+subDistrict,Omsatiya ,Omsatiya ,Nepal,State_5,Rupandehi
+subDistrict,Rohini ,Rohini ,Nepal,State_5,Rupandehi
+subDistrict,Sainamaina,Sainamaina,Nepal,State_5,Rupandehi
+subDistrict,Sammarimai ,Sammarimai ,Nepal,State_5,Rupandehi
+subDistrict,Siddharthanagar ,Siddharthanagar ,Nepal,State_5,Rupandehi
+subDistrict,Siyari ,Siyari ,Nepal,State_5,Rupandehi
+subDistrict,Sudhdhodhan ,Sudhdhodhan ,Nepal,State_5,Rupandehi
+subDistrict,Tillotama,Tillotama,Nepal,State_5,Rupandehi
+subDistrict,AgrisayeerKrishnaSavaran ,Agrisayeer Krishna Savaran ,Nepal,State_2,Saptari
+subDistrict,Balan-Bihul ,Balan-Bihul ,Nepal,State_2,Saptari
+subDistrict,Belhi Chapena ,Belhi Chapena ,Nepal,State_2,Saptari
+subDistrict,Bishnupur ,Bishnupur ,Nepal,State_2,Saptari
+subDistrict,Bode Barsain ,Bode Barsain ,Nepal,State_2,Saptari
+subDistrict,Chhinnamasta ,Chhinnamasta ,Nepal,State_2,Saptari
+subDistrict,Dakneshwori ,Dakneshwori ,Nepal,State_2,Saptari
+subDistrict,HanumannagarKankalani ,Hanumannagar Kankalani ,Nepal,State_2,Saptari
+subDistrict,Kanchanrup ,Kanchanrup ,Nepal,State_2,Saptari
+subDistrict,Khadak ,Khadak ,Nepal,State_2,Saptari
+subDistrict,Mahadev ,Mahadev ,Nepal,State_2,Saptari
+subDistrict,Rajbiraj ,Rajbiraj ,Nepal,State_2,Saptari
+subDistrict,Rupani ,Rupani ,Nepal,State_2,Saptari
+subDistrict,Saptakoshi ,Saptakoshi ,Nepal,State_2,Saptari
+subDistrict,Shambhunath ,Shambhunath ,Nepal,State_2,Saptari
+subDistrict,Surunga ,Surunga ,Nepal,State_2,Saptari
+subDistrict,TilathiKoiladi ,Tilathi Koiladi ,Nepal,State_2,Saptari
+subDistrict,Tirahut ,Tirahut ,Nepal,State_2,Saptari
+subDistrict,Bagmati ,Bagmati ,Nepal,State_2,Sarlahi
+subDistrict,Balara ,Balara ,Nepal,State_2,Sarlahi
+subDistrict,Barahathawa ,Barahathawa ,Nepal,State_2,Sarlahi
+subDistrict,Basbariya,Basbariya,Nepal,State_2,Sarlahi
+subDistrict,Bishnu ,Bishnu ,Nepal,State_2,Sarlahi
+subDistrict,Bramhapuri ,Bramhapuri ,Nepal,State_2,Sarlahi
+subDistrict,Chakraghatta ,Chakraghatta ,Nepal,State_2,Sarlahi
+subDistrict,Chandranagar ,Chandranagar ,Nepal,State_2,Sarlahi
+subDistrict,Dhankaul ,Dhankaul ,Nepal,State_2,Sarlahi
+subDistrict,Gaudeta ,Gaudeta ,Nepal,State_2,Sarlahi
+subDistrict,Haripur ,Haripur ,Nepal,State_2,Sarlahi
+subDistrict,Haripurwa ,Haripurwa ,Nepal,State_2,Sarlahi
+subDistrict,Hariwan ,Hariwan ,Nepal,State_2,Sarlahi
+subDistrict,Ishworpur ,Ishworpur ,Nepal,State_2,Sarlahi
+subDistrict,Kabilasi ,Kabilasi ,Nepal,State_2,Sarlahi
+subDistrict,Kaudena,Kaudena,Nepal,State_2,Sarlahi
+subDistrict,Lalbandi ,Lalbandi ,Nepal,State_2,Sarlahi
+subDistrict,Malangawa ,Malangawa ,Nepal,State_2,Sarlahi
+subDistrict,Parsa,Parsa,Nepal,State_2,Sarlahi
+subDistrict,Ramnagar ,Ramnagar ,Nepal,State_2,Sarlahi
+subDistrict,Arnama ,Arnama ,Nepal,State_2,Siraha
+subDistrict,Aurahi ,Aurahi ,Nepal,State_2,Siraha
+subDistrict,Bariyarpatti ,Bariyarpatti ,Nepal,State_2,Siraha
+subDistrict,Bhagawanpur ,Bhagawanpur ,Nepal,State_2,Siraha
+subDistrict,Bishnupur ,Bishnupur ,Nepal,State_2,Siraha
+subDistrict,Dhangadhimai ,Dhangadhimai ,Nepal,State_2,Siraha
+subDistrict,Golbazar ,Golbazar ,Nepal,State_2,Siraha
+subDistrict,Kalyanpur ,Kalyanpur ,Nepal,State_2,Siraha
+subDistrict,Karjanhya ,Karjanhya ,Nepal,State_2,Siraha
+subDistrict,Lahan ,Lahan ,Nepal,State_2,Siraha
+subDistrict,LaxmipurPatari ,Laxmipur Patari ,Nepal,State_2,Siraha
+subDistrict,Mirchaiya ,Mirchaiya ,Nepal,State_2,Siraha
+subDistrict,Naraha ,Naraha ,Nepal,State_2,Siraha
+subDistrict,Nawarajpur ,Nawarajpur ,Nepal,State_2,Siraha
+subDistrict,Sakhuwanankarkatti,Sakhuwanan karkatti,Nepal,State_2,Siraha
+subDistrict,Siraha ,Siraha ,Nepal,State_2,Siraha
+subDistrict,Sukhipur ,Sukhipur ,Nepal,State_2,Siraha
+subDistrict,Barah ,Barah ,Nepal,State_1,Sunsari
+subDistrict,Barju ,Barju ,Nepal,State_1,Sunsari
+subDistrict,Bhokraha ,Bhokraha ,Nepal,State_1,Sunsari
+subDistrict,Dewanganj ,Dewanganj ,Nepal,State_1,Sunsari
+subDistrict,Dharan,Dharan,Nepal,State_1,Sunsari
+subDistrict,Duhabi ,Duhabi ,Nepal,State_1,Sunsari
+subDistrict,Gadhi ,Gadhi ,Nepal,State_1,Sunsari
+subDistrict,Harinagara ,Harinagara ,Nepal,State_1,Sunsari
+subDistrict,Inaruwa ,Inaruwa ,Nepal,State_1,Sunsari
+subDistrict,Itahari ,Itahari ,Nepal,State_1,Sunsari
+subDistrict,Koshi ,Koshi ,Nepal,State_1,Sunsari
+subDistrict,Ramdhuni ,Ramdhuni ,Nepal,State_1,Sunsari
