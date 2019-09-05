@@ -1,0 +1,2569 @@
+list_name,name,label,q101_country,q102_state,q103_district
+country,India,India,,,
+country,Bangladesh,Bangladesh,,,
+country,Nepal,Nepal,,,
+,,,,,
+state,AndhraPradesh,Andhra Pradesh,India,,
+state,Bihar,Bihar,India,,
+state,Chattisgarh,Chattisgarh,India,,
+state,UttarPradesh,Uttar Pradesh,India,,
+state,Odisha,Odisha,India,,
+state,WestBengal,West Bengal,India,,
+state,Barisal,Barisal,Bangladesh,,
+state,Dinajpur,Dinajpur,Bangladesh,,
+state,Faridpur,Faridpur,Bangladesh,,
+state,Jessore,Jessore,Bangladesh,,
+state,State_1,State 1,Nepal,,
+state,State_2,State 2,Nepal,,
+state,State_3,State 3,Nepal,,
+state,State_4,State 4,Nepal,,
+state,State_5,State 5,Nepal,,
+state,State_7,State 7,Nepal,,
+,,,,,
+district,Anantapur,Anantapur,India,AndhraPradesh,
+district,Chittoor,Chittoor,India,AndhraPradesh,
+district,EastGodavari,East Godavari,India,AndhraPradesh,
+district,Guntur,Guntur,India,AndhraPradesh,
+district,Kadapa,Kadapa,India,AndhraPradesh,
+district,Krishna,Krishna,India,AndhraPradesh,
+district,Kurnool,Kurnool,India,AndhraPradesh,
+district,Nellore,Nellore,India,AndhraPradesh,
+district,Prakasam,Prakasam,India,AndhraPradesh,
+district,Srikakulam,Srikakulam,India,AndhraPradesh,
+district,Visakhapatnam,Visakhapatnam,India,AndhraPradesh,
+district,Vizianagaram,Vizianagaram,India,AndhraPradesh,
+district,WestGodavari,West Godavari,India,AndhraPradesh,
+,,,,,
+district,Arah,Arah,India,Bihar,
+district,Araria,Araria,India,Bihar,
+district,Arwal,Arwal,India,Bihar,
+district,Aurangabad,Aurangabad,India,Bihar,
+district,Banka,Banka,India,Bihar,
+district,Begusarai,Begusarai,India,Bihar,
+district,Bhagalpur,Bhagalpur,India,Bihar,
+district,Buxar,Buxar,India,Bihar,
+district,Darbhanga,Darbhanga,India,Bihar,
+district,EastChamparan,East Champaran,India,Bihar,
+district,Gaya,Gaya,India,Bihar,
+district,Gopalganj,Gopalganj,India,Bihar,
+district,Jehanabad ,Jehanabad ,India,Bihar,
+district,Kaimur,Kaimur,India,Bihar,
+district,Katihar,Katihar,India,Bihar,
+district,Khagaria,Khagaria,India,Bihar,
+district,Kishanganj,Kishanganj,India,Bihar,
+district,Lakhisarai,Lakhisarai,India,Bihar,
+district,Madhepura,Madhepura,India,Bihar,
+district,Madhubani,Madhubani,India,Bihar,
+district,Munger,Munger,India,Bihar,
+district,Muzaffarpur,Muzaffarpur,India,Bihar,
+district,Nalanda,Nalanda,India,Bihar,
+district,Nawada,Nawada,India,Bihar,
+district,Patna,Patna,India,Bihar,
+district,Purnia,Purnia,India,Bihar,
+district,Rohtas,Rohtas,India,Bihar,
+district,Saharsa,Saharsa,India,Bihar,
+district,Samastipur,Samastipur,India,Bihar,
+district,Saran,Saran,India,Bihar,
+district,Sheohar,Sheohar,India,Bihar,
+district,Sitamarhi,Sitamarhi,India,Bihar,
+district,Siwan,Siwan,India,Bihar,
+district,Supaul,Supaul,India,Bihar,
+district,Vaishali,Vaishali,India,Bihar,
+district,WestChamparan,West Chamaparan,India,Bihar,
+,,,,,
+district,Kanker,Kanker,India,Chattisgarh,
+district,Mahasamund,Mahasamund,India,Chattisgarh,
+district,Raipur,Raipur,India,Chattisgarh,
+,,,,,
+,,,,,
+district,AmbedkarNagar,Ambedkar Nagar,India,UttarPradesh,
+district,Amethi,Amethi,India,UttarPradesh,
+district,Azamgarh,Azamgarh,India,UttarPradesh,
+district,Ayodhya,Ayodhya,India,UttarPradesh,
+district,Balia,Balia,India,UttarPradesh,
+district,Banda,Banda,India,UttarPradesh,
+district,BaraBanki,BaraBanki,India,UttarPradesh,
+district,Bareilly,Bareilly,India,UttarPradesh,
+district,Basti,Basti,India,UttarPradesh,
+district,Chandauli,Chandauli,India,UttarPradesh,
+district,Deoria,Deoria,India,UttarPradesh,
+district,Fatehpur,Fatehpur,India,UttarPradesh,
+district,Gazipur,Gazipur,India,UttarPradesh,
+district,Gonda,Gonda,India,UttarPradesh,
+district,Gorakhpur,Gorakhpur,India,UttarPradesh,
+district,Jaunpur,Jaunpur,India,UttarPradesh,
+district,Kushinagar,Kushinagar,India,UttarPradesh,
+district,LakhimpurKheri,Lakhimpur Kheri,India,UttarPradesh,
+district,Maharajganj,Maharajganj,India,UttarPradesh,
+district,Mau,Mau,India,UttarPradesh,
+district,Pilibhit,Pilibhit,India,UttarPradesh,
+district,Pratapgarh,Pratapgarh,India,UttarPradesh,
+district,Rampur,Rampur,India,UttarPradesh,
+district,SantKabirNagar,Sant Kabir Nagar,India,UttarPradesh,
+district,Shahjahanpur,Shahjahanpur,India,UttarPradesh,
+district,Siddharthnagar,Siddharthnagar,India,UttarPradesh,
+district,Sultanpur,Sultanpur,India,UttarPradesh,
+district,Varanasi,Varanasi,India,UttarPradesh,
+,,,,,
+district,Bhadrak,Bhadrak,India,Odisha,
+district,Balasore,Balasore,India,Odisha,
+district,Cuttack,Cuttack,India,Odisha,
+district,Jagatsinghpur,Jagatsinghpur,India,Odisha,
+district,Jajpur,Jajpur,India,Odisha,
+district,Keonjhar,Keonjhar,India,Odisha,
+district,Khordha,Khordha,India,Odisha,
+district,Mayurbhanj,Mayurbhanj,India,Odisha,
+district,Nayagarh,Nayagarh,India,Odisha,
+district,Nuapada,Nuapada,India,Odisha,
+district,Puri,Puri,India,Odisha,
+,,,,,
+district,Barddhaman,Barddhaman,India,WestBengal,
+district,CoochBehar,Cooch Behar,India,WestBengal,
+district,Howrah,Howrah,India,WestBengal,
+district,Hugly,Hugly,India,WestBengal,
+district,Maldah,Maldah,India,WestBengal,
+district,Medinipur,Medinipur,India,WestBengal,
+district,Murshidabad,Murshidabad,India,WestBengal,
+district,Nadia,Nadia,India,WestBengal,
+district,North24Parganas,North 24 Parganas,India,WestBengal,
+district,Puruliya,Puruliya,India,WestBengal,
+district,South24Parganas,South 24 Parganas,India,WestBengal,
+district,UttarDinajpur,Uttar Dinajpur,India,WestBengal,
+,,,,,
+district,Barisal,Barisal,Bangladesh,Barisal,
+district,Bhola,Bhola,Bangladesh,Barisal,
+district,Borgona,Borgona,Bangladesh,Barisal,
+district,Jhalokati,Jhalokati,Bangladesh,Barisal,
+district,Pirojpur,Pirojpur,Bangladesh,Barisal,
+district,Potuakhali,Potuakhali,Bangladesh,Barisal,
+district,Dinajpur,Dinajpur,Bangladesh,Dinajpur,
+district,Lalmonirhat,Lalmonirhat,Bangladesh,Dinajpur,
+district,Nilphamari,Nilphamari,Bangladesh,Dinajpur,
+district,Rongpur,Rongpur,Bangladesh,Dinajpur,
+district,Thakurgaon,Thakurgaon,Bangladesh,Dinajpur,
+district,Faridpur,Faridpur,Bangladesh,Faridpur,
+district,Gopalgonj,Gopalgonj,Bangladesh,Faridpur,
+district,Madaripur,Madaripur,Bangladesh,Faridpur,
+district,Rajbari,Rajbari,Bangladesh,Faridpur,
+district,Bagerhat,Bagerhat,Bangladesh,Jessore,
+district,Chuadanga,Chuadanga,Bangladesh,Jessore,
+district,Jessore,Jessore,Bangladesh,Jessore,
+district,Jhenaidah,Jhenaidah,Bangladesh,Jessore,
+district,Khulna,Khulna,Bangladesh,Jessore,
+district,Magura,Magura,Bangladesh,Jessore,
+district,Meherpur,Meherpur,Bangladesh,Jessore,
+district,Narail,Narail,Bangladesh,Jessore,
+district,Shatkhira,Shatkhira,Bangladesh,Jessore,
+,,,,,
+district,Banke,Banke,Nepal,State_5,
+district,Bara,Bara,Nepal,State_2,
+district,Bardiya,Bardiya,Nepal,State_5,
+district,Chitwan,Chitwan,Nepal,State_3,
+district,Dhanusha,Dhanusha,Nepal,State_2,
+district,Jhapa,Jhapa,Nepal,State_1,
+district,Kailali,Kailali,Nepal,State_7,
+district,Kanchanpur,Kanchanpur,Nepal,State_7,
+district,Kapilbastu,Kapilbastu,Nepal,State_5,
+district,Mahottari,Mahottari,Nepal,State_2,
+district,Morang,Morang,Nepal,State_1,
+district,Nawalparasi,Nawalparasi,Nepal,State_5,
+district,Parsa,Parsa,Nepal,State_2,
+district,Rautahat,Rautahat,Nepal,State_2,
+district,Rupandehi,Rupandehi,Nepal,State_5,
+district,Saptari,Saptari,Nepal,State_2,
+district,Sarlahi,Sarlahi,Nepal,State_2,
+district,Siraha,Siraha,Nepal,State_2,
+district,Sunsari,Sunsari,Nepal,State_1,
+,,,,,
+,,,,,
+subDistrict,Agali,Agali,India,AndhraPradesh,Anantapur
+subDistrict,Amadagur,Amadagur,India,AndhraPradesh,Anantapur
+subDistrict,Amarapuram,Amarapuram,India,AndhraPradesh,Anantapur
+subDistrict,Anantapur,Anantapur,India,AndhraPradesh,Anantapur
+subDistrict,Atmakur1,Atmakur1,India,AndhraPradesh,Anantapur
+subDistrict,Bathalapalle,Bathalapalle,India,AndhraPradesh,Anantapur
+subDistrict,Beluguppa,Beluguppa,India,AndhraPradesh,Anantapur
+subDistrict,Bommanahal,Bommanahal,India,AndhraPradesh,Anantapur
+subDistrict,Brahmasamudram,Brahmasamudram,India,AndhraPradesh,Anantapur
+subDistrict,Bukkapatnam,Bukkapatnam,India,AndhraPradesh,Anantapur
+subDistrict,BukkarayaSamudram,Bukkaraya  Samudram,India,AndhraPradesh,Anantapur
+subDistrict,Chennekothapalle,Chennekothapalle,India,AndhraPradesh,Anantapur
+subDistrict,Chilamathur,Chilamathur,India,AndhraPradesh,Anantapur
+subDistrict,DHirehal,D.Hirehal,India,AndhraPradesh,Anantapur
+subDistrict,Dharmavaram,Dharmavaram,India,AndhraPradesh,Anantapur
+subDistrict,Gandlapenta,Gandlapenta,India,AndhraPradesh,Anantapur
+subDistrict,Garladinne,Garladinne,India,AndhraPradesh,Anantapur
+subDistrict,Gooty,Gooty,India,AndhraPradesh,Anantapur
+subDistrict,Gorantla,Gorantla,India,AndhraPradesh,Anantapur
+subDistrict,Gudibanda,Gudibanda,India,AndhraPradesh,Anantapur
+subDistrict,Gummagatta,Gummagatta,India,AndhraPradesh,Anantapur
+subDistrict,Guntakal,Guntakal,India,AndhraPradesh,Anantapur
+subDistrict,Hindupur,Hindupur,India,AndhraPradesh,Anantapur
+subDistrict,Kadiri,Kadiri,India,AndhraPradesh,Anantapur
+subDistrict,Kalyandurg,Kalyandurg,India,AndhraPradesh,Anantapur
+subDistrict,Kambadur,Kambadur,India,AndhraPradesh,Anantapur
+subDistrict,Kanaganapalle,Kanaganapalle,India,AndhraPradesh,Anantapur
+subDistrict,Kanekal,Kanekal,India,AndhraPradesh,Anantapur
+subDistrict,Kothacheruvu,Kothacheruvu,India,AndhraPradesh,Anantapur
+subDistrict,Kudair,Kudair,India,AndhraPradesh,Anantapur
+subDistrict,Kundurpi,Kundurpi,India,AndhraPradesh,Anantapur
+subDistrict,Lepakshi,Lepakshi,India,AndhraPradesh,Anantapur
+subDistrict,Madakasira,Madakasira,India,AndhraPradesh,Anantapur
+subDistrict,Mudigubba,Mudigubba,India,AndhraPradesh,Anantapur
+subDistrict,Nallacheruvu,Nallacheruvu,India,AndhraPradesh,Anantapur
+subDistrict,Nallamada,Nallamada,India,AndhraPradesh,Anantapur
+subDistrict,Nambulipulikunta,Nambulipulikunta,India,AndhraPradesh,Anantapur
+subDistrict,Narpala,Narpala,India,AndhraPradesh,Anantapur
+subDistrict,Obuladevaracheruvu,Obuladevaracheruvu,India,AndhraPradesh,Anantapur
+subDistrict,Pamidi,Pamidi,India,AndhraPradesh,Anantapur
+subDistrict,Parigi,Parigi,India,AndhraPradesh,Anantapur
+subDistrict,Peddapappur,Peddapappur,India,AndhraPradesh,Anantapur
+subDistrict,Peddavadugur,Peddavadugur,India,AndhraPradesh,Anantapur
+subDistrict,Penukonda,Penukonda,India,AndhraPradesh,Anantapur
+subDistrict,Putlur,Putlur,India,AndhraPradesh,Anantapur
+subDistrict,Puttaparthi,Puttaparthi,India,AndhraPradesh,Anantapur
+subDistrict,Ramagiri,Ramagiri,India,AndhraPradesh,Anantapur
+subDistrict,Raptadu,Raptadu,India,AndhraPradesh,Anantapur
+subDistrict,Rayadurg,Rayadurg,India,AndhraPradesh,Anantapur
+subDistrict,Roddam,Roddam,India,AndhraPradesh,Anantapur
+subDistrict,Rolla,Rolla,India,AndhraPradesh,Anantapur
+subDistrict,Settur,Settur,India,AndhraPradesh,Anantapur
+subDistrict,Singanamala,Singanamala,India,AndhraPradesh,Anantapur
+subDistrict,Somandepalle,Somandepalle,India,AndhraPradesh,Anantapur
+subDistrict,Tadimarri,Tadimarri,India,AndhraPradesh,Anantapur
+subDistrict,Tadpatri,Tadpatri,India,AndhraPradesh,Anantapur
+subDistrict,Talupula,Talupula,India,AndhraPradesh,Anantapur
+subDistrict,Tanakal,Tanakal,India,AndhraPradesh,Anantapur
+subDistrict,Uravakonda,Uravakonda,India,AndhraPradesh,Anantapur
+subDistrict,Vajrakarur,Vajrakarur,India,AndhraPradesh,Anantapur
+subDistrict,Vidapanakal,Vidapanakal,India,AndhraPradesh,Anantapur
+subDistrict,Yadiki,Yadiki,India,AndhraPradesh,Anantapur
+subDistrict,Yellanur,Yellanur,India,AndhraPradesh,Anantapur
+subDistrict,BKothakota,B.Kothakota,India,AndhraPradesh,Chittoor
+subDistrict,Baireddipalle,Baireddipalle,India,AndhraPradesh,Chittoor
+subDistrict,Bangarupalem,Bangarupalem,India,AndhraPradesh,Chittoor
+subDistrict,BuchinaiduKandriga,Buchinaidu  Kandriga,India,AndhraPradesh,Chittoor
+subDistrict,Chandragiri,Chandragiri,India,AndhraPradesh,Chittoor
+subDistrict,Chinnagottigallu,Chinnagottigallu,India,AndhraPradesh,Chittoor
+subDistrict,Chittoor,Chittoor,India,AndhraPradesh,Chittoor
+subDistrict,Chowdepalle,Chowdepalle,India,AndhraPradesh,Chittoor
+subDistrict,Gangadharanellore,Gangadharanellore,India,AndhraPradesh,Chittoor
+subDistrict,Gangavaram1,Gangavaram1,India,AndhraPradesh,Chittoor
+subDistrict,Gudipala,Gudipala,India,AndhraPradesh,Chittoor
+subDistrict,Gudupalle,Gudupalle,India,AndhraPradesh,Chittoor
+subDistrict,Gurramkonda,Gurramkonda,India,AndhraPradesh,Chittoor
+subDistrict,Irala,Irala,India,AndhraPradesh,Chittoor
+subDistrict,KVBPuram,K.V.B.Puram,India,AndhraPradesh,Chittoor
+subDistrict,Kalakada,Kalakada,India,AndhraPradesh,Chittoor
+subDistrict,Kalikiri,Kalikiri,India,AndhraPradesh,Chittoor
+subDistrict,Kambhamvaripalle,Kambhamvaripalle,India,AndhraPradesh,Chittoor
+subDistrict,Karvetinagar,Karvetinagar,India,AndhraPradesh,Chittoor
+subDistrict,Kuppam,Kuppam,India,AndhraPradesh,Chittoor
+subDistrict,Kurabalakota,Kurabalakota,India,AndhraPradesh,Chittoor
+subDistrict,Madanapalle,Madanapalle,India,AndhraPradesh,Chittoor
+subDistrict,Mulakalacheruvu,Mulakalacheruvu,India,AndhraPradesh,Chittoor
+subDistrict,Nagalapuram,Nagalapuram,India,AndhraPradesh,Chittoor
+subDistrict,Nagari,Nagari,India,AndhraPradesh,Chittoor
+subDistrict,Narayanavanam,Narayanavanam,India,AndhraPradesh,Chittoor
+subDistrict,Nimmanapalle,Nimmanapalle,India,AndhraPradesh,Chittoor
+subDistrict,Nindra,Nindra,India,AndhraPradesh,Chittoor
+subDistrict,Pakala,Pakala,India,AndhraPradesh,Chittoor
+subDistrict,Palamaner,Palamaner,India,AndhraPradesh,Chittoor
+subDistrict,Palasamudram,Palasamudram,India,AndhraPradesh,Chittoor
+subDistrict,PeddaThippasamudram,Pedda Thippasamudram,India,AndhraPradesh,Chittoor
+subDistrict,Peddamandyam,Peddamandyam,India,AndhraPradesh,Chittoor
+subDistrict,Peddapanjani,Peddapanjani,India,AndhraPradesh,Chittoor
+subDistrict,Penumuru,Penumuru,India,AndhraPradesh,Chittoor
+subDistrict,Pichatur,Pichatur,India,AndhraPradesh,Chittoor
+subDistrict,Pileru,Pileru,India,AndhraPradesh,Chittoor
+subDistrict,Pulicherla,Pulicherla,India,AndhraPradesh,Chittoor
+subDistrict,Punganur,Punganur,India,AndhraPradesh,Chittoor
+subDistrict,Puthalapattu,Puthalapattu,India,AndhraPradesh,Chittoor
+subDistrict,Puttur,Puttur,India,AndhraPradesh,Chittoor
+subDistrict,Ramachandrapuram1,Ramachandrapuram1,India,AndhraPradesh,Chittoor
+subDistrict,Ramakuppam,Ramakuppam,India,AndhraPradesh,Chittoor
+subDistrict,Ramasamudram,Ramasamudram,India,AndhraPradesh,Chittoor
+subDistrict,Renigunta,Renigunta,India,AndhraPradesh,Chittoor
+subDistrict,Rompicherla1,Rompicherla1,India,AndhraPradesh,Chittoor
+subDistrict,Santhipuram,Santhipuram,India,AndhraPradesh,Chittoor
+subDistrict,Satyavedu,Satyavedu,India,AndhraPradesh,Chittoor
+subDistrict,Sodam,Sodam,India,AndhraPradesh,Chittoor
+subDistrict,Somala,Somala,India,AndhraPradesh,Chittoor
+subDistrict,Srikalahasti,Srikalahasti,India,AndhraPradesh,Chittoor
+subDistrict,Srirangarajapuram,Srirangarajapuram,India,AndhraPradesh,Chittoor
+subDistrict,Thamballapalle,Thamballapalle,India,AndhraPradesh,Chittoor
+subDistrict,Thavanampalle,Thavanampalle,India,AndhraPradesh,Chittoor
+subDistrict,Thottambedu,Thottambedu,India,AndhraPradesh,Chittoor
+subDistrict,Tirupati_R,Tirupati (Rural),India,AndhraPradesh,Chittoor
+subDistrict,Tirupati_U,Tirupati (Urban),India,AndhraPradesh,Chittoor
+subDistrict,Vadamalapeta,Vadamalapeta,India,AndhraPradesh,Chittoor
+subDistrict,Varadaiahpalem,Varadaiahpalem,India,AndhraPradesh,Chittoor
+subDistrict,Vayalpad,Vayalpad,India,AndhraPradesh,Chittoor
+subDistrict,Vedurukuppam,Vedurukuppam,India,AndhraPradesh,Chittoor
+subDistrict,Venkatagirikota,Venkatagirikota,India,AndhraPradesh,Chittoor
+subDistrict,Vijayapuram,Vijayapuram,India,AndhraPradesh,Chittoor
+subDistrict,Yadamarri,Yadamarri,India,AndhraPradesh,Chittoor
+subDistrict,Yerpedu,Yerpedu,India,AndhraPradesh,Chittoor
+subDistrict,Yerravaripalem,Yerravaripalem,India,AndhraPradesh,Chittoor
+subDistrict,Addateegala,Addateegala,India,AndhraPradesh,EastGodavari
+subDistrict,Ainavilli,Ainavilli,India,AndhraPradesh,EastGodavari
+subDistrict,Alamuru,Alamuru,India,AndhraPradesh,EastGodavari
+subDistrict,Allavaram,Allavaram,India,AndhraPradesh,EastGodavari
+subDistrict,Amalapuram,Amalapuram,India,AndhraPradesh,EastGodavari
+subDistrict,Ambajipeta,Ambajipeta,India,AndhraPradesh,EastGodavari
+subDistrict,Anaparthy,Anaparthy,India,AndhraPradesh,EastGodavari
+subDistrict,Atreyapuram,Atreyapuram,India,AndhraPradesh,EastGodavari
+subDistrict,Bhadrachalam,Bhadrachalam,India,AndhraPradesh,EastGodavari
+subDistrict,Biccavolu,Biccavolu,India,AndhraPradesh,EastGodavari
+subDistrict,Chintur,Chintur,India,AndhraPradesh,EastGodavari
+subDistrict,Devipatnam,Devipatnam,India,AndhraPradesh,EastGodavari
+subDistrict,Gandepalle,Gandepalle,India,AndhraPradesh,EastGodavari
+subDistrict,Gangavaram2,Gangavaram2,India,AndhraPradesh,EastGodavari
+subDistrict,Gokavaram,Gokavaram,India,AndhraPradesh,EastGodavari
+subDistrict,Gollaprolu,Gollaprolu,India,AndhraPradesh,EastGodavari
+subDistrict,IPolavaram,I. Polavaram,India,AndhraPradesh,EastGodavari
+subDistrict,Jaggampeta,Jaggampeta,India,AndhraPradesh,EastGodavari
+subDistrict,Kadiam,Kadiam,India,AndhraPradesh,EastGodavari
+subDistrict,Kajuluru,Kajuluru,India,AndhraPradesh,EastGodavari
+subDistrict,Kakinada_FU,Kakinada (Fully Urban),India,AndhraPradesh,EastGodavari
+subDistrict,Kakinada_R,Kakinada (Rural),India,AndhraPradesh,EastGodavari
+subDistrict,Kapileswarapuram,Kapileswarapuram,India,AndhraPradesh,EastGodavari
+subDistrict,Karapa,Karapa,India,AndhraPradesh,EastGodavari
+subDistrict,Katrenikona,Katrenikona,India,AndhraPradesh,EastGodavari
+subDistrict,Kirlampudi,Kirlampudi,India,AndhraPradesh,EastGodavari
+subDistrict,Korukonda,Korukonda,India,AndhraPradesh,EastGodavari
+subDistrict,Kotananduru,Kotananduru,India,AndhraPradesh,EastGodavari
+subDistrict,Kothapalle1,Kothapalle1,India,AndhraPradesh,EastGodavari
+subDistrict,Kothapeta,Kothapeta,India,AndhraPradesh,EastGodavari
+subDistrict,Kunavaram,Kunavaram,India,AndhraPradesh,EastGodavari
+subDistrict,Malikipuram,Malikipuram,India,AndhraPradesh,EastGodavari
+subDistrict,Mamidikuduru,Mamidikuduru,India,AndhraPradesh,EastGodavari
+subDistrict,Mandapeta,Mandapeta,India,AndhraPradesh,EastGodavari
+subDistrict,Maredumilli,Maredumilli,India,AndhraPradesh,EastGodavari
+subDistrict,Mummidivaram,Mummidivaram,India,AndhraPradesh,EastGodavari
+subDistrict,PGannavaram,P.Gannavaram,India,AndhraPradesh,EastGodavari
+subDistrict,Pamarru1,Pamarru1,India,AndhraPradesh,EastGodavari
+subDistrict,Pedapudi,Pedapudi,India,AndhraPradesh,EastGodavari
+subDistrict,Peddapuram,Peddapuram,India,AndhraPradesh,EastGodavari
+subDistrict,Pithapuram,Pithapuram,India,AndhraPradesh,EastGodavari
+subDistrict,Prathipadu1,Prathipadu1,India,AndhraPradesh,EastGodavari
+subDistrict,Rajahmundry_FU,Rajahmundry (Fully Urban),India,AndhraPradesh,EastGodavari
+subDistrict,Rajahmundry_R,Rajahmundry (Rural),India,AndhraPradesh,EastGodavari
+subDistrict,Rajanagaram,Rajanagaram,India,AndhraPradesh,EastGodavari
+subDistrict,Rajavommangi,Rajavommangi,India,AndhraPradesh,EastGodavari
+subDistrict,Ramachandrapuram2,Ramachandrapuram2,India,AndhraPradesh,EastGodavari
+subDistrict,Rampachodavaram,Rampachodavaram,India,AndhraPradesh,EastGodavari
+subDistrict,Rangampeta,Rangampeta,India,AndhraPradesh,EastGodavari
+subDistrict,Ravulapalem,Ravulapalem,India,AndhraPradesh,EastGodavari
+subDistrict,Rayavaram,Rayavaram,India,AndhraPradesh,EastGodavari
+subDistrict,Razole,Razole,India,AndhraPradesh,EastGodavari
+subDistrict,Rowthulapudi,Rowthulapudi,India,AndhraPradesh,EastGodavari
+subDistrict,Sakhinetipalle,Sakhinetipalle,India,AndhraPradesh,EastGodavari
+subDistrict,Samalkota,Samalkota,India,AndhraPradesh,EastGodavari
+subDistrict,Sankhavaram,Sankhavaram,India,AndhraPradesh,EastGodavari
+subDistrict,Seethanagaram1,Seethanagaram1,India,AndhraPradesh,EastGodavari
+subDistrict,Thallarevu,Thallarevu,India,AndhraPradesh,EastGodavari
+subDistrict,Thondangi,Thondangi,India,AndhraPradesh,EastGodavari
+subDistrict,Tuni,Tuni,India,AndhraPradesh,EastGodavari
+subDistrict,Uppalaguptam,Uppalaguptam,India,AndhraPradesh,EastGodavari
+subDistrict,Vararamachandrapuram,Vararamachandrapuram,India,AndhraPradesh,EastGodavari
+subDistrict,YRamavaram,Y.Ramavaram,India,AndhraPradesh,EastGodavari
+subDistrict,Yeleswaram,Yeleswaram,India,AndhraPradesh,EastGodavari
+subDistrict,Amaravathi,Amaravathi,India,AndhraPradesh,Guntur
+subDistrict,Amruthalur,Amruthalur,India,AndhraPradesh,Guntur
+subDistrict,Atchampet,Atchampet,India,AndhraPradesh,Guntur
+subDistrict,Bapatla,Bapatla,India,AndhraPradesh,Guntur
+subDistrict,Bellamkonda,Bellamkonda,India,AndhraPradesh,Guntur
+subDistrict,Bhattiprolu,Bhattiprolu,India,AndhraPradesh,Guntur
+subDistrict,Bollapalle,Bollapalle,India,AndhraPradesh,Guntur
+subDistrict,Chebrolu,Chebrolu,India,AndhraPradesh,Guntur
+subDistrict,Cherukupalle,Cherukupalle,India,AndhraPradesh,Guntur
+subDistrict,Chilakaluripet,Chilakaluripet,India,AndhraPradesh,Guntur
+subDistrict,Dachepalle,Dachepalle,India,AndhraPradesh,Guntur
+subDistrict,Duggirala,Duggirala,India,AndhraPradesh,Guntur
+subDistrict,Durgi,Durgi,India,AndhraPradesh,Guntur
+subDistrict,Edlapadu,Edlapadu,India,AndhraPradesh,Guntur
+subDistrict,Guntur,Guntur,India,AndhraPradesh,Guntur
+subDistrict,Gurazala,Gurazala,India,AndhraPradesh,Guntur
+subDistrict,Ipur,Ipur,India,AndhraPradesh,Guntur
+subDistrict,Kakumanu,Kakumanu,India,AndhraPradesh,Guntur
+subDistrict,Karempudi,Karempudi,India,AndhraPradesh,Guntur
+subDistrict,Karlapalem,Karlapalem,India,AndhraPradesh,Guntur
+subDistrict,Kollipara,Kollipara,India,AndhraPradesh,Guntur
+subDistrict,Kollur,Kollur,India,AndhraPradesh,Guntur
+subDistrict,Krosuru,Krosuru,India,AndhraPradesh,Guntur
+subDistrict,Machavaram,Machavaram,India,AndhraPradesh,Guntur
+subDistrict,Macherla,Macherla,India,AndhraPradesh,Guntur
+subDistrict,Mangalagiri,Mangalagiri,India,AndhraPradesh,Guntur
+subDistrict,Medikonduru,Medikonduru,India,AndhraPradesh,Guntur
+subDistrict,Muppalla,Muppalla,India,AndhraPradesh,Guntur
+subDistrict,Nadendla,Nadendla,India,AndhraPradesh,Guntur
+subDistrict,Nagaram,Nagaram,India,AndhraPradesh,Guntur
+subDistrict,Narasaraopet,Narasaraopet,India,AndhraPradesh,Guntur
+subDistrict,Nekarikallu,Nekarikallu,India,AndhraPradesh,Guntur
+subDistrict,Nizampatnam,Nizampatnam,India,AndhraPradesh,Guntur
+subDistrict,Nuzendla,Nuzendla,India,AndhraPradesh,Guntur
+subDistrict,Pedakakani,Pedakakani,India,AndhraPradesh,Guntur
+subDistrict,Pedakurapadu,Pedakurapadu,India,AndhraPradesh,Guntur
+subDistrict,Pedanandipadu,Pedanandipadu,India,AndhraPradesh,Guntur
+subDistrict,Phirangipuram,Phirangipuram,India,AndhraPradesh,Guntur
+subDistrict,Piduguralla,Piduguralla,India,AndhraPradesh,Guntur
+subDistrict,Pittalavanipalem,Pittalavanipalem,India,AndhraPradesh,Guntur
+subDistrict,Ponnur,Ponnur,India,AndhraPradesh,Guntur
+subDistrict,Prathipadu2,Prathipadu2,India,AndhraPradesh,Guntur
+subDistrict,Rentachintala,Rentachintala,India,AndhraPradesh,Guntur
+subDistrict,Repalle,Repalle,India,AndhraPradesh,Guntur
+subDistrict,Rompicherla2,Rompicherla2,India,AndhraPradesh,Guntur
+subDistrict,Sattenapalle,Sattenapalle,India,AndhraPradesh,Guntur
+subDistrict,Savalyapuram,Savalyapuram,India,AndhraPradesh,Guntur
+subDistrict,Tadepalle,Tadepalle,India,AndhraPradesh,Guntur
+subDistrict,Tadikonda,Tadikonda,India,AndhraPradesh,Guntur
+subDistrict,Tenali,Tenali,India,AndhraPradesh,Guntur
+subDistrict,Thullur,Thullur,India,AndhraPradesh,Guntur
+subDistrict,Tsundur,Tsundur,India,AndhraPradesh,Guntur
+subDistrict,Vatticherukuru,Vatticherukuru,India,AndhraPradesh,Guntur
+subDistrict,Veldurthi1,Veldurthi1,India,AndhraPradesh,Guntur
+subDistrict,Vemuru,Vemuru,India,AndhraPradesh,Guntur
+subDistrict,Vinukonda,Vinukonda,India,AndhraPradesh,Guntur
+subDistrict,Rajupalem1,Rajupalem1,India,AndhraPradesh,Guntur
+subDistrict,Atlur,Atlur,India,AndhraPradesh,Kadapa
+subDistrict,BKodur,B.Kodur,India,AndhraPradesh,Kadapa
+subDistrict,Badvel,Badvel,India,AndhraPradesh,Kadapa
+subDistrict,Brahmamgarimattam,Brahmamgarimattam,India,AndhraPradesh,Kadapa
+subDistrict,Chakrayapet,Chakrayapet,India,AndhraPradesh,Kadapa
+subDistrict,Chapad,Chapad,India,AndhraPradesh,Kadapa
+subDistrict,Chennur2,Chennur2,India,AndhraPradesh,Kadapa
+subDistrict,Chinnamandem,Chinnamandem,India,AndhraPradesh,Kadapa
+subDistrict,Chinthakommadinne,Chinthakommadinne,India,AndhraPradesh,Kadapa
+subDistrict,Chitvel,Chitvel,India,AndhraPradesh,Kadapa
+subDistrict,Duvvur,Duvvur,India,AndhraPradesh,Kadapa
+subDistrict,Galiveedu,Galiveedu,India,AndhraPradesh,Kadapa
+subDistrict,Gopavaram,Gopavaram,India,AndhraPradesh,Kadapa
+subDistrict,Jammalamadugu,Jammalamadugu,India,AndhraPradesh,Kadapa
+subDistrict,Kadapa,Kadapa,India,AndhraPradesh,Kadapa
+subDistrict,Kalasapadu,Kalasapadu,India,AndhraPradesh,Kadapa
+subDistrict,Kamalapuram,Kamalapuram,India,AndhraPradesh,Kadapa
+subDistrict,Khajipet,Khajipet,India,AndhraPradesh,Kadapa
+subDistrict,Kodur,Kodur,India,AndhraPradesh,Kadapa
+subDistrict,Kondapuram1,Kondapuram1,India,AndhraPradesh,Kadapa
+subDistrict,Lakkireddipalle,Lakkireddipalle,India,AndhraPradesh,Kadapa
+subDistrict,Lingala,Lingala,India,AndhraPradesh,Kadapa
+subDistrict,Muddanur,Muddanur,India,AndhraPradesh,Kadapa
+subDistrict,Mylavaram1,Mylavaram1,India,AndhraPradesh,Kadapa
+subDistrict,Nandalur,Nandalur,India,AndhraPradesh,Kadapa
+subDistrict,Obulavaripalle,Obulavaripalle,India,AndhraPradesh,Kadapa
+subDistrict,Peddamudium,Peddamudium,India,AndhraPradesh,Kadapa
+subDistrict,Penagalur,Penagalur,India,AndhraPradesh,Kadapa
+subDistrict,Pendlimarri,Pendlimarri,India,AndhraPradesh,Kadapa
+subDistrict,Porumamilla,Porumamilla,India,AndhraPradesh,Kadapa
+subDistrict,Proddatur,Proddatur,India,AndhraPradesh,Kadapa
+subDistrict,Pulivendla,Pulivendla,India,AndhraPradesh,Kadapa
+subDistrict,Pullampeta,Pullampeta,India,AndhraPradesh,Kadapa
+subDistrict,Rajampet,Rajampet,India,AndhraPradesh,Kadapa
+subDistrict,Ramapuram,Ramapuram,India,AndhraPradesh,Kadapa
+subDistrict,Rayachoti,Rayachoti,India,AndhraPradesh,Kadapa
+subDistrict,SMydukur,S.Mydukur,India,AndhraPradesh,Kadapa
+subDistrict,Sambepalle,Sambepalle,India,AndhraPradesh,Kadapa
+subDistrict,Sidhout,Sidhout,India,AndhraPradesh,Kadapa
+subDistrict,Simhadripuram,Simhadripuram,India,AndhraPradesh,Kadapa
+subDistrict,SriAvadhuthaKasinayana,Sri Avadhutha Kasinayana,India,AndhraPradesh,Kadapa
+subDistrict,TSundupalle,T Sundupalle,India,AndhraPradesh,Kadapa
+subDistrict,Thondur,Thondur,India,AndhraPradesh,Kadapa
+subDistrict,Vallur,Vallur,India,AndhraPradesh,Kadapa
+subDistrict,Veeraballe,Veeraballe,India,AndhraPradesh,Kadapa
+subDistrict,Veerapunayunipalle,Veerapunayunipalle,India,AndhraPradesh,Kadapa
+subDistrict,Vempalle,Vempalle,India,AndhraPradesh,Kadapa
+subDistrict,Vemula,Vemula,India,AndhraPradesh,Kadapa
+subDistrict,Vontimitta,Vontimitta,India,AndhraPradesh,Kadapa
+subDistrict,Yerraguntla,Yerraguntla,India,AndhraPradesh,Kadapa
+subDistrict,Rajupalem2,Rajupalem2,India,AndhraPradesh,Kadapa
+subDistrict,AKonduru,A.Konduru,India,AndhraPradesh,Krishna
+subDistrict,Agiripalle,Agiripalle,India,AndhraPradesh,Krishna
+subDistrict,Avanigadda,Avanigadda,India,AndhraPradesh,Krishna
+subDistrict,Bantumilli,Bantumilli,India,AndhraPradesh,Krishna
+subDistrict,Bapulapadu,Bapulapadu,India,AndhraPradesh,Krishna
+subDistrict,Challapalle,Challapalle,India,AndhraPradesh,Krishna
+subDistrict,Chandarlapadu,Chandarlapadu,India,AndhraPradesh,Krishna
+subDistrict,Chatrai,Chatrai,India,AndhraPradesh,Krishna
+subDistrict,GKonduru,G.Konduru,India,AndhraPradesh,Krishna
+subDistrict,Gampalagudem,Gampalagudem,India,AndhraPradesh,Krishna
+subDistrict,Gannavaram,Gannavaram,India,AndhraPradesh,Krishna
+subDistrict,Ghantasala,Ghantasala,India,AndhraPradesh,Krishna
+subDistrict,Gudivada,Gudivada,India,AndhraPradesh,Krishna
+subDistrict,Gudlavalleru,Gudlavalleru,India,AndhraPradesh,Krishna
+subDistrict,Guduru,Guduru,India,AndhraPradesh,Krishna
+subDistrict,Ibrahimpatnam2,Ibrahimpatnam2,India,AndhraPradesh,Krishna
+subDistrict,Jaggayyapeta,Jaggayyapeta,India,AndhraPradesh,Krishna
+subDistrict,Kaikalur,Kaikalur,India,AndhraPradesh,Krishna
+subDistrict,Kalidindi,Kalidindi,India,AndhraPradesh,Krishna
+subDistrict,Kanchikacherla,Kanchikacherla,India,AndhraPradesh,Krishna
+subDistrict,Kankipadu,Kankipadu,India,AndhraPradesh,Krishna
+subDistrict,Koduru,Koduru,India,AndhraPradesh,Krishna
+subDistrict,Kruthivennu,Kruthivennu,India,AndhraPradesh,Krishna
+subDistrict,Machilipatnam,Machilipatnam,India,AndhraPradesh,Krishna
+subDistrict,Mandavalli,Mandavalli,India,AndhraPradesh,Krishna
+subDistrict,Mopidevi,Mopidevi,India,AndhraPradesh,Krishna
+subDistrict,Movva,Movva,India,AndhraPradesh,Krishna
+subDistrict,Mudinepalle,Mudinepalle,India,AndhraPradesh,Krishna
+subDistrict,Musunuru,Musunuru,India,AndhraPradesh,Krishna
+subDistrict,Mylavaram2,Mylavaram2,India,AndhraPradesh,Krishna
+subDistrict,Nagayalanka,Nagayalanka,India,AndhraPradesh,Krishna
+subDistrict,Nandigama,Nandigama,India,AndhraPradesh,Krishna
+subDistrict,Nandivada,Nandivada,India,AndhraPradesh,Krishna
+subDistrict,Nuzvid,Nuzvid,India,AndhraPradesh,Krishna
+subDistrict,Pamarru2,Pamarru2,India,AndhraPradesh,Krishna
+subDistrict,Pamidimukkala,Pamidimukkala,India,AndhraPradesh,Krishna
+subDistrict,Pedana,Pedana,India,AndhraPradesh,Krishna
+subDistrict,Pedaparupudi,Pedaparupudi,India,AndhraPradesh,Krishna
+subDistrict,Penamaluru,Penamaluru,India,AndhraPradesh,Krishna
+subDistrict,Penuganchiprolu,Penuganchiprolu,India,AndhraPradesh,Krishna
+subDistrict,Reddigudem,Reddigudem,India,AndhraPradesh,Krishna
+subDistrict,Thotlavalluru,Thotlavalluru,India,AndhraPradesh,Krishna
+subDistrict,Tiruvuru,Tiruvuru,India,AndhraPradesh,Krishna
+subDistrict,Unguturu,Unguturu,India,AndhraPradesh,Krishna
+subDistrict,Vatsavai,Vatsavai,India,AndhraPradesh,Krishna
+subDistrict,Veerullapadu,Veerullapadu,India,AndhraPradesh,Krishna
+subDistrict,Vijayawada_R,Vijayawada (Rural),India,AndhraPradesh,Krishna
+subDistrict,Vijayawada_U,Vijayawada (Urban),India,AndhraPradesh,Krishna
+subDistrict,Vissannapet,Vissannapet,India,AndhraPradesh,Krishna
+subDistrict,Vuyyuru,Vuyyuru,India,AndhraPradesh,Krishna
+subDistrict,Adoni,Adoni,India,AndhraPradesh,Kurnool
+subDistrict,Allagadda,Allagadda,India,AndhraPradesh,Kurnool
+subDistrict,Alur,Alur,India,AndhraPradesh,Kurnool
+subDistrict,Aspari,Aspari,India,AndhraPradesh,Kurnool
+subDistrict,Atmakur2,Atmakur2,India,AndhraPradesh,Kurnool
+subDistrict,Banaganapalle,Banaganapalle,India,AndhraPradesh,Kurnool
+subDistrict,BandiAtmakur,Bandi Atmakur,India,AndhraPradesh,Kurnool
+subDistrict,Bethamcherla,Bethamcherla,India,AndhraPradesh,Kurnool
+subDistrict,CBelagal,C.Belagal,India,AndhraPradesh,Kurnool
+subDistrict,Chagalamarri,Chagalamarri,India,AndhraPradesh,Kurnool
+subDistrict,Chippagiri,Chippagiri,India,AndhraPradesh,Kurnool
+subDistrict,Devanakonda,Devanakonda,India,AndhraPradesh,Kurnool
+subDistrict,Dhone,Dhone,India,AndhraPradesh,Kurnool
+subDistrict,Dornipadu,Dornipadu,India,AndhraPradesh,Kurnool
+subDistrict,Gadivemula,Gadivemula,India,AndhraPradesh,Kurnool
+subDistrict,Gonegandla,Gonegandla,India,AndhraPradesh,Kurnool
+subDistrict,Gospadu,Gospadu,India,AndhraPradesh,Kurnool
+subDistrict,Gudur1,Gudur1,India,AndhraPradesh,Kurnool
+subDistrict,Halaharvi,Halaharvi,India,AndhraPradesh,Kurnool
+subDistrict,Holagunda,Holagunda,India,AndhraPradesh,Kurnool
+subDistrict,JupaduBungalow,Jupadu Bungalow,India,AndhraPradesh,Kurnool
+subDistrict,Kallur2,Kallur2,India,AndhraPradesh,Kurnool
+subDistrict,Kodumur,Kodumur,India,AndhraPradesh,Kurnool
+subDistrict,Koilkuntla,Koilkuntla,India,AndhraPradesh,Kurnool
+subDistrict,Kolimigundla,Kolimigundla,India,AndhraPradesh,Kurnool
+subDistrict,Kosigi,Kosigi,India,AndhraPradesh,Kurnool
+subDistrict,Kothapalle2,Kothapalle2,India,AndhraPradesh,Kurnool
+subDistrict,Kowthalam,Kowthalam,India,AndhraPradesh,Kurnool
+subDistrict,Krishnagiri,Krishnagiri,India,AndhraPradesh,Kurnool
+subDistrict,Kurnool,Kurnool,India,AndhraPradesh,Kurnool
+subDistrict,MaddikeraEast,Maddikera (East),India,AndhraPradesh,Kurnool
+subDistrict,Mahanandi,Mahanandi,India,AndhraPradesh,Kurnool
+subDistrict,Mantralayam,Mantralayam,India,AndhraPradesh,Kurnool
+subDistrict,Midthur,Midthur,India,AndhraPradesh,Kurnool
+subDistrict,Nandavaram,Nandavaram,India,AndhraPradesh,Kurnool
+subDistrict,Nandikotkur,Nandikotkur,India,AndhraPradesh,Kurnool
+subDistrict,Nandyal,Nandyal,India,AndhraPradesh,Kurnool
+subDistrict,Orvakal,Orvakal,India,AndhraPradesh,Kurnool
+subDistrict,Owk,Owk,India,AndhraPradesh,Kurnool
+subDistrict,Pagidyala,Pagidyala,India,AndhraPradesh,Kurnool
+subDistrict,Pamulapadu,Pamulapadu,India,AndhraPradesh,Kurnool
+subDistrict,Panyam,Panyam,India,AndhraPradesh,Kurnool
+subDistrict,Pattikonda,Pattikonda,India,AndhraPradesh,Kurnool
+subDistrict,Peapally,Peapally,India,AndhraPradesh,Kurnool
+subDistrict,PeddaKadubur,Pedda Kadubur,India,AndhraPradesh,Kurnool
+subDistrict,Rudravaram,Rudravaram,India,AndhraPradesh,Kurnool
+subDistrict,Sanjamala,Sanjamala,India,AndhraPradesh,Kurnool
+subDistrict,Sirvel,Sirvel,India,AndhraPradesh,Kurnool
+subDistrict,Srisailam,Srisailam,India,AndhraPradesh,Kurnool
+subDistrict,Tuggali,Tuggali,India,AndhraPradesh,Kurnool
+subDistrict,Uyyalawada,Uyyalawada,India,AndhraPradesh,Kurnool
+subDistrict,Veldurthi2,Veldurthi2,India,AndhraPradesh,Kurnool
+subDistrict,Velgode,Velgode,India,AndhraPradesh,Kurnool
+subDistrict,Yemmiganur,Yemmiganur,India,AndhraPradesh,Kurnool
+subDistrict,Allur,Allur,India,AndhraPradesh,Nellore
+subDistrict,Ananthasagaram,Ananthasagaram,India,AndhraPradesh,Nellore
+subDistrict,Anumasamudrampeta,Anumasamudrampeta,India,AndhraPradesh,Nellore
+subDistrict,Atmakur4,Atmakur4,India,AndhraPradesh,Nellore
+subDistrict,Balayapalle,Balayapalle,India,AndhraPradesh,Nellore
+subDistrict,Bogole,Bogole,India,AndhraPradesh,Nellore
+subDistrict,Buchireddipalem,Buchireddipalem,India,AndhraPradesh,Nellore
+subDistrict,Chejerla,Chejerla,India,AndhraPradesh,Nellore
+subDistrict,Chillakur,Chillakur,India,AndhraPradesh,Nellore
+subDistrict,Chittamur,Chittamur,India,AndhraPradesh,Nellore
+subDistrict,Dagadarthi,Dagadarthi,India,AndhraPradesh,Nellore
+subDistrict,Dakkili,Dakkili,India,AndhraPradesh,Nellore
+subDistrict,Doravarisatram,Doravarisatram,India,AndhraPradesh,Nellore
+subDistrict,Duttalur,Duttalur,India,AndhraPradesh,Nellore
+subDistrict,Gudur2,Gudur2,India,AndhraPradesh,Nellore
+subDistrict,Indukurpet,Indukurpet,India,AndhraPradesh,Nellore
+subDistrict,Jaladanki,Jaladanki,India,AndhraPradesh,Nellore
+subDistrict,Kaligiri,Kaligiri,India,AndhraPradesh,Nellore
+subDistrict,Kaluvoya,Kaluvoya,India,AndhraPradesh,Nellore
+subDistrict,Kavali,Kavali,India,AndhraPradesh,Nellore
+subDistrict,Kodavalur,Kodavalur,India,AndhraPradesh,Nellore
+subDistrict,Kondapuram2,Kondapuram2,India,AndhraPradesh,Nellore
+subDistrict,Kota,Kota,India,AndhraPradesh,Nellore
+subDistrict,Kovur,Kovur,India,AndhraPradesh,Nellore
+subDistrict,Manubolu,Manubolu,India,AndhraPradesh,Nellore
+subDistrict,Marripadu,Marripadu,India,AndhraPradesh,Nellore
+subDistrict,Muthukur,Muthukur,India,AndhraPradesh,Nellore
+subDistrict,Naidupet,Naidupet,India,AndhraPradesh,Nellore
+subDistrict,Nellore,Nellore,India,AndhraPradesh,Nellore
+subDistrict,Ojili,Ojili,India,AndhraPradesh,Nellore
+subDistrict,Pellakur,Pellakur,India,AndhraPradesh,Nellore
+subDistrict,Podalakur,Podalakur,India,AndhraPradesh,Nellore
+subDistrict,Rapur,Rapur,India,AndhraPradesh,Nellore
+subDistrict,Sangam1,Sangam1,India,AndhraPradesh,Nellore
+subDistrict,Seetharamapuram,Seetharamapuram,India,AndhraPradesh,Nellore
+subDistrict,Sullurpeta,Sullurpeta,India,AndhraPradesh,Nellore
+subDistrict,Sydapuram,Sydapuram,India,AndhraPradesh,Nellore
+subDistrict,Tada,Tada,India,AndhraPradesh,Nellore
+subDistrict,Thotapalligudur,Thotapalligudur,India,AndhraPradesh,Nellore
+subDistrict,Udayagiri,Udayagiri,India,AndhraPradesh,Nellore
+subDistrict,Vakadu,Vakadu,India,AndhraPradesh,Nellore
+subDistrict,Varikuntapadu,Varikuntapadu,India,AndhraPradesh,Nellore
+subDistrict,Venkatachalam,Venkatachalam,India,AndhraPradesh,Nellore
+subDistrict,Venkatagiri,Venkatagiri,India,AndhraPradesh,Nellore
+subDistrict,Vidavalur,Vidavalur,India,AndhraPradesh,Nellore
+subDistrict,Vinjamur,Vinjamur,India,AndhraPradesh,Nellore
+subDistrict,Addanki,Addanki,India,AndhraPradesh,Prakasam
+subDistrict,Ardhaveedu,Ardhaveedu,India,AndhraPradesh,Prakasam
+subDistrict,Ballikurava,Ballikurava,India,AndhraPradesh,Prakasam
+subDistrict,Bestawaripeta,Bestawaripeta,India,AndhraPradesh,Prakasam
+subDistrict,ChandrasekharaPuram,Chandrasekhara Puram,India,AndhraPradesh,Prakasam
+subDistrict,Chimakurthi,Chimakurthi,India,AndhraPradesh,Prakasam
+subDistrict,Chinaganjam,Chinaganjam,India,AndhraPradesh,Prakasam
+subDistrict,Chirala,Chirala,India,AndhraPradesh,Prakasam
+subDistrict,Cumbum,Cumbum,India,AndhraPradesh,Prakasam
+subDistrict,Darsi,Darsi,India,AndhraPradesh,Prakasam
+subDistrict,Donakonda,Donakonda,India,AndhraPradesh,Prakasam
+subDistrict,Dornala,Dornala,India,AndhraPradesh,Prakasam
+subDistrict,Giddalur,Giddalur,India,AndhraPradesh,Prakasam
+subDistrict,Gudluru,Gudluru,India,AndhraPradesh,Prakasam
+subDistrict,Hanumanthunipadu,Hanumanthunipadu,India,AndhraPradesh,Prakasam
+subDistrict,Inkollu,Inkollu,India,AndhraPradesh,Prakasam
+subDistrict,Janakavarampanguluru,Janakavarampanguluru,India,AndhraPradesh,Prakasam
+subDistrict,Kandukur1,Kandukur1,India,AndhraPradesh,Prakasam
+subDistrict,Kanigiri,Kanigiri,India,AndhraPradesh,Prakasam
+subDistrict,Karamchedu,Karamchedu,India,AndhraPradesh,Prakasam
+subDistrict,Komarolu,Komarolu,India,AndhraPradesh,Prakasam
+subDistrict,Konakanamitla,Konakanamitla,India,AndhraPradesh,Prakasam
+subDistrict,Kondapi,Kondapi,India,AndhraPradesh,Prakasam
+subDistrict,Korisapadu,Korisapadu,India,AndhraPradesh,Prakasam
+subDistrict,KothaPatnam,Kotha Patnam,India,AndhraPradesh,Prakasam
+subDistrict,Kurichedu,Kurichedu,India,AndhraPradesh,Prakasam
+subDistrict,Lingasamudram,Lingasamudram,India,AndhraPradesh,Prakasam
+subDistrict,Maddipadu,Maddipadu,India,AndhraPradesh,Prakasam
+subDistrict,Markapur,Markapur,India,AndhraPradesh,Prakasam
+subDistrict,Marripudi,Marripudi,India,AndhraPradesh,Prakasam
+subDistrict,Martur,Martur,India,AndhraPradesh,Prakasam
+subDistrict,Mundlamuru,Mundlamuru,India,AndhraPradesh,Prakasam
+subDistrict,Naguluppalapadu,Naguluppalapadu,India,AndhraPradesh,Prakasam
+subDistrict,Ongole,Ongole,India,AndhraPradesh,Prakasam
+subDistrict,Pamur,Pamur,India,AndhraPradesh,Prakasam
+subDistrict,Parchur,Parchur,India,AndhraPradesh,Prakasam
+subDistrict,PedaAraveedu,Peda  Araveedu,India,AndhraPradesh,Prakasam
+subDistrict,PedacherloPalle,Pedacherlo Palle,India,AndhraPradesh,Prakasam
+subDistrict,Podili,Podili,India,AndhraPradesh,Prakasam
+subDistrict,Ponnaluru,Ponnaluru,India,AndhraPradesh,Prakasam
+subDistrict,Pullalacheruvu,Pullalacheruvu,India,AndhraPradesh,Prakasam
+subDistrict,Racherla,Racherla,India,AndhraPradesh,Prakasam
+subDistrict,Santhamaguluru,Santhamaguluru,India,AndhraPradesh,Prakasam
+subDistrict,SanthanuthalaPadu,Santhanuthala Padu,India,AndhraPradesh,Prakasam
+subDistrict,Singarayakonda,Singarayakonda,India,AndhraPradesh,Prakasam
+subDistrict,Tangutur,Tangutur,India,AndhraPradesh,Prakasam
+subDistrict,Tarlupadu,Tarlupadu,India,AndhraPradesh,Prakasam
+subDistrict,Thallur,Thallur,India,AndhraPradesh,Prakasam
+subDistrict,Tripuranthakam,Tripuranthakam,India,AndhraPradesh,Prakasam
+subDistrict,Ulavapadu,Ulavapadu,India,AndhraPradesh,Prakasam
+subDistrict,Veligandla,Veligandla,India,AndhraPradesh,Prakasam
+subDistrict,Vetapalem,Vetapalem,India,AndhraPradesh,Prakasam
+subDistrict,Voletivaripalem,Voletivaripalem,India,AndhraPradesh,Prakasam
+subDistrict,Yeddanapudi,Yeddanapudi,India,AndhraPradesh,Prakasam
+subDistrict,Yerragondapalem,Yerragondapalem,India,AndhraPradesh,Prakasam
+subDistrict,Zarugumilli,Zarugumilli,India,AndhraPradesh,Prakasam
+subDistrict,Amadalavalasa,Amadalavalasa,India,AndhraPradesh,Srikakulam
+subDistrict,Bhamini,Bhamini,India,AndhraPradesh,Srikakulam
+subDistrict,Burja,Burja,India,AndhraPradesh,Srikakulam
+subDistrict,Etcherla,Etcherla,India,AndhraPradesh,Srikakulam
+subDistrict,Ganguvarisigadam,Ganguvarisigadam,India,AndhraPradesh,Srikakulam
+subDistrict,Gara,Gara,India,AndhraPradesh,Srikakulam
+subDistrict,Hiramandalam,Hiramandalam,India,AndhraPradesh,Srikakulam
+subDistrict,Ichchapuram,Ichchapuram,India,AndhraPradesh,Srikakulam
+subDistrict,Jalumuru,Jalumuru,India,AndhraPradesh,Srikakulam
+subDistrict,Kanchili,Kanchili,India,AndhraPradesh,Srikakulam
+subDistrict,Kaviti,Kaviti,India,AndhraPradesh,Srikakulam
+subDistrict,Kotabommali,Kotabommali,India,AndhraPradesh,Srikakulam
+subDistrict,Kothuru,Kothuru,India,AndhraPradesh,Srikakulam
+subDistrict,Lakshminarsupeta,Lakshminarsupeta,India,AndhraPradesh,Srikakulam
+subDistrict,Laveru,Laveru,India,AndhraPradesh,Srikakulam
+subDistrict,Mandasa,Mandasa,India,AndhraPradesh,Srikakulam
+subDistrict,Meliaputti,Meliaputti,India,AndhraPradesh,Srikakulam
+subDistrict,Nandigam,Nandigam,India,AndhraPradesh,Srikakulam
+subDistrict,Narasannapeta,Narasannapeta,India,AndhraPradesh,Srikakulam
+subDistrict,Palakonda,Palakonda,India,AndhraPradesh,Srikakulam
+subDistrict,Palasa,Palasa,India,AndhraPradesh,Srikakulam
+subDistrict,Pathapatnam,Pathapatnam,India,AndhraPradesh,Srikakulam
+subDistrict,Polaki,Polaki,India,AndhraPradesh,Srikakulam
+subDistrict,Ponduru,Ponduru,India,AndhraPradesh,Srikakulam
+subDistrict,Rajam,Rajam,India,AndhraPradesh,Srikakulam
+subDistrict,Ranastalam,Ranastalam,India,AndhraPradesh,Srikakulam
+subDistrict,Regidiamadalavalasa,Regidiamadalavalasa,India,AndhraPradesh,Srikakulam
+subDistrict,Santhabommali,Santhabommali,India,AndhraPradesh,Srikakulam
+subDistrict,Santhakaviti,Santhakaviti,India,AndhraPradesh,Srikakulam
+subDistrict,Saravakota,Saravakota,India,AndhraPradesh,Srikakulam
+subDistrict,Sarubujjili,Sarubujjili,India,AndhraPradesh,Srikakulam
+subDistrict,Seethampeta,Seethampeta,India,AndhraPradesh,Srikakulam
+subDistrict,Sompeta,Sompeta,India,AndhraPradesh,Srikakulam
+subDistrict,Srikakulam,Srikakulam,India,AndhraPradesh,Srikakulam
+subDistrict,Tekkali,Tekkali,India,AndhraPradesh,Srikakulam
+subDistrict,Vajrapukothuru,Vajrapukothuru,India,AndhraPradesh,Srikakulam
+subDistrict,Vangara,Vangara,India,AndhraPradesh,Srikakulam
+subDistrict,Veeraghattam,Veeraghattam,India,AndhraPradesh,Srikakulam
+subDistrict,Anakapalli,Anakapalli,India,AndhraPradesh,Vishakapatnam
+subDistrict,Anandapuram,Anandapuram,India,AndhraPradesh,Vishakapatnam
+subDistrict,Ananthagiri,Ananthagiri,India,AndhraPradesh,Vishakapatnam
+subDistrict,ArukuValley,Aruku Valley,India,AndhraPradesh,Vishakapatnam
+subDistrict,Atchutapuram,Atchutapuram,India,AndhraPradesh,Vishakapatnam
+subDistrict,Bheemunipatnam,Bheemunipatnam,India,AndhraPradesh,Vishakapatnam
+subDistrict,Butchayyapeta,Butchayyapeta,India,AndhraPradesh,Vishakapatnam
+subDistrict,Cheedikada,Cheedikada,India,AndhraPradesh,Vishakapatnam
+subDistrict,Chintapalle,Chintapalle,India,AndhraPradesh,Vishakapatnam
+subDistrict,Chodavaram,Chodavaram,India,AndhraPradesh,Vishakapatnam
+subDistrict,Devarapalle1,Devarapalle1,India,AndhraPradesh,Vishakapatnam
+subDistrict,Dumbriguda,Dumbriguda,India,AndhraPradesh,Vishakapatnam
+subDistrict,GKVeedhi,G K Veedhi,India,AndhraPradesh,Vishakapatnam
+subDistrict,GMadugula,G Madugula,India,AndhraPradesh,Vishakapatnam
+subDistrict,Gajuwaka,Gajuwaka,India,AndhraPradesh,Vishakapatnam
+subDistrict,Golugonda,Golugonda,India,AndhraPradesh,Vishakapatnam
+subDistrict,Hukumpeta,Hukumpeta,India,AndhraPradesh,Vishakapatnam
+subDistrict,KKotapadu,K Kotapadu,India,AndhraPradesh,Vishakapatnam
+subDistrict,Kasimkota,Kasimkota,India,AndhraPradesh,Vishakapatnam
+subDistrict,Kotauratla,Kotauratla,India,AndhraPradesh,Vishakapatnam
+subDistrict,Koyyuru,Koyyuru,India,AndhraPradesh,Vishakapatnam
+subDistrict,Madugula,Madugula,India,AndhraPradesh,Vishakapatnam
+subDistrict,Makavarapalem,Makavarapalem,India,AndhraPradesh,Vishakapatnam
+subDistrict,Munagapaka,Munagapaka,India,AndhraPradesh,Vishakapatnam
+subDistrict,Munchingiputtu,Munchingiputtu,India,AndhraPradesh,Vishakapatnam
+subDistrict,Nakkapalli,Nakkapalli,India,AndhraPradesh,Vishakapatnam
+subDistrict,Narsipatnam,Narsipatnam,India,AndhraPradesh,Vishakapatnam
+subDistrict,Nathavaram,Nathavaram,India,AndhraPradesh,Vishakapatnam
+subDistrict,Paderu,Paderu,India,AndhraPradesh,Vishakapatnam
+subDistrict,Padmanabham,Padmanabham,India,AndhraPradesh,Vishakapatnam
+subDistrict,Paravada,Paravada,India,AndhraPradesh,Vishakapatnam
+subDistrict,Payakaraopeta,Payakaraopeta,India,AndhraPradesh,Vishakapatnam
+subDistrict,Pedabayalu,Pedabayalu,India,AndhraPradesh,Vishakapatnam
+subDistrict,Pedagantyada,Pedagantyada,India,AndhraPradesh,Vishakapatnam
+subDistrict,Pendurthi,Pendurthi,India,AndhraPradesh,Vishakapatnam
+subDistrict,Rambilli,Rambilli,India,AndhraPradesh,Vishakapatnam
+subDistrict,Ravikamatam,Ravikamatam,India,AndhraPradesh,Vishakapatnam
+subDistrict,Rolugunta,Rolugunta,India,AndhraPradesh,Vishakapatnam
+subDistrict,SRayavaram,S Rayavaram,India,AndhraPradesh,Vishakapatnam
+subDistrict,Sabbavaram,Sabbavaram,India,AndhraPradesh,Vishakapatnam
+subDistrict,Visakhapatnam_R,Visakhapatnam(R),India,AndhraPradesh,Vishakapatnam
+subDistrict,Visakhapatnam_U,Visakhapatnam(U),India,AndhraPradesh,Vishakapatnam
+subDistrict,Yelamanchili1,Yelamanchili1,India,AndhraPradesh,Vishakapatnam
+subDistrict,Badangi,Badangi,India,AndhraPradesh,Vizianagaram
+subDistrict,Balijipeta,Balijipeta,India,AndhraPradesh,Vizianagaram
+subDistrict,Bhogapuram,Bhogapuram,India,AndhraPradesh,Vizianagaram
+subDistrict,Bobbili,Bobbili,India,AndhraPradesh,Vizianagaram
+subDistrict,Bondapalle,Bondapalle,India,AndhraPradesh,Vizianagaram
+subDistrict,Cheepurupalle,Cheepurupalle,India,AndhraPradesh,Vizianagaram
+subDistrict,Dattirajeru,Dattirajeru,India,AndhraPradesh,Vizianagaram
+subDistrict,Denkada,Denkada,India,AndhraPradesh,Vizianagaram
+subDistrict,Gajapathinagaram,Gajapathinagaram,India,AndhraPradesh,Vizianagaram
+subDistrict,Gantyada,Gantyada,India,AndhraPradesh,Vizianagaram
+subDistrict,Garividi,Garividi,India,AndhraPradesh,Vizianagaram
+subDistrict,Garugubilli,Garugubilli,India,AndhraPradesh,Vizianagaram
+subDistrict,Gummalakshmipuram,Gummalakshmipuram,India,AndhraPradesh,Vizianagaram
+subDistrict,Gurla,Gurla,India,AndhraPradesh,Vizianagaram
+subDistrict,Jami,Jami,India,AndhraPradesh,Vizianagaram
+subDistrict,Jiyyammavalasa,Jiyyammavalasa,India,AndhraPradesh,Vizianagaram
+subDistrict,Komarada,Komarada,India,AndhraPradesh,Vizianagaram
+subDistrict,Kothavalasa,Kothavalasa,India,AndhraPradesh,Vizianagaram
+subDistrict,Kurupam,Kurupam,India,AndhraPradesh,Vizianagaram
+subDistrict,Lakkavarapukota,Lakkavarapukota,India,AndhraPradesh,Vizianagaram
+subDistrict,Makkuva,Makkuva,India,AndhraPradesh,Vizianagaram
+subDistrict,Mentada,Mentada,India,AndhraPradesh,Vizianagaram
+subDistrict,Merakamudidam,Merakamudidam,India,AndhraPradesh,Vizianagaram
+subDistrict,Nellimarla,Nellimarla,India,AndhraPradesh,Vizianagaram
+subDistrict,Pachipenta,Pachipenta,India,AndhraPradesh,Vizianagaram
+subDistrict,Parvathipuram,Parvathipuram,India,AndhraPradesh,Vizianagaram
+subDistrict,Pusapatirega,Pusapatirega,India,AndhraPradesh,Vizianagaram
+subDistrict,Ramabhadrapuram,Ramabhadrapuram,India,AndhraPradesh,Vizianagaram
+subDistrict,Salur,Salur,India,AndhraPradesh,Vizianagaram
+subDistrict,Seethanagaram2,Seethanagaram2,India,AndhraPradesh,Vizianagaram
+subDistrict,Srungavarapukota,Srungavarapukota,India,AndhraPradesh,Vizianagaram
+subDistrict,Therlam,Therlam,India,AndhraPradesh,Vizianagaram
+subDistrict,Vepada,Vepada,India,AndhraPradesh,Vizianagaram
+subDistrict,Vizianagaram,Vizianagaram,India,AndhraPradesh,Vizianagaram
+subDistrict,Achanta,Achanta,India,AndhraPradesh,WestGodavari
+subDistrict,Akividu,Akividu,India,AndhraPradesh,WestGodavari
+subDistrict,Attili,Attili,India,AndhraPradesh,WestGodavari
+subDistrict,Bhimadole,Bhimadole,India,AndhraPradesh,WestGodavari
+subDistrict,Bhimavaram,Bhimavaram,India,AndhraPradesh,WestGodavari
+subDistrict,Burgampahad,Burgampahad,India,AndhraPradesh,WestGodavari
+subDistrict,Buttayagudem,Buttayagudem,India,AndhraPradesh,WestGodavari
+subDistrict,Chagallu,Chagallu,India,AndhraPradesh,WestGodavari
+subDistrict,Chintalapudi,Chintalapudi,India,AndhraPradesh,WestGodavari
+subDistrict,Denduluru,Denduluru,India,AndhraPradesh,WestGodavari
+subDistrict,Devarapalle2,Devarapalle2,India,AndhraPradesh,WestGodavari
+subDistrict,DwarakaTirumala,Dwaraka Tirumala,India,AndhraPradesh,WestGodavari
+subDistrict,Eluru,Eluru,India,AndhraPradesh,WestGodavari
+subDistrict,Ganapavaram,Ganapavaram,India,AndhraPradesh,WestGodavari
+subDistrict,Gopalapuram,Gopalapuram,India,AndhraPradesh,WestGodavari
+subDistrict,Iragavaram,Iragavaram,India,AndhraPradesh,WestGodavari
+subDistrict,Jangareddigudem,Jangareddigudem,India,AndhraPradesh,WestGodavari
+subDistrict,JeeluguMilli,Jeelugu Milli,India,AndhraPradesh,WestGodavari
+subDistrict,Kalla,Kalla,India,AndhraPradesh,WestGodavari
+subDistrict,Kamavarapukota,Kamavarapukota,India,AndhraPradesh,WestGodavari
+subDistrict,Kovvur,Kovvur,India,AndhraPradesh,WestGodavari
+subDistrict,Koyyalagudem,Koyyalagudem,India,AndhraPradesh,WestGodavari
+subDistrict,Kukunoor,Kukunoor,India,AndhraPradesh,WestGodavari
+subDistrict,Lingapalem,Lingapalem,India,AndhraPradesh,WestGodavari
+subDistrict,Mogalthur,Mogalthur,India,AndhraPradesh,WestGodavari
+subDistrict,Nallajerla,Nallajerla,India,AndhraPradesh,WestGodavari
+subDistrict,Narasapuram,Narasapuram,India,AndhraPradesh,WestGodavari
+subDistrict,Nidadavole,Nidadavole,India,AndhraPradesh,WestGodavari
+subDistrict,Nidamarru,Nidamarru,India,AndhraPradesh,WestGodavari
+subDistrict,Palacoderu,Palacoderu,India,AndhraPradesh,WestGodavari
+subDistrict,Palacole,Palacole,India,AndhraPradesh,WestGodavari
+subDistrict,Pedapadu,Pedapadu,India,AndhraPradesh,WestGodavari
+subDistrict,Pedavegi,Pedavegi,India,AndhraPradesh,WestGodavari
+subDistrict,Pentapadu,Pentapadu,India,AndhraPradesh,WestGodavari
+subDistrict,Penugonda,Penugonda,India,AndhraPradesh,WestGodavari
+subDistrict,Penumantra,Penumantra,India,AndhraPradesh,WestGodavari
+subDistrict,Peravali,Peravali,India,AndhraPradesh,WestGodavari
+subDistrict,Poduru,Poduru,India,AndhraPradesh,WestGodavari
+subDistrict,Polavaram,Polavaram,India,AndhraPradesh,WestGodavari
+subDistrict,T_Narasapuram,T.Narasapuram,India,AndhraPradesh,WestGodavari
+subDistrict,Tadepalligudem,Tadepalligudem,India,AndhraPradesh,WestGodavari
+subDistrict,Tallapudi,Tallapudi,India,AndhraPradesh,WestGodavari
+subDistrict,Tanuku,Tanuku,India,AndhraPradesh,WestGodavari
+subDistrict,Undi,Undi,India,AndhraPradesh,WestGodavari
+subDistrict,Undrajavaram,Undrajavaram,India,AndhraPradesh,WestGodavari
+subDistrict,Ungutur,Ungutur,India,AndhraPradesh,WestGodavari
+subDistrict,Veeravasaram,Veeravasaram,India,AndhraPradesh,WestGodavari
+subDistrict,Velairpadu,Velairpadu,India,AndhraPradesh,WestGodavari
+subDistrict,Yelamanchili2,Yelamanchili2,India,AndhraPradesh,WestGodavari
+,,,,,
+,,,,,
+subDistrict,Agiaon,Agiaon,India,Bihar,Arah
+subDistrict,Arah,Arah,India,Bihar,Arah
+subDistrict,Barhara,Barhara,India,Bihar,Arah
+subDistrict,Bihiyan,Bihiyan,India,Bihar,Arah
+subDistrict,Charpokhari,Charpokhari,India,Bihar,Arah
+subDistrict,Gadhani,Gadhani,India,Bihar,Arah
+subDistrict,Jagdishpur,Jagdishpur,India,Bihar,Arah
+subDistrict,Koilwar,Koilwar,India,Bihar,Arah
+subDistrict,Piro,Piro,India,Bihar,Arah
+subDistrict,Sahar,Sahar,India,Bihar,Arah
+subDistrict,Sandesh,Sandesh,India,Bihar,Arah
+subDistrict,Shahpur,Shahpur,India,Bihar,Arah
+subDistrict,Tarari,Tarari,India,Bihar,Arah
+subDistrict,Udvantnagar,Udvantnagar,India,Bihar,Arah
+,,,,,
+subDistrict,Araria,Araria,India,Bihar,Araria
+subDistrict,Bhargama,Bhargama,India,Bihar,Araria
+subDistrict,Forbesganj,Forbesganj,India,Bihar,Araria
+subDistrict,Jokihat,Jokihat,India,Bihar,Araria
+subDistrict,Kursakatta,Kursakatta,India,Bihar,Araria
+subDistrict,Narpatganj,Narpatganj,India,Bihar,Araria
+subDistrict,Palasi,Palasi,India,Bihar,Araria
+subDistrict,Raniganj,Raniganj,India,Bihar,Araria
+subDistrict,Sikti,Sikti,India,Bihar,Araria
+,,,,,
+subDistrict,Arwal,Arwal,India,Bihar,Arwal
+subDistrict,Kaler,Kaler,India,Bihar,Arwal
+subDistrict,Karpi,Karpi,India,Bihar,Arwal
+subDistrict,Kurtha,Kurtha,India,Bihar,Arwal
+subDistrict,SonbhadraBanshiSuryapur,Sonbhadra Banshi Suryapur,India,Bihar,Arwal
+,,,,,
+subDistrict,Aurangabad,Aurangabad,India,Bihar,Aurangabad
+subDistrict,Barun,Barun,India,Bihar,Aurangabad
+subDistrict,Daudnagar,Daudnagar,India,Bihar,Aurangabad
+subDistrict,Deo,Deo,India,Bihar,Aurangabad
+subDistrict,Goh,Goh,India,Bihar,Aurangabad
+subDistrict,Haspura,Haspura,India,Bihar,Aurangabad
+subDistrict,Madanpur,Madanpur,India,Bihar,Aurangabad
+subDistrict,Nabinagar,Nabinagar,India,Bihar,Aurangabad
+subDistrict,Obra,Obra,India,Bihar,Aurangabad
+subDistrict,Rafiganj,Rafiganj,India,Bihar,Aurangabad
+,,,,,
+subDistrict,Amarpur,Amarpur,India,Bihar,Banka
+subDistrict,Banka,Banka,India,Bihar,Banka
+subDistrict,Barahat,Barahat,India,Bihar,Banka
+subDistrict,Belhar,Belhar,India,Bihar,Banka
+subDistrict,Chanan,Chanan,India,Bihar,Banka
+subDistrict,Dhuraiya,Dhuraiya,India,Bihar,Banka
+subDistrict,Katoria,Katoria,India,Bihar,Banka
+subDistrict,Phulidumar,Phulidumar,India,Bihar,Banka
+subDistrict,Rajaun,Rajaun,India,Bihar,Banka
+subDistrict,Shambhuganj,Shambhuganj,India,Bihar,Banka
+,,,,,
+subDistrict,Bachhwara,Bachhwara,India,Bihar,Begusarai
+subDistrict,Balia,Balia,India,Bihar,Begusarai
+subDistrict,Barauni,Barauni,India,Bihar,Begusarai
+subDistrict,Begusarai,Begusarai,India,Bihar,Begusarai
+subDistrict,Bhagwanpur,Bhagwanpur,India,Bihar,Begusarai
+subDistrict,Birpur,Birpur,India,Bihar,Begusarai
+subDistrict,CheriaBariarpur,Cheria Bariarpur,India,Bihar,Begusarai
+subDistrict,Chhorahi,Chhorahi,India,Bihar,Begusarai
+subDistrict,Dandari,Dandari,India,Bihar,Begusarai
+subDistrict,Garhpura,Garhpura,India,Bihar,Begusarai
+subDistrict,Khudabandpur,Khudabandpur,India,Bihar,Begusarai
+subDistrict,Mansurchak,Mansurchak,India,Bihar,Begusarai
+subDistrict,Matihani,Matihani,India,Bihar,Begusarai
+subDistrict,SahebpurKamal,Sahebpur Kamal,India,Bihar,Begusarai
+subDistrict,Teghra,Teghra,India,Bihar,Begusarai
+,,,,,
+subDistrict,Bihpur,Bihpur,India,Bihar,Bhagalpur
+subDistrict,Colgong,Colgong,India,Bihar,Bhagalpur
+subDistrict,Gopalpur,Gopalpur,India,Bihar,Bhagalpur
+subDistrict,Goradih,Goradih,India,Bihar,Bhagalpur
+subDistrict,Ismailpur,Ismailpur,India,Bihar,Bhagalpur
+subDistrict,Jagdishpur,Jagdishpur,India,Bihar,Bhagalpur
+subDistrict,Narayanpur,Narayanpur,India,Bihar,Bhagalpur
+subDistrict,Nathnagar,Nathnagar,India,Bihar,Bhagalpur
+subDistrict,Pirpainti,Pirpainti,India,Bihar,Bhagalpur
+subDistrict,RangraChowk,Rangra Chowk,India,Bihar,Bhagalpur
+subDistrict,Shahkund,Shahkund,India,Bihar,Bhagalpur
+subDistrict,Sonhaula,Sonhaula,India,Bihar,Bhagalpur
+subDistrict,Sultanganj,Sultanganj,India,Bihar,Bhagalpur
+,,,,,
+subDistrict,Barhampur,Barhampur,India,Bihar,Buxar
+subDistrict,Buxar,Buxar,India,Bihar,Buxar
+subDistrict,Chakki,Chakki,India,Bihar,Buxar
+subDistrict,Chaugain,Chaugain,India,Bihar,Buxar
+subDistrict,Chausa,Chausa,India,Bihar,Buxar
+subDistrict,Dumraon ,Dumraon ,India,Bihar,Buxar
+subDistrict,Itarhi,Itarhi,India,Bihar,Buxar
+subDistrict,Kesath ,Kesath ,India,Bihar,Buxar
+subDistrict,Nawanagar,Nawanagar,India,Bihar,Buxar
+subDistrict,Rajpur,Rajpur,India,Bihar,Buxar
+subDistrict,Simri,Simri,India,Bihar,Buxar
+,,,,,
+subDistrict,Alinagar,Alinagar,India,Bihar,Darbhanga
+subDistrict,Bahadurpur,Bahadurpur,India,Bihar,Darbhanga
+subDistrict,Baheri,Baheri,India,Bihar,Darbhanga
+subDistrict,Benipur,Benipur,India,Bihar,Darbhanga
+subDistrict,Biraul,Biraul,India,Bihar,Darbhanga
+subDistrict,Darbhanga,Darbhanga,India,Bihar,Darbhanga
+subDistrict,Ghanshyampur,Ghanshyampur,India,Bihar,Darbhanga
+subDistrict,Gora Bauram,Gora Bauram,India,Bihar,Darbhanga
+subDistrict,Hanumannagar,Hanumannagar,India,Bihar,Darbhanga
+subDistrict,Hayaghat,Hayaghat,India,Bihar,Darbhanga
+subDistrict,Jale,Jale,India,Bihar,Darbhanga
+subDistrict,Keotiranway,Keotiranway,India,Bihar,Darbhanga
+subDistrict,Kiratpur,Kiratpur,India,Bihar,Darbhanga
+subDistrict,KusheshwarAsthan,Kusheshwar Asthan,India,Bihar,Darbhanga
+subDistrict,KusheshwarAsthanPurbi,Kusheshwar Asthan Purbi,India,Bihar,Darbhanga
+subDistrict,Manigachhi,Manigachhi,India,Bihar,Darbhanga
+subDistrict,Singhwara,Singhwara,India,Bihar,Darbhanga
+subDistrict,Tardih,Tardih,India,Bihar,Darbhanga
+,,,,,
+subDistrict,Adapur,Adapur,India,Bihar,EastChamparan
+subDistrict,Areraj,Areraj,India,Bihar,EastChamparan
+subDistrict,Banjaria,Banjaria,India,Bihar,EastChamparan
+subDistrict,Bankatwa,Bankatwa,India,Bihar,EastChamparan
+subDistrict,Chiraia,Chiraia,India,Bihar,EastChamparan
+subDistrict,Dhaka,Dhaka,India,Bihar,EastChamparan
+subDistrict,Harsidhi,Harsidhi,India,Bihar,EastChamparan
+subDistrict,Kalyanpur,Kalyanpur,India,Bihar,EastChamparan
+subDistrict,Kotwa,Kotwa,India,Bihar,EastChamparan
+subDistrict,Madhuban,Madhuban,India,Bihar,EastChamparan
+subDistrict,Mehsi,Mehsi,India,Bihar,EastChamparan
+subDistrict,Motihari,Motihari,India,Bihar,EastChamparan
+subDistrict,Narkatia,Narkatia,India,Bihar,EastChamparan
+subDistrict,Paharpur,Paharpur,India,Bihar,EastChamparan
+subDistrict,Piprakothi,Piprakothi,India,Bihar,EastChamparan
+subDistrict,Ramgarhwa,Ramgarhwa,India,Bihar,EastChamparan
+subDistrict,Raxaul,Raxaul,India,Bihar,EastChamparan
+subDistrict,Sangrampur,Sangrampur,India,Bihar,EastChamparan
+subDistrict,Sugauli,Sugauli,India,Bihar,EastChamparan
+subDistrict,Tetaria,Tetaria,India,Bihar,EastChamparan
+,,,,,
+subDistrict,Atri,Atri,India,Bihar,Gaya
+subDistrict,Barachatti,Barachatti,India,Bihar,Gaya
+subDistrict,Belaganj,Belaganj,India,Bihar,Gaya
+subDistrict,BodhGaya,Bodh Gaya,India,Bihar,Gaya
+subDistrict,Dobhi,Dobhi,India,Bihar,Gaya
+subDistrict,Fatehpur,Fatehpur,India,Bihar,Gaya
+subDistrict,GayaTownCDBlock,Gaya Town C.D.Block,India,Bihar,Gaya
+subDistrict,Gurua,Gurua,India,Bihar,Gaya
+subDistrict,Imamganj,Imamganj,India,Bihar,Gaya
+subDistrict,Khizirsarai,Khizirsarai,India,Bihar,Gaya
+subDistrict,Konch,Konch,India,Bihar,Gaya
+subDistrict,Manpur,Manpur,India,Bihar,Gaya
+subDistrict,Mohanpur,Mohanpur,India,Bihar,Gaya
+subDistrict,Muhra,Muhra,India,Bihar,Gaya
+subDistrict,NeemChakBathani,Neem Chak Bathani,India,Bihar,Gaya
+subDistrict,Sherghati,Sherghati,India,Bihar,Gaya
+subDistrict,Tikari ,Tikari ,India,Bihar,Gaya
+,,,,,
+subDistrict,Baikunthpur,Baikunthpur,India,Bihar,Gopalganj
+subDistrict,Barauli,Barauli,India,Bihar,Gopalganj
+subDistrict,Bhorey,Bhorey,India,Bihar,Gopalganj
+subDistrict,Bijaipur,Bijaipur,India,Bihar,Gopalganj
+subDistrict,Gopalganj,Gopalganj,India,Bihar,Gopalganj
+subDistrict,Hathua,Hathua,India,Bihar,Gopalganj
+subDistrict,Katiya,Katiya,India,Bihar,Gopalganj
+subDistrict,Kuchaikote,Kuchaikote,India,Bihar,Gopalganj
+subDistrict,Manjha,Manjha,India,Bihar,Gopalganj
+subDistrict,PachDeuri,Pach Deuri,India,Bihar,Gopalganj
+subDistrict,Phulwaria,Phulwaria,India,Bihar,Gopalganj
+subDistrict,Sidhwalia,Sidhwalia,India,Bihar,Gopalganj
+subDistrict,Thawe,Thawe,India,Bihar,Gopalganj
+subDistrict,Uchkagaon,Uchkagaon,India,Bihar,Gopalganj
+,,,,,
+subDistrict,Ghoshi,Ghoshi,India,Bihar,Jehanabad
+subDistrict,Hulasganj,Hulasganj,India,Bihar,Jehanabad
+subDistrict,Jehanabad,Jehanabad,India,Bihar,Jehanabad
+subDistrict,Kako,Kako,India,Bihar,Jehanabad
+subDistrict,Makhdumpur,Makhdumpur,India,Bihar,Jehanabad
+subDistrict,Modanganj,Modanganj,India,Bihar,Jehanabad
+subDistrict,RatniFaridpur,Ratni Faridpur,India,Bihar,Jehanabad
+,,,,,
+subDistrict,Adhaura,Adhaura,India,Bihar,Kaimur
+subDistrict,Bhabua,Bhabua,India,Bihar,Kaimur
+subDistrict,Bhagwanpur,Bhagwanpur,India,Bihar,Kaimur
+subDistrict,Chainpur,Chainpur,India,Bihar,Kaimur
+subDistrict,Chand,Chand,India,Bihar,Kaimur
+subDistrict,Durgawati,Durgawati,India,Bihar,Kaimur
+subDistrict,Kudra,Kudra,India,Bihar,Kaimur
+subDistrict,Mohania,Mohania,India,Bihar,Kaimur
+subDistrict,Nuaon,Nuaon,India,Bihar,Kaimur
+subDistrict,Ramgarh,Ramgarh,India,Bihar,Kaimur
+,,,,,
+subDistrict,Amdabad,Amdabad,India,Bihar,Katihar
+subDistrict,Azamnagar,Azamnagar,India,Bihar,Katihar
+subDistrict,Balrampur,Balrampur,India,Bihar,Katihar
+subDistrict,Barari,Barari,India,Bihar,Katihar
+subDistrict,Barsoi,Barsoi,India,Bihar,Katihar
+subDistrict,Hasanganj,Hasanganj,India,Bihar,Katihar
+subDistrict,Kadwa,Kadwa,India,Bihar,Katihar
+subDistrict,Katihar,Katihar,India,Bihar,Katihar
+subDistrict,Manihari,Manihari,India,Bihar,Katihar
+subDistrict,Mansahi,Mansahi,India,Bihar,Katihar
+subDistrict,Pranpur,Pranpur,India,Bihar,Katihar
+subDistrict,Sameli,Sameli,India,Bihar,Katihar
+,,,,,
+subDistrict,Alauli,Alauli,India,Bihar,Khagaria
+subDistrict,Beldaur,Beldaur,India,Bihar,Khagaria
+subDistrict,Chautham,Chautham,India,Bihar,Khagaria
+subDistrict,Parbatta,Parbatta,India,Bihar,Khagaria
+subDistrict,Gogri,Gogri,India,Bihar,Khagaria
+subDistrict,Khagariya,Khagariya,India,Bihar,Khagaria
+subDistrict,Mansi,Mansi,India,Bihar,Khagaria
+,,,,,
+subDistrict,Bahadurganj,Bahadurganj,India,Bihar,Kishanganj
+subDistrict,Dighalbank,Dighalbank,India,Bihar,Kishanganj
+subDistrict,Kishanganj,Kishanganj,India,Bihar,Kishanganj
+subDistrict,Kochadhamin,Kochadhamin,India,Bihar,Kishanganj
+subDistrict,Pothia,Pothia,India,Bihar,Kishanganj
+subDistrict,Terhagachh,Terhagachh,India,Bihar,Kishanganj
+subDistrict,Thakurganj,Thakurganj,India,Bihar,Kishanganj
+,,,,,
+subDistrict,Barahiya,Barahiya,India,Bihar,Lakhisarai
+subDistrict,Chanan,Chanan,India,Bihar,Lakhisarai
+subDistrict,Halsi,Halsi,India,Bihar,Lakhisarai
+subDistrict,Lakhisarai,Lakhisarai,India,Bihar,Lakhisarai
+subDistrict,Pipariya,Pipariya,India,Bihar,Lakhisarai
+subDistrict,RamgarhChowk,RamgarhChowk,India,Bihar,Lakhisarai
+subDistrict,Surajgarha,Surajgarha,India,Bihar,Lakhisarai
+,,,,,
+subDistrict,Alamnagar,Alamnagar,India,Bihar,Madhepura
+subDistrict,Bihariganj,Bihariganj,India,Bihar,Madhepura
+subDistrict,Chausa,Chausa,India,Bihar,Madhepura
+subDistrict,Ghailarh,Ghailarh,India,Bihar,Madhepura
+subDistrict,Gwalpara,Gwalpara,India,Bihar,Madhepura
+subDistrict,Kishanganj,Kishanganj,India,Bihar,Madhepura
+subDistrict,Kumarkhand,Kumarkhand,India,Bihar,Madhepura
+subDistrict,Madhepura,Madhepura,India,Bihar,Madhepura
+subDistrict,Murliganj,Murliganj,India,Bihar,Madhepura
+subDistrict,Puraini,Puraini,India,Bihar,Madhepura
+subDistrict,Shankarpur,Shankarpur,India,Bihar,Madhepura
+subDistrict,Singheshwar,Singheshwar,India,Bihar,Madhepura
+,,,,,
+subDistrict,Babubarhi,Babubarhi,India,Bihar,Madhubani
+subDistrict,Benipatti,Benipatti,India,Bihar,Madhubani
+subDistrict,Bisfi,Bisfi,India,Bihar,Madhubani
+subDistrict,Ghoghardiha,Ghoghardiha,India,Bihar,Madhubani
+subDistrict,Harlakhi,Harlakhi,India,Bihar,Madhubani
+subDistrict,Jainagar,Jainagar,India,Bihar,Madhubani
+subDistrict,Jhanjharpur,Jhanjharpur,India,Bihar,Madhubani
+subDistrict,Kaluahi,Kaluahi,India,Bihar,Madhubani
+subDistrict,Khajauli,Khajauli,India,Bihar,Madhubani
+subDistrict,Ladania,Ladania,India,Bihar,Madhubani
+subDistrict,Lakhnaur,Lakhnaur,India,Bihar,Madhubani
+subDistrict,Laukaha,Laukaha,India,Bihar,Madhubani
+subDistrict,Laukahi,Laukahi,India,Bihar,Madhubani
+subDistrict,Madhepur,Madhepur,India,Bihar,Madhubani
+subDistrict,Madhubani,Madhubani,India,Bihar,Madhubani
+subDistrict,Madhwapur,Madhwapur,India,Bihar,Madhubani
+subDistrict,Pandaul,Pandaul,India,Bihar,Madhubani
+subDistrict,Phulparas,Phulparas,India,Bihar,Madhubani
+subDistrict,Rajnagar,Rajnagar,India,Bihar,Madhubani
+,,,,,
+subDistrict,Asarganj,Asarganj,India,Bihar,Munger
+subDistrict,Bariarpur,Bariarpur,India,Bihar,Munger
+subDistrict,Dharhara,Dharhara,India,Bihar,Munger
+subDistrict,Jamalpur,Jamalpur,India,Bihar,Munger
+subDistrict,Kharagpur,Kharagpur,India,Bihar,Munger
+subDistrict,Munger,Munger,India,Bihar,Munger
+subDistrict,Sangrampur,Sangrampur,India,Bihar,Munger
+subDistrict,Tarapur,Tarapur,India,Bihar,Munger
+subDistrict,TetihaBambor,Tetiha Bambor,India,Bihar,Munger
+,,,,,
+subDistrict,Aurai,Aurai,India,Bihar,Muzaffarpur
+subDistrict,Bandra,Bandra,India,Bihar,Muzaffarpur
+subDistrict,BarurajMotipur,Baruraj (Motipur),India,Bihar,Muzaffarpur
+subDistrict,Gaighat,Gaighat,India,Bihar,Muzaffarpur
+subDistrict,Kanti,Kanti,India,Bihar,Muzaffarpur
+subDistrict,Katra,Katra,India,Bihar,Muzaffarpur
+subDistrict,Minapur,Minapur,India,Bihar,Muzaffarpur
+subDistrict,Musahri,Musahri,India,Bihar,Muzaffarpur
+subDistrict,Paroo,Paroo,India,Bihar,Muzaffarpur
+subDistrict,Sahebganj,Sahebganj,India,Bihar,Muzaffarpur
+subDistrict,Sakra,Sakra,India,Bihar,Muzaffarpur
+subDistrict,Saraiya,Saraiya,India,Bihar,Muzaffarpur
+,,,,,
+subDistrict,Asthawan ,Asthawan ,India,Bihar,Nalanda
+subDistrict,Bihar,Bihar,India,Bihar,Nalanda
+subDistrict,Bind,Bind,India,Bihar,Nalanda
+subDistrict,Chandi,Chandi,India,Bihar,Nalanda
+subDistrict,Ekangarsarai,Ekangarsarai,India,Bihar,Nalanda
+subDistrict,Giriak,Giriak,India,Bihar,Nalanda
+subDistrict,Harnaut,Harnaut,India,Bihar,Nalanda
+subDistrict,Islampur,Islampur,India,Bihar,Nalanda
+subDistrict,NagarNausa,Nagar Nausa,India,Bihar,Nalanda
+subDistrict,Noorsarai,Noorsarai,India,Bihar,Nalanda
+subDistrict,Parbalpur,Parbalpur,India,Bihar,Nalanda
+subDistrict,Rahui,Rahui,India,Bihar,Nalanda
+subDistrict,Sarmera,Sarmera,India,Bihar,Nalanda
+subDistrict,Silao,Silao,India,Bihar,Nalanda
+subDistrict,Tharthari ,Tharthari ,India,Bihar,Nalanda
+,,,,,
+subDistrict,Akbarpur,Akbarpur,India,Bihar,Nawada
+subDistrict,Gobindpur,Gobindpur,India,Bihar,Nawada
+subDistrict,Hisua,Hisua,India,Bihar,Nawada
+subDistrict,Kawakol,Kawakol,India,Bihar,Nawada
+subDistrict,Meskaur,Meskaur,India,Bihar,Nawada
+subDistrict,Nardiganj,Nardiganj,India,Bihar,Nawada
+subDistrict,Narhat,Narhat,India,Bihar,Nawada
+subDistrict,Nawada,Nawada,India,Bihar,Nawada
+subDistrict,Pakribarawan,Pakribarawan,India,Bihar,Nawada
+subDistrict,Rajauli,Rajauli,India,Bihar,Nawada
+subDistrict,Roh,Roh,India,Bihar,Nawada
+subDistrict,Sirdala,Sirdala,India,Bihar,Nawada
+subDistrict,Warisaliganj,Warisaliganj,India,Bihar,Nawada
+,,,,,
+,,,,,
+subDistrict,DinapurCumKhagaul,Dinapur-Cum-Khagaul,India,Bihar,Patna
+subDistrict,Fatwah,Fatwah,India,Bihar,Patna
+subDistrict,Naubatpur,Naubatpur,India,Bihar,Patna
+subDistrict,Maner,Maner,India,Bihar,Patna
+subDistrict,Sampatchak,Sampatchak,India,Bihar,Patna
+subDistrict,Paliganj,Paliganj,India,Bihar,Patna
+subDistrict,Phulwari,Phulwari,India,Bihar,Patna
+subDistrict,Bikram,Bikram,India,Bihar,Patna
+subDistrict,DulhinBazar,Dulhin Bazar,India,Bihar,Patna
+subDistrict,Masaurhi ,Masaurhi ,India,Bihar,Patna
+subDistrict,Ghoswari,Ghoswari,India,Bihar,Patna
+subDistrict,Dhanarua,Dhanarua,India,Bihar,Patna
+subDistrict,Belchhi,Belchhi,India,Bihar,Patna
+subDistrict,Mokameh,Mokameh,India,Bihar,Patna
+subDistrict,Pandarak,Pandarak,India,Bihar,Patna
+subDistrict,Khusrupur,Khusrupur,India,Bihar,Patna
+subDistrict,Punpun,Punpun,India,Bihar,Patna
+subDistrict,PatnaRural ,Patna Rural ,India,Bihar,Patna
+,,,,,
+subDistrict,Amour,Amour,India,Bihar,Purnia
+subDistrict,Bhawanipur,Bhawanipur,India,Bihar,Purnia
+subDistrict,Banmankhi,Banmankhi,India,Bihar,Purnia
+subDistrict,Dagarua,Dagarua,India,Bihar,Purnia
+subDistrict,KNagar,K. Nagar,India,Bihar,Purnia
+subDistrict,Dhamdaha,Dhamdaha,India,Bihar,Purnia
+subDistrict,Rupauli,Rupauli,India,Bihar,Purnia
+subDistrict,PurniaEast,Purnia East,India,Bihar,Purnia
+subDistrict,Baisi,Baisi,India,Bihar,Purnia
+subDistrict,Barhara,Barhara,India,Bihar,Purnia
+subDistrict,Jalalgarh,Jalalgarh,India,Bihar,Purnia
+subDistrict,Baisa,Baisa,India,Bihar,Purnia
+subDistrict,Kasba,Kasba,India,Bihar,Purnia
+,,,,,
+subDistrict,Rohtas,Rohtas,India,Bihar,Rohtas
+subDistrict,Karakat,Karakat,India,Bihar,Rohtas
+subDistrict,Kochas,Kochas,India,Bihar,Rohtas
+subDistrict,Nokha,Nokha,India,Bihar,Rohtas
+subDistrict,Sanjhauli,Sanjhauli,India,Bihar,Rohtas
+subDistrict,Bikramganj,Bikramganj,India,Bihar,Rohtas
+subDistrict,Rajpur,Rajpur,India,Bihar,Rohtas
+subDistrict,Kargahar,Kargahar,India,Bihar,Rohtas
+subDistrict,Tilouthu,Tilouthu,India,Bihar,Rohtas
+subDistrict,Chenari,Chenari,India,Bihar,Rohtas
+subDistrict,Dawath,Dawath,India,Bihar,Rohtas
+subDistrict,Nauhatta,Nauhatta,India,Bihar,Rohtas
+subDistrict,Nasriganj,Nasriganj,India,Bihar,Rohtas
+subDistrict,Dinara,Dinara,India,Bihar,Rohtas
+subDistrict,Sasaram,Sasaram,India,Bihar,Rohtas
+subDistrict,Sheosagar,Sheosagar,India,Bihar,Rohtas
+,,,,,
+subDistrict,SaurBazar,Saur Bazar,India,Bihar,Saharsa
+subDistrict,SimriBakhtiarpur,Simri Bakhtiarpur,India,Bihar,Saharsa
+subDistrict,Nauhatta,Nauhatta,India,Bihar,Saharsa
+subDistrict,Salkhua,Salkhua,India,Bihar,Saharsa
+subDistrict,SatarKataiya,Satar Kataiya,India,Bihar,Saharsa
+subDistrict,Kahara,Kahara,India,Bihar,Saharsa
+subDistrict,Mahishi,Mahishi,India,Bihar,Saharsa
+subDistrict,Sonbarsa,Sonbarsa,India,Bihar,Saharsa
+subDistrict,Patarghat,Patarghat,India,Bihar,Saharsa
+subDistrict,BanmaItahri,Banma Itahri,India,Bihar,Saharsa
+,,,,,
+subDistrict,Bibhutpur,Bibhutpur,India,Bihar,Samastipur
+subDistrict,Singhia,Singhia,India,Bihar,Samastipur
+subDistrict,Warisnagar,Warisnagar,India,Bihar,Samastipur
+subDistrict,Kalyanpur,Kalyanpur,India,Bihar,Samastipur
+subDistrict,Rosera,Rosera,India,Bihar,Samastipur
+subDistrict,Ujiarpur,Ujiarpur,India,Bihar,Samastipur
+subDistrict,Sarairanjan,Sarairanjan,India,Bihar,Samastipur
+subDistrict,Morwa,Morwa,India,Bihar,Samastipur
+subDistrict,Khanpur,Khanpur,India,Bihar,Samastipur
+subDistrict,Tajpur,Tajpur,India,Bihar,Samastipur
+subDistrict,Mohanpur,Mohanpur,India,Bihar,Samastipur
+subDistrict,Hasanpur,Hasanpur,India,Bihar,Samastipur
+subDistrict,ShivajiNagar,Shivaji Nagar,India,Bihar,Samastipur
+subDistrict,VidyapatiNagar,Vidyapati Nagar,India,Bihar,Samastipur
+,,,,,
+subDistrict,Ekma,Ekma,India,Bihar,Saran
+subDistrict,Dariapur,Dariapur,India,Bihar,Saran
+subDistrict,Chapra,Chapra,India,Bihar,Saran
+subDistrict,Baniapur,Baniapur,India,Bihar,Saran
+subDistrict,Ishupur,Ishupur,India,Bihar,Saran
+subDistrict,Taraiya,Taraiya,India,Bihar,Saran
+subDistrict,Manjhi,Manjhi,India,Bihar,Saran
+subDistrict,Mashrakh,Mashrakh,India,Bihar,Saran
+subDistrict,Marhaura,Marhaura,India,Bihar,Saran
+subDistrict,Jalalpur,Jalalpur,India,Bihar,Saran
+subDistrict,Dighwara,Dighwara,India,Bihar,Saran
+subDistrict,Nagra,Nagra,India,Bihar,Saran
+subDistrict,Maker,Maker,India,Bihar,Saran
+subDistrict,Panapur,Panapur,India,Bihar,Saran
+subDistrict,Lahladpur,Lahladpur,India,Bihar,Saran
+,,,,,
+subDistrict,Sheohar,Sheohar,India,Bihar,Sheohar
+subDistrict,TarianiChowk,Tariani Chowk,India,Bihar,Sheohar
+subDistrict,DumriKatsari,Dumri Katsari,India,Bihar,Sheohar
+subDistrict,Piprarhi,Piprarhi,India,Bihar,Sheohar
+subDistrict,Purnahiya,Purnahiya,India,Bihar,Sheohar
+,,,,,
+subDistrict,Bairgania,Bairgania,India,Bihar,Sitamarhi
+subDistrict,Bajpatti,Bajpatti,India,Bihar,Sitamarhi
+subDistrict,Bathnaha,Bathnaha,India,Bihar,Sitamarhi
+subDistrict,Bokhara,Bokhara,India,Bihar,Sitamarhi
+subDistrict,Charaut,Charaut,India,Bihar,Sitamarhi
+subDistrict,Dumra,Dumra,India,Bihar,Sitamarhi
+subDistrict,Nanpur,Nanpur,India,Bihar,Sitamarhi
+subDistrict,Parihar,Parihar,India,Bihar,Sitamarhi
+subDistrict,Parsauni,Parsauni,India,Bihar,Sitamarhi
+subDistrict,Pupri,Pupri,India,Bihar,Sitamarhi
+subDistrict,Riga,Riga,India,Bihar,Sitamarhi
+subDistrict,Runisaidpur,Runisaidpur,India,Bihar,Sitamarhi
+subDistrict,Sonbarsa,Sonbarsa,India,Bihar,Sitamarhi
+subDistrict,Sursand,Sursand,India,Bihar,Sitamarhi
+,,,,,
+subDistrict,Andar,Andar,India,Bihar,Siwan
+subDistrict,Barharia,Barharia,India,Bihar,Siwan
+subDistrict,Basantpur,Basantpur,India,Bihar,Siwan
+subDistrict,BhagwanpurHat,Bhagwanpur Hat,India,Bihar,Siwan
+subDistrict,Darauli,Darauli,India,Bihar,Siwan
+subDistrict,Goriakothi,Goriakothi,India,Bihar,Siwan
+subDistrict,Guthani,Guthani,India,Bihar,Siwan
+subDistrict,Hussainganj,Hussainganj,India,Bihar,Siwan
+subDistrict,LakriNabiganj,LakriNabiganj,India,Bihar,Siwan
+subDistrict,Maharajganj,Maharajganj,India,Bihar,Siwan
+subDistrict,Mairwa,Mairwa,India,Bihar,Siwan
+subDistrict,Pachrukhi,Pachrukhi,India,Bihar,Siwan
+subDistrict,Raghunathpur,Raghunathpur,India,Bihar,Siwan
+subDistrict,Siswan,Siswan,India,Bihar,Siwan
+subDistrict,Siwan,Siwan,India,Bihar,Siwan
+,,,,,
+subDistrict,Basantpur,Basantpur,India,Bihar,Supaul
+subDistrict,Chhatapur,Chhatapur,India,Bihar,Supaul
+subDistrict,Kishanpur,Kishanpur,India,Bihar,Supaul
+subDistrict,Marauna,Marauna,India,Bihar,Supaul
+subDistrict,Nirmali,Nirmali,India,Bihar,Supaul
+subDistrict,Pipra,Pipra,India,Bihar,Supaul
+subDistrict,Raghopur,Raghopur,India,Bihar,Supaul
+subDistrict,SaraigarhBhaptiyahi,Saraigarh Bhaptiyahi,India,Bihar,Supaul
+subDistrict,Supaul,Supaul,India,Bihar,Supaul
+subDistrict,Tribeniganj,Tribeniganj,India,Bihar,Supaul
+,,,,,
+subDistrict,Bhagwanpur,Bhagwanpur,India,Bihar,Vaishali
+subDistrict,Bidupur,Bidupur,India,Bihar,Vaishali
+subDistrict,Desri,Desri,India,Bihar,Vaishali
+subDistrict,Goraul,Goraul,India,Bihar,Vaishali
+subDistrict,Hajipur,Hajipur,India,Bihar,Vaishali
+subDistrict,Jandaha,Jandaha,India,Bihar,Vaishali
+subDistrict,Lalganj,Lalganj,India,Bihar,Vaishali
+subDistrict,Mahua,Mahua,India,Bihar,Vaishali
+subDistrict,Patepur,Patepur,India,Bihar,Vaishali
+subDistrict,Raghopur,Raghopur,India,Bihar,Vaishali
+subDistrict,SahdaiBuzurg,Sahdai Buzurg,India,Bihar,Vaishali
+subDistrict,Vaishali,Vaishali,India,Bihar,Vaishali
+,,,,,
+subDistrict,Bagaha,Bagaha,India,Bihar,WestChamparan
+subDistrict,Bairia,Bairia,India,Bihar,WestChamparan
+subDistrict,Bettiah,Bettiah,India,Bihar,WestChamparan
+subDistrict,Chanpatia,Chanpatia,India,Bihar,WestChamparan
+subDistrict,Gaunaha,Gaunaha,India,Bihar,WestChamparan
+subDistrict,Guanaha,Guanaha,India,Bihar,WestChamparan
+subDistrict,Jogapatti,Jogapatti,India,Bihar,WestChamparan
+subDistrict,Lauriya,Lauriya,India,Bihar,WestChamparan
+subDistrict,Madhubani,Madhubani,India,Bihar,WestChamparan
+subDistrict,Mainatanr,Mainatanr,India,Bihar,WestChamparan
+subDistrict,Majhaulia,Majhaulia,India,Bihar,WestChamparan
+subDistrict,Narkatiaganj,Narkatiaganj,India,Bihar,WestChamparan
+subDistrict,Nautan,Nautan,India,Bihar,WestChamparan
+subDistrict,Ramnagar,Ramnagar,India,Bihar,WestChamparan
+subDistrict,Sikta,Sikta,India,Bihar,WestChamparan
+,,,,,
+,,,,,
+subDistrict,Antagarh,Antagarh,India,Chattisgarh,Kanker
+subDistrict,Bhanupratappur,Bhanupratappur,India,Chattisgarh,Kanker
+subDistrict,Charama,Charama,India,Chattisgarh,Kanker
+subDistrict,Durgukondal,Durgukondal,India,Chattisgarh,Kanker
+subDistrict,Kanker,Kanker,India,Chattisgarh,Kanker
+subDistrict,Koylibeda,Koylibeda,India,Chattisgarh,Kanker
+subDistrict,Narharpur,Narharpur,India,Chattisgarh,Kanker
+,,,,,
+subDistrict,Abanpur,Abanpur,India,Chattisgarh,Raipur
+subDistrict,Arang,Arang,India,Chattisgarh,Raipur
+subDistrict,Dharsiwa,Dharsiwa,India,Chattisgarh,Raipur
+subDistrict,Tilda,Tilda,India,Chattisgarh,Raipur
+,,,,,
+subDistrict,Bagbahara,Bagbahara,India,Chattisgarh,Mahasamund
+subDistrict,Basna ,Basna ,India,Chattisgarh,Mahasamund
+subDistrict,Mahsamund,Mahsamund,India,Chattisgarh,Mahasamund
+subDistrict,Pithora,Pithora,India,Chattisgarh,Mahasamund
+subDistrict,Saraipali,Saraipali,India,Chattisgarh,Mahasamund
+,,,,,
+subDistrict,CoochBehar_I,CoochBehar - I,India,WestBengal,CoochBehar
+subDistrict,CoochBehar_II,CoochBehar - II,India,WestBengal,CoochBehar
+subDistrict,Dinhata_I,Dinhata - I,India,WestBengal,CoochBehar
+subDistrict,Dinhata_II,Dinhata - II,India,WestBengal,CoochBehar
+subDistrict,Haldibari,Haldibari,India,WestBengal,CoochBehar
+subDistrict,Mathabhanga_I,Mathabhanga - I,India,WestBengal,CoochBehar
+subDistrict,Mathabhanga_II,Mathabhanga - II,India,WestBengal,CoochBehar
+subDistrict,Mekhliganj,Mekhliganj,India,WestBengal,CoochBehar
+subDistrict,Sitai,Sitai,India,WestBengal,CoochBehar
+subDistrict,Sitalkuchi,Sitalkuchi,India,WestBengal,CoochBehar
+subDistrict,Tufanganj_I,Tufanganj - I,India,WestBengal,CoochBehar
+subDistrict,Tufanganj_II,Tufanganj - II,India,WestBengal,CoochBehar
+,,,,,
+subDistrict,Arambag,Arambag,India,WestBengal,Hugly
+subDistrict,Balagarh,Balagarh,India,WestBengal,Hugly
+subDistrict,Chanditala_I,Chanditala - I,India,WestBengal,Hugly
+subDistrict,Chanditala_II,Chanditala - II,India,WestBengal,Hugly
+subDistrict,ChinsurahMagra,ChinsurahMagra,India,WestBengal,Hugly
+subDistrict,Dhaniakhali,Dhaniakhali,India,WestBengal,Hugly
+subDistrict,Goghat_I,Goghat - I,India,WestBengal,Hugly
+subDistrict,Goghat_II,Goghat - II,India,WestBengal,Hugly
+subDistrict,Haripal,Haripal,India,WestBengal,Hugly
+subDistrict,Jangipara,Jangipara,India,WestBengal,Hugly
+subDistrict,Khanakul_I,Khanakul - I,India,WestBengal,Hugly
+subDistrict,Khanakul_II,Khanakul - II,India,WestBengal,Hugly
+subDistrict,Pandua,Pandua,India,WestBengal,Hugly
+subDistrict,PolbaDadpur,PolbaDadpur,India,WestBengal,Hugly
+subDistrict,Pursura,Pursura,India,WestBengal,Hugly
+subDistrict,SerampurUttarpara,SerampurUttarpara,India,WestBengal,Hugly
+subDistrict,Singur,Singur,India,WestBengal,Hugly
+subDistrict,Tarakeswar,Tarakeswar,India,WestBengal,Hugly
+,,,,,
+subDistrict,Binpur_I,Binpur - I,India,WestBengal,Medinipur
+subDistrict,Binpur_II,Binpur - II,India,WestBengal,Medinipur
+subDistrict,Chandrakona_I,Chandrakona - I,India,WestBengal,Medinipur
+subDistrict,Chandrakona_II,Chandrakona - II,India,WestBengal,Medinipur
+subDistrict,Dantan_I,Dantan - I,India,WestBengal,Medinipur
+subDistrict,Dantan_II,Dantan - II,India,WestBengal,Medinipur
+subDistrict,Daspur_I,Daspur - I,India,WestBengal,Medinipur
+subDistrict,Daspur_II,Daspur - II,India,WestBengal,Medinipur
+subDistrict,Debra,Debra,India,WestBengal,Medinipur
+subDistrict,Garbeta _III,Garbeta  - III,India,WestBengal,Medinipur
+subDistrict,Garbeta_I,Garbeta - I,India,WestBengal,Medinipur
+subDistrict,Garbeta_II,Garbeta - II,India,WestBengal,Medinipur
+subDistrict,Ghatal,Ghatal,India,WestBengal,Medinipur
+subDistrict,Gopiballavpur_I,Gopiballavpur - I,India,WestBengal,Medinipur
+subDistrict,Gopiballavpur_II,Gopiballavpur - II,India,WestBengal,Medinipur
+subDistrict,Jamboni,Jamboni,India,WestBengal,Medinipur
+subDistrict,Jhargram,Jhargram,India,WestBengal,Medinipur
+subDistrict,Keshiary,Keshiary,India,WestBengal,Medinipur
+subDistrict,Keshpur,Keshpur,India,WestBengal,Medinipur
+subDistrict,Kharagpur_I,Kharagpur - I,India,WestBengal,Medinipur
+subDistrict,Kharagpur_II,Kharagpur - II,India,WestBengal,Medinipur
+subDistrict,Midnapore,Midnapore,India,WestBengal,Medinipur
+subDistrict,Mohanpur,Mohanpur,India,WestBengal,Medinipur
+subDistrict,Narayangarh,Narayangarh,India,WestBengal,Medinipur
+subDistrict,Nayagram,Nayagram,India,WestBengal,Medinipur
+subDistrict,PaschimMedinipur,PaschimMedinipur,India,WestBengal,Medinipur
+subDistrict,Pingla,Pingla,India,WestBengal,Medinipur
+subDistrict,Sabang,Sabang,India,WestBengal,Medinipur
+subDistrict,Salbani,Salbani,India,WestBengal,Medinipur
+subDistrict,Sankrail,Sankrail,India,WestBengal,Medinipur
+subDistrict,Ausgram_I,Ausgram - I,India,WestBengal,Barddhaman
+subDistrict,Ausgram_II,Ausgram - II,India,WestBengal,Barddhaman
+subDistrict,Barabani,Barabani,India,WestBengal,Barddhaman
+subDistrict,Barddhaman,Barddhaman,India,WestBengal,Barddhaman
+subDistrict,Bhatar,Bhatar,India,WestBengal,Barddhaman
+subDistrict,Burdwan_I,Burdwan - I,India,WestBengal,Barddhaman
+subDistrict,Burdwan_II,Burdwan - II,India,WestBengal,Barddhaman
+subDistrict,Faridpur Durgapur,Faridpur Durgapur,India,WestBengal,Barddhaman
+subDistrict,Galsi_I,Galsi - I,India,WestBengal,Barddhaman
+subDistrict,Galsi_II,Galsi - II,India,WestBengal,Barddhaman
+subDistrict,Jamalpur,Jamalpur,India,WestBengal,Barddhaman
+subDistrict,Jamuria,Jamuria,India,WestBengal,Barddhaman
+subDistrict,Kalna_I,Kalna - I,India,WestBengal,Barddhaman
+subDistrict,Kalna_II,Kalna - II,India,WestBengal,Barddhaman
+subDistrict,Kanksa,Kanksa,India,WestBengal,Barddhaman
+subDistrict,Katwa_I,Katwa - I,India,WestBengal,Barddhaman
+subDistrict,Katwa_II,Katwa - II,India,WestBengal,Barddhaman
+subDistrict,Ketugram_I,Ketugram - I,India,WestBengal,Barddhaman
+subDistrict,Ketugram_II,Ketugram - II,India,WestBengal,Barddhaman
+subDistrict,Khandaghosh,Khandaghosh,India,WestBengal,Barddhaman
+subDistrict,Mangolkote,Mangolkote,India,WestBengal,Barddhaman
+subDistrict,Manteswar,Manteswar,India,WestBengal,Barddhaman
+subDistrict,Memari_I,Memari - I,India,WestBengal,Barddhaman
+subDistrict,Memari_II,Memari - II,India,WestBengal,Barddhaman
+subDistrict,Ondal,Ondal,India,WestBengal,Barddhaman
+subDistrict,Pandabeswar,Pandabeswar,India,WestBengal,Barddhaman
+subDistrict,Purbasthali_I,Purbasthali - I,India,WestBengal,Barddhaman
+subDistrict,Purbasthali_II,Purbasthali - II,India,WestBengal,Barddhaman
+subDistrict,Raina_I,Raina - I,India,WestBengal,Barddhaman
+subDistrict,Raina_II,Raina - II,India,WestBengal,Barddhaman
+subDistrict,Raniganj,Raniganj,India,WestBengal,Barddhaman
+subDistrict,Salanpur,Salanpur,India,WestBengal,Barddhaman
+subDistrict,Amta_I,Amta - I,India,WestBengal,Howrah
+subDistrict,Amta_II,Amta - II,India,WestBengal,Howrah
+subDistrict,Bagnan_I,Bagnan - I,India,WestBengal,Howrah
+subDistrict,Bagnan_II,Bagnan - II,India,WestBengal,Howrah
+subDistrict,BallyJagachha,BallyJagachha,India,WestBengal,Howrah
+subDistrict,Domjur,Domjur,India,WestBengal,Howrah
+subDistrict,Haora,Haora,India,WestBengal,Howrah
+subDistrict,Jagaballavpur,Jagaballavpur,India,WestBengal,Howrah
+subDistrict,Panchla,Panchla,India,WestBengal,Howrah
+subDistrict,Sankrail,Sankrail,India,WestBengal,Howrah
+subDistrict,Shyampur_I,Shyampur - I,India,WestBengal,Howrah
+subDistrict,Shyampur_II,Shyampur - II,India,WestBengal,Howrah
+subDistrict,Udaynarayanpur,Udaynarayanpur,India,WestBengal,Howrah
+subDistrict,Uluberia_I,Uluberia - I,India,WestBengal,Howrah
+subDistrict,Uluberia_II,Uluberia - II,India,WestBengal,Howrah
+subDistrict,Bamangola,Bamangola,India,WestBengal,Maldah
+subDistrict,Chanchal_I,Chanchal - I,India,WestBengal,Maldah
+subDistrict,Chanchal_II,Chanchal - II,India,WestBengal,Maldah
+subDistrict,EnglishBazar,English Bazar,India,WestBengal,Maldah
+subDistrict,Gazole,Gazole,India,WestBengal,Maldah
+subDistrict,Habibpur,Habibpur,India,WestBengal,Maldah
+subDistrict,Harischandrapur_I,Harischandrapur - I,India,WestBengal,Maldah
+subDistrict,Harischandrapur_II,Harischandrapur - II,India,WestBengal,Maldah
+subDistrict,Kaliachak_I,Kaliachak - I,India,WestBengal,Maldah
+subDistrict,Kaliachak_II,Kaliachak - II,India,WestBengal,Maldah
+subDistrict,Kaliachak_III,Kaliachak - III,India,WestBengal,Maldah
+subDistrict,Maldah,Maldah,India,WestBengal,Maldah
+subDistrict,Maldah_OLD,Maldah (Old),India,WestBengal,Maldah
+subDistrict,Manikchak,Manikchak,India,WestBengal,Maldah
+subDistrict,Ratua_I,Ratua - I,India,WestBengal,Maldah
+subDistrict,Ratua_II,Ratua - II,India,WestBengal,Maldah
+subDistrict,Beldanga_I,Beldanga - I,India,WestBengal,Murshidabad
+subDistrict,Beldanga_II,Beldanga - II,India,WestBengal,Murshidabad
+subDistrict,Berhampore,Berhampore,India,WestBengal,Murshidabad
+subDistrict,Bhagawangola_I,Bhagawangola - I,India,WestBengal,Murshidabad
+subDistrict,Bhagawangola_II,Bhagawangola - II,India,WestBengal,Murshidabad
+subDistrict,Bharatpur_I,Bharatpur - I,India,WestBengal,Murshidabad
+subDistrict,Bharatpur_II,Bharatpur - II,India,WestBengal,Murshidabad
+subDistrict,Burwan,Burwan,India,WestBengal,Murshidabad
+subDistrict,Domkal,Domkal,India,WestBengal,Murshidabad
+subDistrict,Farakka,Farakka,India,WestBengal,Murshidabad
+subDistrict,Hariharpara,Hariharpara,India,WestBengal,Murshidabad
+subDistrict,Jalangi,Jalangi,India,WestBengal,Murshidabad
+subDistrict,Kandi,Kandi,India,WestBengal,Murshidabad
+subDistrict,Khargram,Khargram,India,WestBengal,Murshidabad
+subDistrict,Lalgola,Lalgola,India,WestBengal,Murshidabad
+subDistrict,MurshidabadJiaganj,Murshidabad Jiaganj,India,WestBengal,Murshidabad
+subDistrict,Murshidabad,Murshidabad,India,WestBengal,Murshidabad
+subDistrict,Nabagram,Nabagram,India,WestBengal,Murshidabad
+subDistrict,Nawda,Nawda,India,WestBengal,Murshidabad
+subDistrict,Raghunathganj_I,Raghunathganj - I,India,WestBengal,Murshidabad
+subDistrict,Raghunathganj_II,Raghunathganj - II,India,WestBengal,Murshidabad
+subDistrict,Raninagar_I,Raninagar - I,India,WestBengal,Murshidabad
+subDistrict,Raninagar_II,Raninagar - II,India,WestBengal,Murshidabad
+subDistrict,Sagardighi,Sagardighi,India,WestBengal,Murshidabad
+subDistrict,Samserganj,Samserganj,India,WestBengal,Murshidabad
+subDistrict,Suti_I,Suti - I,India,WestBengal,Murshidabad
+subDistrict,Suti_II,Suti - II,India,WestBengal,Murshidabad
+subDistrict,Chakdah,Chakdah,India,WestBengal,Nadia
+subDistrict,Chapra,Chapra,India,WestBengal,Nadia
+subDistrict,Hanskhali,Hanskhali,India,WestBengal,Nadia
+subDistrict,Haringhata,Haringhata,India,WestBengal,Nadia
+subDistrict,Kaliganj,Kaliganj,India,WestBengal,Nadia
+subDistrict,Karimpur_I,Karimpur - I,India,WestBengal,Nadia
+subDistrict,Karimpur_II,Karimpur - II,India,WestBengal,Nadia
+subDistrict,Krishnaganj,Krishnaganj,India,WestBengal,Nadia
+subDistrict,Krishnagar_I,Krishnagar - I,India,WestBengal,Nadia
+subDistrict,Krishnagar_II,Krishnagar - II,India,WestBengal,Nadia
+subDistrict,Nabadwip,Nabadwip,India,WestBengal,Nadia
+subDistrict,Nadia,Nadia,India,WestBengal,Nadia
+subDistrict,Nakashipara,Nakashipara,India,WestBengal,Nadia
+subDistrict,Ranaghat_I,Ranaghat - I,India,WestBengal,Nadia
+subDistrict,Ranaghat_II,Ranaghat - II,India,WestBengal,Nadia
+subDistrict,Santipur,Santipur,India,WestBengal,Nadia
+subDistrict,Tehatta_I,Tehatta - I,India,WestBengal,Nadia
+subDistrict,Tehatta_II,Tehatta - II,India,WestBengal,Nadia
+subDistrict,Amdanga,Amdanga,India,WestBengal,North24Parganas
+subDistrict,Baduria,Baduria,India,WestBengal,North24Parganas
+subDistrict,Bagda,Bagda,India,WestBengal,North24Parganas
+subDistrict,Barasat_I,Barasat - I,India,WestBengal,North24Parganas
+subDistrict,Barasat_II,Barasat - II,India,WestBengal,North24Parganas
+subDistrict,Barrackpur_I,Barrackpur - I,India,WestBengal,North24Parganas
+subDistrict,Barrackpur_II,Barrackpur - II,India,WestBengal,North24Parganas
+subDistrict,Basirhat_I,Basirhat - I,India,WestBengal,North24Parganas
+subDistrict,Basirhat_II,Basirhat - II,India,WestBengal,North24Parganas
+subDistrict,Bongaon,Bongaon,India,WestBengal,North24Parganas
+subDistrict,Deganga,Deganga,India,WestBengal,North24Parganas
+subDistrict,Gaighata,Gaighata,India,WestBengal,North24Parganas
+subDistrict,Habra_I,Habra - I,India,WestBengal,North24Parganas
+subDistrict,Habra_II,Habra - II,India,WestBengal,North24Parganas
+subDistrict,Haroa,Haroa,India,WestBengal,North24Parganas
+subDistrict,Hasnabad,Hasnabad,India,WestBengal,North24Parganas
+subDistrict,Hingalganj,Hingalganj,India,WestBengal,North24Parganas
+subDistrict,Minakhan,Minakhan,India,WestBengal,North24Parganas
+subDistrict,NorthTwentyFourParganas,North Twenty Four Parganas,India,WestBengal,North24Parganas
+subDistrict,Rajarhat,Rajarhat,India,WestBengal,North24Parganas
+subDistrict,Sandeshkhali_I,Sandeshkhali - I,India,WestBengal,North24Parganas
+subDistrict,Sandeshkhali_II,Sandeshkhali - II,India,WestBengal,North24Parganas
+subDistrict,Swarupnagar,Swarupnagar,India,WestBengal,North24Parganas
+subDistrict,Arsha,Arsha,India,WestBengal,Puruliya
+subDistrict,Bagmundi,Bagmundi,India,WestBengal,Puruliya
+subDistrict,Balarampur,Balarampur,India,WestBengal,Puruliya
+subDistrict,Barabazar,Barabazar,India,WestBengal,Puruliya
+subDistrict,Bundwan,Bundwan,India,WestBengal,Puruliya
+subDistrict,Hura,Hura,India,WestBengal,Puruliya
+subDistrict,Jaipur,Jaipur,India,WestBengal,Puruliya
+subDistrict,Jhalda_I,Jhalda - I,India,WestBengal,Puruliya
+subDistrict,Jhalda_II,Jhalda - II,India,WestBengal,Puruliya
+subDistrict,Kashipur,Kashipur,India,WestBengal,Puruliya
+subDistrict,Manbazar_I,Manbazar - I,India,WestBengal,Puruliya
+subDistrict,Manbazar_II,Manbazar - II,India,WestBengal,Puruliya
+subDistrict,Neturia,Neturia,India,WestBengal,Puruliya
+subDistrict,Para,Para,India,WestBengal,Puruliya
+subDistrict,Puncha,Puncha,India,WestBengal,Puruliya
+subDistrict,Purulia_I,Purulia - I,India,WestBengal,Puruliya
+subDistrict,Purulia_II,Purulia - II,India,WestBengal,Puruliya
+subDistrict,Puruliya,Puruliya,India,WestBengal,Puruliya
+subDistrict,Raghunathpur_I,Raghunathpur - I,India,WestBengal,Puruliya
+subDistrict,Raghunathpur_II,Raghunathpur - II,India,WestBengal,Puruliya
+subDistrict,Santuri,Santuri,India,WestBengal,Puruliya
+subDistrict,Baruipur,Baruipur,India,WestBengal,South24Parganas
+subDistrict,Basanti,Basanti,India,WestBengal,South24Parganas
+subDistrict,Bhangar_I,Bhangar - I,India,WestBengal,South24Parganas
+subDistrict,Bhangar_II,Bhangar - II,India,WestBengal,South24Parganas
+subDistrict,Bishnupur_I,Bishnupur - I,India,WestBengal,South24Parganas
+subDistrict,Bishnupur_II,Bishnupur - II,India,WestBengal,South24Parganas
+subDistrict,Budge Budge_I,Budge Budge - I,India,WestBengal,South24Parganas
+subDistrict,Budge Budge_II,Budge Budge - II,India,WestBengal,South24Parganas
+subDistrict,Canning_I,Canning - I,India,WestBengal,South24Parganas
+subDistrict,Canning_II,Canning - II,India,WestBengal,South24Parganas
+subDistrict,DiamondHarbour_I,Diamond Harbour - I,India,WestBengal,South24Parganas
+subDistrict,DiamondHarbour_II,Diamond Harbour - II,India,WestBengal,South24Parganas
+subDistrict,Falta,Falta,India,WestBengal,South24Parganas
+subDistrict,Gosaba,Gosaba,India,WestBengal,South24Parganas
+subDistrict,Jaynagar_I,Jaynagar - I,India,WestBengal,South24Parganas
+subDistrict,Jaynagar_II,Jaynagar - II,India,WestBengal,South24Parganas
+subDistrict,Kakdwip,Kakdwip,India,WestBengal,South24Parganas
+subDistrict,Kulpi,Kulpi,India,WestBengal,South24Parganas
+subDistrict,Kultali,Kultali,India,WestBengal,South24Parganas
+subDistrict,Magrahat_I,Magrahat - I,India,WestBengal,South24Parganas
+subDistrict,Magrahat_II,Magrahat - II,India,WestBengal,South24Parganas
+subDistrict,Mandirbazar,Mandirbazar,India,WestBengal,South24Parganas
+subDistrict,Mathurapur_I,Mathurapur - I,India,WestBengal,South24Parganas
+subDistrict,Mathurapur_II,Mathurapur - II,India,WestBengal,South24Parganas
+subDistrict,Namkhana,Namkhana,India,WestBengal,South24Parganas
+subDistrict,Patharpratima,Patharpratima,India,WestBengal,South24Parganas
+subDistrict,Sagar,Sagar,India,WestBengal,South24Parganas
+subDistrict,Sonarpur,Sonarpur,India,WestBengal,South24Parganas
+subDistrict,SouthTwentyFourParganas,South Twenty Four Parganas,India,WestBengal,South24Parganas
+subDistrict,ThakurpukurMahestola,Thakurpukur Mahestola,India,WestBengal,South24Parganas
+subDistrict,Raiganj,Raiganj,India,WestBengal,UttarDinajpur
+subDistrict,Chopra,Chopra,India,WestBengal,UttarDinajpur
+subDistrict,Goalpokhar_I,Goalpokhar - I,India,WestBengal,UttarDinajpur
+subDistrict,Goalpokhar_II,Goalpokhar - II,India,WestBengal,UttarDinajpur
+subDistrict,Hemtabad,Hemtabad,India,WestBengal,UttarDinajpur
+subDistrict,Islampur,Islampur,India,WestBengal,UttarDinajpur
+subDistrict,Itahar,Itahar,India,WestBengal,UttarDinajpur
+subDistrict,Kaliaganj,Kaliaganj,India,WestBengal,UttarDinajpur
+subDistrict,Karandighi,Karandighi,India,WestBengal,UttarDinajpur
+subDistrict,UttarDinajpur,Uttar Dinajpur,India,WestBengal,UttarDinajpur
+,,,,,
+,,,,,
+,,,,,
+subDistrict,Bairiya,Bairiya,India,UttarPradesh,Balia
+subDistrict,Bansdih,Bansdih,India,UttarPradesh,Balia
+subDistrict,Belhari,Belhari,India,UttarPradesh,Balia
+subDistrict,Beruarwari,Beruarwari,India,UttarPradesh,Balia
+subDistrict,Chilkahar,Chilkahar,India,UttarPradesh,Balia
+subDistrict,Garwar,Garwar,India,UttarPradesh,Balia
+subDistrict,Hanumanganj,Hanumanganj,India,UttarPradesh,Balia
+subDistrict,Maniyar,Maniyar,India,UttarPradesh,Balia
+subDistrict,MurliChhapra,MurliChhapra,India,UttarPradesh,Balia
+subDistrict,Nagra,Nagra,India,UttarPradesh,Balia
+subDistrict,Navanagar,Navanagar,India,UttarPradesh,Balia
+subDistrict,Pandah,Pandah,India,UttarPradesh,Balia
+subDistrict,Rasra,Rasra,India,UttarPradesh,Balia
+subDistrict,Revati,Revati,India,UttarPradesh,Balia
+subDistrict,Siar,Siar,India,UttarPradesh,Balia
+subDistrict,Sohaon,Sohaon,India,UttarPradesh,Balia
+subDistrict,Barahani,Barahani,India,UttarPradesh,Chandauli
+subDistrict,Chakiya,Chakiya,India,UttarPradesh,Chandauli
+subDistrict,Naugarh,Naugarh,India,UttarPradesh,Chandauli
+subDistrict,Chahaniya,Chahaniya,India,UttarPradesh,Chandauli
+subDistrict,Chandauli,Chandauli,India,UttarPradesh,Chandauli
+subDistrict,Dhanapur,Dhanapur,India,UttarPradesh,Chandauli
+subDistrict,Niyamtabad,Niyamtabad,India,UttarPradesh,Chandauli
+subDistrict,Sakaldeeha,Sakaldeeha,India,UttarPradesh,Chandauli
+subDistrict,Shahabganj,Shahabganj,India,UttarPradesh,Chandauli
+subDistrict,Baitalpur,Baitalpur,India,UttarPradesh,Deoria
+subDistrict,Bankata,Bankata,India,UttarPradesh,Deoria
+subDistrict,Barhaj,Barhaj,India,UttarPradesh,Deoria
+subDistrict,Bhagalpur,Bhagalpur,India,UttarPradesh,Deoria
+subDistrict,Bhaluani,Bhaluani,India,UttarPradesh,Deoria
+subDistrict,Bhatani,Bhatani,India,UttarPradesh,Deoria
+subDistrict,Bhatparani,Bhatparani,India,UttarPradesh,Deoria
+subDistrict,Deoria,Deoria,India,UttarPradesh,Deoria
+subDistrict,DesaiDeoria,DesaiDeoria,India,UttarPradesh,Deoria
+subDistrict,GauriBazar,GauriBazar,India,UttarPradesh,Deoria
+subDistrict,Lar,Lar,India,UttarPradesh,Deoria
+subDistrict,Pathardeva,Pathardeva,India,UttarPradesh,Deoria
+subDistrict,RampurKarkhana,RampurKarkhana,India,UttarPradesh,Deoria
+subDistrict,Rudrapur,Rudrapur,India,UttarPradesh,Deoria
+subDistrict,Salempur,Salempur,India,UttarPradesh,Deoria
+subDistrict,Tarkulwa,Tarkulwa,India,UttarPradesh,Deoria
+subDistrict,Barachawar,Barachawar,India,UttarPradesh,Gazipur
+subDistrict,Bhadaura,Bhadaura,India,UttarPradesh,Gazipur
+subDistrict,Bhwarkol ,Bhwarkol ,India,UttarPradesh,Gazipur
+subDistrict,Deokali ,Deokali ,India,UttarPradesh,Gazipur
+subDistrict,Gazipur,Gazipur,India,UttarPradesh,Gazipur
+subDistrict,Jakhnia,Jakhnia,India,UttarPradesh,Gazipur
+subDistrict,Karanda ,Karanda ,India,UttarPradesh,Gazipur
+subDistrict,Kasimabad,Kasimabad,India,UttarPradesh,Gazipur
+subDistrict,Manihari,Manihari,India,UttarPradesh,Gazipur
+subDistrict,Mardah,Mardah,India,UttarPradesh,Gazipur
+subDistrict,Muhammdabad ,Muhammdabad ,India,UttarPradesh,Gazipur
+subDistrict,Reotipur,Reotipur,India,UttarPradesh,Gazipur
+subDistrict,Sadat ,Sadat ,India,UttarPradesh,Gazipur
+subDistrict,Saidpur ,Saidpur ,India,UttarPradesh,Gazipur
+subDistrict,Virno,Virno,India,UttarPradesh,Gazipur
+subDistrict,Zamania ,Zamania ,India,UttarPradesh,Gazipur
+subDistrict,Bansgaon,Bansgaon,India,UttarPradesh,Gorakhpur
+subDistrict,Barhalganj,Barhalganj,India,UttarPradesh,Gorakhpur
+subDistrict,Belghat,Belghat,India,UttarPradesh,Gorakhpur
+subDistrict,Bhathat,Bhathat,India,UttarPradesh,Gorakhpur
+subDistrict,Brahmpur,Brahmpur,India,UttarPradesh,Gorakhpur
+subDistrict,CampiereGanj,Campiere Ganj,India,UttarPradesh,Gorakhpur
+subDistrict,Chargawan,Chargawan,India,UttarPradesh,Gorakhpur
+subDistrict,Gagha,Gagha,India,UttarPradesh,Gorakhpur
+subDistrict,Gola,Gola,India,UttarPradesh,Gorakhpur
+subDistrict,Jangalkudia,Jangal kudia,India,UttarPradesh,Gorakhpur
+subDistrict,Kaurairam,Kaurairam,India,UttarPradesh,Gorakhpur
+subDistrict,Khajani,Khajani,India,UttarPradesh,Gorakhpur
+subDistrict,Khorabar,Khorabar,India,UttarPradesh,Gorakhpur
+subDistrict,Pali,Pali,India,UttarPradesh,Gorakhpur
+subDistrict,Pipraich,Pipraich,India,UttarPradesh,Gorakhpur
+subDistrict,Piprauli,Piprauli,India,UttarPradesh,Gorakhpur
+subDistrict,Sahjanwa,Sahjanwa,India,UttarPradesh,Gorakhpur
+subDistrict,Sardarnagar,Sardarnagar,India,UttarPradesh,Gorakhpur
+subDistrict,Uruwa,Uruwa,India,UttarPradesh,Gorakhpur
+subDistrict,Dudhahi,Dudhahi,India,UttarPradesh,Kushinagar
+subDistrict,Fazilnagar,Fazilnagar,India,UttarPradesh,Kushinagar
+subDistrict,Hata,Hata,India,UttarPradesh,Kushinagar
+subDistrict,Kaptanganj,Kaptanganj,India,UttarPradesh,Kushinagar
+subDistrict,Kasya,Kasya,India,UttarPradesh,Kushinagar
+subDistrict,Khada,Khada,India,UttarPradesh,Kushinagar
+subDistrict,Motichak,Motichak,India,UttarPradesh,Kushinagar
+subDistrict,NebuaNaurangiya,Nebua Naurangiya,India,UttarPradesh,Kushinagar
+subDistrict,Padrauna,Padrauna,India,UttarPradesh,Kushinagar
+subDistrict,Ramkola,Ramkola,India,UttarPradesh,Kushinagar
+subDistrict,Sewarhi,Sewarhi,India,UttarPradesh,Kushinagar
+subDistrict,Sukrauli,Sukrauli,India,UttarPradesh,Kushinagar
+subDistrict,Tamkuhiraj,Tamkuhiraj,India,UttarPradesh,Kushinagar
+subDistrict,Vishunpura,Vishunpura,India,UttarPradesh,Kushinagar
+subDistrict,Brijmangaj,Brijmangaj,India,UttarPradesh,Maharajganj
+subDistrict,Dhani,Dhani,India,UttarPradesh,Maharajganj
+subDistrict,Ghughuli,Ghughuli,India,UttarPradesh,Maharajganj
+subDistrict,Lakshmipur,Lakshmipur,India,UttarPradesh,Maharajganj
+subDistrict,Mahrajganj,Mahrajganj,India,UttarPradesh,Maharajganj
+subDistrict,Mithaura,Mithaura,India,UttarPradesh,Maharajganj
+subDistrict,Nautanawa,Nautanawa,India,UttarPradesh,Maharajganj
+subDistrict,Nichlaul,Nichlaul,India,UttarPradesh,Maharajganj
+subDistrict,Paniyara,Paniyara,India,UttarPradesh,Maharajganj
+subDistrict,Partawal,Partawal,India,UttarPradesh,Maharajganj
+subDistrict,Pharenda,Pharenda,India,UttarPradesh,Maharajganj
+subDistrict,Siswa,Siswa,India,UttarPradesh,Maharajganj
+subDistrict,Badraon,Badraon,India,UttarPradesh,Mau
+subDistrict,DohriGhat,DohriGhat,India,UttarPradesh,Mau
+subDistrict,FatehpurMadraun,Fatehpur Madraun,India,UttarPradesh,Mau
+subDistrict,Ghosi,Ghosi,India,UttarPradesh,Mau
+subDistrict,Kopaganj,Kopaganj,India,UttarPradesh,Mau
+subDistrict,MuhammadabadGohana,Muhammadabad Gohana,India,UttarPradesh,Mau
+subDistrict,Pardaha,Pardaha,India,UttarPradesh,Mau
+subDistrict,Ranipur,Ranipur,India,UttarPradesh,Mau
+subDistrict,Ratanpura,Ratanpura,India,UttarPradesh,Mau
+subDistrict,Bansi,Bansi,India,UttarPradesh,Siddharthnagar
+subDistrict,Barhnibajar,Barhni bajar,India,UttarPradesh,Siddharthnagar
+subDistrict,Bhanwapur,Bhanwapur,India,UttarPradesh,Siddharthnagar
+subDistrict,Birdpur,Birdpur,India,UttarPradesh,Siddharthnagar
+subDistrict,Domariyaganj,Domariyaganj,India,UttarPradesh,Siddharthnagar
+subDistrict,Itwa,Itwa,India,UttarPradesh,Siddharthnagar
+subDistrict,Jogiyakhas,Jogiya khas,India,UttarPradesh,Siddharthnagar
+subDistrict,Khesrha,Khesrha,India,UttarPradesh,Siddharthnagar
+subDistrict,Khuniyaon,Khuniyaon,India,UttarPradesh,Siddharthnagar
+subDistrict,Mithwal,Mithwal,India,UttarPradesh,Siddharthnagar
+subDistrict,Naugarh,Naugarh,India,UttarPradesh,Siddharthnagar
+subDistrict,Shohratgarh,Shohratgarh,India,UttarPradesh,Siddharthnagar
+subDistrict,Uskabazar,Uska bazar,India,UttarPradesh,Siddharthnagar
+subDistrict,Akbarpur,Akbarpur,India,UttarPradesh,AmbedkarNagar
+subDistrict,Baskhari,Baskhari,India,UttarPradesh,AmbedkarNagar
+subDistrict,Bhiti,Bhiti,India,UttarPradesh,AmbedkarNagar
+subDistrict,Bhiyaon,Bhiyaon,India,UttarPradesh,AmbedkarNagar
+subDistrict,Jahangirganj,Jahangirganj,India,UttarPradesh,AmbedkarNagar
+subDistrict,Jalalpur,Jalalpur,India,UttarPradesh,AmbedkarNagar
+subDistrict,Katehari,Katehari,India,UttarPradesh,AmbedkarNagar
+subDistrict,Ramnagar,Ramnagar,India,UttarPradesh,AmbedkarNagar
+subDistrict,Tanda,Tanda,India,UttarPradesh,AmbedkarNagar
+subDistrict,Amethi,Amethi,India,UttarPradesh,Amethi
+subDistrict,Bazar Shukul,Bazar Shukul,India,UttarPradesh,Amethi
+subDistrict,Bhadar,Bhadar,India,UttarPradesh,Amethi
+subDistrict,Bhadurpur,Bhadurpur,India,UttarPradesh,Amethi
+subDistrict,Bhetua,Bhetua,India,UttarPradesh,Amethi
+subDistrict,Gauriganj,Gauriganj,India,UttarPradesh,Amethi
+subDistrict,Jagdishpur,Jagdishpur,India,UttarPradesh,Amethi
+subDistrict,Jamo,Jamo,India,UttarPradesh,Amethi
+subDistrict,Musafirkhana,Musafirkhana,India,UttarPradesh,Amethi
+subDistrict,Sangrampur,Sangrampur,India,UttarPradesh,Amethi
+subDistrict,Shahgarh,Shahgarh,India,UttarPradesh,Amethi
+subDistrict,Singhpur,Singhpur,India,UttarPradesh,Amethi
+subDistrict,Tiloi,Tiloi,India,UttarPradesh,Amethi
+subDistrict,Atraulia,Atraulia,India,UttarPradesh,Azamgarh
+subDistrict,Ahiraula,Ahiraula,India,UttarPradesh,Azamgarh
+subDistrict,Azmatgarh,Azmatgarh,India,UttarPradesh,Azamgarh
+subDistrict,Bilariyaganj,Bilariyaganj,India,UttarPradesh,Azamgarh
+subDistrict,Haraiya,Haraiya,India,UttarPradesh,Azamgarh
+subDistrict,Jahanaganj,Jahanaganj,India,UttarPradesh,Azamgarh
+subDistrict,Koilsa,Koilsa,India,UttarPradesh,Azamgarh
+subDistrict,Lalganj,Lalganj,India,UttarPradesh,Azamgarh
+subDistrict,Mahrajganj,Mahrajganj,India,UttarPradesh,Azamgarh
+subDistrict,Martinganj,Martinganj,India,UttarPradesh,Azamgarh
+subDistrict,Mehnagar,Mehnagar,India,UttarPradesh,Azamgarh
+subDistrict,Mirzapur,Mirzapur,India,UttarPradesh,Azamgarh
+subDistrict,Mohammadpur,Mohammadpur,India,UttarPradesh,Azamgarh
+subDistrict,Palhani,Palhani,India,UttarPradesh,Azamgarh
+subDistrict,Palhna,Palhna,India,UttarPradesh,Azamgarh
+subDistrict,Pawai,Pawai,India,UttarPradesh,Azamgarh
+subDistrict,Phulpur,Phulpur,India,UttarPradesh,Azamgarh
+subDistrict,RaniKiSarai,Rani Ki Sarai,India,UttarPradesh,Azamgarh
+subDistrict,Sathiyaon,Sathiyaon,India,UttarPradesh,Azamgarh
+subDistrict,Tahbarpur,Tahbarpur,India,UttarPradesh,Azamgarh
+subDistrict,Tarwa,Tarwa,India,UttarPradesh,Azamgarh
+subDistrict,Thekma,Thekma,India,UttarPradesh,Azamgarh
+subDistrict,Amethi,Amethi,India,UttarPradesh,Azamgarh
+subDistrict,Bahadurpur,Bahadurpur,India,UttarPradesh,Azamgarh
+subDistrict,Bhadar,Bhadar,India,UttarPradesh,Azamgarh
+subDistrict,Bhetua,Bhetua,India,UttarPradesh,Azamgarh
+subDistrict,Gauriganj,Gauriganj,India,UttarPradesh,Azamgarh
+subDistrict,Jagdishpur,Jagdishpur,India,UttarPradesh,Azamgarh
+subDistrict,Jamo,Jamo,India,UttarPradesh,Azamgarh
+subDistrict,MusafirKhana,Musafir Khana,India,UttarPradesh,Azamgarh
+subDistrict,Sangrampur,Sangrampur,India,UttarPradesh,Azamgarh
+subDistrict,Shahgarh,Shahgarh,India,UttarPradesh,Azamgarh
+subDistrict,ShukulBazar,Shukul Bazar,India,UttarPradesh,Azamgarh
+subDistrict,Singhpur,Singhpur,India,UttarPradesh,Azamgarh
+subDistrict,Tiloi,Tiloi,India,UttarPradesh,Azamgarh
+subDistrict,Baberu,Baberu,India,UttarPradesh,Banda
+subDistrict,BadokharKhurd,Badokhar Khurd,India,UttarPradesh,Banda
+subDistrict,Bisanda,Bisanda,India,UttarPradesh,Banda
+subDistrict,Jaspura,Jaspura,India,UttarPradesh,Banda
+subDistrict,Kamasin,Kamasin,India,UttarPradesh,Banda
+subDistrict,Mahuva,Mahuva,India,UttarPradesh,Banda
+subDistrict,Naraini,Naraini,India,UttarPradesh,Banda
+subDistrict,Tindwari,Tindwari,India,UttarPradesh,Banda
+subDistrict,BaniKodar,Bani Kodar,India,UttarPradesh,BaraBanki
+subDistrict,Banki,Banki,India,UttarPradesh,BaraBanki
+subDistrict,Dariyabad,Dariyabad,India,UttarPradesh,BaraBanki
+subDistrict,Dewa,Dewa,India,UttarPradesh,BaraBanki
+subDistrict,Fatehpur,Fatehpur,India,UttarPradesh,BaraBanki
+subDistrict,Haidargarh,Haidargarh,India,UttarPradesh,BaraBanki
+subDistrict,Harakh,Harakh,India,UttarPradesh,BaraBanki
+subDistrict,Masauli,Masauli,India,UttarPradesh,BaraBanki
+subDistrict,Mavai,Mavai,India,UttarPradesh,BaraBanki
+subDistrict,Nindaura,Nindaura,India,UttarPradesh,BaraBanki
+subDistrict,Puredalai,Puredalai,India,UttarPradesh,BaraBanki
+subDistrict,Ramnagar,Ramnagar,India,UttarPradesh,BaraBanki
+subDistrict,Siddhaur,Siddhaur,India,UttarPradesh,BaraBanki
+subDistrict,SirauliGauspur,Sirauli Gauspur,India,UttarPradesh,BaraBanki
+subDistrict,Suratganj,Suratganj,India,UttarPradesh,BaraBanki
+subDistrict,Trivediganj,Trivediganj,India,UttarPradesh,BaraBanki
+subDistrict,AalampurJafarabad,Aalampur Jafarabad,India,UttarPradesh,Bareilly
+subDistrict,Baheri,Baheri,India,UttarPradesh,Bareilly
+subDistrict,Bhadpura,Bhadpura,India,UttarPradesh,Bareilly
+subDistrict,Bhojipura,Bhojipura,India,UttarPradesh,Bareilly
+subDistrict,Bhuta,Bhuta,India,UttarPradesh,Bareilly
+subDistrict,Bithrichainpur,Bithrichainpur,India,UttarPradesh,Bareilly
+subDistrict,Faridpur,Faridpur,India,UttarPradesh,Bareilly
+subDistrict,FatehganjPashchim,Fatehganj Pashchim,India,UttarPradesh,Bareilly
+subDistrict,Kyara ,Kyara ,India,UttarPradesh,Bareilly
+subDistrict,Majhgawan,Majhgawan,India,UttarPradesh,Bareilly
+subDistrict,Mirganj,Mirganj,India,UttarPradesh,Bareilly
+subDistrict,Nawabganj,Nawabganj,India,UttarPradesh,Bareilly
+subDistrict,Ramnagar,Ramnagar,India,UttarPradesh,Bareilly
+subDistrict,Richha,Richha,India,UttarPradesh,Bareilly
+subDistrict,Shergarh,Shergarh,India,UttarPradesh,Bareilly
+subDistrict,Bahadurpur,Bahadurpur,India,UttarPradesh,Basti
+subDistrict,Bankati,Bankati,India,UttarPradesh,Basti
+subDistrict,Basti,Basti,India,UttarPradesh,Basti
+subDistrict,Dubaulia,Dubaulia,India,UttarPradesh,Basti
+subDistrict,Gaur,Gaur,India,UttarPradesh,Basti
+subDistrict,Harraiya,Harraiya,India,UttarPradesh,Basti
+subDistrict,Kaptanganj,Kaptanganj,India,UttarPradesh,Basti
+subDistrict,Kudaraha,Kudaraha,India,UttarPradesh,Basti
+subDistrict,ParasRampur,Paras Rampur,India,UttarPradesh,Basti
+subDistrict,Ramnagar,Ramnagar,India,UttarPradesh,Basti
+subDistrict,Rudhauli,Rudhauli,India,UttarPradesh,Basti
+subDistrict,SaltauaGopalPur,Saltaua Gopal Pur,India,UttarPradesh,Basti
+subDistrict,SauGhat,Sau Ghat,India,UttarPradesh,Basti
+subDistrict,VikramJot,Vikram Jot,India,UttarPradesh,Basti
+subDistrict,Amaniganj,Amaniganj,India,UttarPradesh,Ayodhya
+subDistrict,Bikapur,Bikapur,India,UttarPradesh,Ayodhya
+subDistrict,Harringtonganj,Harringtonganj,India,UttarPradesh,Ayodhya
+subDistrict,Masodha,Masodha,India,UttarPradesh,Ayodhya
+subDistrict,Mavai,Mavai,India,UttarPradesh,Ayodhya
+subDistrict,MayaBazar,Maya Bazar,India,UttarPradesh,Ayodhya
+subDistrict,Milkipur,Milkipur,India,UttarPradesh,Ayodhya
+subDistrict,PuraBazar,Pura Bazar,India,UttarPradesh,Ayodhya
+subDistrict,Rudauli,Rudauli,India,UttarPradesh,Ayodhya
+subDistrict,Sohawal,Sohawal,India,UttarPradesh,Ayodhya
+subDistrict,Tarun,Tarun,India,UttarPradesh,Ayodhya
+subDistrict,Airaya,Airaya,India,UttarPradesh,Fatehpur
+subDistrict,Amauli,Amauli,India,UttarPradesh,Fatehpur
+subDistrict,Asodhar,Asodhar,India,UttarPradesh,Fatehpur
+subDistrict,Bahua,Bahua,India,UttarPradesh,Fatehpur
+subDistrict,Bhitaura,Bhitaura,India,UttarPradesh,Fatehpur
+subDistrict,Devmai,Devmai,India,UttarPradesh,Fatehpur
+subDistrict,Dhata,Dhata,India,UttarPradesh,Fatehpur
+subDistrict,Haswa,Haswa,India,UttarPradesh,Fatehpur
+subDistrict,Hathgaon,Hathgaon,India,UttarPradesh,Fatehpur
+subDistrict,Khajuha,Khajuha,India,UttarPradesh,Fatehpur
+subDistrict,Malwan,Malwan,India,UttarPradesh,Fatehpur
+subDistrict,Telyani,Telyani,India,UttarPradesh,Fatehpur
+subDistrict,Vijayipur,Vijayipur,India,UttarPradesh,Fatehpur
+subDistrict,Babhanjot,Babhanjot,India,UttarPradesh,Gonda
+subDistrict,Belsar,Belsar,India,UttarPradesh,Gonda
+subDistrict,Chhapia,Chhapia,India,UttarPradesh,Gonda
+subDistrict,Haldharmau,Haldharmau,India,UttarPradesh,Gonda
+subDistrict,ItiaThok,Itia Thok,India,UttarPradesh,Gonda
+subDistrict,Jhanjhari,Jhanjhari,India,UttarPradesh,Gonda
+subDistrict,Karnailganj,Karnailganj,India,UttarPradesh,Gonda
+subDistrict,KatraBazar,Katra Bazar,India,UttarPradesh,Gonda
+subDistrict,Mankapur,Mankapur,India,UttarPradesh,Gonda
+subDistrict,Mujhana,Mujhana,India,UttarPradesh,Gonda
+subDistrict,Nawabganj,Nawabganj,India,UttarPradesh,Gonda
+subDistrict,PandriKrapal,Pandri Krapal,India,UttarPradesh,Gonda
+subDistrict,Paraspur,Paraspur,India,UttarPradesh,Gonda
+subDistrict,Rupaidih,Rupaidih,India,UttarPradesh,Gonda
+subDistrict,Tarabganj,Tarabganj,India,UttarPradesh,Gonda
+subDistrict,Wazirganj,Wazirganj,India,UttarPradesh,Gonda
+subDistrict,Badlapur,Badlapur,India,UttarPradesh,Jaunpur
+subDistrict,Baksha,Baksha,India,UttarPradesh,Jaunpur
+subDistrict,Barsathi,Barsathi,India,UttarPradesh,Jaunpur
+subDistrict,Dharampur,Dharampur,India,UttarPradesh,Jaunpur
+subDistrict,Dobhi,Dobhi,India,UttarPradesh,Jaunpur
+subDistrict,Jalalpur,Jalalpur,India,UttarPradesh,Jaunpur
+subDistrict,Karanjakala,Karanjakala,India,UttarPradesh,Jaunpur
+subDistrict,Kerakat,Kerakat,India,UttarPradesh,Jaunpur
+subDistrict,Khuthan,Khuthan,India,UttarPradesh,Jaunpur
+subDistrict,Machhlishahr,Machhlishahr,India,UttarPradesh,Jaunpur
+subDistrict,Mahrajganj,Mahrajganj,India,UttarPradesh,Jaunpur
+subDistrict,Mariahu,Mariahu,India,UttarPradesh,Jaunpur
+subDistrict,MograBadshahpur,Mogra Badshahpur,India,UttarPradesh,Jaunpur
+subDistrict,Muftiganj,Muftiganj,India,UttarPradesh,Jaunpur
+subDistrict,Ramnagar,Ramnagar,India,UttarPradesh,Jaunpur
+subDistrict,Rampur,Rampur,India,UttarPradesh,Jaunpur
+subDistrict,Shahganj,Shahganj,India,UttarPradesh,Jaunpur
+subDistrict,Sikrara,Sikrara,India,UttarPradesh,Jaunpur
+subDistrict,Sirkoni,Sirkoni,India,UttarPradesh,Jaunpur
+subDistrict,Sujanganj,Sujanganj,India,UttarPradesh,Jaunpur
+subDistrict,Suithakala,Suithakala,India,UttarPradesh,Jaunpur
+subDistrict,Bankeyganj,Bankeyganj,India,UttarPradesh,LakhimpurKheri
+subDistrict,Behjam,Behjam,India,UttarPradesh,LakhimpurKheri
+subDistrict,Bijuwa,Bijuwa,India,UttarPradesh,LakhimpurKheri
+subDistrict,Dhaurhara,Dhaurhara,India,UttarPradesh,LakhimpurKheri
+subDistrict,Isanagar,Isanagar,India,UttarPradesh,LakhimpurKheri
+subDistrict,Khumbhigola,Khumbhigola,India,UttarPradesh,LakhimpurKheri
+subDistrict,Lakhimpur,Lakhimpur,India,UttarPradesh,LakhimpurKheri
+subDistrict,Mitauli,Mitauli,India,UttarPradesh,LakhimpurKheri
+subDistrict,Mohammadi,Mohammadi,India,UttarPradesh,LakhimpurKheri
+subDistrict,Nakaha,Nakaha,India,UttarPradesh,LakhimpurKheri
+subDistrict,Nighasan,Nighasan,India,UttarPradesh,LakhimpurKheri
+subDistrict,Palia,Palia,India,UttarPradesh,LakhimpurKheri
+subDistrict,Pasgawan,Pasgawan,India,UttarPradesh,LakhimpurKheri
+subDistrict,Phoolbehar,Phoolbehar,India,UttarPradesh,LakhimpurKheri
+subDistrict,Ramiabehar,Ramiabehar,India,UttarPradesh,LakhimpurKheri
+subDistrict,Amariya,Amariya,India,UttarPradesh,Pilibhit
+subDistrict,Barkhera,Barkhera,India,UttarPradesh,Pilibhit
+subDistrict,Bilsanda,Bilsanda,India,UttarPradesh,Pilibhit
+subDistrict,Bisalpur,Bisalpur,India,UttarPradesh,Pilibhit
+subDistrict,Lalaurikhera,Lalaurikhera,India,UttarPradesh,Pilibhit
+subDistrict,Marori,Marori,India,UttarPradesh,Pilibhit
+subDistrict,Puranpur,Puranpur,India,UttarPradesh,Pilibhit
+subDistrict,AspurDeosara,Aspur Deosara,India,UttarPradesh,Pratapgarh
+subDistrict,BabaBelkharnath,Baba Belkharnath,India,UttarPradesh,Pratapgarh
+subDistrict,Babaganj,Babaganj,India,UttarPradesh,Pratapgarh
+subDistrict,Gaura,Gaura,India,UttarPradesh,Pratapgarh
+subDistrict,Kalakankar,Kalakankar,India,UttarPradesh,Pratapgarh
+subDistrict,Kunda,Kunda,India,UttarPradesh,Pratapgarh
+subDistrict,Lakshamanpur,Lakshamanpur,India,UttarPradesh,Pratapgarh
+subDistrict,LalganjAjhara,Lalganj Ajhara,India,UttarPradesh,Pratapgarh
+subDistrict,Magraura,Magraura,India,UttarPradesh,Pratapgarh
+subDistrict,Mandhata,Mandhata,India,UttarPradesh,Pratapgarh
+subDistrict,Patti,Patti,India,UttarPradesh,Pratapgarh
+subDistrict,PratapgarhSadar,Pratapgarh (Sadar),India,UttarPradesh,Pratapgarh
+subDistrict,RampurSangramgarh,Rampur Sangramgarh,India,UttarPradesh,Pratapgarh
+subDistrict,SandwaChandrika,Sandwa Chandrika,India,UttarPradesh,Pratapgarh
+subDistrict,Sangipur,Sangipur,India,UttarPradesh,Pratapgarh
+subDistrict,Shivgarh,Shivgarh,India,UttarPradesh,Pratapgarh
+subDistrict,Vihar,Vihar,India,UttarPradesh,Pratapgarh
+subDistrict,Bilaspur,Bilaspur,India,UttarPradesh,Rampur
+subDistrict,Chamraua,Chamraua,India,UttarPradesh,Rampur
+subDistrict,Milak,Milak,India,UttarPradesh,Rampur
+subDistrict,Saidnagar,Saidnagar,India,UttarPradesh,Rampur
+subDistrict,Shahabad,Shahabad,India,UttarPradesh,Rampur
+subDistrict,Suar,Suar,India,UttarPradesh,Rampur
+subDistrict,Amaniganj,Amaniganj,India,UttarPradesh,SantKabirNagar
+subDistrict,Baghauli,Baghauli,India,UttarPradesh,SantKabirNagar
+subDistrict,BelharKala,Belhar Kala,India,UttarPradesh,SantKabirNagar
+subDistrict,Bikapur,Bikapur,India,UttarPradesh,SantKabirNagar
+subDistrict,HaisarBazar,Haisar Bazar,India,UttarPradesh,SantKabirNagar
+subDistrict,Harringtonganj,Harringtonganj,India,UttarPradesh,SantKabirNagar
+subDistrict,Khalilabad,Khalilabad,India,UttarPradesh,SantKabirNagar
+subDistrict,Masodha,Masodha,India,UttarPradesh,SantKabirNagar
+subDistrict,Mavai,Mavai,India,UttarPradesh,SantKabirNagar
+subDistrict,MayaBazar,Maya Bazar,India,UttarPradesh,SantKabirNagar
+subDistrict,Mehdawal,Mehdawal,India,UttarPradesh,SantKabirNagar
+subDistrict,Milkipur,Milkipur,India,UttarPradesh,SantKabirNagar
+subDistrict,NathNagar,Nath Nagar,India,UttarPradesh,SantKabirNagar
+subDistrict,Pauli,Pauli,India,UttarPradesh,SantKabirNagar
+subDistrict,PuraBazar,Pura Bazar,India,UttarPradesh,SantKabirNagar
+subDistrict,Rudauli,Rudauli,India,UttarPradesh,SantKabirNagar
+subDistrict,Semariyawan,Semariyawan,India,UttarPradesh,SantKabirNagar
+subDistrict,Sohawal,Sohawal,India,UttarPradesh,SantKabirNagar
+subDistrict,Sotha,Sotha,India,UttarPradesh,SantKabirNagar
+subDistrict,Tarun,Tarun,India,UttarPradesh,SantKabirNagar
+subDistrict,Banda,Banda,India,UttarPradesh,Shahjahanpur
+subDistrict,Bhawal Khera,Bhawal Khera,India,UttarPradesh,Shahjahanpur
+subDistrict,Dadrol,Dadrol,India,UttarPradesh,Shahjahanpur
+subDistrict,Jaitipur,Jaitipur,India,UttarPradesh,Shahjahanpur
+subDistrict,Jalalabad,Jalalabad,India,UttarPradesh,Shahjahanpur
+subDistrict,Kalan,Kalan,India,UttarPradesh,Shahjahanpur
+subDistrict,Kanth,Kanth,India,UttarPradesh,Shahjahanpur
+subDistrict,KatraKhudaganj,Katra (Khudaganj),India,UttarPradesh,Shahjahanpur
+subDistrict,Khutar,Khutar,India,UttarPradesh,Shahjahanpur
+subDistrict,Madnapur,Madnapur,India,UttarPradesh,Shahjahanpur
+subDistrict,Mirzapur,Mirzapur,India,UttarPradesh,Shahjahanpur
+subDistrict,Nigohi,Nigohi,India,UttarPradesh,Shahjahanpur
+subDistrict,Powayan,Powayan,India,UttarPradesh,Shahjahanpur
+subDistrict,Sindhauli,Sindhauli,India,UttarPradesh,Shahjahanpur
+subDistrict,Tilhar,Tilhar,India,UttarPradesh,Shahjahanpur
+subDistrict,ShukulBazar,Shukul Bazar,India,UttarPradesh,Sultanpur
+subDistrict,Jagdishpur,Jagdishpur,India,UttarPradesh,Sultanpur
+subDistrict,MusafirKhana,Musafir Khana,India,UttarPradesh,Sultanpur
+subDistrict,WaldiRai,Waldi Rai,India,UttarPradesh,Sultanpur
+subDistrict,Jamo,Jamo,India,UttarPradesh,Sultanpur
+subDistrict,Shahgarh,Shahgarh,India,UttarPradesh,Sultanpur
+subDistrict,Gauriganj,Gauriganj,India,UttarPradesh,Sultanpur
+subDistrict,Amethi,Amethi,India,UttarPradesh,Sultanpur
+subDistrict,Sangrampur,Sangrampur,India,UttarPradesh,Sultanpur
+subDistrict,Bhetua,Bhetua,India,UttarPradesh,Sultanpur
+subDistrict,Bhadar,Bhadar,India,UttarPradesh,Sultanpur
+subDistrict,Dhanpatganj,Dhanpatganj,India,UttarPradesh,Sultanpur
+subDistrict,Kurebhar,Kurebhar,India,UttarPradesh,Sultanpur
+subDistrict,Kurwar,Kurwar,India,UttarPradesh,Sultanpur
+subDistrict,DubeyPur,Dubey Pur,India,UttarPradesh,Sultanpur
+subDistrict,JaiSinghPur,Jai Singh Pur,India,UttarPradesh,Sultanpur
+subDistrict,Motigarpur,Motigarpur,India,UttarPradesh,Sultanpur
+subDistrict,Bhadayeea,Bhadayeea,India,UttarPradesh,Sultanpur
+subDistrict,Lambhua,Lambhua,India,UttarPradesh,Sultanpur
+subDistrict,PratapPurKamaicha ,Pratap Pur Kamaicha ,India,UttarPradesh,Sultanpur
+subDistrict,Dostpur,Dostpur,India,UttarPradesh,Sultanpur
+subDistrict,Kadipur,Kadipur,India,UttarPradesh,Sultanpur
+subDistrict,AkhandNagar,Akhand Nagar,India,UttarPradesh,Sultanpur
+subDistrict,KaraundiKala,Karaundi Kala,India,UttarPradesh,Sultanpur
+subDistrict,Arajiline,Arajiline,India,UttarPradesh,Varanasi
+subDistrict,Baragaon,Baragaon,India,UttarPradesh,Varanasi
+subDistrict,ChiraiGaon,Chirai Gaon,India,UttarPradesh,Varanasi
+subDistrict,Cholapur,Cholapur,India,UttarPradesh,Varanasi
+subDistrict,Harhua,Harhua,India,UttarPradesh,Varanasi
+subDistrict,KashiVidyaPeeth,Kashi Vidya Peeth,India,UttarPradesh,Varanasi
+subDistrict,Pindra,Pindra,India,UttarPradesh,Varanasi
+subDistrict,Sevapuri,Sevapuri,India,UttarPradesh,Varanasi
+,,,,,
+subDistrict,Basudevpur,Basudevpur,India,Odisha,Bhadrak
+subDistrict,Bhadrak,Bhadrak,India,Odisha,Bhadrak
+subDistrict,Bhandaripokhari,Bhandaripokhari,India,Odisha,Bhadrak
+subDistrict,Bonth,Bonth,India,Odisha,Bhadrak
+subDistrict,Chandabali,Chandabali,India,Odisha,Bhadrak
+subDistrict,Dhamnagar,Dhamnagar,India,Odisha,Bhadrak
+subDistrict,Tihidi,Tihidi,India,Odisha,Bhadrak
+subDistrict,Bahanaga,Bahanaga,India,Odisha,Balasore
+subDistrict,BalasoreSadar,Balasore Sadar,India,Odisha,Balasore
+subDistrict,Baliapal,Baliapal,India,Odisha,Balasore
+subDistrict,Basta,Basta,India,Odisha,Balasore
+subDistrict,Bhogarai,Bhogarai,India,Odisha,Balasore
+subDistrict,Jaleswar,Jaleswar,India,Odisha,Balasore
+subDistrict,Khaira,Khaira,India,Odisha,Balasore
+subDistrict,Nilagiri,Nilagiri,India,Odisha,Balasore
+subDistrict,Oupada,Oupada,India,Odisha,Balasore
+subDistrict,Remuna,Remuna,India,Odisha,Balasore
+subDistrict,Simulia,Simulia,India,Odisha,Balasore
+subDistrict,Soro,Soro,India,Odisha,Balasore
+subDistrict,Athagarh,Athagarh,India,Odisha,Cuttack
+subDistrict,Badamba,Badamba,India,Odisha,Cuttack
+subDistrict,Banki,Banki,India,Odisha,Cuttack
+subDistrict,BankiDomapada,Banki Domapada,India,Odisha,Cuttack
+subDistrict,Baranga,Baranga,India,Odisha,Cuttack
+subDistrict,CuttackSadar,Cuttack Sadar,India,Odisha,Cuttack
+subDistrict,Kantapada,Kantapada,India,Odisha,Cuttack
+subDistrict,Mahanga,Mahanga,India,Odisha,Cuttack
+subDistrict,Narasinghpur,Narasinghpur,India,Odisha,Cuttack
+subDistrict,Niali,Niali,India,Odisha,Cuttack
+subDistrict,Nischintakoili,Nischintakoili,India,Odisha,Cuttack
+subDistrict,Salipur,Salipur,India,Odisha,Cuttack
+subDistrict,TangiChoudwar,Tangi Choudwar,India,Odisha,Cuttack
+subDistrict,Tigiria,Tigiria,India,Odisha,Cuttack
+subDistrict,Balikuda,Balikuda,India,Odisha,Jagatsinghpur
+subDistrict,Biridi,Biridi,India,Odisha,Jagatsinghpur
+subDistrict,Erasama,Erasama,India,Odisha,Jagatsinghpur
+subDistrict,Jagatsinghpur,Jagatsinghpur,India,Odisha,Jagatsinghpur
+subDistrict,Kujang,Kujang,India,Odisha,Jagatsinghpur
+subDistrict,Naugaon,Naugaon,India,Odisha,Jagatsinghpur
+subDistrict,Raghunathpur,Raghunathpur,India,Odisha,Jagatsinghpur
+subDistrict,Tirtol,Tirtol,India,Odisha,Jagatsinghpur
+subDistrict,Badchana,Badchana,India,Odisha,Jajpur
+subDistrict,Bari,Bari,India,Odisha,Jajpur
+subDistrict,Binjharpur,Binjharpur,India,Odisha,Jajpur
+subDistrict,Danagadi,Danagadi,India,Odisha,Jajpur
+subDistrict,Dasarathapur,Dasarathapur,India,Odisha,Jajpur
+subDistrict,Dharmasala,Dharmasala,India,Odisha,Jajpur
+subDistrict,Jajpur,Jajpur,India,Odisha,Jajpur
+subDistrict,Korei,Korei,India,Odisha,Jajpur
+subDistrict,Rasulpur,Rasulpur,India,Odisha,Jajpur
+subDistrict,Sukinda,Sukinda,India,Odisha,Jajpur
+subDistrict,Anandapur,Anandapur,India,Odisha,Keonjhar
+subDistrict,Banspal,Banspal,India,Odisha,Keonjhar
+subDistrict,Champua,Champua,India,Odisha,Keonjhar
+subDistrict,Ghasipura,Ghasipura,India,Odisha,Keonjhar
+subDistrict,Ghatagaon,Ghatagaon,India,Odisha,Keonjhar
+subDistrict,Harichandanpur,Harichandanpur,India,Odisha,Keonjhar
+subDistrict,Hatadihi,Hatadihi,India,Odisha,Keonjhar
+subDistrict,Jhumpura,Jhumpura,India,Odisha,Keonjhar
+subDistrict,Joda,Joda,India,Odisha,Keonjhar
+subDistrict,KeonjharSadar,Keonjhar Sadar,India,Odisha,Keonjhar
+subDistrict,Patna,Patna,India,Odisha,Keonjhar
+subDistrict,Saharpada,Saharpada,India,Odisha,Keonjhar
+subDistrict,Balianta,Balianta,India,Odisha,Khordha
+subDistrict,Balipatna,Balipatna,India,Odisha,Khordha
+subDistrict,Banpur,Banpur,India,Odisha,Khordha
+subDistrict,Begunia,Begunia,India,Odisha,Khordha
+subDistrict,Bhubaneswar,Bhubaneswar,India,Odisha,Khordha
+subDistrict,Bologarh,Bologarh,India,Odisha,Khordha
+subDistrict,Chilika,Chilika,India,Odisha,Khordha
+subDistrict,Jatni,Jatni,India,Odisha,Khordha
+subDistrict,Khordha,Khordha,India,Odisha,Khordha
+subDistrict,Tangi,Tangi,India,Odisha,Khordha
+subDistrict,Badasahi,Badasahi,India,Odisha,Mayurbhanj
+subDistrict,Bahalda,Bahalda,India,Odisha,Mayurbhanj
+subDistrict,Bangriposi,Bangriposi,India,Odisha,Mayurbhanj
+subDistrict,Baripada,Baripada,India,Odisha,Mayurbhanj
+subDistrict,Betnoti,Betnoti,India,Odisha,Mayurbhanj
+subDistrict,Bijatala,Bijatala,India,Odisha,Mayurbhanj
+subDistrict,Bisoi,Bisoi,India,Odisha,Mayurbhanj
+subDistrict,Gopabandhungar,Gopabandhungar,India,Odisha,Mayurbhanj
+subDistrict,Jamda,Jamda,India,Odisha,Mayurbhanj
+subDistrict,Jashipur,Jashipur,India,Odisha,Mayurbhanj
+subDistrict,Kaptipada,Kaptipada,India,Odisha,Mayurbhanj
+subDistrict,Karanjia,Karanjia,India,Odisha,Mayurbhanj
+subDistrict,Khunta,Khunta,India,Odisha,Mayurbhanj
+subDistrict,Kuliana,Kuliana,India,Odisha,Mayurbhanj
+subDistrict,Kusumi,Kusumi,India,Odisha,Mayurbhanj
+subDistrict,Moroda,Moroda,India,Odisha,Mayurbhanj
+subDistrict,Rairangpur,Rairangpur,India,Odisha,Mayurbhanj
+subDistrict,Raruan,Raruan,India,Odisha,Mayurbhanj
+subDistrict,Rasgovindpur,Rasgovindpur,India,Odisha,Mayurbhanj
+subDistrict,Saraskana,Saraskana,India,Odisha,Mayurbhanj
+subDistrict,Shamakhunta,Shamakhunta,India,Odisha,Mayurbhanj
+subDistrict,Sukruli,Sukruli,India,Odisha,Mayurbhanj
+subDistrict,Suliapada,Suliapada,India,Odisha,Mayurbhanj
+subDistrict,Thakurmunda,Thakurmunda,India,Odisha,Mayurbhanj
+subDistrict,Tiring,Tiring,India,Odisha,Mayurbhanj
+subDistrict,Udala,Udala,India,Odisha,Mayurbhanj
+subDistrict,Bhapur,Bhapur,India,Odisha,Nayagarh
+subDistrict,Daspalla,Daspalla,India,Odisha,Nayagarh
+subDistrict,Gania,Gania,India,Odisha,Nayagarh
+subDistrict,Khandapada,Khandapada,India,Odisha,Nayagarh
+subDistrict,Nayagarh,Nayagarh,India,Odisha,Nayagarh
+subDistrict,Nuagaon,Nuagaon,India,Odisha,Nayagarh
+subDistrict,Odagaon,Odagaon,India,Odisha,Nayagarh
+subDistrict,Ranpur,Ranpur,India,Odisha,Nayagarh
+subDistrict,Boden,Boden,India,Odisha,Nuapada
+subDistrict,Khariar,Khariar,India,Odisha,Nuapada
+subDistrict,Komna,Komna,India,Odisha,Nuapada
+subDistrict,Nuapada,Nuapada,India,Odisha,Nuapada
+subDistrict,Sinapali,Sinapali,India,Odisha,Nuapada
+subDistrict,Astarang,Astarang,India,Odisha,Puri
+subDistrict,Brahmagiri,Brahmagiri,India,Odisha,Puri
+subDistrict,Delanga,Delanga,India,Odisha,Puri
+subDistrict,Gop,Gop,India,Odisha,Puri
+subDistrict,Kakatpur,Kakatpur,India,Odisha,Puri
+subDistrict,Kanasa,Kanasa,India,Odisha,Puri
+subDistrict,KrushnaPrasad,Krushna Prasad,India,Odisha,Puri
+subDistrict,Nimapara,Nimapara,India,Odisha,Puri
+subDistrict,Pipili,Pipili,India,Odisha,Puri
+subDistrict,PuriSadar,Puri Sadar,India,Odisha,Puri
+subDistrict,Satyabadi,Satyabadi,India,Odisha,Puri
+,,,,,
+,,,,,
+subDistrict,Agailjhara,Agailjhara,Bangladesh,Barisal,Barisal
+subDistrict,Babuganj,Babuganj,Bangladesh,Barisal,Barisal
+subDistrict,Bakerganj,Bakerganj,Bangladesh,Barisal,Barisal
+subDistrict,Banaripara,Banaripara,Bangladesh,Barisal,Barisal
+subDistrict,BarisalSadar,Barisal Sadar,Bangladesh,Barisal,Barisal
+subDistrict,Gaurnadi,Gaurnadi,Bangladesh,Barisal,Barisal
+subDistrict,Hizla,Hizla,Bangladesh,Barisal,Barisal
+subDistrict,Mehendiganj,Mehendiganj,Bangladesh,Barisal,Barisal
+subDistrict,Muladi,Muladi,Bangladesh,Barisal,Barisal
+subDistrict,Wazirpur,Wazirpur,Bangladesh,Barisal,Barisal
+subDistrict,BholaSadar,Bhola Sadar,Bangladesh,Barisal,Bhola
+subDistrict,Burhanuddin,Burhanuddin,Bangladesh,Barisal,Bhola
+subDistrict,CharFasson,Char Fasson,Bangladesh,Barisal,Bhola
+subDistrict,Daulatkhan,Daulatkhan,Bangladesh,Barisal,Bhola
+subDistrict,Lalmohan,Lalmohan,Bangladesh,Barisal,Bhola
+subDistrict,Manpura,Manpura,Bangladesh,Barisal,Bhola
+subDistrict,Tazumuddin,Tazumuddin,Bangladesh,Barisal,Bhola
+subDistrict,Amtali,Amtali,Bangladesh,Barisal,Borgona
+subDistrict,Bamna,Bamna,Bangladesh,Barisal,Borgona
+subDistrict,BargunaSadar,Barguna Sadar,Bangladesh,Barisal,Borgona
+subDistrict,Betagi,Betagi,Bangladesh,Barisal,Borgona
+subDistrict,Patharghata,Patharghata,Bangladesh,Barisal,Borgona
+subDistrict,Taltoli,Taltoli,Bangladesh,Barisal,Borgona
+subDistrict,Agailjhara,Agailjhara,Bangladesh,Barisal,Borgona
+subDistrict,JhalokatiSadar,Jhalokati Sadar,Bangladesh,Barisal,Jhalokati
+subDistrict,Kathalia,Kathalia,Bangladesh,Barisal,Jhalokati
+subDistrict,Nalchity,Nalchity,Bangladesh,Barisal,Jhalokati
+subDistrict,Rajapur,Rajapur,Bangladesh,Barisal,Jhalokati
+subDistrict,Bhandaria,Bhandaria,Bangladesh,Barisal,Pirojpur
+subDistrict,Kawkhali,Kawkhali,Bangladesh,Barisal,Pirojpur
+subDistrict,Mathbaria,Mathbaria,Bangladesh,Barisal,Pirojpur
+subDistrict,Nazirpur,Nazirpur,Bangladesh,Barisal,Pirojpur
+subDistrict,PirojpurSadar,Pirojpur Sadar,Bangladesh,Barisal,Pirojpur
+subDistrict,Nesarabad(Swarupkati),Nesarabad (Swarupkati),Bangladesh,Barisal,Pirojpur
+subDistrict,Zianagor,Zianagor,Bangladesh,Barisal,Pirojpur
+subDistrict,Bauphal,Bauphal,Bangladesh,Barisal,Potuakhali
+subDistrict,Dashimna,Dashimna,Bangladesh,Barisal,Potuakhali
+subDistrict,Dumki,Dumki,Bangladesh,Barisal,Potuakhali
+subDistrict,Galachipa,Galachipa,Bangladesh,Barisal,Potuakhali
+subDistrict,Kalapara,Kalapara,Bangladesh,Barisal,Potuakhali
+subDistrict,Mirzaganj,Mirzaganj,Bangladesh,Barisal,Potuakhali
+subDistrict,PatuakhaliSadar,Patuakhali Sadar,Bangladesh,Barisal,Potuakhali
+subDistrict,Rangabali,Rangabali,Bangladesh,Barisal,Potuakhali
+subDistrict,Biral,Biral,Bangladesh,Dinajpur,Dinajpur
+subDistrict,Birampur,Birampur,Bangladesh,Dinajpur,Dinajpur
+subDistrict,Birganj,Birganj,Bangladesh,Dinajpur,Dinajpur
+subDistrict,Bochaganj,Bochaganj,Bangladesh,Dinajpur,Dinajpur
+subDistrict,Chirirbandar,Chirirbandar,Bangladesh,Dinajpur,Dinajpur
+subDistrict,DinajpurSadar,Dinajpur Sadar,Bangladesh,Dinajpur,Dinajpur
+subDistrict,Ghoraghat,Ghoraghat,Bangladesh,Dinajpur,Dinajpur
+subDistrict,Hakimpur,Hakimpur,Bangladesh,Dinajpur,Dinajpur
+subDistrict,Kaharole,Kaharole,Bangladesh,Dinajpur,Dinajpur
+subDistrict,Khansama,Khansama,Bangladesh,Dinajpur,Dinajpur
+subDistrict,Nawabganj,Nawabganj,Bangladesh,Dinajpur,Dinajpur
+subDistrict,Parbatipur,Parbatipur,Bangladesh,Dinajpur,Dinajpur
+subDistrict,Phulbari,Phulbari,Bangladesh,Dinajpur,Dinajpur
+subDistrict,Aditmari,Aditmari,Bangladesh,Dinajpur,Lalmonirhat
+subDistrict,Hatibandha,Hatibandha,Bangladesh,Dinajpur,Lalmonirhat
+subDistrict,Kaliganj,Kaliganj,Bangladesh,Dinajpur,Lalmonirhat
+subDistrict,LalmonirhatSadar,Lalmonirhat Sadar,Bangladesh,Dinajpur,Lalmonirhat
+subDistrict,Patgram,Patgram,Bangladesh,Dinajpur,Lalmonirhat
+subDistrict,Dimla,Dimla,Bangladesh,Dinajpur,Nilphamari
+subDistrict,Domar,Domar,Bangladesh,Dinajpur,Nilphamari
+subDistrict,Jaldhaka,Jaldhaka,Bangladesh,Dinajpur,Nilphamari
+subDistrict,Kishoreganj,Kishoreganj,Bangladesh,Dinajpur,Nilphamari
+subDistrict,NilphamariSadar,Nilphamari Sadar,Bangladesh,Dinajpur,Nilphamari
+subDistrict,Saidpur,Saidpur,Bangladesh,Dinajpur,Nilphamari
+subDistrict,Badarganj,Badarganj,Bangladesh,Dinajpur,Rongpur
+subDistrict,Gangachhara,Gangachhara,Bangladesh,Dinajpur,Rongpur
+subDistrict,Kaunia,Kaunia,Bangladesh,Dinajpur,Rongpur
+subDistrict,Mithapukur,Mithapukur,Bangladesh,Dinajpur,Rongpur
+subDistrict,Pirgachha,Pirgachha,Bangladesh,Dinajpur,Rongpur
+subDistrict,Pirganj,Pirganj,Bangladesh,Dinajpur,Rongpur
+subDistrict,RongpurSadar,Rongpur Sadar,Bangladesh,Dinajpur,Rongpur
+subDistrict,Taraganj,Taraganj,Bangladesh,Dinajpur,Rongpur
+subDistrict,Baliadangi,Baliadangi,Bangladesh,Dinajpur,Thakurgaon
+subDistrict,Horipur,Horipur,Bangladesh,Dinajpur,Thakurgaon
+subDistrict,Pirganj,Pirganj,Bangladesh,Dinajpur,Thakurgaon
+subDistrict,Ranisankail,Ranisankail,Bangladesh,Dinajpur,Thakurgaon
+subDistrict,ThakurgaonSadar,Thakurgaon Sadar,Bangladesh,Dinajpur,Thakurgaon
+subDistrict,Alfadanga,Alfadanga,Bangladesh,Faridpur,Faridpur
+subDistrict,Bhanga,Bhanga,Bangladesh,Faridpur,Faridpur
+subDistrict,Boalmari,Boalmari,Bangladesh,Faridpur,Faridpur
+subDistrict,Charbhadrasan,Charbhadrasan,Bangladesh,Faridpur,Faridpur
+subDistrict,FaridpurSadar,Faridpur Sadar,Bangladesh,Faridpur,Faridpur
+subDistrict,Madhukhali,Madhukhali,Bangladesh,Faridpur,Faridpur
+subDistrict,Nagarkanda,Nagarkanda,Bangladesh,Faridpur,Faridpur
+subDistrict,Sadarpur,Sadarpur,Bangladesh,Faridpur,Faridpur
+subDistrict,Saltha,Saltha,Bangladesh,Faridpur,Faridpur
+subDistrict,GopalgonjSadar,Gopalgonj Sadar,Bangladesh,Faridpur,Gopalgonj
+subDistrict,Kashiani,Kashiani,Bangladesh,Faridpur,Gopalgonj
+subDistrict,Kotalipara,Kotalipara,Bangladesh,Faridpur,Gopalgonj
+subDistrict,Muksudpur,Muksudpur,Bangladesh,Faridpur,Gopalgonj
+subDistrict,Tungipara,Tungipara,Bangladesh,Faridpur,Gopalgonj
+subDistrict,Kalkini,Kalkini,Bangladesh,Faridpur,Madaripur
+subDistrict,MadaripurSadar,Madaripur Sadar,Bangladesh,Faridpur,Madaripur
+subDistrict,Rajoir,Rajoir,Bangladesh,Faridpur,Madaripur
+subDistrict,Shibchar,Shibchar,Bangladesh,Faridpur,Madaripur
+subDistrict,Baliakandi,Baliakandi,Bangladesh,Faridpur,Rajbari
+subDistrict,Goalanda,Goalanda,Bangladesh,Faridpur,Rajbari
+subDistrict,Kalukhali,Kalukhali,Bangladesh,Faridpur,Rajbari
+subDistrict,Pangsha,Pangsha,Bangladesh,Faridpur,Rajbari
+subDistrict,Rajbari,Rajbari,Bangladesh,Faridpur,Rajbari
+subDistrict,Chitalmari,Chitalmari,Bangladesh,Jessore,Bagerhat
+subDistrict,Fakirhat,Fakirhat,Bangladesh,Jessore,Bagerhat
+subDistrict,Kachua,Kachua,Bangladesh,Jessore,Bagerhat
+subDistrict,Mollahat,Mollahat,Bangladesh,Jessore,Bagerhat
+subDistrict,Mongla,Mongla,Bangladesh,Jessore,Bagerhat
+subDistrict,Morrelganj,Morrelganj,Bangladesh,Jessore,Bagerhat
+subDistrict,Rampal,Rampal,Bangladesh,Jessore,Bagerhat
+subDistrict,Sarankhola,Sarankhola,Bangladesh,Jessore,Bagerhat
+subDistrict,Alamdanga,Alamdanga,Bangladesh,Jessore,Chuadanga
+subDistrict,ChuadangaSadar,Chuadanga Sadar,Bangladesh,Jessore,Chuadanga
+subDistrict,Damurhuda,Damurhuda,Bangladesh,Jessore,Chuadanga
+subDistrict,Jibannagar,Jibannagar,Bangladesh,Jessore,Chuadanga
+subDistrict,Abhaynagar,Abhaynagar,Bangladesh,Jessore,Jessore
+subDistrict,Bagherpara,Bagherpara,Bangladesh,Jessore,Jessore
+subDistrict,Chaugachha,Chaugachha,Bangladesh,Jessore,Jessore
+subDistrict,Jhikargachha,Jhikargachha,Bangladesh,Jessore,Jessore
+subDistrict,Keshabpur,Keshabpur,Bangladesh,Jessore,Jessore
+subDistrict,JessoreSadar,Jessore Sadar,Bangladesh,Jessore,Jessore
+subDistrict,Manirampur,Manirampur,Bangladesh,Jessore,Jessore
+subDistrict,Sharsha,Sharsha,Bangladesh,Jessore,Jessore
+subDistrict,Harinakunda,Harinakunda,Bangladesh,Jessore,Jhenaidah
+subDistrict,JhenaidahSadar,Jhenaidah Sadar,Bangladesh,Jessore,Jhenaidah
+subDistrict,Kaliganj,Kaliganj,Bangladesh,Jessore,Jhenaidah
+subDistrict,Kotchandpur,Kotchandpur,Bangladesh,Jessore,Jhenaidah
+subDistrict,Maheshpur,Maheshpur,Bangladesh,Jessore,Jhenaidah
+subDistrict,Shailkupa,Shailkupa,Bangladesh,Jessore,Jhenaidah
+subDistrict,Batiaghata,Batiaghata,Bangladesh,Jessore,Khulna
+subDistrict,Dacope,Dacope,Bangladesh,Jessore,Khulna
+subDistrict,DaulatpurThana,Daulatpur Thana,Bangladesh,Jessore,Khulna
+subDistrict,Dighalia,Dighalia,Bangladesh,Jessore,Khulna
+subDistrict,Dumuria,Dumuria,Bangladesh,Jessore,Khulna
+subDistrict,HarintanaThana,Harintana Thana,Bangladesh,Jessore,Khulna
+subDistrict,KhalishpurThana,Khalishpur Thana,Bangladesh,Jessore,Khulna
+subDistrict,KhanJahanAliThana,Khan Jahan Ali Thana,Bangladesh,Jessore,Khulna
+subDistrict,KotwaliThana,Kotwali Thana,Bangladesh,Jessore,Khulna
+subDistrict,Koyra,Koyra,Bangladesh,Jessore,Khulna
+subDistrict,Paikgachha,Paikgachha,Bangladesh,Jessore,Khulna
+subDistrict,Phultala,Phultala,Bangladesh,Jessore,Khulna
+subDistrict,Rupsha,Rupsha,Bangladesh,Jessore,Khulna
+subDistrict,SonadangaThana,Sonadanga Thana,Bangladesh,Jessore,Khulna
+subDistrict,Terokhada,Terokhada,Bangladesh,Jessore,Khulna
+subDistrict,MaguraSadar,Magura Sadar,Bangladesh,Jessore,Magura
+subDistrict,Mohammadpur,Mohammadpur,Bangladesh,Jessore,Magura
+subDistrict,Shalikha,Shalikha,Bangladesh,Jessore,Magura
+subDistrict,Sreepur,Sreepur,Bangladesh,Jessore,Magura
+subDistrict,Gangni,Gangni,Bangladesh,Jessore,Meherpur
+subDistrict,MeherpurSadar,Meherpur Sadar,Bangladesh,Jessore,Meherpur
+subDistrict,Mujibnagar,Mujibnagar,Bangladesh,Jessore,Meherpur
+subDistrict,Kalia,Kalia,Bangladesh,Jessore,Narail
+subDistrict,Lohagara,Lohagara,Bangladesh,Jessore,Narail
+subDistrict,NarailSadar,Narail Sadar,Bangladesh,Jessore,Narail
+subDistrict,Assasuni,Assasuni,Bangladesh,Jessore,Shatkhira
+subDistrict,Debhata,Debhata,Bangladesh,Jessore,Shatkhira
+subDistrict,Kalaroa,Kalaroa,Bangladesh,Jessore,Shatkhira
+subDistrict,Kaliganj,Kaliganj,Bangladesh,Jessore,Shatkhira
+subDistrict,SatkhiraSadar,Satkhira Sadar,Bangladesh,Jessore,Shatkhira
+subDistrict,Shyamnagar,Shyamnagar,Bangladesh,Jessore,Shatkhira
+subDistrict,Tala,Tala,Bangladesh,Jessore,Shatkhira
+,,,,,
+subDistrict,Baijanath ,Baijanath ,Nepal,State_5,Banke
+subDistrict,Duduwa ,Duduwa ,Nepal,State_5,Banke
+subDistrict,Janaki ,Janaki ,Nepal,State_5,Banke
+subDistrict,Khajura ,Khajura ,Nepal,State_5,Banke
+subDistrict,Kohalpur ,Kohalpur ,Nepal,State_5,Banke
+subDistrict,Narainapur ,Narainapur ,Nepal,State_5,Banke
+subDistrict,Nepalganj ,Nepalganj ,Nepal,State_5,Banke
+subDistrict,Raptisonari ,Raptisonari ,Nepal,State_5,Banke
+subDistrict,Adarshkotwal ,Adarshkotwal ,Nepal,State_2,Bara
+subDistrict,Baragadhi ,Baragadhi ,Nepal,State_2,Bara
+subDistrict,Bisrampur,Bisrampur,Nepal,State_2,Bara
+subDistrict,Devtal ,Devtal ,Nepal,State_2,Bara
+subDistrict,JitpurSimara ,JitpurSimara ,Nepal,State_2,Bara
+subDistrict,Kalaiya ,Kalaiya ,Nepal,State_2,Bara
+subDistrict,Karaiyamai ,Karaiyamai ,Nepal,State_2,Bara
+subDistrict,Kolhabi ,Kolhabi ,Nepal,State_2,Bara
+subDistrict,Mahagadhimai ,Mahagadhimai ,Nepal,State_2,Bara
+subDistrict,Nijgadh ,Nijgadh ,Nepal,State_2,Bara
+subDistrict,Pacharauta ,Pacharauta ,Nepal,State_2,Bara
+subDistrict,Parwanipur ,Parwanipur ,Nepal,State_2,Bara
+subDistrict,Pheta ,Pheta ,Nepal,State_2,Bara
+subDistrict,Prasauni ,Prasauni ,Nepal,State_2,Bara
+subDistrict,Simraungadh ,Simraungadh ,Nepal,State_2,Bara
+subDistrict,Suwarna ,Suwarna ,Nepal,State_2,Bara
+subDistrict,Badhaiyatal ,Badhaiyatal ,Nepal,State_5,Bardiya
+subDistrict,Bansagadhi ,Bansagadhi ,Nepal,State_5,Bardiya
+subDistrict,Barbardiya ,Barbardiya ,Nepal,State_5,Bardiya
+subDistrict,Geruwa ,Geruwa ,Nepal,State_5,Bardiya
+subDistrict,Gulariya ,Gulariya ,Nepal,State_5,Bardiya
+subDistrict,Madhuwan ,Madhuwan ,Nepal,State_5,Bardiya
+subDistrict,Rajapur ,Rajapur ,Nepal,State_5,Bardiya
+subDistrict,Thakurbaba ,Thakurbaba ,Nepal,State_5,Bardiya
+subDistrict,Bharatpur ,Bharatpur ,Nepal,State_3,Chitwan
+subDistrict,Ichchhyakamana ,Ichchhyakamana ,Nepal,State_3,Chitwan
+subDistrict,Kalika ,Kalika ,Nepal,State_3,Chitwan
+subDistrict,Khairahani ,Khairahani ,Nepal,State_3,Chitwan
+subDistrict,Madi ,Madi ,Nepal,State_3,Chitwan
+subDistrict,Rapti ,Rapti ,Nepal,State_3,Chitwan
+subDistrict,Ratnanagar ,Ratnanagar ,Nepal,State_3,Chitwan
+subDistrict,Aaurahi ,Aaurahi ,Nepal,State_2,Dhanusha
+subDistrict,Bateshwor ,Bateshwor ,Nepal,State_2,Dhanusha
+subDistrict,Bideha ,Bideha ,Nepal,State_2,Dhanusha
+subDistrict,Chhireshwornath ,Chhireshwornath ,Nepal,State_2,Dhanusha
+subDistrict,Dhanauji,Dhanauji,Nepal,State_2,Dhanusha
+subDistrict,Dhanusadham ,Dhanusadham ,Nepal,State_2,Dhanusha
+subDistrict,GaneshmanCharnath ,Ganeshman Charnath ,Nepal,State_2,Dhanusha
+subDistrict,Hansapur ,Hansapur ,Nepal,State_2,Dhanusha
+subDistrict,Janaknandani ,Janaknandani ,Nepal,State_2,Dhanusha
+subDistrict,Janakpur ,Janakpur ,Nepal,State_2,Dhanusha
+subDistrict,Kamala  ,Kamala  ,Nepal,State_2,Dhanusha
+subDistrict,Lakshminiya ,Lakshminiya ,Nepal,State_2,Dhanusha
+subDistrict,Mithila ,Mithila ,Nepal,State_2,Dhanusha
+subDistrict,MithilaBihari ,Mithila Bihari ,Nepal,State_2,Dhanusha
+subDistrict,MukhiyapattiMusarmiya ,Mukhiyapatti Musarmiya ,Nepal,State_2,Dhanusha
+subDistrict,Nagarain ,Nagarain ,Nepal,State_2,Dhanusha
+subDistrict,Sabaila ,Sabaila ,Nepal,State_2,Dhanusha
+subDistrict,Sahidnagar ,Sahidnagar ,Nepal,State_2,Dhanusha
+subDistrict,Arjundhara,Arjundhara,Nepal,State_1,Jhapa
+subDistrict,Barhadashi ,Barhadashi ,Nepal,State_1,Jhapa
+subDistrict,Bhadrapur,Bhadrapur,Nepal,State_1,Jhapa
+subDistrict,Birtamod ,Birtamod ,Nepal,State_1,Jhapa
+subDistrict,Buddhashanti,Buddhashanti,Nepal,State_1,Jhapa
+subDistrict,Damak,Damak,Nepal,State_1,Jhapa
+subDistrict,Gauradhaha,Gauradhaha,Nepal,State_1,Jhapa
+subDistrict,Gauriganj,Gauriganj,Nepal,State_1,Jhapa
+subDistrict,Haldibari,Haldibari,Nepal,State_1,Jhapa
+subDistrict,Jhapa ,Jhapa ,Nepal,State_1,Jhapa
+subDistrict,Kachankawal,Kachankawal,Nepal,State_1,Jhapa
+subDistrict,Kamal ,Kamal ,Nepal,State_1,Jhapa
+subDistrict,Kankai,Kankai,Nepal,State_1,Jhapa
+subDistrict,Mechinagar,Mechinagar,Nepal,State_1,Jhapa
+subDistrict,Shivasataxi,Shivasataxi,Nepal,State_1,Jhapa
+subDistrict,Bardagoriya ,Bardagoriya ,Nepal,State_7,Kailali
+subDistrict,Bhajani ,Bhajani ,Nepal,State_7,Kailali
+subDistrict,Chure ,Chure ,Nepal,State_7,Kailali
+subDistrict,Dhangadhi ,Dhangadhi ,Nepal,State_7,Kailali
+subDistrict,Gauriganga ,Gauriganga ,Nepal,State_7,Kailali
+subDistrict,Ghodaghodi ,Ghodaghodi ,Nepal,State_7,Kailali
+subDistrict,Godawari ,Godawari ,Nepal,State_7,Kailali
+subDistrict,Janaki ,Janaki ,Nepal,State_7,Kailali
+subDistrict,Joshipur ,Joshipur ,Nepal,State_7,Kailali
+subDistrict,Kailari ,Kailari ,Nepal,State_7,Kailali
+subDistrict,LamkiChuha ,Lamki Chuha ,Nepal,State_7,Kailali
+subDistrict,Mohanyal ,Mohanyal ,Nepal,State_7,Kailali
+subDistrict,Tikapur ,Tikapur ,Nepal,State_7,Kailali
+subDistrict,Bedkot ,Bedkot ,Nepal,State_7,Kanchanpur
+subDistrict,Belauri ,Belauri ,Nepal,State_7,Kanchanpur
+subDistrict,Beldandi ,Beldandi ,Nepal,State_7,Kanchanpur
+subDistrict,Bhimdatta ,Bhimdatta ,Nepal,State_7,Kanchanpur
+subDistrict,Krishnapur ,Krishnapur ,Nepal,State_7,Kanchanpur
+subDistrict,Laljhadi ,Laljhadi ,Nepal,State_7,Kanchanpur
+subDistrict,Mahakali ,Mahakali ,Nepal,State_7,Kanchanpur
+subDistrict,Punarbas ,Punarbas ,Nepal,State_7,Kanchanpur
+subDistrict,Shuklaphanta ,Shuklaphanta ,Nepal,State_7,Kanchanpur
+subDistrict,Banganga ,Banganga ,Nepal,State_5,Kapilbastu
+subDistrict,Bijayanagar ,Bijayanagar ,Nepal,State_5,Kapilbastu
+subDistrict,Buddhabhumi ,Buddhabhumi ,Nepal,State_5,Kapilbastu
+subDistrict,Kapilvastu ,Kapilvastu ,Nepal,State_5,Kapilbastu
+subDistrict,Krishnanagar ,Krishnanagar ,Nepal,State_5,Kapilbastu
+subDistrict,Maharajgunj ,Maharajgunj ,Nepal,State_5,Kapilbastu
+subDistrict,Mayadevi,Mayadevi,Nepal,State_5,Kapilbastu
+subDistrict,Shivaraj,Shivaraj,Nepal,State_5,Kapilbastu
+subDistrict,Sudhodhan ,Sudhodhan ,Nepal,State_5,Kapilbastu
+subDistrict,Yashodhara ,Yashodhara ,Nepal,State_5,Kapilbastu
+subDistrict,Aurahi ,Aurahi ,Nepal,State_2,Mahottari
+subDistrict,Balwa ,Balwa ,Nepal,State_2,Mahottari
+subDistrict,Bardibas ,Bardibas ,Nepal,State_2,Mahottari
+subDistrict,Bhangaha ,Bhangaha ,Nepal,State_2,Mahottari
+subDistrict,Ekdanra ,Ekdanra ,Nepal,State_2,Mahottari
+subDistrict,Gaushala ,Gaushala ,Nepal,State_2,Mahottari
+subDistrict,Jaleswor ,Jaleswor ,Nepal,State_2,Mahottari
+subDistrict,Loharpatti ,Loharpatti ,Nepal,State_2,Mahottari
+subDistrict,Mahottari ,Mahottari ,Nepal,State_2,Mahottari
+subDistrict,Manra Sisawa,Manra Sisawa,Nepal,State_2,Mahottari
+subDistrict,Matihani ,Matihani ,Nepal,State_2,Mahottari
+subDistrict,Pipra ,Pipra ,Nepal,State_2,Mahottari
+subDistrict,Ramgopalpur ,Ramgopalpur ,Nepal,State_2,Mahottari
+subDistrict,Samsi ,Samsi ,Nepal,State_2,Mahottari
+subDistrict,Sonama ,Sonama ,Nepal,State_2,Mahottari
+subDistrict,Belbari ,Belbari ,Nepal,State_1,Morang
+subDistrict,Biratnagar,Biratnagar,Nepal,State_1,Morang
+subDistrict,Budhiganga,Budhiganga,Nepal,State_1,Morang
+subDistrict,Dhanpalthan,Dhanpalthan,Nepal,State_1,Morang
+subDistrict,Gramthan ,Gramthan ,Nepal,State_1,Morang
+subDistrict,Jahada,Jahada,Nepal,State_1,Morang
+subDistrict,Kanepokhari ,Kanepokhari ,Nepal,State_1,Morang
+subDistrict,Katahari,Katahari,Nepal,State_1,Morang
+subDistrict,Kerabari,Kerabari,Nepal,State_1,Morang
+subDistrict,Letang,Letang,Nepal,State_1,Morang
+subDistrict,Milkajunga,Milkajunga,Nepal,State_1,Morang
+subDistrict,PathariShanishchare,Pathari Shanishchare,Nepal,State_1,Morang
+subDistrict,Rangeli ,Rangeli ,Nepal,State_1,Morang
+subDistrict,Ratuwamai,Ratuwamai,Nepal,State_1,Morang
+subDistrict,Sundarharaicha,Sundarharaicha,Nepal,State_1,Morang
+subDistrict,Sunwarshi,Sunwarshi,Nepal,State_1,Morang
+subDistrict,Uralabari,Uralabari,Nepal,State_1,Morang
+subDistrict,Bardaghat ,Bardaghat ,Nepal,State_5,Nawalparasi
+subDistrict,Binayee ,Binayee ,Nepal,State_5,Nawalparasi
+subDistrict,Bulingtar ,Bulingtar ,Nepal,State_5,Nawalparasi
+subDistrict,Bungdikali ,Bungdikali ,Nepal,State_5,Nawalparasi
+subDistrict,Devchuli,Devchuli,Nepal,State_5,Nawalparasi
+subDistrict,Gaidakot ,Gaidakot ,Nepal,State_5,Nawalparasi
+subDistrict,Hupsekot,Hupsekot,Nepal,State_5,Nawalparasi
+subDistrict,Kawasoti ,Kawasoti ,Nepal,State_5,Nawalparasi
+subDistrict,Madhyabindu ,Madhyabindu ,Nepal,State_5,Nawalparasi
+subDistrict,PalhiNandan ,Palhi Nandan ,Nepal,State_5,Nawalparasi
+subDistrict,Pratappur,Pratappur,Nepal,State_5,Nawalparasi
+subDistrict,Ramgram ,Ramgram ,Nepal,State_5,Nawalparasi
+subDistrict,Sarawal ,Sarawal ,Nepal,State_5,Nawalparasi
+subDistrict,Sunwal ,Sunwal ,Nepal,State_5,Nawalparasi
+subDistrict,Susta ,Susta ,Nepal,State_5,Nawalparasi
+subDistrict,Bahudaramai ,Bahudaramai ,Nepal,State_2,Parsa
+subDistrict,Bindabasini ,Bindabasini ,Nepal,State_2,Parsa
+subDistrict,Birgunj ,Birgunj ,Nepal,State_2,Parsa
+subDistrict,Chhipaharmai ,Chhipaharmai ,Nepal,State_2,Parsa
+subDistrict,Dhobini ,Dhobini ,Nepal,State_2,Parsa
+subDistrict,Jagarnathpur ,Jagarnathpur ,Nepal,State_2,Parsa
+subDistrict,JeeraBhawani,JeeraBhawani,Nepal,State_2,Parsa
+subDistrict,Kalikamai,Kalikamai,Nepal,State_2,Parsa
+subDistrict,Pakahamainpur ,Pakahamainpur ,Nepal,State_2,Parsa
+subDistrict,Parsagadhi ,Parsagadhi ,Nepal,State_2,Parsa
+subDistrict,Paterwasugauli ,Paterwasugauli ,Nepal,State_2,Parsa
+subDistrict,Pokhariya ,Pokhariya ,Nepal,State_2,Parsa
+subDistrict,Sakhuwaprasauni ,Sakhuwaprasauni ,Nepal,State_2,Parsa
+subDistrict,Thori,Thori,Nepal,State_2,Parsa
+subDistrict,Baudhimai ,Baudhimai ,Nepal,State_2,Rautahat
+subDistrict,Birndaban ,Birndaban ,Nepal,State_2,Rautahat
+subDistrict,Chandrapur ,Chandrapur ,Nepal,State_2,Rautahat
+subDistrict,DewahhiGonahi ,Dewahhi Gonahi ,Nepal,State_2,Rautahat
+subDistrict,DurgaBhagwati ,Durga Bhagwati ,Nepal,State_2,Rautahat
+subDistrict,Gadhimai ,Gadhimai ,Nepal,State_2,Rautahat
+subDistrict,Garuda ,Garuda ,Nepal,State_2,Rautahat
+subDistrict,Gaur ,Gaur ,Nepal,State_2,Rautahat
+subDistrict,Gujara ,Gujara ,Nepal,State_2,Rautahat
+subDistrict,Ishanath ,Ishanath ,Nepal,State_2,Rautahat
+subDistrict,Katahariya ,Katahariya ,Nepal,State_2,Rautahat
+subDistrict,MadhavNarayan ,Madhav Narayan ,Nepal,State_2,Rautahat
+subDistrict,Maulapur ,Maulapur ,Nepal,State_2,Rautahat
+subDistrict,Paroha ,Paroha ,Nepal,State_2,Rautahat
+subDistrict,PhatuwaBijayapur,Phatuwa Bijayapur,Nepal,State_2,Rautahat
+subDistrict,Rajdevi,Rajdevi,Nepal,State_2,Rautahat
+subDistrict,Rajpur,Rajpur,Nepal,State_2,Rautahat
+subDistrict,Yaminamai,Yaminamai,Nepal,State_2,Rautahat
+subDistrict,Butwal ,Butwal ,Nepal,State_5,Rupandehi
+subDistrict,Devdaha,Devdaha,Nepal,State_5,Rupandehi
+subDistrict,Gaidahawa ,Gaidahawa ,Nepal,State_5,Rupandehi
+subDistrict,Kanchan ,Kanchan ,Nepal,State_5,Rupandehi
+subDistrict,Kotahimai ,Kotahimai ,Nepal,State_5,Rupandehi
+subDistrict,LumbiniSanskritik ,Lumbini Sanskritik ,Nepal,State_5,Rupandehi
+subDistrict,Marchawari ,Marchawari ,Nepal,State_5,Rupandehi
+subDistrict,Mayadevi ,Mayadevi ,Nepal,State_5,Rupandehi
+subDistrict,Omsatiya ,Omsatiya ,Nepal,State_5,Rupandehi
+subDistrict,Rohini ,Rohini ,Nepal,State_5,Rupandehi
+subDistrict,Sainamaina,Sainamaina,Nepal,State_5,Rupandehi
+subDistrict,Sammarimai ,Sammarimai ,Nepal,State_5,Rupandehi
+subDistrict,Siddharthanagar ,Siddharthanagar ,Nepal,State_5,Rupandehi
+subDistrict,Siyari ,Siyari ,Nepal,State_5,Rupandehi
+subDistrict,Sudhdhodhan ,Sudhdhodhan ,Nepal,State_5,Rupandehi
+subDistrict,Tillotama,Tillotama,Nepal,State_5,Rupandehi
+subDistrict,AgrisayeerKrishnaSavaran ,Agrisayeer Krishna Savaran ,Nepal,State_2,Saptari
+subDistrict,Balan-Bihul ,Balan-Bihul ,Nepal,State_2,Saptari
+subDistrict,Belhi Chapena ,Belhi Chapena ,Nepal,State_2,Saptari
+subDistrict,Bishnupur ,Bishnupur ,Nepal,State_2,Saptari
+subDistrict,Bode Barsain ,Bode Barsain ,Nepal,State_2,Saptari
+subDistrict,Chhinnamasta ,Chhinnamasta ,Nepal,State_2,Saptari
+subDistrict,Dakneshwori ,Dakneshwori ,Nepal,State_2,Saptari
+subDistrict,HanumannagarKankalani ,Hanumannagar Kankalani ,Nepal,State_2,Saptari
+subDistrict,Kanchanrup ,Kanchanrup ,Nepal,State_2,Saptari
+subDistrict,Khadak ,Khadak ,Nepal,State_2,Saptari
+subDistrict,Mahadev ,Mahadev ,Nepal,State_2,Saptari
+subDistrict,Rajbiraj ,Rajbiraj ,Nepal,State_2,Saptari
+subDistrict,Rupani ,Rupani ,Nepal,State_2,Saptari
+subDistrict,Saptakoshi ,Saptakoshi ,Nepal,State_2,Saptari
+subDistrict,Shambhunath ,Shambhunath ,Nepal,State_2,Saptari
+subDistrict,Surunga ,Surunga ,Nepal,State_2,Saptari
+subDistrict,TilathiKoiladi ,Tilathi Koiladi ,Nepal,State_2,Saptari
+subDistrict,Tirahut ,Tirahut ,Nepal,State_2,Saptari
+subDistrict,Bagmati ,Bagmati ,Nepal,State_2,Sarlahi
+subDistrict,Balara ,Balara ,Nepal,State_2,Sarlahi
+subDistrict,Barahathawa ,Barahathawa ,Nepal,State_2,Sarlahi
+subDistrict,Basbariya,Basbariya,Nepal,State_2,Sarlahi
+subDistrict,Bishnu ,Bishnu ,Nepal,State_2,Sarlahi
+subDistrict,Bramhapuri ,Bramhapuri ,Nepal,State_2,Sarlahi
+subDistrict,Chakraghatta ,Chakraghatta ,Nepal,State_2,Sarlahi
+subDistrict,Chandranagar ,Chandranagar ,Nepal,State_2,Sarlahi
+subDistrict,Dhankaul ,Dhankaul ,Nepal,State_2,Sarlahi
+subDistrict,Gaudeta ,Gaudeta ,Nepal,State_2,Sarlahi
+subDistrict,Haripur ,Haripur ,Nepal,State_2,Sarlahi
+subDistrict,Haripurwa ,Haripurwa ,Nepal,State_2,Sarlahi
+subDistrict,Hariwan ,Hariwan ,Nepal,State_2,Sarlahi
+subDistrict,Ishworpur ,Ishworpur ,Nepal,State_2,Sarlahi
+subDistrict,Kabilasi ,Kabilasi ,Nepal,State_2,Sarlahi
+subDistrict,Kaudena,Kaudena,Nepal,State_2,Sarlahi
+subDistrict,Lalbandi ,Lalbandi ,Nepal,State_2,Sarlahi
+subDistrict,Malangawa ,Malangawa ,Nepal,State_2,Sarlahi
+subDistrict,Parsa,Parsa,Nepal,State_2,Sarlahi
+subDistrict,Ramnagar ,Ramnagar ,Nepal,State_2,Sarlahi
+subDistrict,Arnama ,Arnama ,Nepal,State_2,Siraha
+subDistrict,Aurahi ,Aurahi ,Nepal,State_2,Siraha
+subDistrict,Bariyarpatti ,Bariyarpatti ,Nepal,State_2,Siraha
+subDistrict,Bhagawanpur ,Bhagawanpur ,Nepal,State_2,Siraha
+subDistrict,Bishnupur ,Bishnupur ,Nepal,State_2,Siraha
+subDistrict,Dhangadhimai ,Dhangadhimai ,Nepal,State_2,Siraha
+subDistrict,Golbazar ,Golbazar ,Nepal,State_2,Siraha
+subDistrict,Kalyanpur ,Kalyanpur ,Nepal,State_2,Siraha
+subDistrict,Karjanhya ,Karjanhya ,Nepal,State_2,Siraha
+subDistrict,Lahan ,Lahan ,Nepal,State_2,Siraha
+subDistrict,LaxmipurPatari ,Laxmipur Patari ,Nepal,State_2,Siraha
+subDistrict,Mirchaiya ,Mirchaiya ,Nepal,State_2,Siraha
+subDistrict,Naraha ,Naraha ,Nepal,State_2,Siraha
+subDistrict,Nawarajpur ,Nawarajpur ,Nepal,State_2,Siraha
+subDistrict,Sakhuwanankarkatti,Sakhuwanan karkatti,Nepal,State_2,Siraha
+subDistrict,Siraha ,Siraha ,Nepal,State_2,Siraha
+subDistrict,Sukhipur ,Sukhipur ,Nepal,State_2,Siraha
+subDistrict,Barah ,Barah ,Nepal,State_1,Sunsari
+subDistrict,Barju ,Barju ,Nepal,State_1,Sunsari
+subDistrict,Bhokraha ,Bhokraha ,Nepal,State_1,Sunsari
+subDistrict,Dewanganj ,Dewanganj ,Nepal,State_1,Sunsari
+subDistrict,Dharan,Dharan,Nepal,State_1,Sunsari
+subDistrict,Duhabi ,Duhabi ,Nepal,State_1,Sunsari
+subDistrict,Gadhi ,Gadhi ,Nepal,State_1,Sunsari
+subDistrict,Harinagara ,Harinagara ,Nepal,State_1,Sunsari
+subDistrict,Inaruwa ,Inaruwa ,Nepal,State_1,Sunsari
+subDistrict,Itahari ,Itahari ,Nepal,State_1,Sunsari
+subDistrict,Koshi ,Koshi ,Nepal,State_1,Sunsari
+subDistrict,Ramdhuni ,Ramdhuni ,Nepal,State_1,Sunsari
